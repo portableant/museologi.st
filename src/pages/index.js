@@ -1,0 +1,45 @@
+import * as React from "react"
+import HomeLayout from "../components/homeLayout";
+import {Container, Row, Col} from "react-bootstrap";
+import {Link} from "gatsby";
+
+const contStyles = {
+    height: "60vh",
+    backgroundColor: "rgb(165, 230, 236)"
+}
+const headingStyles = {
+    marginTop: "20vh",
+    fontSize: "6rem",
+}
+const bgStyles = {
+    height: "60vh",
+    background: "url('https://live.staticflickr.com/3197/2402571617_f7fcc49137_h.jpg') no-repeat center top fixed"
+}
+const IndexPage = () => {
+    return (
+        <HomeLayout>
+            <Container fluid={true} className="p-5 justify-content-center align-items-center" style={contStyles}>
+                <Row>
+                    <Col className="text-center" style={headingStyles}>
+                        <p>Museologi.st</p>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col className="text-center">
+                        <ul className="list-inline">
+                            <li className="list-inline-item mx-4"><Link to={'/projects'} className="text-dark">Projects</Link></li>
+                            <li className="list-inline-item mx-4"><Link to={'/blog'} className="text-dark">Blog</Link></li>
+                            <li className="list-inline-item mx-4"><Link to={'/photogrammetry'} className="text-dark">3D scanning</Link></li>
+                        </ul>
+                    </Col>
+                </Row>
+            </Container>
+            <Container fluid style={bgStyles}>
+            </Container>
+        </HomeLayout>
+    )
+}
+
+export default IndexPage
+
+export const Head = () => <title>Daniel Pett - Museologi.st</title>

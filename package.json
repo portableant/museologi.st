@@ -1,0 +1,55 @@
+{
+  "name": "museologi.st",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Gatsby powered website for Daniel Pett",
+  "author": "Daniel Pett",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "dependencies": {
+    "@fontsource/public-sans": "^4.5.10",
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@mdx-js/react": "^2.1.5",
+    "@popperjs/core": "^2.11.6",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.2",
+    "gatsby": "^4.24.4",
+    "gatsby-plugin-google-analytics": "^4.24.0",
+    "gatsby-plugin-image": "^2.24.0",
+    "gatsby-plugin-manifest": "^4.24.0",
+    "gatsby-plugin-mdx": "^4.3.0",
+    "gatsby-plugin-sharp": "^4.24.0",
+    "gatsby-plugin-sitemap": "^5.24.0",
+    "gatsby-remark-classes": "^1.0.2",
+    "gatsby-remark-emoji": "^0.0.3",
+    "gatsby-remark-images": "^6.24.0",
+    "gatsby-remark-images-remote": "^2.1.1",
+    "gatsby-remark-mermaid": "^2.1.0",
+    "gatsby-source-filesystem": "^4.24.0",
+    "gatsby-transformer-remark": "^5.24.0",
+    "gatsby-transformer-sharp": "^4.24.0",
+    "plyr": "^3.7.2",
+    "plyr-react": "^5.1.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0",
+    "typeface-sorts-mill-goudy": "^1.1.13"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}

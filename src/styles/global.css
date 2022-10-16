@@ -1,0 +1,81 @@
+.stretched-link__blog_post {
+    color: #fff;
+}
+.breadcrumb__list {
+    font-size: 1.2rem;
+}
+body {
+    font-family: "public-sans", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    background: white;
+}
+.post-body h2, h3, h4 {
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+.navbar-brand a, .navbar-brand a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+.navbar-brand a:hover {
+    color: lightslategray;
+}
+
+.post-body a {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    z-index: 1;
+}
+
+.post-body a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: .07em;
+    height: .1em;
+    width: 100%;
+    background: linear-gradient(110deg, #e1f549, #29d0be, #6cb8ea, #ff5959);
+    z-index: -1;
+    transition: height .25s cubic-bezier(.6,0,.4,1);
+}
+
+.post-body  a:hover::after {
+    height: .2em;
+}
+
+blockquote {
+    font-family: "Sorts Mill Goudy", serif;
+    color: cadetblue;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-style: italic;
+}
+header {
+    background: "rebeccapurple";
+    marginBottom: "2rem";
+}
+
+figcaption {
+    text-align: center;
+    font-weight: bold;
+    color: #120d1a;
+    padding-top: 10px;
+    font-size: 1.2rem;
+}
+.bg-pastel {
+    background: #9cc2cb24;
+    padding: 1rem;
+}
+.carousel-caption h3 {
+    color: white;
+    background: black;
+
+    padding: 10px;
+}
+.post-body li {
+    list-style: square;
+}
