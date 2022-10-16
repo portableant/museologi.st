@@ -9,7 +9,6 @@ const contStyles = {
 }
 const headingStyles = {
     marginTop: "20vh",
-    fontSize: "6rem",
 }
 const bgStyles = {
     height: "60vh",
@@ -21,7 +20,7 @@ const IndexPage = () => {
             <Container fluid={true} className="p-5 justify-content-center align-items-center" style={contStyles}>
                 <Row>
                     <Col className="text-center" style={headingStyles}>
-                        <p>Museologi.st</p>
+                        <p className="display-1">Museologi.st</p>
                     </Col>
                 </Row>
                 <Row>

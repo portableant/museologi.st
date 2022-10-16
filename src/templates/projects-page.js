@@ -45,7 +45,7 @@ export default function ProjectsPageTemplate({data: {markdownRemark}}) {
                     <Row>
                         {frontmatter.tags && <Col md={12} className="px-4 mb-2">
                             {frontmatter.tags.map((item, i) => (
-                                <Badge className="bg-dark mx-2 p-2" key={i}>
+                                <Badge className="bg-dark mx-1 my-1 p-2" key={i}>
                                     {item}
                                 </Badge>
                             ))}

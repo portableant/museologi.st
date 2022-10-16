@@ -36,19 +36,19 @@ const Footer = () => {
                     </Col>
                     <Col md={6}>
                         <a href="https://www.facebook.com/danielpett/" aria-label="My facebook profile"
-                           className="text-white mx-3"><FontAwesomeIcon icon={faFacebook} size="2x"/></a>
-                        <a href="https://www.instagram.com/danielejpett/" className="text-white mx-3"
+                           className="text-white mx-2 my-1"><FontAwesomeIcon icon={faFacebook} size="2x"/></a>
+                        <a href="https://www.instagram.com/danielejpett/" className="text-white mx-2 my-1"
                            aria-label="My Instagram profile"><FontAwesomeIcon icon={faInstagram} size="2x"/></a>
-                        <a href="https://twitter.com/dejpett" className="text-white mx-3"
+                        <a href="https://twitter.com/dejpett" className="text-white mx-2 my-1"
                            aria-label="My twitter profile"><FontAwesomeIcon
                             icon={faTwitter} size="2x"/></a>
-                        <a href="https://github.com/portableant" className="text-white mx-3"
+                        <a href="https://github.com/portableant" className="text-white mx-2 my-1"
                            aria-label="My GitHub account profile"><FontAwesomeIcon icon={faGithub} size="2x"/></a>
-                        <a href="https://linkedin.com/danielpett" className="text-white mx-3"
+                        <a href="https://linkedin.com/danielpett" className="text-white mx-2 my-1"
                            aria-label="My Linkedin account profile"><FontAwesomeIcon icon={faLinkedin}
                                                                                      size="2x"/></a>
                         <a href="https://scholar.google.com/citations?user=39kTD8YAAAAJ&hl=en"
-                           className="text-white mx-3"
+                           className="text-white mx-2 my-1"
                            aria-label="My Google Scholar account profile"><FontAwesomeIcon icon={faGoogle}
                                                                                            size="2x"/></a>
                     </Col>
