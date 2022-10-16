@@ -33,7 +33,7 @@ const FairData = ({zenodo_doi, github_repo, project_website, deposited_archive})
                 {github_repo && <span>
                     {github_repo.map((item, i) => (
                         <li key={i}>
-                            <a href={item}>{item}</a>
+                            <a href={item}>Github Repository</a>
                         </li>
                     ))}
                     </span>
