@@ -41,7 +41,8 @@ role: Co-Investigator
 status: active
 slug: /projects/micropasts-crowd-powered
 github_repo: 
-  - https://github.com/micropasts
+  - url: https://github.com/micropasts
+    name: Github profile
 tags:
   - Citizen Science
   - 3D 

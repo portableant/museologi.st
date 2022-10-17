@@ -8,7 +8,7 @@ section: image
 slug: /photographs/indy-in-fao-schwartz/
 geo_lat: 40.70208132
 geo_lon: -74.01298565
-categories:
+tags:
   - Meandering
 ---
 

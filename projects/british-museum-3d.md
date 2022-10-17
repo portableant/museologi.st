@@ -32,7 +32,8 @@ tags:
    - MicroPasts
    - 3d printing
 github_repo: 
-     - https://github.com/britishmuseumdh
+     - url: https://github.com/britishmuseumdh
+       name: Main British Museum Digital Humanities Github profile
 role: Project Lead
 images:
  - image: ../images/2017/DifjFeuWsAACQW3.jpg

@@ -8,8 +8,9 @@ slug: /projects/feast-and-fast
 featuredImg: ../images/2020/03/baroque.jpg
 background: ../images/2019/baroque.jpg  
 role: Website development, Coordinate digital content in creative zone.
-GitHub_repo: 
-  - https://github.com/FitzwilliamMuseum/feast-and-fast
+gitHub_repo: 
+  - url: https://github.com/FitzwilliamMuseum/feast-and-fast
+    name: Website source code
 zenodo_doi: 10.5281/zenodo.6459621
 collaborators:
   - Vicky Avery
@@ -55,16 +56,16 @@ audio:
   author: Abi Glen
   project: MIAB - Feast and Fast
 images:
-- caption: "Ivan Day's magical creations"
-  image: ../images/2019/IMG_20191125_162422.jpg
-- caption: "Feast and Fast being installed"
-  image: ../images/2019/IMG_20191125_145106.jpg
-- caption: "The 3 boxes installed in the exhibition space"
-  image: ../images/2019/IMG_20200203_161803.jpg
-- caption: "The 3 boxes installed in the exhibition space"
-  image: ../images/2019/IMG_20200203_161749.jpg
-- caption: "The creative zone in the exhibition space"
-  image: ../images/2019/IMG_20191202_115723.jpg
+  - caption: "Ivan Day's magical creations"
+    image: ../images/2019/IMG_20191125_162422.jpg
+  - caption: "Feast and Fast being installed"
+    image: ../images/2019/IMG_20191125_145106.jpg
+  - caption: "The 3 boxes installed in the exhibition space"
+    image: ../images/2019/IMG_20200203_161803.jpg
+  - caption: "The 3 boxes installed in the exhibition space"
+    image: ../images/2019/IMG_20200203_161749.jpg
+  - caption: "The creative zone in the exhibition space"
+    image: ../images/2019/IMG_20191202_115723.jpg
 ---
 
 The Feast and Fast exhibition presented one of my first digital challenges and interesting problems

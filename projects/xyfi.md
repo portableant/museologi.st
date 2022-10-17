@@ -32,7 +32,8 @@ collaborators:
 partners:
   - Google Creative Lab
 github_repo: 
-  - https://github.com/googlecreativelab/xyfi
+  - url: https://github.com/googlecreativelab/xyfi
+    name: XYFI code 
 date: 2019-10-29T22:51:56+01:00
 slug: /projects/xyfi
 project_website: https://github.com/googlecreativelab/xyfi

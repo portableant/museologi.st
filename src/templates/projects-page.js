@@ -10,11 +10,14 @@ import Funding from "../components/elements/funding";
 import Documents from "../components/elements/documents";
 import Vimeo from "../components/elements/vimeo";
 import SlideShow from "../components/elements/slide-show";
+import HeaderImage from "../components/elements/headerImage";
 
 export default function ProjectsPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, html} = markdownRemark;
     return (
         <Layout>
+            <HeaderImage backgroundImage={frontmatter.background}/>
+
             <Container>
                 <Row className="post-body">
                     <div className="px-4">
@@ -111,7 +114,10 @@ export const pageQuery = graphql`
                 slug
                 vimeo
                 zenodo_doi
-                github_repo
+                github_repo {
+                    url
+                    name
+                }
                 type
                 grant_number
                 grant_amount

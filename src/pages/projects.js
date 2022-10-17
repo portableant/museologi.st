@@ -32,11 +32,26 @@ export const pageQuery = graphql`
                 node {
                     id
                     frontmatter {
-                        github_repo
+                        github_repo{
+                            name
+                            url
+                        }
                         date(formatString: "MMMM DD, YYYY")
                         slug
                         title
                         institution
+                        background{
+                            childImageSharp {
+                                gatsbyImageData(
+                                    placeholder: BLURRED
+                                    height: 600
+                                    formats: [WEBP]
+                                    width: 1200
+                                    quality: 90
+                                    transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+                                )
+                            }
+                        }
                         featuredImg {
                             childImageSharp {
                                 id

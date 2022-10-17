@@ -19,7 +19,8 @@ collaborators:
  - George Doji
  - Olivia Warren
 github_repo: 
- - https://github.com/FitzwilliamMuseum/fitz-jeykll-template
+ - url: https://github.com/FitzwilliamMuseum/fitz-jeykll-template
+   name: Template Jekyll code
 ---
 Upon joining the Fitzwilliam Museum, I realised how much digital legacy I had inherited as head of department. 
 Over 100 websites of various complexity, built on various out of date systems such as Drupal 7, old PHP code, static 

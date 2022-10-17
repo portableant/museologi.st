@@ -28,9 +28,12 @@ background: ../images/2022/unlocking.jpg
 featuredImg: ../images/2022/unlocking.jpg
 date: 2022-07-01T22:51:56+01:00
 github_repo:
-  - https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures
-  - https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures-iiif-generator
-  - https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures-mirador
+  - url: https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures
+    name: Main site source code
+  - url: https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures-iiif-generator
+    name: IIIF generator code
+  - url: https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures-mirador
+    name: Mirador plugins
 ---
 
 ## What was this project about?

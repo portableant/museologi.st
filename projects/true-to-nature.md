@@ -8,7 +8,8 @@ slug: /projects/true-to-nature
 featuredImg: ../images/2022/PD_222_1961.jpg
 background: ../images/2022/large_pd_11_1997_201701_adn21_dc2.jpg
 github_repo: 
-  - https://github.com/fitzwilliamMuseum/peripleo
+  - url: https://github.com/fitzwilliamMuseum/peripleo
+    name: Peripleo map
 tags:
   - Digital
   - Fitzwilliam
@@ -28,4 +29,8 @@ To do this, I created:
 4. A [Peripleo map](https://peripleo.fitzmuseum.cam.ac.uk/#/?/?/?/mode=points) of the exhibition's locations depicted 
 5. A set of viewpoint discussion pieces
 
-All very simple and driven off the Directus CMS. 
+All very simple and driven off the Directus CMS.
+
+<div class="ratio ratio-1x1">
+<iframe src="https://peripleo.fitzmuseum.cam.ac.uk/#/?/?/?/mode=points" title="Mapping True to Nature" allowfullscreen="true"></iframe>
+</div>

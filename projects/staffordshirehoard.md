@@ -21,7 +21,8 @@ slug: /projects/the-staffordshire-hoard
 status: inactive
 date: 2009-10-29T22:51:56+01:00
 github_repo: 
-  - https://github.com/portableant/staffordshire-hoard
+  - url: https://github.com/portableant/staffordshire-hoard
+    name: Scraped code from textpattern
 project_website: https://web.archive.org/web/20091215063149/http://www.staffordshirehoard.org.uk/
 images: 
   - 

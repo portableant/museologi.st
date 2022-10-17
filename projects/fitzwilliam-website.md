@@ -11,10 +11,14 @@ start: 2019-09-21
 end: 2019-10-07
 status: active
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/fitz-main-website
-  - https://github.com/FitzwilliamMuseum/fitz-collection-online
-  - https://github.com/FitzwilliamMuseum/fitz-twitter-art-bot
-  - https://github.com/FitzwilliamMuseum/fitz-collection-raw-data
+  - url: https://github.com/FitzwilliamMuseum/fitz-main-website
+    name: Website source code
+  - url: https://github.com/FitzwilliamMuseum/fitz-collection-online
+    name: Collection Online source code
+  - url: https://github.com/FitzwilliamMuseum/fitz-twitter-art-bot
+    name: Twitter Art Bot source code
+  - url: https://github.com/FitzwilliamMuseum/fitz-collection-raw-data
+    name: Collection Raw Data source code
 zenodo_doi: 10.5281/zenodo.6507793
 documents: 
   - location: /ux.pdf
@@ -29,6 +33,12 @@ documents:
   - location: /oneFurtherTreeJack.pdf
     title: One Further Treejack report
     type: pdf
+tags:
+  - Bootstrap
+  - Laravel
+  - Web Dev
+  - Museums
+  - UX
 ---
 
 The Fitzwilliam Museum website that I inherited on arrival was a curate's egg of a product. Great in places 

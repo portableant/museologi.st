@@ -1,3 +1,5 @@
+const siteUrl = process.env.URL || `https://www.museologi.st`
+
 module.exports = {
     siteMetadata: {
         title: `Museologi.st`,
@@ -36,7 +38,35 @@ module.exports = {
         }
     },
         "gatsby-plugin-image",
-        "gatsby-plugin-sitemap",
+        {
+            resolve: "gatsby-plugin-sitemap",
+            options: {
+                query: `
+        {
+          allSitePage {
+            nodes {
+              path
+            }
+          }
+         
+        }
+      `,
+                resolveSiteUrl: () => siteUrl,
+                resolvePages: ({
+                                   allSitePage: {nodes: allPages},
+                               }) => {
+
+                    return allPages.map(page => {
+                        return {...page}
+                    })
+                },
+                serialize: ({path}) => {
+                    return {
+                        url: path,
+                    }
+                },
+            },
+        },
         "gatsby-transformer-sharp",
         "gatsby-plugin-sharp",
         "gatsby-plugin-mdx",

@@ -32,6 +32,10 @@ publications:
   - Watrall, E. (2019). Building Scholars and Communities of Practice in Digital Heritage and Archaeology. Advances in Archaeological Practice, 7(2), 140-151. doi:10.1017/aap.2019.1
   - "Watrall, E. & Goldstein, L. (eds) (2022) Digital Heritage and Archaeology in Practice: Data, Ethics, and Professionalism" 
   - "Watrall, E. & Goldstein, L. (eds) (2022) Digital Heritage and Archaeology in Practice: Presentation, Teaching, and Engagement"
+tags:
+  - NEH
+  - USA
+  - Collaboration
 ---
 This project was one of the most influential experiences on my career - a National Endowment for the Humanities (NEH) funded Institute led by Ethan Watrall and Lynne Goldstein. 
 It influenced so much of what I do now, it made me friends for life and if it could be done again, I would drop everything to go.

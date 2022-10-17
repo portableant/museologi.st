@@ -28,7 +28,8 @@ partners:
   - ThinkSee3D
 slug: /projects/egyptian-coffins-project
 github_repo: 
-  - https://github.com/fitzwilliammuseum/egyptiancoffins
+  - url: https://github.com/fitzwilliammuseum/egyptiancoffins
+    name: Source code for the website
 zenodo_doi: 10.5281/zenodo.2598492
 status: active
 date: 2019-10-29T22:51:56+01:00
@@ -64,7 +65,9 @@ As part of my collaboration on this project, I taught the team how to generate a
 
 This online resource presents the complete results of this research as it unfolds, commencing with the coffins of the 25th Dynasty ‘water pourer on the west of Thebes’, Pakepu, and the 21st Dynasty coffin set of Nespawershefyt. This includes full transliterations and translations of the hieroglyphic text, descriptions of the iconography, raw and interpreted results of the scientific analysis, including pigment analysis and wood identification, results of advanced imaging techniques such as CT scans, X-radiography and scanning electron microscopy, and some historical and social commentary on the significance of our findings in the context of ancient Egyptian attitudes to funerary beliefs, the economy and death and the afterlife. The website also contains some special behind-the-scenes footage and insight into what it is like working both internationally and collaboratively.
 
-<div class="ratio-16x9 ratio my-2" "><iframe src="https://player.vimeo.com/video/307004713?h=30f9a0c370&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="ratio-16x9 ratio my-2">
+    <iframe src="https://player.vimeo.com/video/307004713?h=30f9a0c370&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js">
+</script>
 
 ### AHRC collaboration 
 

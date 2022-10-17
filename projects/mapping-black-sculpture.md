@@ -7,7 +7,7 @@ institution: The Fitzwilliam Museum
 featuredImg: ../images/2022/09/81054a89307570df8d056cae72911e95043b8344.jpg
 background: ../images/2022/09/IMG_20191219_114201.jpg
 tags:
-- Omeka S
+  - Omeka S
   - Decolonisation
   - Museums
   - Prototype
@@ -15,7 +15,7 @@ tags:
   - Schemas
 collaborators:
   - Vicky Avery
-  - Dawnanna Kreger
+  - Dawnanna Kreeger
 ---
 
 Towards the end of my time working at the Museum, a small database project came up for one of 

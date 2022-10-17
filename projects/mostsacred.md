@@ -25,7 +25,14 @@ background: ../images/projects/hayley/despot.jpg
 featuredImg: ../images/projects/Hayley-mezzotint-after-Romney.jpg
 date: 2019-10-29T22:51:56+01:00
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/amor-fitz-frontend
+  - url: https://github.com/FitzwilliamMuseum/amor-fitz-frontend
+    name: AMOR Frontend
+  - url: https://github.com/FitzwilliamMuseum/chrg-hayley-letters
+    name: Static pages source code
+  - url: https://github.com/FitzwilliamMuseum/hayleys-letters-micropasts
+    name: MicroPasts source code for transcription app
+  - url: https://github.com/FitzwilliamMuseum/fitz-hayley
+    name: StoryBook source code for patterns
 zenodo_doi: 10.5281/zenodo.6468846
 documents: 
   - title: "CHRG Most Sacred Things Final Report"

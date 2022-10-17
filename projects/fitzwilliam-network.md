@@ -9,18 +9,18 @@ background: ../images/gbn.jpg
 role: Museum project leader
 status: active
 tags:
-    - TCP/IP
-    - Networks
-    - WAN/LAN
-    - Museums
-    - Cisco
-    - Information services
-    - Gigabit 
-    - GBN/CUDN
+  - TCP/IP
+  - Networks
+  - WAN/LAN
+  - Museums
+  - Cisco
+  - Information services
+  - Gigabit 
+  - GBN/CUDN
 collaborators:
-    - Michael Warren 
-    - Rob Howard
-    - Steve Handley
+  - Michael Warren 
+  - Rob Howard
+  - Steve Handley
 ---
 When I joined the Fitzwilliam Museum in 2018, I inherited a network that had been needing an upgrade 
 since 2012. The Museum had an aging and insecure networking arrangement, with creaking hardware that broke down 

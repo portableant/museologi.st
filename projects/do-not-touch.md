@@ -6,7 +6,8 @@ institution: The Fitzwilliam Museum
 featuredImg: ../images/projects/touch.jpg
 background: ../images/2019/IMG_20181203_114202.jpg
 github_repo:
-  - https://github.com/FitzwilliamMuseum/fitz-do-not-touch
+  - url: https://github.com/FitzwilliamMuseum/fitz-do-not-touch
+    name: Source code for the website
 funders:
   - Cambridge University Industry Pump Priming Fund
 grant_amount: £18,000

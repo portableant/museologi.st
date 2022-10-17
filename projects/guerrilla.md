@@ -10,12 +10,12 @@ date: 2019-10-29T22:51:56+01:00
 project_website: https://sketchfab.com/danielpett
 institution: Personal project
 news: 
-    - title: Insight into creating digital 3D models
-      medium: "NMA Blogpost"
-      url: https://www.nma.gov.au/explore/blog/digital-3d-models
-    - title: "3D scanning at the National Museum of Australia"
-      medium: Metodhology Blogpost by Nathan Fair 
-      url: https://metodhology.anu.edu.au/index.php/content/3dmodelling/
+  - title: Insight into creating digital 3D models
+    medium: "NMA Blogpost"
+    url: https://www.nma.gov.au/explore/blog/digital-3d-models
+  - title: "3D scanning at the National Museum of Australia"
+    medium: Metodhology Blogpost by Nathan Fair 
+    url: https://metodhology.anu.edu.au/index.php/content/3dmodelling/
 ---
 Since my enlightenment into the world of 3D imaging in 2013, following a seminar by Graeme Earl and his 
 Southampton colleagues and the beginning of the MicroPasts project, I have been creating 

@@ -21,6 +21,12 @@ background: ../images/backgrounds/mozfest.jpg
 date: 2019-10-29T22:51:56+01:00
 project_website: https://www.mozillafestival.org/en/
 institution: Mozilla
+tags: 
+  - Mozilla
+  - Festival
+  - Open source
+  - Arts and Culture
+  - Collaboration
 ---
 Over the last few years I've attended Mozfest at the brilliant Ravensbourne University in Greenwich (next to the Millenium Dome), first attending 
 in 2017 at the suggestion of Prof Andrew Prescott, who thought it would be a fab place to meet people 

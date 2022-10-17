@@ -7,33 +7,33 @@ background: ../images/2020/cupid.jpg
 slug: /projects/ways-of-seeing
 section: projects
 documents: 
-    - location: /waysofseeing.apk
-      title: "Android APK for the application (reformatted for new Vuforia license by Daniel Pett)"
-      type: "application/vnd.android.package-archive"
+  - location: /waysofseeing.apk
+    title: "Android APK for the application (reformatted for new Vuforia license by Daniel Pett)"
+    type: "application/vnd.android.package-archive"
 publications:
-    - Cooper, D. & Noble, K. (2020) "Schoolchildren, science and smartphones shine new light on a Florentine masterpiece" Apollo (online publication only April 2020)
+  - Cooper, D. & Noble, K. (2020) "Schoolchildren, science and smartphones shine new light on a Florentine masterpiece" Apollo (online publication only April 2020)
 collaborators:
-    - Donal Cooper
-    - Kate Noble 
-    - Jo Vine
-    - Giovanni Pescarmona
-    - Vicky Sutcliffe
-    - Paola Ricciardi
-    - Rosanna Evans
-    - Elsbeth Geldhof
+  - Donal Cooper
+  - Kate Noble 
+  - Jo Vine
+  - Giovanni Pescarmona
+  - Vicky Sutcliffe
+  - Paola Ricciardi
+  - Rosanna Evans
+  - Elsbeth Geldhof
 images:
-    - image: ../images/2020/02/splashScreen.jpg
-      caption: "Splash screen for the application"
-    - image: ../images/2020/02/page1.jpg
-      caption: "Page 1 of the application"
-    - image: ../images/2020/02/page2.jpg
-      caption: "Page 2 of the application"
-    - image: ../images/2020/02/page3.jpg
-      caption: "Page 3 of the application"
-    - image: ../images/2020/02/page4.jpg
-      caption: "Page 4 of the application"
-    - image: ../images/2020/02/page5.jpg
-      caption: "Page 5 of the application"
+  - image: ../images/2020/02/splashScreen.jpg
+    caption: "Splash screen for the application"
+  - image: ../images/2020/02/page1.jpg
+    caption: "Page 1 of the application"
+  - image: ../images/2020/02/page2.jpg
+    caption: "Page 2 of the application"
+  - image: ../images/2020/02/page3.jpg
+    caption: "Page 3 of the application"
+  - image: ../images/2020/02/page4.jpg
+    caption: "Page 4 of the application"
+  - image: ../images/2020/02/page5.jpg
+    caption: "Page 5 of the application"
 ---
 This project was an Augmented Reality intervention to accompany the Inspire 2020 exhibition 
 held in the Octagon gallery of the Fitzwilliam Museum. 

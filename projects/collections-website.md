@@ -10,11 +10,16 @@ background: ../images/large_PD_8_1979_1_201709.jpg
 role: Project Lead
 status: active
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/fitz-collection-online
-  - https://github.com/FitzwilliamMuseum/fitz-twitter-art-bot
-  - https://github.com/FitzwilliamMuseum/fitz-wp-collection-beta
-  - https://github.com/FitzwilliamMuseum/fitz-collection-raw-data
-  - https://github.com/FitzwilliamMuseum/fitz-browser-extension
+  - url: https://github.com/FitzwilliamMuseum/fitz-collection-online
+    name: Source code for the website and API
+  - url: https://github.com/FitzwilliamMuseum/fitz-twitter-art-bot
+    name: Twitter Art Bot source code
+  - url: https://github.com/FitzwilliamMuseum/fitz-wp-collection-beta
+    name: Wordpress plugin for the collection
+  - url: https://github.com/FitzwilliamMuseum/fitz-collection-raw-data
+    name: Raw data for the collection
+  - url: https://github.com/FitzwilliamMuseum/fitz-browser-extension
+    name: Browser extension for the collection
 zenodo_doi: 10.5281/zenodo.6507793
 tags:
     - Laravel

@@ -24,7 +24,8 @@ partners:
   - ThinkSee3D
   - Museum in a Box
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows
+  - url: https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows
+    name: Website source code
 start: 2019-01-01
 end: 2019-12-31
 date: 2019-10-29T22:51:56+01:00

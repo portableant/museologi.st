@@ -30,7 +30,10 @@ export const pageQuery = graphql`
                 node {
                     id
                     frontmatter {
-                        github_repo
+                        github_repo{
+                            name
+                            url
+                        }
                         date(formatString: "MMMM DD, YYYY")
                         slug
                         title

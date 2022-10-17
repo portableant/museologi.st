@@ -9,19 +9,20 @@ featuredImg: ../images/2021/706_201306_adn21_dc2.jpg
 background: ../images/2021/tht_202012_03_mfj22_mas-1-.jpg
 status: active
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/the-human-touch
+  - url: https://github.com/FitzwilliamMuseum/the-human-touch
+    name: The Human Touch website code
 role: Developer
 collaborators:
   - Elenor Ling
   - Ayomi Oni
   - Suzanne Reynolds
 tags:
-    - Museums
-    - Creative Economy
-    - Gatsby
-    - React
-    - GraphQL
-    - Directus
+  - Museums
+  - Creative Economy
+  - Gatsby
+  - React
+  - GraphQL
+  - Directus
 ---
 As with most digital things at the Fitzwilliam, the digital elements for the Human Touch were 
 sprung on the team shortly before opening (the museum's planning forms had not specified any digital 

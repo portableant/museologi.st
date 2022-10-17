@@ -20,7 +20,8 @@ date: 2019-10-30T08:51:56+01:00
 slug: /projects/crm-and-ticketing
 project_website: https://tickets.museums.cam.ac.uk
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/tessitura-fitz
+  - url: https://github.com/FitzwilliamMuseum/tessitura-fitz
+    name: Tessitura Fitz Jekyll front end
 collaborators:
   - Nicola Blackburn 
   - Claire Zammit

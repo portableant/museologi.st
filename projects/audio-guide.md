@@ -11,7 +11,9 @@ start: 2015-09-21
 end: 2015-10-07
 status: active
 github_repo: 
-    - https://github.com/portableant/multimediaApi
+  - 
+    url: https://github.com/portableant/multimediaApi
+    name: Source code for the API
 zenodo_doi: 10.5281/zenodo.35098
 documents:
     - title: "Multimedia Guide User Analysis by Casey Scott Songin"

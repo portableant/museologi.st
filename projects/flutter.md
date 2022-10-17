@@ -2,7 +2,8 @@
 title: "Experiments with Flutter mobile app development"
 institution: Fitzwilliam Museum
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/fitz-flutter-app
+  - url: https://github.com/FitzwilliamMuseum/fitz-flutter-app
+    name: Flutter App source code
 date: 2022-03-29T22:51:56+01:00
 zenodo_doi: 10.5281/zenodo.6471508
 slug: /projects/flutter-app-development

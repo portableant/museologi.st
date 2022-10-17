@@ -2,11 +2,12 @@ import {graphql} from "gatsby";
 import * as React from "react";
 import Layout  from "../components/layout";
 import {Container, Row} from "react-bootstrap";
-
+import HeaderImage from "../components/elements/headerImage";
 export default function BlogPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, html} = markdownRemark;
     return (
         <Layout>
+            <HeaderImage backgroundImage={frontmatter.background}/>
             <Container>
                 <Row>
             <div className="px-4">
@@ -33,6 +34,18 @@ export const pageQuery = graphql`
                 title
                 section
                 tags
+                background{
+                    childImageSharp {
+                        gatsbyImageData(
+                            placeholder: BLURRED
+                            height: 600
+                            formats: [WEBP]
+                            width: 1200
+                            quality: 90
+                            transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+                        )
+                    }
+                }
             }
         }
     }

@@ -25,7 +25,8 @@ collaborators:
   - Rosie Forrest
   - Ayshea Carter
 github_repo: 
-    - https://github.com/FitzwilliamMuseum/beyond-the-label
+    - url: https://github.com/FitzwilliamMuseum/beyond-the-label
+      name: Website source code
 zenodo_doi: 10.5281/zenodo.3476037
 images:
   - image: ../images/2019/10/IMG_20191008_094547-2.jpg

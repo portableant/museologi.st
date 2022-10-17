@@ -23,7 +23,8 @@ background: ../images/2022/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.j
 featuredImg: ../images/2022/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.jpg
 date: 2022-06-01T22:51:56+01:00
 github_repo: 
-  - https://github.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh
+  - url: https://github.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh
+    name: Jekyll website
 zenodo_doi: 10.5281/zenodo.6563311
 tags:
   - Landscape

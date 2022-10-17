@@ -29,8 +29,10 @@ partners:
   - Council for British Archaeology
   - The Archaeology Data Service
 github_repo: 
-  - https://github.com/portableant/dayofarchaeology-1
-  - https://github.com/benmarwick/dayofarchaeology
+  - url: https://github.com/portableant/dayofarchaeology-1
+    name: Day of Archaeology website archive
+  - url: https://github.com/benmarwick/dayofarchaeology
+    name: Ben Marwick's distant reading project
 deposited_archive:
     - 
       url: https://archaeologydataservice.ac.uk/archives/view/dayofarch_nearch_2018/

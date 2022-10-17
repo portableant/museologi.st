@@ -23,7 +23,8 @@ collaborators:
    - DCMS
    - "Museum, Libraries and Archives Council"
 github_repo:
-   - https://github.com/portableant/anglo-saxon-village
+   - url: https://github.com/portableant/anglo-saxon-village
+     name: Source code for the Anglo-Saxon Village
 ---
 
 >  The sun is setting on the village of West Mucking. Around you, animal noises mingle with voices. Hens are clucking, pigs are snuffling, and further away you can hear sheep bleating. The villagers are finishing their work for the day; they call to each other as they pass you, coming back from the fields or woodland, carrying their tools. You can smell the smoke from hearths in the houses, and also the piles of rubbish! From one of the houses comes laughter... Use mock archaeological methods to uncover the village.

@@ -31,7 +31,12 @@ status: active
 background: ../images/backgrounds/3040949218_e8ba0e87b2_k.jpg
 project_website: https://finds.org.uk
 github_repo: 
-  - https://github.com/findsorguk/findsorguk
+  - url: https://github.com/findsorguk/findsorguk
+    name: Finds.org.uk source code
+  - url: https://github.com/findsorguk
+    name: Github Organisation profile
+  - url: https://github.com/findsorguk/findsorguk-geodata
+    name: Geodata split out to json
 zenodo_doi: 10.5281/zenodo.56497
 publications:
   - "Pett, D.E.J. (2018) The Treasure Act and Portable Antiquities Scheme in England and Wales in Key Concepts in Public Archaeology (Moshenska, G. Ed) DOI: 10.2307/j.ctt1vxm8r7.12"

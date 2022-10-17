@@ -9,22 +9,24 @@ slug: /projects/african-rock-art
 featuredImg: ../images/2018/rockart.jpg
 background: ../images/2017/rockart.jpg
 github_repo: 
-  - https://github.com/kingsdigitallab/african-rock-art/
+  - 
+    url: https://github.com/kingsdigitallab/african-rock-art/
+    name: Source code for the website
 collaborators:
-- Lisa Galvin (British Museum)
-- Jennifer Wexler (British Museum)
-- Miguel Vieira (King's Digital Lab)
-- Ginestra Ferraro (King's Digital Lab)
-- Helen Anderson
-- Jorges De Torres
-- Neil Jakeman (King's Digital Lab)
-- Steve Dey (ThinkSee3D)
-- Steve Colmer (Soluis Heritage)
+    - Lisa Galvin (British Museum)
+    - Jennifer Wexler (British Museum)
+    - Miguel Vieira (King's Digital Lab)
+    - Ginestra Ferraro (King's Digital Lab)
+    - Helen Anderson
+    - Jorges De Torres
+    - Neil Jakeman (King's Digital Lab)
+    - Steve Dey (ThinkSee3D)
+    - Steve Colmer (Soluis Heritage)
 publications: 
-- "Elizabeth Galvin and Jennifer Wexler (2022) Hacking the Collections: Digital Objects and Museum Engagement in Watrall, E. & Goldstein, L. (eds) (2022) Digital Heritage and Archaeology in Practice: Presentation, Teaching, and Engagement"
+    - "Elizabeth Galvin and Jennifer Wexler (2022) Hacking the Collections: Digital Objects and Museum Engagement in Watrall, E. & Goldstein, L. (eds) (2022) Digital Heritage and Archaeology in Practice: Presentation, Teaching, and Engagement"
 funders:
-  - The Arcadia Fund
-  - Trust for African Rock Art (TARA)
+    - The Arcadia Fund
+    - Trust for African Rock Art (TARA)
 ---
 Whilst at the British Museum, I helped Lisa Galvin's team deliver their African Rock Art with my 
 wonderful colleague Jennifer Wexler. There were several elements I helped with on this project:

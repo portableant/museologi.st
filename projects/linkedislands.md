@@ -1,5 +1,4 @@
 ---
-
 section: projects
 title: Linking Islands of Data
 institution: The Fitzwilliam Museum
@@ -11,33 +10,35 @@ funders:
 grant_number: AH/S012478/1
 grant_amount: £47,839
 tags:
-    - LOD
-    - Museums
-    - AHRC
-    - Jekyll
-    - RDF
-    - Linked Art
-    - USA
-    - Classics
-    - Archaeology
-    - Networks
+  - LOD
+  - Museums
+  - AHRC
+  - Jekyll
+  - RDF
+  - Linked Art
+  - USA
+  - Classics
+  - Archaeology
+  - Networks
 role: Principal Investigator
 collaborators:
-    - Elton Barker (Co-I)
-    - Valeria Vitale
-    - Joanne Vine
-    - Ed Tracy (Too Tall Productions)
-    - Hannah Platts (voice over)
+  - Anastasia Christophilopoulou
+  - Elton Barker (Co-I)
+  - Valeria Vitale
+  - Joanne Vine
+  - Ed Tracy (Too Tall Productions)
+  - Hannah Platts (voice over)
 partners:
-    - Brown University
-    - American Numismatics Society
-    - The Open University
-    - Open Context
-    - Pelagios
-    - ISAW NYU
-    - The Getty
+  - Brown University
+  - American Numismatics Society
+  - The Open University
+  - Open Context
+  - Pelagios
+  - ISAW NYU
+  - The Getty
 github_repo: 
-    - https://github.com/fitzwilliammuseum/ahrc-linking-islands
+    - url: https://github.com/fitzwilliammuseum/ahrc-linking-islands
+      name: Linking Islands Source code
 zenodo_doi: 10.5281/zenodo.3660884
 project_website: https://data-islands.fitzmuseum.cam.ac.uk
 start: 2019-02-01

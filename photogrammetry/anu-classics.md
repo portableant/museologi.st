@@ -9,6 +9,12 @@ geo_lat: -35.277779
 geo_lon: 149.118388
 slug: /photogrammetry/anu
 date: 2019-04-01
+tags:
+  - ANU 
+  - Canberra
+  - Photogrammetry
+  - Australia
+  - Classics
 ---
 
 In 2017, I was invited by the Digital Humanities scholars of ANU Canberra, to be RHSA visiting scholar to their department. Unfortunately, due to redundancy at the British Museum, I could not take this up. Upon moving to the Fitzwilliam Museum, I managed to go in 2019 for a 4 week stint, which was extremely productive. 
