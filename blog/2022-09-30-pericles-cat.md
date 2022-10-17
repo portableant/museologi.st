@@ -11,7 +11,7 @@ tags:
   - Grief
 ---
 Today was a horrible day. Today we lost Pericles, our beloved cat. A creature who had been in our lives 
-since March 2018, a rescue cat from Battersea Dogs and Cats Home. Originally called Tommy Boy, we renamed 
+since March 2008, a rescue cat from Battersea Dogs and Cats Home. Originally called Tommy Boy, we renamed 
 him Pericles, and he joined our family in Trott Street, Battersea (for the first week he hid under a dresser) where he lived until we moved to the countryside in
 2016 whereupon he discovered the wide expanse of Hertfordshire gardens. 
 
