@@ -3,6 +3,8 @@ import PropTypes from "prop-types"
 import {StaticQuery, graphql} from "gatsby"
 import NavBar from "../components/nav";
 import Footer from "../components/footer"
+import BackToTop from 'react-back-to-top';
+import CookieConsent from '../components/cookieconsent';
 
 const Layout = ({children}) => (
     <StaticQuery
@@ -27,6 +29,23 @@ const Layout = ({children}) => (
                     {children}
                 </main>
                 <Footer/>
+                <BackToTop
+                    mainStyle={{
+                        width:'100%',
+                        height:'100%',
+                        background:'url(...)'
+                    }}
+                    percentStyle={{
+                        width:'100%',
+                        height:'100%',
+                    }}
+                    animate='rotate'
+                    offsetTop={20}
+                    step={50}
+                    percent={true}
+                    visiblePercent={50}
+                />
+                <CookieConsent/>
             </>
         )}
     />

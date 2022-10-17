@@ -10,6 +10,7 @@ import PropTypes from "prop-types"
 import {StaticQuery, graphql} from "gatsby"
 import Footer from "../components/footer"
 import Helmet from 'react-helmet'
+import CookieConsent from '../components/cookieconsent';
 
 const HomeLayout = ({children}) => (
     <StaticQuery
@@ -34,6 +35,8 @@ const HomeLayout = ({children}) => (
                         {children}
                     </main>
                 <Footer/>
+                <CookieConsent/>
+
             </>
         )}
     />

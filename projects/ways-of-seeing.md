@@ -6,10 +6,6 @@ featuredImg: ../images/2020/cupid.jpg
 background: ../images/2020/cupid.jpg
 slug: /projects/ways-of-seeing
 section: projects
-documents: 
-  - location: /waysofseeing.apk
-    title: "Android APK for the application (reformatted for new Vuforia license by Daniel Pett)"
-    type: "application/vnd.android.package-archive"
 publications:
   - Cooper, D. & Noble, K. (2020) "Schoolchildren, science and smartphones shine new light on a Florentine masterpiece" Apollo (online publication only April 2020)
 collaborators:

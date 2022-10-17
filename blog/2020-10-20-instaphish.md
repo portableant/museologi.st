@@ -12,7 +12,7 @@ tags:
 
 On Friday 9 October, the Fitzwilliam Museum unfortunately fell prey to a simple phishing technique that caused the loss of their Instagram account.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last Fri we were devastated to lose our Instagram account. We were targeted by a sophisticated hacking technique which means that years of content have been deleted &amp; our followers lost. Lessons have been learned &amp; we’re revising internal procedures for social media activity 1/2 <a href="https://t.co/WKT2z8vcy9">pic.twitter.com/WKT2z8vcy9</a></p>&mdash; Fitzwilliam Museum (@FitzMuseum_UK) <a href="https://twitter.com/FitzMuseum_UK/status/1317117339696041984?ref_src=twsrc%5Etfw">October 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last Fri we were devastated to lose our Instagram account. We were targeted by a sophisticated hacking technique which means that years of content have been deleted &amp; our followers lost. Lessons have been learned &amp; we’re revising internal procedures for social media activity 1/2 <a href="https://t.co/WKT2z8vcy9">pic.twitter.com/WKT2z8vcy9</a></p>&mdash; Fitzwilliam Museum (@FitzMuseum_UK) <a href="https://twitter.com/FitzMuseum_UK/status/1317117339696041984?ref_src=twsrc%5Etfw">October 16, 2020</a></blockquote>  
 
 This post is to explain what happened and to help our colleagues within the sector and elsewhere to avoid the heartache that follows such an event.
 
