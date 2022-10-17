@@ -1,8 +1,8 @@
 ---
 title: Project Nimrud
 section: 3d
-featuredImg: ../images/backgrounds/nimrud.png
-background: ../images/backgrounds/nimrud.png
+featuredImg: ../images/backgrounds/nimrud.jpg
+background: ../images/backgrounds/assyrianFrieze.jpg
 geo_lat: 51.519400
 geo_lon: -0.126924
 slug: /photogrammetry/project-nimrud
