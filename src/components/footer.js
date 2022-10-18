@@ -35,6 +35,7 @@ const Footer = () => {
                         </ul>
                     </Col>
                     <Col md={6}>
+                        <h5>Follow me</h5>
                         <a href="https://www.facebook.com/danielpett/" aria-label="My facebook profile"
                            className="text-white mx-2 my-1"><FontAwesomeIcon icon={faFacebook} size="2x"/></a>
                         <a href="https://www.instagram.com/danielejpett/" className="text-white mx-2 my-1"
