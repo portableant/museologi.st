@@ -31,12 +31,19 @@ module.exports = {
             }
         ]
     },
-    plugins: [{
-        resolve: 'gatsby-plugin-google-analytics',
-        options: {
-            "trackingId": "G-M5H80B9MSP"
-        }
-    },
+    plugins: [
+        {
+            resolve: `gatsby-plugin-google-gtag`,
+            options: {
+                trackingIds: [
+                    "G-M5H80B9MSP",
+                ],
+                pluginConfig: {
+                    // Puts tracking script in the head instead of the body
+                    head: true
+                },
+            },
+        },
         "gatsby-plugin-image",
         {
             resolve: "gatsby-plugin-sitemap",
