@@ -51,6 +51,7 @@ exports.createPages = ({ actions, graphql }) => {
     const blogPostTemplate = require.resolve(`./src/templates/blog-page.js`)
     const projectsTemplate = require.resolve(`./src/templates/projects-page.js`)
     const photographyTemplate = require.resolve(`./src/templates/photo-page.js`)
+    const photogrammetryTemplate = require.resolve(`./src/templates/photogrammetry-page.js`)
     return graphql(`
      {
       blogPosts: allMarkdownRemark(
@@ -176,7 +177,7 @@ exports.createPages = ({ actions, graphql }) => {
         result.data.photogrammetryPosts.edges.forEach(({ node }) => {
             createPage({
                 path: node.frontmatter.slug,
-                component: blogPostTemplate,
+                component: photogrammetryTemplate,
                 context: {
                     slug: node.frontmatter.slug,
                     id: node.id
@@ -221,18 +222,17 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `)
 }
-//
-// exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
-//     if (stage === "build-html") {
-//         actions.setWebpackConfig({
-//             module: {
-//                 rules: [
-//                     {
-//                         test: /[plyr]/,
-//                         use: loaders.null(),
-//                     },
-//                 ],
-//             },
-//         })
-//     }
-// }
+exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
+    if (stage === "build-html") {
+        actions.setWebpackConfig({
+            module: {
+                rules: [
+                    {
+                        test: /leaflet/,
+                        use: loaders.null(),
+                    },
+                ],
+            },
+        })
+    }
+}

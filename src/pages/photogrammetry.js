@@ -3,7 +3,6 @@ import Layout from "../components/layout"
 import PhotogrammetryLink from "../components/photogrammetry-link";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
-
 const PhotogrammetryPage = ({data: {allMarkdownRemark: {edges},},}) => {
     const Posts = edges.map(edge => <PhotogrammetryLink key={edge.node.id} post={edge.node}/>)
     return (
