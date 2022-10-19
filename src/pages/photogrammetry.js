@@ -37,7 +37,7 @@ export const pageQuery = graphql`
                                 gatsbyImageData(
                                     placeholder: BLURRED
                                     height: 600
-                                    formats: [WEBP]
+                                    formats: [AUTO, WEBP, AVIF]
                                     width: 600
                                     quality: 90
                                     transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
@@ -49,7 +49,7 @@ export const pageQuery = graphql`
                                 gatsbyImageData(
                                     placeholder: BLURRED
                                     height: 600
-                                    formats: [WEBP]
+                                    formats: [AUTO, WEBP, AVIF]
                                     width: 1200
                                     quality: 90
                                     transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
