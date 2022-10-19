@@ -17,7 +17,7 @@ github_repo:
 zenodo_doi: 10.5281/zenodo.35098
 documents:
     - title: "Multimedia Guide User Analysis by Casey Scott Songin"
-      location: /audioGuideUsability160916.pdf
+      location: /AudioGuideUsability160916.pdf
       type: pdf
 ---
 In 2015, I joined the Department of Digital and Publishing at the British Museum. The first project
