@@ -1,10 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import {StaticQuery, graphql} from "gatsby"
-import NavBar from "../components/nav";
-import Footer from "../components/footer"
+import NavBar from "../structure/nav";
+import Footer from "../structure/footer"
 import BackToTop from 'react-back-to-top';
-import CookieConsent from '../components/cookieconsent';
+import CookieConsent from '../services/cookieconsent';
 
 const Layout = ({children}) => (
     <StaticQuery
@@ -14,6 +14,11 @@ const Layout = ({children}) => (
           siteMetadata {
             title
             menuLinks {
+                name
+                link
+                id
+            }
+            aboutLinks {
                 name
                 link
                 id
@@ -28,16 +33,16 @@ const Layout = ({children}) => (
                 <main>
                     {children}
                 </main>
-                <Footer/>
+                <Footer aboutLinks={data.site.siteMetadata.aboutLinks}/>
                 <BackToTop
                     mainStyle={{
-                        width:'100%',
-                        height:'100%',
-                        background:'url(...)'
+                        width: '100%',
+                        height: '100%',
+                        background: 'url(...)'
                     }}
                     percentStyle={{
-                        width:'100%',
-                        height:'100%',
+                        width: '100%',
+                        height: '100%',
                     }}
                     animate='rotate'
                     offsetTop={20}

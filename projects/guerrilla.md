@@ -16,6 +16,16 @@ news:
   - title: "3D scanning at the National Museum of Australia"
     medium: Metodhology Blogpost by Nathan Fair 
     url: https://metodhology.anu.edu.au/index.php/content/3dmodelling/
+tags:
+  - 3D
+  - Photogrammetry
+  - 3D Scanning
+  - 3D Printing
+  - 3D Modelling
+  - 3D Animation
+  - 3D Reconstruction
+  - Museums
+  - Digital Humanities
 ---
 Since my enlightenment into the world of 3D imaging in 2013, following a seminar by Graeme Earl and his 
 Southampton colleagues and the beginning of the MicroPasts project, I have been creating 

@@ -1,6 +1,6 @@
 import {graphql} from "gatsby";
 import * as React from "react";
-import Layout from "../components/layout";
+import Layout from "../components/layouts/layout";
 import {Container, Row} from "react-bootstrap";
 import HeaderImage from "../components/elements/headerImage";
 

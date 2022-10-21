@@ -8,18 +8,24 @@
 import React from "react"
 import PropTypes from "prop-types"
 import {StaticQuery, graphql} from "gatsby"
-import Footer from "../components/footer"
+import Footer from "../structure/footer"
 import Helmet from 'react-helmet'
-import CookieConsent from '../components/cookieconsent';
+import CookieConsent from '../services/cookieconsent';
+import BackToTop from "react-back-to-top";
 
 const HomeLayout = ({children}) => (
     <StaticQuery
         query={graphql`
-      query SiteQuery {
+      query SiteTitleQuery {
         site {
           siteMetadata {
             title
             menuLinks {
+                name
+                link
+                id
+            }
+            aboutLinks {
                 name
                 link
                 id
@@ -34,9 +40,24 @@ const HomeLayout = ({children}) => (
                     <main>
                         {children}
                     </main>
-                <Footer/>
+                <Footer aboutLinks={data.site.siteMetadata.aboutLinks}/>
+                <BackToTop
+                    mainStyle={{
+                        width: '100%',
+                        height: '100%',
+                        background: 'url(...)'
+                    }}
+                    percentStyle={{
+                        width: '100%',
+                        height: '100%',
+                    }}
+                    animate='rotate'
+                    offsetTop={20}
+                    step={50}
+                    percent={true}
+                    visiblePercent={40}
+                />
                 <CookieConsent/>
-
             </>
         )}
     />

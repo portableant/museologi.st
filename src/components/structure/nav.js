@@ -42,10 +42,12 @@ const NavBar = ({siteTitle, menuLinks}) => (
 
 NavBar.propTypes = {
     siteTitle: PropTypes.string,
+    menuLinks: PropTypes.array
 }
 
 NavBar.defaultProps = {
     siteTitle: ``,
+    menuLinks: ``
 }
 
 export default NavBar

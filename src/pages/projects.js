@@ -1,6 +1,6 @@
 import * as React from "react"
-import Layout from "../components/layout"
-import ProjectLink from "../components/project-link";
+import Layout from "../components/layouts/layout"
+import ProjectLink from "../components/structure/project-link";
 import {graphql} from "gatsby"
 import {Row,Container} from "react-bootstrap";
 

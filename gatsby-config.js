@@ -8,27 +8,56 @@ module.exports = {
         description: 'A Gatsby blog',
         twitterHandle: '@dejpett',
         menuLinks: [
+
             {
-                name: 'Home',
-                link: '/',
+                name: 'Blog',
+                link: '/blog/',
                 id: 1
             },
             {
-                name: 'Blog',
-                link: '/blog',
+                name: 'Projects',
+                link: '/projects/',
                 id: 2
             },
             {
-                name: 'Projects',
-                link: '/projects',
+                name: '3D Research',
+                link: '/photogrammetry/',
                 id: 3
+            }
+        ],
+        aboutLinks: [
+            {
+                name: 'Biography',
+                link: '/biography/',
+                id: 1
             },
             {
-                name: '3D Research',
-                link: '/photogrammetry',
-                id: 4
-
+                name: 'Photographs',
+                link: '/photographs/',
+                id: 2
             }
+        ],
+        serviceLinks: [
+            {
+                name: '3D Technologies',
+                link: '/consultancy/3d-scanning/',
+                id: 1
+            },
+            {
+                name: 'Consulting & Strategy',
+                link: '/consultancy/strategy/',
+                id: 2
+            },
+            {
+                name: 'Web Development',
+                link: '/consultancy/web-development/',
+                id: 2
+            },
+            {
+                name: 'Academic Research',
+                link: '/consultancy/academic-research/',
+                id: 2
+            },
         ]
     },
     plugins: [

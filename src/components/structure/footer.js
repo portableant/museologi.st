@@ -1,7 +1,10 @@
 import React from "react";
+// Import Bootstrap elements
 import {Col, Container, Row} from "react-bootstrap";
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {Link} from "gatsby";
+import PropTypes from "prop-types";
+// Import Font Awesome Icons
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {
     faFacebook,
     faGithub,
@@ -10,11 +13,16 @@ import {
     faLinkedin,
     faGoogle
 } from '@fortawesome/free-brands-svg-icons'
-import * as containerStyles from "../styles/footer-style.module.css";
 
-const Footer = () => {
+// See https://stackoverflow.com/a/37073268 as to how to add multiple classes
+import * as containerStyles from "../../styles/footer-style.module.css";
+// Merge the classes together
+const classes = `mt-auto ${containerStyles.footer}`
+
+// The Footer takes two sets of link array to produce some menu items - About me and services I can offer.
+const Footer = ({aboutLinks}) => {
     return (
-        <footer className={containerStyles.footer}>
+        <footer className={classes}>
             <Container>
                 <Row className="pt-3 h-25">
                     <Col md={4}>
@@ -29,16 +37,20 @@ const Footer = () => {
                     <Col md={2}>
                         <h5>About me</h5>
                         <ul className="text-white">
-                            <li>
-                                <Link to={'/biography'}>Biography</Link>
-                            </li>
+                            {aboutLinks.map(link => (
+                                <li key={link.id}>
+                                    <Link className="text-white" to={link.link} >
+                                        {link.name}
+                                    </Link>
+                                </li>
+                            ))}
                         </ul>
                     </Col>
                     <Col md={6}>
                         <h5>Follow me</h5>
-                        <a href="https://www.facebook.com/danielpett/" aria-label="My facebook profile"
+                        <a href="src/components/structure/footer" aria-label="My facebook profile"
                            className="text-white mx-2 my-1"><FontAwesomeIcon icon={faFacebook} size="2x"/></a>
-                        <a href="https://www.instagram.com/danielejpett/" className="text-white mx-2 my-1"
+                        <a href="src/components/structure/footer" className="text-white mx-2 my-1"
                            aria-label="My Instagram profile"><FontAwesomeIcon icon={faInstagram} size="2x"/></a>
                         <a href="https://twitter.com/dejpett" className="text-white mx-2 my-1"
                            aria-label="My twitter profile"><FontAwesomeIcon
@@ -58,5 +70,14 @@ const Footer = () => {
         </footer>
     )
 };
+
+
+Footer.propTypes = {
+    aboutLinks: PropTypes.array
+}
+
+Footer.defaultProps = {
+    aboutLinks: ``
+}
 
 export default Footer;

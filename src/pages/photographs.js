@@ -1,9 +1,9 @@
 import * as React from "react"
-import Layout from "../components/layout"
-import PhotoLink from "../components/photo-link";
+import Layout from "../components/layouts/layout"
+import PhotoLink from "../components/structure/photo-link";
 import {graphql} from "gatsby"
 import {Row, Container} from 'react-bootstrap';
-import Seo from "../components/seo"
+import Seo from "../components/structure/seo"
 
 const PhotographsPage = ({data: {allMarkdownRemark: {edges},},}) => {
     const Posts = edges

@@ -13,19 +13,28 @@ images:
 geo_lat: 51.519400
 geo_lon: -0.126924
 slug: /photogrammetry/amaravati-scans
-github_repos:
+github_repo:
   -
-    repo: https://github.com/BritishMuseumDH/amaravatiGuardianLion
-    title: A guardian lion from the stupa of Amaravati
+    url: https://github.com/BritishMuseumDH/amaravatiGuardianLion
+    name: A guardian lion from the stupa of Amaravati
   -
-    repo: https://github.com/BritishMuseumDH/amaravatiMayaRelief
-    title: The Maya relief from the stupa of Amaravati
+    url: https://github.com/BritishMuseumDH/amaravatiMayaRelief
+    name: The Maya relief from the stupa of Amaravati
   -
-    repo: https://github.com/BritishMuseumDH/amaravatiPanel
-    title: Panel from the stupa of Amaravati
+    url: https://github.com/BritishMuseumDH/amaravatiPanel
+    name: Panel from the stupa of Amaravati
+tags:
+  - India
+  - Looted
+  - Archaeology
+  - Amaravati
+  - Photogrammetry
+  - Exhibition
+  - Gallery
+  - Guerrilla
 ---
 This collection of scans was created for a collaboration with Soluis Heritage in 2017, when 
-they created an interactive reconstruction of the temple of Amaravarti. These scans were meant to 
+they created an interactive reconstruction of the temple of Amaravati. These scans were meant to 
 have been created with an Artec structured light machine, but Amelia, our placement PhD student
 couldn't climb the ladder to capture the scans. 
 
@@ -34,7 +43,7 @@ smaller pieces.
 
 ### The Models 
 
-<div class="ratio  ratio-16x9 mb-3">
+<div class="ratio ratio-1x1 my-2">
     <iframe title="A 3D model"  
             src="https://sketchfab.com/playlists/embed?collection=131719c4c31e47e5a40307d7dcc70709"  
             allow="autoplay; fullscreen; vr" 
@@ -47,7 +56,7 @@ smaller pieces.
 Soluis Heritage (Steve Colmer and team), have created a video of the reconstruction of the temple of Amaravati.
 This is looped at the west end of the Hotung gallery and can be seen on Vimeo.
 
-<div class="ratio-16x9 ratio my-3">
+<div class="ratio-16x9 ratio my-2">
     <iframe src="https://player.vimeo.com/video/253987217?h=42e80284d8"  allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 

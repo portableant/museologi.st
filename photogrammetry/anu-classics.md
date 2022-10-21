@@ -21,7 +21,7 @@ In 2017, I was invited by the Digital Humanities scholars of ANU Canberra, to be
 
 As part of the time spent with Terhi Nurmikko Fuller and Katrina Grant, I worked with the ANU scholars and students to create 3D scans in the Classics museum. This collection of 3D scans was created during time spent in their stores.
 
-<div class="ratio ratio-16x9 mb-3">
+<div class="ratio ratio-1x1 mb-3">
     <iframe src="https://sketchfab.com/playlists/embed?collection=dea7a74d57d246d5abd9930c6b0d5170&autostart=0"
             title="ANU"
             allowfullscreen

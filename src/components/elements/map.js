@@ -22,8 +22,10 @@ const Map = ({geo_lon, geo_lat}) => {
     return (<div>
                 <MapContainer
                     center={[geo_lat, geo_lon]}
-                    zoom={13}
+                    zoom={16}
                     style={{height: "400px"}}
+                    scrollWheelZoom={false}
+                    dragging={false}
                 >
                     <TileLayer
                         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'

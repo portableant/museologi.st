@@ -30,6 +30,13 @@ images:
     caption: "Page 4 of the application"
   - image: ../images/2020/02/page5.jpg
     caption: "Page 5 of the application"
+tags:
+  - Digital
+  - Fitzwilliam
+  - Labels
+  - AR
+  - Apps
+  - Augmented Reality
 ---
 This project was an Augmented Reality intervention to accompany the Inspire 2020 exhibition 
 held in the Octagon gallery of the Fitzwilliam Museum. 

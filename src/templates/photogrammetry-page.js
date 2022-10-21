@@ -1,10 +1,10 @@
 import {graphql} from "gatsby";
 import * as React from "react";
-import Layout from "../components/layout";
-import {Container, Row} from "react-bootstrap";
+import Layout from "../components/layouts/layout";
+import {Badge, Col, Container, Row} from "react-bootstrap";
 import HeaderImage from "../components/elements/headerImage";
 import Map from "../components/elements/map";
-
+import FairData from "../components/elements/fair-data";
 
 export default function PhotogrammetryPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, html} = markdownRemark;
@@ -21,10 +21,32 @@ export default function PhotogrammetryPageTemplate({data: {markdownRemark}}) {
                     <div className="post-body bg-white text-black p-4"
                          dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
+
+            </Container>
+            <Container fluid className="bg-pastel post-body">
+                <Container>
+                    <FairData zenodo_doi={frontmatter.zenodo_doi} github_repo={frontmatter.github_repo}
+                              project_website={frontmatter.project_website}
+                              deposited_archive={frontmatter.deposited_archive}/>
+                </Container>
+            </Container>
+            <Container fluid className={"bg-pastel"}>
+                <Container>
+                    <Row>
+                        {frontmatter.tags && <Col md={12} className="px-4 mb-2">
+                            {frontmatter.tags.map((item, i) => (
+                                <Badge className="bg-dark mx-1 my-1 p-2" key={i}>
+                                    {item}
+                                </Badge>
+                            ))}
+                        </Col>}
+                    </Row>
+                </Container>
             </Container>
             {!isSSR && (
                 <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
             )}
+
         </Layout>
     );
 }
@@ -43,6 +65,10 @@ export const pageQuery = graphql`
                 tags
                 geo_lat
                 geo_lon
+                github_repo {
+                    url
+                    name
+                }
                 background{
                     childImageSharp {
                         gatsbyImageData(

@@ -1,6 +1,6 @@
 import * as React from "react"
-import Layout from "../components/layout"
-import PhotogrammetryLink from "../components/photogrammetry-link";
+import Layout from "../components/layouts/layout"
+import PhotogrammetryLink from "../components/structure/photogrammetry-link";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
 const PhotogrammetryPage = ({data: {allMarkdownRemark: {edges},},}) => {

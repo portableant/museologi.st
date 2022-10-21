@@ -6,6 +6,13 @@ institution: The V&A
 slug: /projects/reach
 featuredImg: ../images/2019/04/DbqKrZFX0AIlSo9.jpg
 background: ../images/2020/03/IMG_20191001_151042.jpg
+tags:
+  - 3D
+  - Digital
+  - Photography
+  - Photogrammetry
+  - V&A
+  - ReACH
 ---
 
 <div class="ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/6Lwpjst6C5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

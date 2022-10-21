@@ -17,6 +17,11 @@ slug: /projects/mapping-palaeolithic-britain
 status: inactive
 date: 2019-10-29T22:51:56+01:00
 project_website: https://www.qmul.ac.uk/geog/research/research-projects/mappingpalaeolithicbritain
+tags:
+  - Palaeolithic
+  - Archaeology
+  - Maps
+  - Geospatial
 ---
 Britain has a rich and well-documented earlier Palaeolithic record, which provides a unique resource to investigate population dynamics and the relationship with north-west Europe during the Middle Pleistocene. The Mapping Palaeolithic Britain Project was a three-year project (2013-2017) funded by a Leverhulme Trust Research Project Grant based at the British Museum. The project examined the changing nature of the early Palaeolithic human occupation of Britain by integrating new electronic datasets of sites and their artefact assemblages through a Geographic Information System (GIS).
 

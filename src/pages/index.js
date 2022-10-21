@@ -1,5 +1,5 @@
 import * as React from "react"
-import HomeLayout from "../components/homeLayout";
+import HomeLayout from "../components/layouts/homeLayout";
 import {Container, Row, Col} from "react-bootstrap";
 import {Link} from "gatsby";
 
@@ -12,7 +12,7 @@ const headingStyles = {
 }
 const bgStyles = {
     height: "60vh",
-    background: "url('https://live.staticflickr.com/3197/2402571617_f7fcc49137_h.jpg') no-repeat center top fixed"
+    background: "url('https://live.staticflickr.com/3197/2402571617_f7fcc49137_h.jpg') no-repeat center top cover"
 }
 const IndexPage = () => {
     return (

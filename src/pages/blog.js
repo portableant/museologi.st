@@ -1,6 +1,6 @@
 import * as React from "react"
-import Layout from "../components/layout"
-import PostLink from "../components/post-link";
+import Layout from "../components/layouts/layout"
+import PostLink from "../components/structure/post-link";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
 

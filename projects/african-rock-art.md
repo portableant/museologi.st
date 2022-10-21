@@ -27,6 +27,13 @@ publications:
 funders:
     - The Arcadia Fund
     - Trust for African Rock Art (TARA)
+tags:
+    - Digital Transformation
+    - Museum
+    - Archaeology
+    - Digital Humanities
+    - Digital Heritage
+    - Digital Archaeology
 ---
 Whilst at the British Museum, I helped Lisa Galvin's team deliver their African Rock Art with my 
 wonderful colleague Jennifer Wexler. There were several elements I helped with on this project:

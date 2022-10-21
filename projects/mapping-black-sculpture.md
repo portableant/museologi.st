@@ -13,6 +13,7 @@ tags:
   - Prototype
   - Linked Data
   - Schemas
+  - Geospatial
 collaborators:
   - Vicky Avery
   - Dawnanna Kreeger

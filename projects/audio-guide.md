@@ -19,6 +19,11 @@ documents:
     - title: "Multimedia Guide User Analysis by Casey Scott Songin"
       location: /AudioGuideUsability160916.pdf
       type: pdf
+tags:
+    - Museums
+    - Audio Guides
+    - API
+    - Web
 ---
 In 2015, I joined the Department of Digital and Publishing at the British Museum. The first project
 I was asked to help with, was to create an API for the audio guides endpoint for the public to retrieve 
