@@ -10,7 +10,7 @@ const SlideShow = ({images}) => (
                 {images.map((item, i) => (
                     <Carousel.Item key={i}>
                         <GatsbyImage image={item.image.childImageSharp.gatsbyImageData} alt="some alt text"/>
-                        <Carousel.Caption>
+                        <Carousel.Caption className={"d-none d-lg-block"}>
                             <h3>{item.caption}</h3>
                         </Carousel.Caption>
                     </Carousel.Item>))}
