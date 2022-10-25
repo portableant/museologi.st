@@ -11,7 +11,6 @@ collaborators:
   - Christine Kimbriel
   - Olivia Warren
   - Jeremy Ottevanger
-partners:
   - Olamalu
 tags:
   - Digital
@@ -77,8 +76,6 @@ Olamalu were engaged to do the design and build, after a competitive tender proc
 project managed by our excellent Digital Project Manager, Megan Bushnell (now working at SAS, University of London.)
 
 ## Screenshots of the project
-
-Main index page
 
 ![Miniatures project homepage](../images/2022/09/miniaturesHome.jpg)
 

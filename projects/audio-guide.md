@@ -17,7 +17,7 @@ github_repo:
 zenodo_doi: 10.5281/zenodo.35098
 documents:
     - title: "Multimedia Guide User Analysis by Casey Scott Songin"
-      location: /AudioGuideUsability160916.pdf
+      location: /pdf/AudioGuideUsability160916.pdf
       type: pdf
 tags:
     - Museums

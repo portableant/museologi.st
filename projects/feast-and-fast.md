@@ -31,27 +31,27 @@ tags:
   - Museum in a Box
 audio:
 - title: 1 - Mr Pinchy
-  location: /mrPinchy.wav
+  location: /audio/mrPinchy.wav
   type: audio/wav
   author: Abi Glen
   project: MIAB - Feast and Fast
 - title: "2 - Hares Roasting A Hunter: Narrative"
-  location: /haresRoasting.wav
+  location: /audio/haresRoasting.wav
   type: audio/wav
   author: Abi Glen
   project: MIAB - Feast and Fast
 - title: "3 - Hares Roasting A Hunter"
-  location: /haresRoastingStory.wav
+  location: /audio/haresRoastingStory.wav
   type: audio/wav  
   author: Abi Glen
   project: MIAB - Feast and Fast
 - title: "4 - Fat Kitchen"
-  location: /fatKitchen.wav
+  location: /audio/fatKitchen.wav
   type: audio/wav  
   author: Abi Glen
   project: 5 - MIAB - Feast and Fast
 - title: "Thin Kitchen"
-  location: /thinKitchen.wav
+  location: /audio/thinKitchen.wav
   type: audio/wav  
   author: Abi Glen
   project: MIAB - Feast and Fast

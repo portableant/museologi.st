@@ -21,16 +21,16 @@ github_repo:
     name: Collection Raw Data source code
 zenodo_doi: 10.5281/zenodo.6507793
 documents: 
-  - location: /ux.pdf
+  - location: /pdf/ux.pdf
     title: Fitzwilliam Museum UX tender brief
     type: pdf
-  - location: /projectGANTT.pdf
+  - location: /pdf/projectGANTT.pdf
     title: Fitzwilliam Museum delivery GANTT
     type: pdf
-  - location: /uxReportOneFurther.pdf
+  - location: /pdf/uxReportOneFurther.pdf
     title: One Further UX Report
     type: pdf
-  - location: /oneFurtherTreeJack.pdf
+  - location: /pdf/oneFurtherTreeJack.pdf
     title: One Further Treejack report
     type: pdf
 tags:

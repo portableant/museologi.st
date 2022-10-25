@@ -45,7 +45,7 @@ shows the stripes of light being projected over the object and the LCD screen di
 
 <div class="ratio-16x9 ratio my-3">
     <video controls>
-      <source src="/artecStripes.mov" >
+      <source src="/video/artecStripes.mov" >
     </video>
 </div>
 

@@ -34,147 +34,147 @@ status: active
 project_website: https://creative-economy.fitzmuseum.cam.ac.uk
 audio:
   - title: 1 - Mr Pinchy
-    location: /mrPinchy.wav
+    location:  /audio/mrPinchy.wav
     type: audio/wav
     author: Abi Glen
     project: MIAB - Feast and Fast
   - title: "2 - Hares Roasting A Hunter: Narrative"
-    location: /haresRoasting.wav
+    location:  /audio/haresRoasting.wav
     type: audio/wav
     author: Abi Glen
     project: MIAB - Feast and Fast
   - title: "3 - Hares Roasting A Hunter"
-    location: /haresRoastingStory.wav
+    location:  /audio/haresRoastingStory.wav
     type: audio/wav  
     author: Abi Glen
     project: MIAB - Feast and Fast
   - title: "4 - Fat Kitchen"
-    location: /fatKitchen.wav
+    location:  /audio/fatKitchen.wav
     type: audio/wav  
     author: Abi Glen
     project: 5 - MIAB - Feast and Fast
   - title: "Thin Kitchen"
-    location: /thinKitchen.wav
+    location:  /audio/thinKitchen.wav
     type: audio/wav  
     author: Abi Glen
     project: MIAB - Feast and Fast
   - title: 1 - Winifred Lamb Introduction
-    location: /1_Winifred_Lamb_Introduction.wav
+    location:  /audio/1_Winifred_Lamb_Introduction.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 2 - Dear Colleague
-    location: /2_Dear_Colleague.wav
+    location:  /audio/2_Dear_Colleague.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 3 - Like Frogs
-    location: /3_Like_frogs.wav
+    location: /audio/3_Like_frogs.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 4 - Islands are key
-    location: /4_Islands_Are_Key.wav
+    location: /audio/4_Islands_Are_Key.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 5 - Lamb Excavating
-    location: /5_Lamb_Excavating.wav
+    location: /audio/5_Lamb_Excavating.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 6 -The Islands of Thermi
-    location: /6_The_Islands_Of_thermi.wav
+    location: /audio/6_The_Islands_Of_thermi.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 7 - The discovery of Thermi
-    location: /7_Discovery_Of_thermi.wav
+    location: /audio/7_Discovery_Of_thermi.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 8 - A plan of of Thermi
-    location: /8_A_plan_Of_Thermi.wav
+    location: /audio/8_A_plan_Of_Thermi.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 9 - The Lamb redisplay
-    location: /9_Lamb_redisplay.wav
+    location: /audio/9_Lamb_redisplay.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 10 - The Lamb poem
-    location: /10_Lamb_poem.wav
+    location: /audio/10_Lamb_poem.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 11 - A poem about the hills of Greece
-    location: /11_A_Poem_about_the_Hills_of_Greece.wav
+    location: /audio/11_A_Poem_about_the_Hills_of_Greece.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 12 - Terracotta Boat
-    location: /12_Terracotta_boat.wav
+    location: /audio/12_Terracotta_boat.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 13 - Limestone male statue
-    location: /13_Limestone_Male_Statue.wav
+    location: /audio/13_Limestone_Male_Statue.wav
     type: audio/wav
     author: Jennifer Wexler 
     project: MIAB - Travelling Objects
   - title: 14 - Syrian Horse
-    location: /14_Syrian_Horse.wav
+    location: /audio/14_Syrian_Horse.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 15 - Skyphos cup
-    location: /15_Skyphos_cup.wav
+    location: /audio/15_Skyphos_cup.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 16 - Minoan Double Axe
-    location: /16_Minoan_double_axe.wav
+    location: /audio/16_Minoan_double_axe.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 17 - Dolphin Stone
-    location: /17_Dolphin_Stone.wav
+    location: /audio/17_Dolphin_Stone.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 18 - Charming Octopus Pot
-    location: /19_CharmingOctopusPot.wav
+    location: /audio/19_CharmingOctopusPot.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 19 - The Fitzwilliam Goddess
-    location: /20_TheFitzwilliamGoddess.wav
+    location: /audio/20_TheFitzwilliamGoddess.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 20 - Male Worshipper Figurine
-    location: /21_MaleWorshipperFigurine.wav
+    location: /audio/21_MaleWorshipperFigurine.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 21 - Portrait of Winifred Lamb
-    location: /21_PortraitOfWinifredLamb.wav
+    location: /audio/21_PortraitOfWinifredLamb.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 22 - Lost at Sea (part 1)
-    location: /23_LostatSea1.wav
+    location: /audio/23_LostatSea1.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 23 - Lost at Sea (part 2)
-    location: /24_LostatSea2.wav
+    location: /audio/24_LostatSea2.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 24 - What do you think?
-    location: /25_Whatdoyouthink.wav
+    location: /audio/25_Whatdoyouthink.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects

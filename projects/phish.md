@@ -19,10 +19,10 @@ date: 2019-10-29T22:51:56+01:00
 project_website: https://creative-economy.fitzmuseum.cam.ac.uk
 documents: 
   - title: "Phish and ChYpPS Final Report"
-    location: /Phish_and_Chyyps.pdf
+    location: /pdf/Phish_and_Chyyps.pdf
     type: pdf
   - title: "Phish and ChYpPS Application"
-    location: /Phish_and_Chyyps_Application.pdf
+    location: /pdf/Phish_and_Chyyps_Application.pdf
     type: pdf
 tags:
   - Creative Economy

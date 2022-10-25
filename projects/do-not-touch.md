@@ -29,14 +29,14 @@ date: 2019-10-29T22:51:56+01:00
 status: active
 project_website: https://do-not-touch.fitzmuseum.cam.ac.uk
 documents:
-  - location: /doNotTouchRafie.pdf
+  - location: /pdf/doNotTouchRafie.pdf
     title: "Do Not Touch Evaluation Report by Rafie Cecilia"
     type: pdf
   - title: Pump Priming Application - Do Not Touch
-    location: /pumpPrimingApplication.pdf
+    location: /pdf/pumpPrimingApplication.pdf
     type: pdf
   - title: Final funding report
-    location: /pumpPrimingFinalReport
+    location: /pdf/pumpPrimingFinalReport
     type: pdf
 ---
 This research project looked at the effectiveness of different touching deterrent methods used for the collections on 

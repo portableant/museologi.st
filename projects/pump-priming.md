@@ -24,7 +24,10 @@ tags:
   - Workshops
 documents: 
   - title: Pump Priming - the road to learning 3D modeling skills - Application
-    location: /pumpPrimingApplication.pdf
+    location: /pdf/pumpPrimingApplication.pdf
+    type: pdf
+  - title: Pump Priming - the road to learning 3D modeling skills - Application
+    location: /pdf/pumpPrimingFinalReport.pdf
     type: pdf
 ---
 **Note this is part of the [Do Not Touch project](/projects/do-not-touch), and represents the training element. It developed into a 

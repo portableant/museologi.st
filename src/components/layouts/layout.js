@@ -38,16 +38,19 @@ const Layout = ({children}) => (
                     mainStyle={{
                         width: '100%',
                         height: '100%',
-                        background: 'url(...)'
+                        background: 'url(...)',
+                        backgroundColor: '#192036',
+                        color: 'white'
                     }}
                     percentStyle={{
                         width: '100%',
                         height: '100%',
+                        display: 'none'
                     }}
                     animate='rotate'
                     offsetTop={20}
                     step={50}
-                    percent={true}
+                    percent={false}
                     visiblePercent={50}
                 />
                 <CookieConsent/>

@@ -60,13 +60,13 @@ grabbed as screen recordings from the original flash files using the [Ruffle pla
     <div class="col-md-6">
         <h3 class="text-black-50 text-center">First part - explore the village of West Mucking</h3>
         <div class="ratio-4x3 ratio my-3">
-            <video controls src="/saxon.mp4"></video>
+            <video controls src="/video/saxon.mp4"></video>
         </div>
     </div>
     <div class="col-md-6">
         <h3 class="text-black-50 text-center">Second part - explore for objects</h3>
         <div class="ratio-4x3 ratio my-3 mx-3 col-md-6">
-            <video controls src="/detecting.mp4"></video>
+            <video controls src="/video/detecting.mp4"></video>
         </div>
     </div>
 </div>

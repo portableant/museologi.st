@@ -6,7 +6,7 @@ featuredImg: ../images/projects/xyfi/IMG_20170804_093629.jpg
 background: ../images/projects/xyfi/IMG_20170804_093629.jpg
 role: Museum Technology Lead
 documents:
-  - location: /DevoteeSubtitlesData.pdf
+  - location: /pdf/DevoteeSubtitlesData.pdf
     type: pdf
     author: British Museum and Google Creative Lab
     title: Devotee Subtitles

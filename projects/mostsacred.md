@@ -36,7 +36,7 @@ github_repo:
 zenodo_doi: 10.5281/zenodo.6468846
 documents: 
   - title: "CHRG Most Sacred Things Final Report"
-    location: /Most_Sacred_Things_Final_Report.pdf
+    location: /pdf/Most_Sacred_Things_Final_Report.pdf
     type: pdf
 publications:
   - "Gee, L ‘A Task enough to make one frantic’: William Hayley’s Memorialising, European Journal of Life Writing, 9 (2020): DOI https://doi.org/10.21827/ejlw.9.36899"
