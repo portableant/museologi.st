@@ -12,7 +12,10 @@ const headingStyles = {
 }
 const bgStyles = {
     height: "60vh",
-    background: "url('https://live.staticflickr.com/3197/2402571617_f7fcc49137_h.jpg') no-repeat center top cover"
+    background: "url('https://live.staticflickr.com/3197/2402571617_f7fcc49137_h.jpg')",
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat"
 }
 const IndexPage = () => {
     return (
