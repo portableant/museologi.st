@@ -7,6 +7,11 @@ featuredImg: ../images/2020/10/featured-image.jpg
 background: ../images/2020/10/featured-image.jpg
 tags:
   - Techie stuff
+  - Phishing
+  - Mistakes
+  - Socmedia
+geo_lat: 52.200205 
+geo_lon: 0.119892
 ---
 **Originally published on the [UCM blog](https://www.museums.cam.ac.uk/blog/2020/10/20/instaphish-do-you-crave-that-blue-tick/)**
 

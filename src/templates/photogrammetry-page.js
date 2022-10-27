@@ -43,7 +43,7 @@ export default function PhotogrammetryPageTemplate({data: {markdownRemark}}) {
                     </Row>
                 </Container>
             </Container>
-            {!isSSR && (
+            {!isSSR && frontmatter.geo_lat && (
                 <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
             )}
 
