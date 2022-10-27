@@ -3,9 +3,10 @@ import Layout from "../components/layouts/layout"
 import PostLink from "../components/structure/post-link";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
+import Pagination from '../components/structure/pagination';
 
-const BlogPage = ({data: {allMarkdownRemark: {edges},},}) => {
-    const Posts = edges
+const BlogPage = (props) => {
+    const Posts = props.data.allMarkdownRemark.edges
         .filter(edge => !!edge.node.frontmatter.date)
         .map(edge => <PostLink key={edge.node.id} post={edge.node}/>)
     return (
@@ -18,14 +19,23 @@ const BlogPage = ({data: {allMarkdownRemark: {edges},},}) => {
                     </Row>
                 </Row>
             </Container>
+            <Container fluid className={"mx-auto text-center bg-pastel"}>
+                <Pagination pageContext={props.pageContext} />
+            </Container>
         </Layout>
     );
 }
 export default BlogPage
 
 export const pageQuery = graphql`
-    query {
-        allMarkdownRemark(filter: {frontmatter: {section: {eq: "blog"}}}, sort: { order: DESC, fields: [frontmatter___date] }) {
+    query($skip: Int!, $limit: Int!) {
+        allMarkdownRemark(filter: {frontmatter: {
+            section: {eq: "blog"}}
+            }, 
+            sort: { order: DESC, fields: [frontmatter___date] },
+            limit: $limit
+            skip: $skip
+            ) {
             edges {
                 node {
                     id
@@ -56,4 +66,5 @@ export const pageQuery = graphql`
         }
     }
 `
+
 export const Head = () => <title>Blog posts</title>

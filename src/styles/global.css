@@ -22,7 +22,7 @@ body {
     color: lightslategray;
 }
 
-.post-body a {
+.post-body a, .pagination a {
     display: inline-block;
     position: relative;
     text-decoration: none;
@@ -30,7 +30,7 @@ body {
     z-index: 1;
 }
 
-.post-body a::after {
+.post-body a::after, .pagination a::after {
     content: '';
     position: absolute;
     left: 0;
@@ -78,4 +78,8 @@ figcaption {
 }
 .post-body li {
     list-style: square;
+}
+nav.pagination {
+    display: flex;
+    justify-content: space-between;
 }

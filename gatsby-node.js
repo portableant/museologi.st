@@ -1,3 +1,4 @@
+
 const fs = require("fs");
 
 // Ensure that the required directories exist
@@ -48,6 +49,7 @@ exports.onCreateNode = ({node, getNode, actions}) => {
 
 exports.createPages = ({ actions, graphql }) => {
     const { createPage } = actions
+
     const blogPostTemplate = require.resolve(`./src/templates/blog-page.js`)
     const projectsTemplate = require.resolve(`./src/templates/projects-page.js`)
     const photographyTemplate = require.resolve(`./src/templates/photo-page.js`)
@@ -204,6 +206,32 @@ exports.createPages = ({ actions, graphql }) => {
                 },
             });
         });
+        const { paginate } = require('gatsby-awesome-pagination')
+
+        const blogPostPagedTemplate = require.resolve(`./src/templates/blog.js`)
+        // const postsPerPage = 18
+        // const numPages = Math.ceil(result.data.blogPosts.edges.length / postsPerPage)
+        // Array.from({ length: numPages }).forEach((_, i) => {
+        //     createPage({
+        //         path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+        //         component: blogPostPagedTemplate,
+        //         context: {
+        //             limit: postsPerPage,
+        //             skip: i * postsPerPage,
+        //             numPages,
+        //             currentPage: i + 1,
+        //         },
+        //     })
+        // })
+
+        paginate({
+            createPage: createPage,
+            component: blogPostPagedTemplate,
+            items: result.data.blogPosts.edges,
+            itemsPerPage: 18,
+            itemsPerFirstPage: 18,
+            pathPrefix: '/blog'
+        })
     });
 }
 
