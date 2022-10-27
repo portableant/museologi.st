@@ -62,6 +62,19 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: `gatsby-plugin-scroll-indicator`,
+            options: {
+                // Configure color of the scroll indicator
+                color: "#fff",
+                // Height of the scroll indicator
+                height: "6px",
+                // Configure paths where the scroll indicator will appear
+                paths: ["/projects/**", "/blog/**"],
+                // Configure the z-index of the indicator element
+                zIndex: `9999`,
+            },
+        },
+        {
             resolve: `gatsby-plugin-google-gtag`,
             options: {
                 trackingIds: [
