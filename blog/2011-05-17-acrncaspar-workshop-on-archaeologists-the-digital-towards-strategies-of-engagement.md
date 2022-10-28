@@ -6,8 +6,8 @@ slug: /blog/acrncaspar-workshop-on-archaeologists-the-digital-towards-strategies
 featuredImg: ../images/2011/05/caspar.jpg
 background: ../images/british-museum.jpg
 tags:
-  - 'CASPAR'
-  - 'ACRNCaspar'
+  - CASPAR
+  - ACRNCaspar
 ---
 
 ## Workshop on Archaeologists &#038; The Digital: Towards Strategies of Engagement

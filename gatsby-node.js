@@ -1,4 +1,4 @@
-
+const _ = require("lodash")
 const fs = require("fs");
 
 // Ensure that the required directories exist
@@ -150,6 +150,11 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
+      },
+      tagsGroup: allMarkdownRemark(limit: 2000) {
+        group(field: frontmatter___tags) {
+          fieldValue
+        }
       }
     }
   `).then(result => {
@@ -206,24 +211,23 @@ exports.createPages = ({ actions, graphql }) => {
                 },
             });
         });
+        const tags = result.data.tagsGroup.group
+        const tagTemplate = require.resolve("./src/templates/tags.js")
+
+        // Make tag pages
+        tags.forEach(tag => {
+            createPage({
+                path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+                component: tagTemplate,
+                context: {
+                    tag: tag.fieldValue,
+                },
+            })
+        });
+
         const { paginate } = require('gatsby-awesome-pagination')
 
         const blogPostPagedTemplate = require.resolve(`./src/templates/blog.js`)
-        // const postsPerPage = 18
-        // const numPages = Math.ceil(result.data.blogPosts.edges.length / postsPerPage)
-        // Array.from({ length: numPages }).forEach((_, i) => {
-        //     createPage({
-        //         path: i === 0 ? `/blog` : `/blog/${i + 1}`,
-        //         component: blogPostPagedTemplate,
-        //         context: {
-        //             limit: postsPerPage,
-        //             skip: i * postsPerPage,
-        //             numPages,
-        //             currentPage: i + 1,
-        //         },
-        //     })
-        // })
-
         paginate({
             createPage: createPage,
             component: blogPostPagedTemplate,

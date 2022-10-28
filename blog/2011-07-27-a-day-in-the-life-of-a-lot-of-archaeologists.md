@@ -6,7 +6,7 @@ slug: /blog/a-day-in-the-life-of-a-lot-of-archaeologists/
 featuredImg: ../images/2011/05/dayofarchaeology.jpg
 background: ../images/backgrounds/doa_image12430.jpeg
 tags: 
-  - archaeology
+  - Archaeology
   - Techie stuff
 ---
 The 29 July marks the first Day of Archaeology, an online social media experiment that coincides with the Council for British Archaeology's Festival of Archaeology (an annual event, this year running from the 16-31 July).

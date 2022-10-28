@@ -57,7 +57,7 @@ const Footer = ({aboutLinks}) => {
                             icon={faTwitter} size="2x"/></a>
                         <a href="https://github.com/portableant" className="text-white mx-2 my-1"
                            aria-label="My GitHub account profile"><FontAwesomeIcon icon={faGithub} size="2x"/></a>
-                        <a href="https://linkedin.com/danielpett" className="text-white mx-2 my-1"
+                        <a href="https://www.linkedin.com/in/danielpett/" className="text-white mx-2 my-1"
                            aria-label="My Linkedin account profile"><FontAwesomeIcon icon={faLinkedin}
                                                                                      size="2x"/></a>
                         <a href="https://scholar.google.com/citations?user=39kTD8YAAAAJ&hl=en"

@@ -7,11 +7,11 @@ slug: /blog/cambridge-festival-of-ideas-3d/
 featuredImg: ../images/2018/10/dots.jpg
 background: ../images/2018/10/dots.jpg
 tags:
-  - 3d
-  - archaeology
-  - classics
-  - photogrammetry
-  - public archaeology
+  - 3D
+  - Archaeology
+  - Classics
+  - Photogrammetry
+  - Public archaeology
 ---
 Yesterday at the Museum of Classical Archaeology, I led a session to teach members of the public how to create
 3D models using Structure from Motion. 20 people attended and I hope enjoyed and learnt new

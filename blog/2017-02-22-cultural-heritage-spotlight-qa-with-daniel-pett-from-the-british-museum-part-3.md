@@ -6,8 +6,8 @@ featuredImg: ../images/facade-bm.jpg
 background: ../images/backgrounds/facade-bm.jpg
 section: blog
 tags:
-  - 3d
-  - museums
+  - 3D
+  - Museums
   - Sketchfab
 ---
 _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights our ongoing support of museums and cultural institutions with free accounts and access to tools. In_ [_Cultural Heritage Spotlight_](https://blog.sketchfab.com/tag/culturalspotlight/)_, we’ll explore museums and cultural institutions who are using 3D technology to bring new life to their collections. Today’s blog post features Daniel Pett’s effort to make the collections of the_ [_British Museum_](https://sketchfab.com/britishmuseum) _accessible for anyone in 3D and VR._

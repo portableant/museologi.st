@@ -6,9 +6,9 @@ slug: /blog/scuba-diving-sharm-el-sheikh/
 featuredImg: ../images/2011/04/5610015807_8622c1d042_b.jpg
 background: ../images/2011/04/5610015807_8622c1d042_b.jpg
 tags:
-  - diving
+  - Diving
   - Egypt
-  - sharm el sheikh
+  - Sharm el-Sheikh
 ---
 
 ![Kate with her favourite fish](../images/2011/04/5610015807_8622c1d042_b.jpg)

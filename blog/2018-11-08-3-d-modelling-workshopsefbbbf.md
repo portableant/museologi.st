@@ -7,6 +7,7 @@ featuredImg: ../images/2018/11/IMG_20181129_154927-PANO.jpg
 background: ../images/backgrounds/scanning.jpg
 tags:
   - Techie stuff
+  - 3D
 ---
 **Thursday 29 November, 2-4pm** or **Monday 3 December, 10-12noon**
 

@@ -6,8 +6,8 @@ slug: /blog/yahoo-openhack-eu-bucharest/
 featuredImg: ../images/2011/05/5733486080_bd932962b0_b.jpg
 background: ../images/2011/05/5733486080_bd932962b0_b.jpg
 tags:
-  - hackday
-  - yahoo
+  - Hackday
+  - Yahoo
 ---
 ![A pair of history enthusiasts](../images/2011/05/5733484350_4978a28436_b.jpg)
 

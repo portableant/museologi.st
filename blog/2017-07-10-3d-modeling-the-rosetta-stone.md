@@ -5,9 +5,9 @@ author: Daniel Pett
 slug: /blog/3d-modeling-the-rosetta-stone/
 background: ../images/backgrounds/19894774_10155296696156071_1048584219763234466_n-1-1170x450.jpg
 tags:
-  - museums
+  - Museums
   - Techie stuff
-  - 3d
+  - 3D
 featuredImg: ../images/rosetta.jpg
 section: blog
 ---

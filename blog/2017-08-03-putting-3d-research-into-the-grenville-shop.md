@@ -6,6 +6,11 @@ featuredImg: ../images/2017/08/x3D-Antinous-Roy-landcape.jpg
 background: ../images/backgrounds/151321585_3561655843962727_1933738444169859930_n.jpg
 tags:
   - Techie stuff
+  - 3D
+  - Museums
+  - Archaeology
+  - Creativity
+  - Entrepreneurship
 section: blog
 ---
 <div class="alert alert-dark">This was originally published on the British Museum blog as <a href="http://blog.britishmuseum.org/a-new-dimension-in-home-shopping/">A new dimension in home shopping</a>)</div>

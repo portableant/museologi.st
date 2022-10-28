@@ -6,7 +6,7 @@ featuredImg: ../images/2011/04/5609998467_00350d0b49_b.jpg
 background: ../images/2011/04/5609998467_00350d0b49_b.jpg
 slug: /blog/portable-antiquities-scheme-site-wins-an-award/
 tags:
-  - archaeology
+  - Archaeology
   - British Museum
 ---
 

@@ -7,8 +7,8 @@ featuredImg: ../images/2018/10/44701677975_69ceeaa570_k.jpg
 background: ../images/2018/10/44701677975_69ceeaa570_k.jpg
 section: blog
 tags:
-  - mozfest
-  - museums
+  - Mozfest
+  - Museums
 ---
 ![](../images/2018/10/44701677975_69ceeaa570_k.jpg)
 Over the weekend of the 27-28th October 2018 our team took a pop-up museum to [Ravensbourne University](https://www.ravensbourne.ac.uk) in Docklands to feature in the excellent [Mozilla Festival](https://mozillafestival.org/) of the Open Web. 
