@@ -7,9 +7,9 @@ slug: /blog/preparing-the-british-museum-bronze-age-index-for-transcription/
 featuredImg: ../images/crowdsourced.png
 background: ../images/crowdsourced.png
 tags:
-  - Archaeology
-  - Museums
-  - Citizen Science
+  - archaeology
+  - museums
+  - citizen science
 ---
 Originally published at: [http://blog.micropasts.org/2014/04/30/preparing-the-index/](http://blog.micropasts.org/2014/04/30/preparing-the-index/)
 

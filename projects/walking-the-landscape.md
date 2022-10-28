@@ -27,15 +27,16 @@ github_repo:
     name: Jekyll website
 zenodo_doi: 10.5281/zenodo.6563311
 tags:
-  - Landscape
-  - Phenomenonology
-  - Archaeology
-  - Museums
-  - Jekyll
-  - MVP
-  - Leaflet
-  - Tachyons
-  - GitHub Pages
+  - landscape
+  - phenomenonology
+  - archaeology
+  - museums
+  - jekyll
+  - mvp
+  - leaflet
+  - tachyons
+  - github pages
+  - IIIF
 ---
 ## About the project's research questions
 

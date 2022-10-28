@@ -10,16 +10,16 @@ funders:
 grant_number: AH/S012478/1
 grant_amount: £47,839
 tags:
-  - LOD
-  - Museums
-  - AHRC
-  - Jekyll
-  - RDF
-  - Linked Art
+  - lod
+  - museums
+  - ahrc
+  - jekyll
+  - rdf
+  - linked art
   - USA
-  - Classics
-  - Archaeology
-  - Networks
+  - classics
+  - archaeology
+  - networks
 role: Principal Investigator
 collaborators:
   - Anastasia Christophilopoulou

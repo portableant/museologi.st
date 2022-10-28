@@ -7,10 +7,10 @@ featuredImg: ../images/2014/02/544.jpeg
 background: ../images/backgrounds/lostchange.jpg
 slug: /blog/lostchange/
 tags:
-  - Mapping
-  - Archaeology
-  - Museum
-  - Digital Humanities
+  - mapping
+  - archaeology
+  - museums
+  - digital humanities
 ---
 Today sees the launch of [Lost Change](http://tracemedia.co.uk/lostchange, an innovative and experimental application that 
 allows coins found within England and Wales and recorded through the British Museum’s [Portable Antiquities Scheme](http://finds.org.uk/)(PAS), 

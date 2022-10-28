@@ -4,13 +4,14 @@ title: "Google Search Appliance - British Museum Knowledge Search"
 institution: The British Museum
 featuredImg: ../images/projects/gsa.jpg
 role: Project Lead
+geo_lat: 51.519400
+geo_lon: -0.126924
 tags:
-  - Museums
-  - Creative Economy 
-  - Enterprise search
-  - Museums
-  - Angular 
-  - Google Search Appliance
+  - museums
+  - creative economy 
+  - enterprise search
+  - angular 
+  - google search appliance
 collaborators:
   - Chris Michaels
   - Gordon Sandeman

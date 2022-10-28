@@ -7,9 +7,9 @@ section: blog
 featuredImg: ../images/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png
 background: ../images/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png
 tags:
-  - Jekyll
-  - Ruby
-  - Tutorial
+  - jekyll
+  - ruby
+  - tutorial
 ---
 
 ![3D instructional website screenshot](../images/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png)

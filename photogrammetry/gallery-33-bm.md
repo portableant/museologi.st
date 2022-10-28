@@ -17,15 +17,15 @@ github_repo:
     url: https://github.com/BritishMuseumDH/amaravatiPanel
     name: Panel from the stupa of Amaravati
 tags:
-  - Archaeology
-  - Museum
-  - British Museum
-  - Guerrilla
-  - 3D
-  - Photogrammetry
-  - India
-  - Buddhism
-  - Amaravati
+  - archaeology
+  - museums
+  - british museum
+  - guerrilla
+  - 3d
+  - photogrammetry
+  - india
+  - buddhism
+  - amaravati
 ---
 
 This collection of 3D scans was created for the British Museum's gallery 33.

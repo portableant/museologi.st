@@ -13,15 +13,15 @@ collaborators:
   - Jeremy Ottevanger
   - Olamalu
 tags:
-  - Digital
-  - Fitzwilliam
-  - Labels
-  - Gatsby
-  - API
-  - Node
+  - digital
+  - fitzwilliam
+  - labels
+  - gatsby
+  - api
+  - node
   - IIIF
-  - DirectUs
-  - GraphQL
+  - directUs
+  - graphQL
 slug: /projects/unlocking-the-portrait-miniature
 background: ../images/2022/unlocking.jpg
 featuredImg: ../images/2022/unlocking.jpg

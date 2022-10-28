@@ -33,7 +33,7 @@ const Map = ({geo_lon, geo_lat}) => {
                     />
                     <Marker position={[geo_lat, geo_lon]} icon={mapIcon}>
                         <Popup>
-                            Location of the scanning event
+                            Location associated
                         </Popup>
                     </Marker>
                 </MapContainer>

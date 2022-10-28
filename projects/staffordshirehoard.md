@@ -3,14 +3,16 @@ section: projects
 title: The Staffordshire Hoard Website
 institution: The British Museum
 role: Website Developer
+geo_lat: 51.519400
+geo_lon: -0.126924
 tags:
-  - Archaeology
-  - Museums
-  - Anglo-Saxon
-  - Web Development
-  - Portable Antiquities Scheme
-  - Open Data
-  - Digital Humanities
+  - archaeology
+  - museums
+  - anglo-saxon
+  - web development
+  - portable antiquities scheme
+  - open data
+  - digital humanities
 collaborators:
   - Katharine Kelland
   - Roger Bland

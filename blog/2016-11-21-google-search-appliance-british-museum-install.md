@@ -6,11 +6,11 @@ background: ../images/projects/gsa/gsa.jpg
 slug: /blog/google-search-appliance-british-museum-install/
 section: blog
 tags:
-   - Web
-   - Search
-   - Google
-   - British Museum
-   - Techie stuff
+   - web
+   - search
+   - google
+   - british museum
+   - techie stuff
 ---
 Working with Extended Content Solutions, I have been project/product managing the new &#8216;Knowledge Search tool' for the British Museum. Built using AngularJS on ECS's proprietary software, it pulls together multiple data sources through the use of Google Search Appliance.
 

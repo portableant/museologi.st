@@ -6,9 +6,9 @@ section: blog
 featuredImg: ../images/2022/09/IMG_20191225_094128.jpg
 background: ../images/2022/09/IMG_0088.jpg
 tags:
-  - Pericles
-  - Cat
-  - Grief
+  - pericles
+  - cat
+  - grief
 ---
 Today was a horrible day. Today we lost Pericles, our beloved cat. A creature who had been in our lives 
 since March 2008, a rescue cat from Battersea Dogs and Cats Home. Originally called Tommy Boy, we renamed 

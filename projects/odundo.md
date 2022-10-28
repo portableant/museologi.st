@@ -12,14 +12,16 @@ collaborators:
   - Helen Ritchie
 status: active
 tags:
-  - Audio
-  - Digital
-  - Odundo
-  - Fitzwilliam
-  - Cases 
-  - Labels
-  - Laravel 
-  - Directus
+  - audio
+  - digital
+  - odundo
+  - fitzwilliam
+  - cases 
+  - labels
+  - laravel 
+  - directus
+  - museums
+  - last minute digital
 ---
 A very simple and again last minute Fitzwilliam Museum digital intervention. The Director requested 
 the labels, text and audio for the exhibition to be put online a few days before opening. The problem was simple:

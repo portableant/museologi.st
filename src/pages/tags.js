@@ -2,10 +2,9 @@ import React from "react"
 import PropTypes from "prop-types"
 
 // Utilities
-import kebabCase from "lodash/kebabCase"
+import {kebabCase, startCase} from "lodash"
 
 // Components
-import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
 import Layout  from "../components/layouts/layout"
 import {Container,Row} from "react-bootstrap"
@@ -18,25 +17,23 @@ const TagsPage = ({
                           },
                       },
                   }) => (
-    <div>
-        <Helmet title={title} />
     <Layout>
         <Container>
-            <Row >
+            <Row className={"post-body"}>
             <h1 className="ml-4 mt-4">Tags</h1>
-            <ul className="list-unstyled row">
+            <ul className="list-group-flush row">
                 {group.map(tag => (
-                    <li key={tag.fieldValue} className="list-item col-4 border-top py-2">
+                    <li key={tag.fieldValue} className="list-item col-md-4 border-top py-2 d-flex justify-content-between align-items-start">
                         <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                            {tag.fieldValue} ({tag.totalCount})
+                            {startCase(tag.fieldValue)}
                         </Link>
+                        <span className="badge bg-dark">{tag.totalCount}</span>
                     </li>
                 ))}
             </ul>
             </Row>
         </Container>
     </Layout>
-    </div>
 )
 
 TagsPage.propTypes = {
@@ -74,3 +71,5 @@ export const pageQuery = graphql`
     }
   }
 `
+
+export const Head = () => <title>Tags used on this site</title>

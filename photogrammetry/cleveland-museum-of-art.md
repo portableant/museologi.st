@@ -10,11 +10,10 @@ geo_lat: 41.509218
 geo_lon: -81.612038
 tags:
   - USA
-  - Museums and the Web
-  - Guerrilla
-  - Sketchfab
-  - Museum
-  - Archaeology 
+  - guerrilla
+  - sketchfab
+  - museums
+  - archaeology 
 github_repo:
   -
     url: https://github.com/portableant/clevelandBuddha

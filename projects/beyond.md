@@ -12,12 +12,12 @@ funder:
   - The Fitzwilliam Museum
 cost: £2.75
 tags:
-  - Access
-  - Museums
-  - Creative Economy
-  - NFC
-  - QR
-  - Last minute digital
+  - access
+  - museums
+  - creative economy
+  - nfc
+  - qr
+  - last minute digital
 collaborators:
   - George Doji
   - Jane Munro  

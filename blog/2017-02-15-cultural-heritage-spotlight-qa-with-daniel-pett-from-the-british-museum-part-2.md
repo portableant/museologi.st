@@ -6,8 +6,9 @@ featuredImg: ../images/enlightenment-gallery-british-museum.jpg
 background: ../images/backgrounds/enlightenment-gallery-british-museum.jpg
 section: blog
 tags:
-  - British Museum
-  - 3D
+  - british museum
+  - 3d
+  - museums
 ---
 _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights our ongoing support of museums and cultural 
 institutions with free accounts and access to tools. In_ [_Cultural Heritage Spotlight_](https://blog.sketchfab.com/tag/culturalspotlight/)_, 

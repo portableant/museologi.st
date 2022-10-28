@@ -22,20 +22,20 @@ github_repo:
     name: Browser extension for the collection
 zenodo_doi: 10.5281/zenodo.6507793
 tags:
-    - Laravel
-    - Knowledge Integration
-    - Collections
-    - IIIF 
-    - Linked Art
-    - Elastic Search
-    - Hacking
+  - laravel
+  - knowledge integration
+  - collections
+  - IIIF 
+  - linked art
+  - elastic search
+  - hacking
 collaborators:
-    - Rosie Forrest
-    - George Doji
-    - Will Wilson
-    - Rob Tice 
-    - Mark Johnson
-    - Knowledge Integration
+  - Rosie Forrest
+  - George Doji
+  - Will Wilson
+  - Rob Tice 
+  - Mark Johnson
+  - Knowledge Integration
 ---
 After joining the Fitzwilliam I inherited the aging Collections Explorer system, with partially 
 complete work to create a new interface between Adlib, Portfolio and Knowledge Integration's CIIM software.

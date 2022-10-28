@@ -7,14 +7,14 @@ slug: /projects/legacy
 featuredImg: ../images/2022/p.81-1999.jpg
 background: ../images/2022/P_22_2003.jpeg
 tags:
- - Jekyll
- - Insecure code
- - Migration 
- - Legacy 
- - Code soup
- - Drupal 
- - Preservation
- - Digital preservation
+ - jekyll
+ - insecure code
+ - migration 
+ - legacy 
+ - code soup
+ - drupal 
+ - preservation
+ - digital preservation
 collaborators:
  - George Doji
  - Olivia Warren

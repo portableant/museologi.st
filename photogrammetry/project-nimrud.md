@@ -18,15 +18,15 @@ github_repos:
     license: CC-BY
     sketchfab: https://sketchfab.com/3d-models/gypsum-panel-north-west-palace-room-wg-1bb798ca75b840688d9be8d496f9665b
 tags:
-  - Archaeology
-  - Museum
-  - British Museum
-  - Guerrilla
-  - 3D
-  - Photogrammetry
-  - Nimrud
-  - Iraq
-  - Assyria
+  - archaeology
+  - museums
+  - british museum
+  - guerrilla
+  - 3d
+  - photogrammetry
+  - nimrud
+  - iraq
+  - assyria
 ---
 
 This collection of 3D scans consists of the reliefs held within the British Museum's Assyrian galleries on the ground floor.

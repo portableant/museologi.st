@@ -6,8 +6,8 @@ slug: /blog/3-d-modelling-workshops/
 featuredImg: ../images/2018/11/IMG_20181129_154927-PANO.jpg
 background: ../images/backgrounds/scanning.jpg
 tags:
-  - Techie stuff
-  - 3D
+  - techie stuff
+  - 3d
 ---
 **Thursday 29 November, 2-4pm** or **Monday 3 December, 10-12noon**
 

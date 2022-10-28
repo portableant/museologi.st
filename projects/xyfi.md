@@ -5,6 +5,8 @@ institution: The British Museum
 featuredImg: ../images/projects/xyfi/IMG_20170804_093629.jpg
 background: ../images/projects/xyfi/IMG_20170804_093629.jpg
 role: Museum Technology Lead
+geo_lat: 51.519400
+geo_lon: -0.126924
 documents:
   - location: /pdf/DevoteeSubtitlesData.pdf
     type: pdf
@@ -14,12 +16,12 @@ funders:
   - Google
   - Asahi Shimbun Foundation
 tags:
-  - 3D
+  - 3d
   - BYOD
-  - Google
-  - Philanthropy
-  - Museums
-  - Creative Economy
+  - google
+  - philanthropy
+  - museums
+  - creative economy
 collaborators:
   - Neil Wilkin
   - Holly Wright

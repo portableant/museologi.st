@@ -16,16 +16,16 @@ github_repo:
     name: Block XXIX South frieze
     sketchfab: https://sketchfab.com/3d-models/block-xxix-south-frieze-4f401e77d62c4efb9ba7943122a6edbe
 tags:
-  - Archaeology
-  - Museum
-  - British Museum
-  - Guerrilla
-  - 3D
-  - Photogrammetry
-  - Greece
-  - Parthenon
-  - Athens
-  - Acropolis
+  - archaeology
+  - museums
+  - british museum
+  - guerrilla
+  - 3d
+  - photogrammetry
+  - greece
+  - parthenon
+  - athens
+  - acropolis
 ---
 After I left the British Museum, I regularly returned to scan objects within the collection - mainly the large 
 friezes of the permanent collection as they are so easy to rapidly capture high quality data from. 

@@ -3,9 +3,9 @@ title: 'Things that go bump in the night: the Blackmoor hoard'
 date: 2014-11-03T09:58:20+01:00
 slug: /blog/things-that-go-bump-in-the-night-the-blackmoor-hoard/
 tag:
-  - Archaeology
-  - Museums
-  - Techie stuff
+  - archaeology
+  - museums
+  - techie stuff
 section: blog
 featuredImg: ../images/2016/11/Part-of-the-Blackmoor-Hoard-in-the-British-Museum-Collections.jpg
 background: ../images/backgrounds/MBA-hoard.jpg

@@ -13,11 +13,11 @@ github_repo:
     url: https://github.com/FitzwilliamMuseum/alexanderTheGreat
     name: Alexander the Great
 tags: 
-  - 3D
-  - Museums
-  - Archaeology
-  - Classics
-  - Photogrammetry
+  - 3d
+  - museums
+  - archaeology
+  - classics
+  - photogrammetry
 ---
 
 This collection of 3D scans was created for the Fitzwilliam Museum's Classical Archaeology collection.

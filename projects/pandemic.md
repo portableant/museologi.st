@@ -6,16 +6,18 @@ institution: The Fitzwilliam Museum
 slug: /projects/pandemic
 featuredImg: ../images/2020/03/IMG_20200318_000102_952.jpg
 background: ../images/2020/02/3sfgmx.jpg
+role: Head of Digital and IT
+geo_lat: 52.200205
+geo_lon: 0.119892 
 tags:
-  - Museums
-  - COVID-19
-  - Pandemic
-  - IT
-  - Digital
-  - Digital literacy 
-  - Digital skills
-  - Digital divide
-  - Leadership
+  - museums
+  - covid19
+  - pandemic
+  - digital
+  - digital literacy 
+  - digital skills
+  - digital divide
+  - leadership
 ---
 
 A week before first the first lockdown was implemented, I had suspicions that we would be working from

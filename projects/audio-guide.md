@@ -7,6 +7,8 @@ role: API Developer
 slug: /projects/british-museum-audio-guide
 featuredImg: ../images/2017/myVisitMuseum.png
 background: ../images/2015/audioGuideQueue.jpg
+geo_lat: 51.519400
+geo_lon: -0.126924
 start: 2015-09-21
 end: 2015-10-07
 status: active
@@ -16,14 +18,14 @@ github_repo:
     name: Source code for the API
 zenodo_doi: 10.5281/zenodo.35098
 documents:
-    - title: "Multimedia Guide User Analysis by Casey Scott Songin"
-      location: /pdf/AudioGuideUsability160916.pdf
-      type: pdf
+  - title: "Multimedia Guide User Analysis by Casey Scott Songin"
+    location: /pdf/AudioGuideUsability160916.pdf
+    type: pdf
 tags:
-    - Museums
-    - Audio Guides
-    - API
-    - Web
+  - museums
+  - audio guides
+  - api
+  - web
 ---
 In 2015, I joined the Department of Digital and Publishing at the British Museum. The first project
 I was asked to help with, was to create an API for the audio guides endpoint for the public to retrieve 

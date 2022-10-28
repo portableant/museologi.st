@@ -10,13 +10,13 @@ slug: /projects/flutter-app-development
 section: projects
 role: Developer
 tags:
-  - Flutter
-  - Mobile
-  - Dart
-  - Android 12
-  - iOS
-  - Museums
-  - Creative Economy
+  - flutter
+  - mobile
+  - dart
+  - android 12
+  - ios
+  - museums
+  - creative economy
 featuredImg: ../images/2022/flutter/splashscreen.png
 background: ../images/2022/flutter/banner.png
 ---
@@ -75,5 +75,5 @@ based BYOD projects, there was no appetite amongst the senior team to innovate.
 
 
 <div class="ratio-4x3 ratio my-3">
-  <video src="/screen.mp4" controls></video>
+  <video src="/video/screen.mp4" controls></video>
 </div>

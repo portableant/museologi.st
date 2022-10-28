@@ -6,10 +6,14 @@ slug: /blog/instaphish
 featuredImg: ../images/2020/10/featured-image.jpg
 background: ../images/2020/10/featured-image.jpg
 tags:
-  - Techie stuff
-  - Phishing
-  - Mistakes
-  - Socmedia
+  - techie stuff
+  - phishing
+  - mistakes
+  - socmedia
+  - museums
+  - arts
+  - culture
+  - social media
 geo_lat: 52.200205 
 geo_lon: 0.119892
 ---

@@ -4,16 +4,18 @@ title: Day of Archaeology
 institution: The British Museum
 featuredImg: ../images/projects/dayofarch/5739627950_ef12967b93_o.jpg
 background: ../images/projects/dayofarch/dayofarch-tweets-detail.jpg
+geo_lat: 51.524863
+geo_lon: -0.131699
 tags:
   - public archaeology
   - digital archaeology
   - digital humanities
   - blogging
   - social media
-  - 3D
-  - Museums
+  - 3d
+  - museums
   - Creative Economy
-  - AHRC
+  - ahrc
 collaborators:
   - Lorna Richardson
   - Matt Law

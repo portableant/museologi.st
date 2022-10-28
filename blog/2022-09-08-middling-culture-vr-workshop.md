@@ -6,11 +6,11 @@ section: blog
 featuredImg: ../images/2022/09/natgx.jpg
 background: ../images/2022/09/lantern.jpg
 tags:
-  - VR
-  - Research
+  - virtual reality
+  - research
   - KCL
-  - National Gallery
-  - Kent University
+  - national gallery
+  - kent university
 ---
 Yesterday I went to a workshop organised by Graeme Earl (KCL and soon SOAS) and Catherine Richardson (Kent)
 for their AHRC funded [Middling Culture](https://middlingculture.com) project. 

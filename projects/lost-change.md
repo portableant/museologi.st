@@ -16,10 +16,10 @@ background: ../images/projects/lost-change/lost.jpg
 date: 2014-02-06T22:51:56+01:00
 project_website: http://tracemedia.co.uk/lost-change/
 tags:
-  - AHRC
-  - CreativeWorks London
-  - Numismatics
-  - Museums
+  - ahrc
+  - creativeworks london
+  - numismatics
+  - museums
 ---
 Lost Change, an innovative and experimental application that allows coins found within England and Wales and recorded through the British Museum’s Portable Antiquities Scheme (PAS), to be visualised on an interactive, dual-mapping interface. This tool enables people to interrogate a huge dataset (over 300,000 coin records can be manipulated) and discover links between coins’ place of origin (the issuing mint or a more vague attribution if this location is uncertain) and where they were discovered and then subsequently reported to the PAS Finds Liaison Officers.
 

@@ -7,4 +7,8 @@ featuredImgAlt: 'New York - Peruvian gold mask from the Met'
 slug: /photographs/new-york-mask-from-the-met/
 tags:
   - archaeology
+  - new york
+  - lawdi
+geo_lat: 40.779444
+geo_lon: -73.96323
 ---

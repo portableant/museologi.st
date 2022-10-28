@@ -1,7 +1,7 @@
 import {graphql} from "gatsby";
 import * as React from "react";
 import Layout from "../components/layouts/layout";
-import {Container, Row, Badge, Col} from "react-bootstrap";
+import {Container, Row, Badge} from "react-bootstrap";
 import FairData from "../components/elements/fair-data";
 import Publications from "../components/elements/publications";
 import People from "../components/elements/people";
@@ -12,8 +12,13 @@ import Vimeo from "../components/elements/vimeo";
 import SlideShow from "../components/elements/slide-show";
 import HeaderImage from "../components/elements/headerImage";
 import PlyrAudio from "../components/elements/plyr-audio";
+import Tags from '../components/elements/tag';
+import Map from "../components/elements/map";
+
 export default function ProjectsPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, html} = markdownRemark;
+    const isSSR = typeof window === "undefined";
+
     return (
         <Layout>
             <HeaderImage backgroundImage={frontmatter.background}/>
@@ -23,7 +28,9 @@ export default function ProjectsPageTemplate({data: {markdownRemark}}) {
                     <div className="px-4">
                         <h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1>
                         {frontmatter.date && <h2 className="text-primary small">{frontmatter.date}</h2>}
-                        {frontmatter.role && <Badge className="bg-dark p-2">Role(s): {frontmatter.role}</Badge>}
+                        {frontmatter.role && <Badge className="bg-dark p-2 my-1 mx-1">Role(s): {frontmatter.role}</Badge>}
+                        {frontmatter.institution && <Badge className="bg-dark p-2 my-1 mx-1">{frontmatter.institution}</Badge>}
+
                     </div>
                     <div className="post-body bg-white text-black p-4" dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
@@ -44,19 +51,10 @@ export default function ProjectsPageTemplate({data: {markdownRemark}}) {
             {frontmatter.images && <Container fluid className="bg-dark mt-3 p-3 text-white">
                 <SlideShow images={frontmatter.images}></SlideShow>
             </Container>}
-            <Container fluid className={"bg-pastel"}>
-                <Container>
-                    <Row>
-                        {frontmatter.tags && <Col md={12} className="px-4 mb-2">
-                            {frontmatter.tags.map((item, i) => (
-                                <Badge className="bg-dark mx-1 my-1 p-2" key={i}>
-                                    {item}
-                                </Badge>
-                            ))}
-                        </Col>}
-                    </Row>
-                </Container>
-            </Container>
+            <Tags tags={frontmatter.tags} />
+            {!isSSR && frontmatter.geo_lat && (
+                <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
+            )}
         </Layout>
     );
 }
@@ -91,6 +89,8 @@ export const pageQuery = graphql`
                 collaborators
                 institution
                 publications
+                geo_lat
+                geo_lon
                 news{
                     title
                     url

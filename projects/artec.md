@@ -8,17 +8,17 @@ slug: /projects/artec-leo
 featuredImg: ../images/2019/artec/artec.jpg
 background: ../images/2019/artecLeoScreens.jpg
 tags:
-   - 3D
-   - Structured light
-   - Scanning
-   - Museum 
-   - Digital Transformation
+  - 3d 
+  - structured light 
+  - scanning 
+  - museums 
+  - digital transformation
 collaborators:
-   - Melanie Pitkin
-   - Vicky Avery 
-   - Paola Ricciardi
-   - Georg Doji
-   - Elenora Gandolfi
+  - Melanie Pitkin 
+  - Vicky Avery 
+  - Paola Ricciardi 
+  - Georg Doji 
+  - Elenora Gandolfi
 ---
 Within a couple of weeks of joining the Fitzwilliam Museum, an opportunity arose to purchase a structured 
 light scanner, and to develop the potential capabilities of the Museum to more effectively capture and

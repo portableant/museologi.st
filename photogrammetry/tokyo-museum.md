@@ -7,12 +7,11 @@ geo_lat: 35.718452
 geo_lon: 139.776200
 slug: /photogrammetry/tokyo-museum
 tags:
-  - Photogrammetry
-  - 3D
-  - Museums
+  - photogrammetry
+  - 3d
+  - museums
   - Japan
-  - Tokyo
-  - National Museum
+  - tokyo
 ---
 
 This collection of 3D scans was created on a quick 3 days trip to Tokyo.

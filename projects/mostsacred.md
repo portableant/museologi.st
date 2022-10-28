@@ -41,13 +41,13 @@ documents:
 publications:
   - "Gee, L ‘A Task enough to make one frantic’: William Hayley’s Memorialising, European Journal of Life Writing, 9 (2020): DOI https://doi.org/10.21827/ejlw.9.36899"
 tags:
-  - Museums
-  - Laravel
-  - Vue
-  - Digital Humanities
-  - British Academy
-  - Leverhulme Trust
-  - Cambridge Humanities Research Grants
+  - museums
+  - laravel
+  - vue
+  - digital humanities
+  - british academy
+  - leverhulme trust
+  - cambridge humanities
 ---
 This pilot project from the Fitzwilliam Museum, Cambridge, explores how we can best organise and display William Hayley’s 
 correspondence to highlight connections between people, places and the production of literature and visual art. It was 

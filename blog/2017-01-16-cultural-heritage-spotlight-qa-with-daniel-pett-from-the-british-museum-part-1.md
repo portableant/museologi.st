@@ -4,7 +4,12 @@ date: 2017-01-16T07:04:46+01:00
 author: Daniel Pett
 slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-1/
 tags:
-  - Techie stuff
+  - techie stuff
+  - 3d
+  - museums
+  - archaeology
+  - scanning
+  - printing
 featuredImg: ../images/british-museum.jpg
 background: ../images/backgrounds/british-museum.jpg
 section: blog

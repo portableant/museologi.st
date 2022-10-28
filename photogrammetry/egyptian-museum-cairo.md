@@ -7,11 +7,11 @@ geo_lat: 30.047472
 geo_lon: 31.233682
 slug: /photogrammetry/egyptian-museum-cairo
 tags:
-  - Museums
-  - 3D
-  - Photogrammetry
-  - Egypt
-  - Cairo
+  - museums
+  - 3d
+  - photogrammetry
+  - egypt
+  - cairo
 ---
 This collection of 3D scans was made during the second set of Fitzwilliam Museum collaborative work with the EMC.
 

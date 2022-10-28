@@ -5,13 +5,15 @@ import Layout from "../components/layouts/layout";
 import {Link, graphql} from "gatsby"
 import PostLink from "../components/structure/post-link";
 import {Container, Row, Button, Col} from "react-bootstrap";
+// Utilities
+import {startCase} from "lodash"
 
 const Tags = ({pageContext, data}) => {
     const {tag} = pageContext
     const {edges, totalCount} = data.allMarkdownRemark
     const tagHeader = `${totalCount} post${
         totalCount === 1 ? "" : "s"
-    } tagged with "${tag}"`
+    } tagged with "${startCase(tag)}"`
 
     return (
         <Layout>

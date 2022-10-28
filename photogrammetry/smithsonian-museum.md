@@ -8,13 +8,13 @@ geo_lon: -77.026
 updated: 2019-11-11
 slug: /photogrammetry/smithsonian-museum
 tags:
-    - Museum
-    - 3D
-    - Photogrammetry
-    - Guerrilla
-    - Smithsonian
-    - Washington
-    - USA
+  - museums
+  - 3d
+  - photogrammetry
+  - guerrilla
+  - smithsonian
+  - washington
+  - USA
 ---
 
 This collection of 3D scans was created during the AHRC UK/USA collaborative event in Washington DC in September 2019.

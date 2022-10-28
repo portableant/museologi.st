@@ -6,11 +6,11 @@ background: ../images/british-museum.jpg
 section: blog
 slug: /blog/day-of-archaeology-2011/
 tags:
-  - Archaeology
-  - Public archaeology
-  - Museums
-  - Blogging
-  - Digital Humanities
+  - archaeology
+  - public archaeology
+  - museums
+  - blogging
+  - digital humanities
 ---
 ![Day of Archaeology screenshot](../images/2011/04/day-of-archaeology.jpg)
 

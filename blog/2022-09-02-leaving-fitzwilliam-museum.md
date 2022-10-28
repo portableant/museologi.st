@@ -8,10 +8,10 @@ background: ../images/2022/09/IMG_20190306_142327.jpg
 geo_lat: 52.200205
 geo_lon: 0.119892
 tags:
-  - Museums
-  - Job Hunting
-  - Redundancy
-  - Legacy
+  - museums
+  - job hunting
+  - redundancy
+  - legacy
 ---
 Today was my last day at the Fitzwilliam Museum after nearly 4.5 years of turbulent times - pandemic, new leadership, restructure. The Museum 
 has gone through a belated period of organisational change, and I left as part of this process. I 

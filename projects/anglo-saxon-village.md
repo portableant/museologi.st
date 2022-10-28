@@ -7,28 +7,29 @@ role: Project Lead
 slug: /projects/anglo-saxon-village
 featuredImg: ../images/2005/10/858394380_d3a370c466_o.jpg
 background: ../images/2005/10/858394380_d3a370c466_o.jpg
+geo_lat: 51.519400
+geo_lon: -0.126924
 tags:
-   - Flash
-   - Interactive
-   - Archaeology
-   - Museum
-   - Digital Transformation
+  - flash
+  - interactive
+  - archaeology
+  - museums
+  - digital transformation
 collaborators:
-   - Cei Paynton
-   - Helen Geake
-   - Claire Costin
-   - Roger Bland 
-   - BM Education
-   - Michael Lewis
-   - DCMS
-   - "Museum, Libraries and Archives Council"
+  - Cei Paynton
+  - Helen Geake
+  - Claire Costin
+  - Roger Bland
+  - BM Education
+  - Michael Lewis 
+  - DCMS
+  - "Museum, Libraries and Archives Council"
 github_repo:
-   - url: https://github.com/portableant/anglo-saxon-village
-     name: Source code for the Anglo-Saxon Village
+  - url: https://github.com/portableant/anglo-saxon-village
+    name: Source code for the Anglo-Saxon Village
 ---
 
 >  The sun is setting on the village of West Mucking. Around you, animal noises mingle with voices. Hens are clucking, pigs are snuffling, and further away you can hear sheep bleating. The villagers are finishing their work for the day; they call to each other as they pass you, coming back from the fields or woodland, carrying their tools. You can smell the smoke from hearths in the houses, and also the piles of rubbish! From one of the houses comes laughter... Use mock archaeological methods to uncover the village.
-
 
 In 2005, the Portable Antiquities Scheme had £20,000 to spend on the creation of a digital tool for primary school children
 in England and Wales. We collaborated with the British Museum's New Media Unit to create a Flash-based interactive 

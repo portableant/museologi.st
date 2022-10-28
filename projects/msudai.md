@@ -35,7 +35,7 @@ publications:
 tags:
   - NEH
   - USA
-  - Collaboration
+  - collaboration
 ---
 This project was one of the most influential experiences on my career - a National Endowment for the Humanities (NEH) funded Institute led by Ethan Watrall and Lynne Goldstein. 
 It influenced so much of what I do now, it made me friends for life and if it could be done again, I would drop everything to go.

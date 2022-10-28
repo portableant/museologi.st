@@ -11,11 +11,13 @@ github_repo:
   - url: https://github.com/fitzwilliamMuseum/peripleo
     name: Peripleo map
 tags:
-  - Digital
-  - Fitzwilliam
-  - Labels
-  - Laravel 
-  - Directus
+  - digital
+  - fitzwilliam
+  - labels
+  - laravel 
+  - directus
+  - museums
+  - last minute digital
 ---
 True to Nature was another project which came around with out digital outputs specified fully in the 
 exhibition planning brief. However, there was a request from the curatorial team to produce a rich set of pages

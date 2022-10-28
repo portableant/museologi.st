@@ -11,12 +11,12 @@ github_repo:
     url: https://github.com/portableant/buddhistPillar
     name: Buddhist pillar from Kyoto
 tags:
-  - 3D
-  - Archaeology
-  - Japan
-  - Buddhism
-  - Photogrammetry
-  - Guerrilla
+  - 3d
+  - archaeology
+  - japan
+  - buddhism
+  - photogrammetry
+  - guerrilla
   - Kyoto
 
 ---

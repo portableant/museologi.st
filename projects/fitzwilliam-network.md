@@ -9,14 +9,13 @@ background: ../images/gbn.jpg
 role: Museum project leader
 status: active
 tags:
-  - TCP/IP
-  - Networks
-  - WAN/LAN
-  - Museums
-  - Cisco
-  - Information services
-  - Gigabit 
-  - GBN/CUDN
+  - networks
+  - museums
+  - cisco
+  - information services
+  - gigabit 
+  - cudn
+  - gbn
 collaborators:
   - Michael Warren 
   - Rob Howard

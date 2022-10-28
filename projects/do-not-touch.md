@@ -12,10 +12,10 @@ funders:
   - Cambridge University Industry Pump Priming Fund
 grant_amount: £18,000
 tags:
-  - 3D
-  - Museums
-  - Creative Economy
-  - AHRC
+  - 3d
+  - museums
+  - creative economy
+  - ahrc
 collaborators:
   - Joanne Vine
   - Helena Rodwell

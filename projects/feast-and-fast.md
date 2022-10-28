@@ -21,51 +21,52 @@ collaborators:
   - David Evans
   - Cambridge Art Makers
 tags:
-  - Jekyll
-  - Museums
-  - Food
-  - Digital Humanities
-  - AHRC 
-  - CEEF3D 
-  - MIAB
-  - Museum in a Box
+  - jekyll
+  - museums
+  - food
+  - digital humanities
+  - ahrc 
+  - ceef3d
+  - miab
+  - museum in a Box
+  - last minute digital
 audio:
-- title: 1 - Mr Pinchy
-  location: /audio/mrPinchy.wav
-  type: audio/wav
-  author: Abi Glen
-  project: MIAB - Feast and Fast
-- title: "2 - Hares Roasting A Hunter: Narrative"
-  location: /audio/haresRoasting.wav
-  type: audio/wav
-  author: Abi Glen
-  project: MIAB - Feast and Fast
-- title: "3 - Hares Roasting A Hunter"
-  location: /audio/haresRoastingStory.wav
-  type: audio/wav  
-  author: Abi Glen
-  project: MIAB - Feast and Fast
-- title: "4 - Fat Kitchen"
-  location: /audio/fatKitchen.wav
-  type: audio/wav  
-  author: Abi Glen
-  project: 5 - MIAB - Feast and Fast
-- title: "Thin Kitchen"
-  location: /audio/thinKitchen.wav
-  type: audio/wav  
-  author: Abi Glen
-  project: MIAB - Feast and Fast
+   - title: 1 - Mr Pinchy
+     location: /audio/mrPinchy.wav
+     type: audio/wav
+     author: Abi Glen
+     project: MIAB - Feast and Fast
+   - title: "2 - Hares Roasting A Hunter: Narrative"
+     location: /audio/haresRoasting.wav
+     type: audio/wav
+     author: Abi Glen
+     project: MIAB - Feast and Fast
+   - title: "3 - Hares Roasting A Hunter"
+     location: /audio/haresRoastingStory.wav
+     type: audio/wav  
+     author: Abi Glen
+     project: MIAB - Feast and Fast
+   - title: "4 - Fat Kitchen"
+     location: /audio/fatKitchen.wav
+     type: audio/wav  
+     author: Abi Glen
+     project: 5 - MIAB - Feast and Fast
+   - title: "Thin Kitchen"
+     location: /audio/thinKitchen.wav
+     type: audio/wav  
+     author: Abi Glen
+     project: MIAB - Feast and Fast
 images:
-  - caption: "Ivan Day's magical creations"
-    image: ../images/2019/IMG_20191125_162422.jpg
-  - caption: "Feast and Fast being installed"
-    image: ../images/2019/IMG_20191125_145106.jpg
-  - caption: "The 3 boxes installed in the exhibition space"
-    image: ../images/2019/IMG_20200203_161803.jpg
-  - caption: "The 3 boxes installed in the exhibition space"
-    image: ../images/2019/IMG_20200203_161749.jpg
-  - caption: "The creative zone in the exhibition space"
-    image: ../images/2019/IMG_20191202_115723.jpg
+     - caption: "Ivan Day's magical creations"
+       image: ../images/2019/IMG_20191125_162422.jpg
+     - caption: "Feast and Fast being installed"
+       image: ../images/2019/IMG_20191125_145106.jpg
+     - caption: "The 3 boxes installed in the exhibition space"
+       image: ../images/2019/IMG_20200203_161803.jpg
+     - caption: "The 3 boxes installed in the exhibition space"
+       image: ../images/2019/IMG_20200203_161749.jpg
+     - caption: "The creative zone in the exhibition space"
+       image: ../images/2019/IMG_20191202_115723.jpg
 ---
 
 The Feast and Fast exhibition presented one of my first digital challenges and interesting problems

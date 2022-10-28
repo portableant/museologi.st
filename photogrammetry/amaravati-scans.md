@@ -24,14 +24,15 @@ github_repo:
     url: https://github.com/BritishMuseumDH/amaravatiPanel
     name: Panel from the stupa of Amaravati
 tags:
-  - India
-  - Looted
-  - Archaeology
-  - Amaravati
-  - Photogrammetry
-  - Exhibition
-  - Gallery
-  - Guerrilla
+  - india
+  - looted
+  - archaeology
+  - amaravati
+  - photogrammetry
+  - exhibition
+  - gallery
+  - guerrilla
+  - museums
 ---
 This collection of scans was created for a collaboration with Soluis Heritage in 2017, when 
 they created an interactive reconstruction of the temple of Amaravati. These scans were meant to 

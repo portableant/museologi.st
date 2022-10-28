@@ -7,6 +7,7 @@ geo_lat: 51.52883731
 geo_lon: -0.17265107
 tags:
   - cricket
+  - lords
 featuredImg: ../images/2011/06/IMAG0172-1.jpg
 featuredImgAlt: "England vs Sri Lanka, Lord's 2011"
 ---

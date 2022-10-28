@@ -6,6 +6,8 @@ background: ../images/2017/11/IMG_20171109_072823.jpg
 slug: /projects/iperion-3d
 date: 2017-11-10T00:00:00+01:00
 institution:  The British Museum
+geo_lat: 51.519400
+geo_lon: -0.126924
 collaborators:
   - Daniel O'Flynn
   - Jennifer Wexler 
@@ -13,10 +15,10 @@ collaborators:
   - Joanne Dyer
 tags:
   - Conferences
-  - 3D 
-  - Photogrammetry
-  - Research
-  - British Museum 
+  - 3d
+  - photogrammetry
+  - research
+  - british museum 
 news: 
   - url: https://www.vam.ac.uk/blog/news/3d-imaging-in-cultural-heritage
     title: V&A blog post

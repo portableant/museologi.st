@@ -7,13 +7,13 @@ institution: The Fitzwilliam Museum
 featuredImg: ../images/2022/09/81054a89307570df8d056cae72911e95043b8344.jpg
 background: ../images/2022/09/IMG_20191219_114201.jpg
 tags:
-  - Omeka S
-  - Decolonisation
-  - Museums
-  - Prototype
-  - Linked Data
-  - Schemas
-  - Geospatial
+  - omeka S
+  - decolonisation
+  - museums
+  - prototype
+  - linked data
+  - schemas
+  - geospatial
 collaborators:
   - Vicky Avery
   - Dawnanna Kreeger

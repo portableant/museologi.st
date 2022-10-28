@@ -52,6 +52,14 @@ vimeo:
   - 305722885
   - 569408117
   - 569399617
+tags:
+  - cairo
+  - egypt
+  - jekyll
+  - digital humanities
+  - museums
+  - knowledge transfer
+  - british council
 ---
 The Egyptian Coffins Project is a collaboration between the Fitzwilliam Museum, Cambridge, and the Egyptian Museum, Cairo and I was fortunate to be invited to join the team for this project. 
 

@@ -7,7 +7,7 @@ featuredImg: ../images/2011/05/caspar.jpg
 background: ../images/british-museum.jpg
 tags:
   - CASPAR
-  - ACRNCaspar
+  - ACRNCASPAR
 ---
 
 ## Workshop on Archaeologists &#038; The Digital: Towards Strategies of Engagement

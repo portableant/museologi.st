@@ -6,9 +6,12 @@ featuredImg: ../images/2011/06/IMAG0222-1.jpg
 featuredImgAlt: Throw me the idol, Indy in FAO Schartz
 section: image
 slug: /photographs/indy-in-fao-schwartz/
-geo_lat: 40.70208132
-geo_lon: -74.01298565
+geo_lat: 40.758773
+geo_lon: -73.979363
 tags:
-  - Meandering
+  - meandering
+  - shops
+  - new york
+  - lawdi
 ---
 

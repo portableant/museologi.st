@@ -49,13 +49,13 @@ github_repo:
     license: CC-BY-NC-SA
     sketchfab: https://sketchfab.com/3d-models/statue-of-the-ram-of-amun-35d49b6d599045d6ba1dd41999b0012e
 tags:
-  - Egyptian
-  - Egypt
-  - Archaeology
-  - Museums
-  - Photogrammetry
-  - 3D
-  - VR
+  - egyptian
+  - egypt
+  - archaeology
+  - museums
+  - photogrammetry
+  - 3d
+  - vr
 ---
 
 This collection of 3D scans was created for the British Museum's Egyptian galleries.

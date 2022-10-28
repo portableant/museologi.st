@@ -7,11 +7,11 @@ slug: /photogrammetry/lewis-chessmen
 geo_lat: 51.519400
 geo_lon: -0.126924
 tags: 
-  - Archaeology
-  - Museum
-  - British Museum
-  - 3D
-  - Photogrammetry
+  - archaeology
+  - museums
+  - british museum
+  - 3d
+  - photogrammetry
 ---
 
 This collection of 3D scans was created for the British Museum's gallery 40.

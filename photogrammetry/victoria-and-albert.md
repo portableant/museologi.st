@@ -7,9 +7,9 @@ featuredImg: ../images/backgrounds/vam.jpg
 background: ../images/backgrounds/vam.jpg
 slug: /photogrammetry/victoria-and-albert
 tags:
-  - Museums
-  - 3D 
-  - Photogrammetry
+  - museums
+  - 3d 
+  - photogrammetry
 ---
 
 A collection of models from the V&A, South Kensington.

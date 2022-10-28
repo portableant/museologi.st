@@ -22,10 +22,10 @@ github_repo:
   - url: https://github.com/FitzwilliamMuseum/fitz-being-an-islander
     name: The Being an Islander project website
 tags:
-  - Archaeology
-  - Web
-  - Collaboration
-  - Museums
+  - archaeology
+  - web
+  - collaboration
+  - museums
 ---
 I've been lucky to work on this project with my friend and 
 ex-colleague Anastasia Christophilopolou over the last couple of years. She 

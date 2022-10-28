@@ -4,6 +4,8 @@ title: The Portable Antiquities Scheme
 institution: The British Museum
 featuredImg: ../images/backgrounds/4202540707_1eee311017_o.jpg
 date: 2003-04-29T22:51:56+01:00
+geo_lat: 51.519400
+geo_lon: -0.126924
 funders:
   - DCMS 
   - Museums, Libraries and Archives Council
@@ -21,11 +23,14 @@ collaborators:
   - Sam Moorhead
   - Ethan Gruber
 tags:
-  - FOSS
-  - Open Data
-  - Open Source
-  - Archaeology
-  - Numismatics
+  - foss
+  - open data
+  - open source
+  - archaeology
+  - numismatics
+  - portable antiquities scheme
+  - citizen science
+  - MLA
 slug: /projects/the-portable-antiquities-scheme
 status: active
 background: ../images/backgrounds/3040949218_e8ba0e87b2_k.jpg

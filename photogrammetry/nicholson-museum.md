@@ -7,13 +7,13 @@ geo_lat: -33.886335
 geo_lon: 151.188722
 slug: /photogrammetry/nicholson-museum
 tags:
-  - Museum
-  - 3D
-  - Photogrammetry
-  - Sydney
-  - Australia
-  - Guerrilla
-  - Nicholson Museum
+  - museums
+  - 3d
+  - photogrammetry
+  - sydney
+  - australia
+  - guerrilla
+  - nicholson museum
 ---
 
 These models were created during my fellowship at ANU during a tour of the museum from Dr Jamie Fraser.

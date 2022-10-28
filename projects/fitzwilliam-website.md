@@ -34,10 +34,10 @@ documents:
     title: One Further Treejack report
     type: pdf
 tags:
-  - Bootstrap
-  - Laravel
-  - Web Dev
-  - Museums
+  - bootstrap
+  - laravel
+  - web development
+  - museums
   - UX
 ---
 
@@ -196,7 +196,7 @@ However, this aspect just didn't seem to click with our audiences and take up of
 
 ## UX survey 
 
-The Museum [tendered for UX research](/ux.pdf) on the Beta website and received just two tenders for the work (probably due to the low value of the contract). The steering group 
+The Museum [tendered for UX research](/pdf/ux.pdf) on the Beta website and received just two tenders for the work (probably due to the low value of the contract). The steering group 
 chose One Further to execute the work. Their report can be found in the documents section at the foot of the page, 
 and we acted pretty quickly to fix everything that they found out. 
 

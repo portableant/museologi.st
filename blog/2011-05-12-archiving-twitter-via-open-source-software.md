@@ -7,8 +7,8 @@ background: ../images/british-museum.jpg
 section: blog
 slug: /blog/archiving-twitter-via-open-source-software/
 tags:
-  - Archives
-  - Twitter
+  - archives
+  - twitter
 ---
 Over the last few months I've been helping [Lorna Richardson](http://twitter.com/lornarichardson "Lorna's twitter account"), PhD student at the [Centre for Digital Humanities at UCL](http://www.ucl.ac.uk/dh/ "Digital humanities at UCL").
 

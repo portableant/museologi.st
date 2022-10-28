@@ -31,12 +31,13 @@ images:
   - image: ../images/2020/02/page5.jpg
     caption: "Page 5 of the application"
 tags:
-  - Digital
-  - Fitzwilliam
-  - Labels
-  - AR
-  - Apps
-  - Augmented Reality
+  - digital
+  - fitzwilliam
+  - labels
+  - augmented reality
+  - ar
+  - apps
+  - museums
 ---
 This project was an Augmented Reality intervention to accompany the Inspire 2020 exhibition 
 held in the Octagon gallery of the Fitzwilliam Museum. 
@@ -72,5 +73,5 @@ particularly high, but it gives a sense of the experience. The app is now defunc
 has expired.
 
 <div class="ratio ratio-16x9 my-3">
-    <video controls src="/VID_414250210_212732_641.mp4" />
+    <video controls src="/video/VID_414250210_212732_641.mp4" />
 </div>

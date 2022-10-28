@@ -16,12 +16,12 @@ github_repo:
     name: Pump priming source code
 zenodo_doi: 10.5281/zenodo.6471455
 tags:
-  - Photogrammetry
-  - Museums
-  - Citizen Science
-  - Co-Curation
-  - 3D Modeling
-  - Workshops
+  - photogrammetry
+  - museums
+  - citizen science
+  - co-curation
+  - 3d modeling
+  - workshops
 documents: 
   - title: Pump Priming - the road to learning 3D modeling skills - Application
     location: /pdf/pumpPrimingApplication.pdf

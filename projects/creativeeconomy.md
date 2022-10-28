@@ -10,10 +10,10 @@ funders:
 grant_number: AH/S012583/1
 grant_amount: £201,557
 tags:
-  - 3D
-  - Museums
-  - Creative Economy
-  - AHRC
+  - 3d
+  - museums
+  - creative economy
+  - ahrc
 collaborators:
   - Abi Glen
   - Joanne Vine
@@ -22,7 +22,7 @@ collaborators:
   - Melanie Pitkin
 partners:
   - ThinkSee3D
-  - Museum in a Box
+  - museum in a box
 github_repo: 
   - url: https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows
     name: Website source code

@@ -1,10 +1,11 @@
 import {graphql} from "gatsby";
 import * as React from "react";
 import Layout from "../components/layouts/layout";
-import {Badge, Col, Container, Row} from "react-bootstrap";
+import {Container, Row} from "react-bootstrap";
 import HeaderImage from "../components/elements/headerImage";
 import Map from "../components/elements/map";
 import FairData from "../components/elements/fair-data";
+import Tags from '../components/elements/tag';
 
 export default function PhotogrammetryPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, html} = markdownRemark;
@@ -13,10 +14,10 @@ export default function PhotogrammetryPageTemplate({data: {markdownRemark}}) {
         <Layout>
             <HeaderImage backgroundImage={frontmatter.background}/>
             <Container>
-                <Row>
+                <Row className={"post-body"}>
                     <div className="px-4">
                         <h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1>
-                        <h2 className="text-black lead">{frontmatter.date}</h2>
+                        <h2 className="text-primary small">{frontmatter.date}</h2>
                     </div>
                     <div className="post-body bg-white text-black p-4"
                          dangerouslySetInnerHTML={{__html: html}}/>
@@ -30,19 +31,8 @@ export default function PhotogrammetryPageTemplate({data: {markdownRemark}}) {
                               deposited_archive={frontmatter.deposited_archive}/>
                 </Container>
             </Container>
-            <Container fluid className={"bg-pastel"}>
-                <Container>
-                    <Row>
-                        {frontmatter.tags && <Col md={12} className="px-4 mb-2">
-                            {frontmatter.tags.map((item, i) => (
-                                <Badge className="bg-dark mx-1 my-1 p-2" key={i}>
-                                    {item}
-                                </Badge>
-                            ))}
-                        </Col>}
-                    </Row>
-                </Container>
-            </Container>
+            <Tags tags={frontmatter.tags}/>
+
             {!isSSR && frontmatter.geo_lat && (
                 <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
             )}

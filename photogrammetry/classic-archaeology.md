@@ -9,13 +9,13 @@ country: England
 geo_lat: 52.200785
 geo_lon: 0.110219
 tags:
-  - Museums
-  - 3D
-  - Photogrammetry
-  - Cambridge
-  - England
-  - Archaeology
-  - Classics
+  - museums
+  - 3d
+  - photogrammetry
+  - cambridge
+  - england
+  - archaeology
+  - classics
 ---
 A collection of scans of the casts of the wonderful classical Archaeology building.
 

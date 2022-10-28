@@ -33,12 +33,12 @@ github_repo:
     license: CC-BY
     sketchfab: https://sketchfab.com/models/0b5b721c53fa4812a9a8dd8d98a5cd88
 tags:
-  - Archaeology
-  - Museum
-  - British Museum
-  - Guerrilla
-  - 3D
-  - Photogrammetry
+  - archaeology
+  - museums
+  - british museum
+  - guerrilla
+  - 3d
+  - photogrammetry
 ---
 This collection of 3D scans consists of the reliefs held within the British Museum's Assyrian galleries on the ground floor.
 

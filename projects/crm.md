@@ -8,12 +8,12 @@ role: Technology Project Lead
 funders:
   - Fitzwilliam Museum
 tags:
-  - Museums
-  - Creative Economy
-  - Ticketing
+  - museums
+  - creative economy
+  - ticketing
   - CRM 
-  - Events 
-  - Pandemic digital 
+  - events 
+  - pandemic digital 
 partners:
   - Tessitura
 date: 2019-10-30T08:51:56+01:00

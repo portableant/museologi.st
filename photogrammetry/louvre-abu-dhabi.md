@@ -3,6 +3,7 @@ title: The Louvre, Abu Dhabi
 section: 3d
 featuredImg: ../images/backgrounds/louvre.jpg
 background: ../images/backgrounds/louvre.jpg
+date: 2018-04-26
 geo_lat: 24.534291
 geo_lon: 54.398329
 slug: /photogrammetry/louvre-abu-dhabi
@@ -13,6 +14,15 @@ github_repos:
     title: An Achaemenid Archer
     sketchfab: https://sketchfab.com/models/e5bd5b90e3154345b924e4310f49c266
     doi: 10.5281/zenodo.1232996
+tags:
+  - museums
+  - louvre
+  - UAE
+  - abu dhabi
+  - victoria and albert
+  - VAM
+  - 3d
+  - scanning
 ---
 
 A lancer from the archer’s frieze, from Darius’s palace at Susa. This frieze panel is made from glazed siliceous bricks and dates to the Achaemenid Empire circa 510 BC.

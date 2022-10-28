@@ -7,12 +7,12 @@ geo_lat: 51.519400
 geo_lon: -0.126924
 slug: /photogrammetry/mexico-gallery-bm
 tags:
-  - Archaeology
-  - Museum
-  - British Museum
-  - Guerrilla
-  - 3D
-  - Photogrammetry
+  - archaeology
+  - museums
+  - british museum
+  - guerrilla
+  - 3d
+  - photogrammetry
 ---
 
 Yaxchilan Lintels from the British Museum Mexico gallery.

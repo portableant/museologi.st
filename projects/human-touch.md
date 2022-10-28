@@ -17,12 +17,12 @@ collaborators:
   - Ayomi Oni
   - Suzanne Reynolds
 tags:
-  - Museums
+  - museums
   - Creative Economy
-  - Gatsby
-  - React
-  - GraphQL
-  - Directus
+  - gatsby
+  - react
+  - graphql
+  - directus
 ---
 As with most digital things at the Fitzwilliam, the digital elements for the Human Touch were 
 sprung on the team shortly before opening (the museum's planning forms had not specified any digital 

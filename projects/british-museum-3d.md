@@ -7,39 +7,41 @@ project_website: https://sketchfab.com/britishmuseum
 slug: /projects/3d-british-museum
 featuredImg: ../images/2018/DMPpcReXcAAYEJc.jpg
 background: ../images/backgrounds/19894774_10155296696156071_1048584219763234466_n-1-1170x450.jpg
+geo_lat: 51.519400
+geo_lon: -0.126924
 collaborators:
-- Thomas Flynn
-- Jennifer Wexler
-- Adi Keinan-Schoonbaert
-- Chiara Bonacchi
-- Andy Bevan
-- Micropasts contributors
-- Dan O'Flynn
-- Lisa Galvin (British Museum)
-- Neil Wilkin
-- ThinkSee3D
-- Amelia Knowlson
-- Lucy Ellis
-- Anna Garnett
-- Florence Dassonville
+  - Thomas Flynn
+  - Jennifer Wexler
+  - Adi Keinan-Schoonbaert
+  - Chiara Bonacchi
+  - Andy Bevan
+  - Micropasts contributors
+  - Dan O'Flynn
+  - Lisa Galvin (British Museum)
+  - Neil Wilkin
+  - ThinkSee3D
+  - Amelia Knowlson
+  - Lucy Ellis
+  - Anna Garnett
+  - Florence Dassonville
 tags:
-   - 3d
-   - Museums
-   - AHRC
-   - Models
-   - Scanning
-   - Archaeology
-   - MicroPasts
-   - 3d printing
+  - 3d 
+  - museums 
+  - ahrc 
+  - models 
+  - scanning 
+  - archaeology 
+  - microPasts 
+  - 3d printing
 github_repo: 
-     - url: https://github.com/britishmuseumdh
-       name: Main British Museum Digital Humanities Github profile
+  - url: https://github.com/britishmuseumdh
+  name: Main British Museum Digital Humanities Github profile
 role: Project Lead
 images:
- - image: ../images/2017/DifjFeuWsAACQW3.jpg
-   caption: "A cake made from scans of the BM collection"
- - image: ../images/2017/figure_3.jpeg
-   caption: "Jennifer Wexler and Sally Fletcher with the Jericho Skull"
+  - image: ../images/2017/DifjFeuWsAACQW3.jpg
+    caption: "A cake made from scans of the BM collection"
+  - image: ../images/2017/figure_3.jpeg
+    caption: "Jennifer Wexler and Sally Fletcher with the Jericho Skull"
 ---
 The British Museum is one of the world’s leading museums, with collections of over 8 million objects. The Museum’s collections hold 
 masses of 3-dimensional amazing pieces of sculpture, pottery, and other artefacts ripe for 3D imaging. 

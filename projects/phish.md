@@ -25,11 +25,13 @@ documents:
     location: /pdf/Phish_and_Chyyps_Application.pdf
     type: pdf
 tags:
-  - Creative Economy
-  - Museums
-  - Museum in a box
-  - Digital Humanities
-  - Puns
+  - creative economy
+  - ahif
+  - ahrc
+  - museums
+  - museum in a box
+  - digital humanities
+  - puns
 ---
 This cunningly titled project came out of our [CEEF3D AHRC project](/projects/ceef-3d) and kept the fab Abi Glen 
 involved with us for longer. She was interested in how Museum in a Box could be used to work within 

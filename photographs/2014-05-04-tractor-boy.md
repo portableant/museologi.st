@@ -7,5 +7,10 @@ slug: /photographs/tractor-boy/
 featuredImg: '../images/2014/05/IMG_20140504_141601.jpg'
 featuredImgAlt: Massimo driving a tractor
 tags:
-  - Meandering
+  - meandering
+  - grass cutting
+  - tractor
+  - family
+geo_lat: 51.8255
+geo_lon: -0.7061
 ---

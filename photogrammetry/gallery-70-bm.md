@@ -25,12 +25,12 @@ github_repo:
     doi: 10.5281/zenodo.883098
     license: CC-BY-NC-SA
 tags:
-  - Archaeology
-  - Museum
-  - British Museum
-  - Guerrilla
-  - 3D
-  - Photogrammetry
+  - archaeology
+  - museums
+  - british museum
+  - guerrilla
+  - 3d
+  - photogrammetry
 ---
 
 This collection of 3D scans was created for the British Museum's gallery 70.

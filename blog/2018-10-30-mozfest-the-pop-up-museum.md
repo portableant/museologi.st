@@ -7,10 +7,11 @@ featuredImg: ../images/2018/10/44701677975_69ceeaa570_k.jpg
 background: ../images/2018/10/44701677975_69ceeaa570_k.jpg
 section: blog
 tags:
-  - Mozfest
-  - Museums
+  - mozfest
+  - museums
 ---
 ![](../images/2018/10/44701677975_69ceeaa570_k.jpg)
+
 Over the weekend of the 27-28th October 2018 our team took a pop-up museum to [Ravensbourne University](https://www.ravensbourne.ac.uk) in Docklands to feature in the excellent [Mozilla Festival](https://mozillafestival.org/) of the Open Web. 
 
 Our team consisted of museums ([Cambridge University Museums](https://www.museums.cam.ac.uk) represented by the [Fitzwilliam Museum](https://www.fitzmuseum.cam.ac.uk/), the [British Museum](https://britishmuseum.org), the [Victoria and Albert Museum](https://www.vam.ac.uk/), [Slovak National Gallery](https://www.sng.sk/en)), creative industries ([Mnemoscene](https://mnemoscene.io/), [ThinkSee3D](https://www.thinksee3d.com/)), [University of Stirling](https://www.stir.ac.uk/) and [Heritage Lottery Funded](https://www.hlf.org.uk/) projects ([Abira Hussein](https://twitter.com/AbiraHussein)‘s brilliant [Nomad Project](https://nomad-project.co.uk/).)

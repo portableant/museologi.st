@@ -6,6 +6,8 @@ section: image
 slug: /photographs/lawdi-wordcloud/
 tags:
   - R
+  - stats
+  - analysis
 featuredImg: ../images/2012/06/7456712434_d5eda50795_q.jpg
 featuredImgAlt: A word cloud from the tweets at LAWDI 2012
 ---

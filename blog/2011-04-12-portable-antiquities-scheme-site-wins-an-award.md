@@ -6,8 +6,8 @@ featuredImg: ../images/2011/04/5609998467_00350d0b49_b.jpg
 background: ../images/2011/04/5609998467_00350d0b49_b.jpg
 slug: /blog/portable-antiquities-scheme-site-wins-an-award/
 tags:
-  - Archaeology
-  - British Museum
+  - archaeology
+  - british museum
 ---
 
 The [Portable Antiquities Scheme website](http://finds.org.uk "The Scheme's website"), which I rebuilt over a period of around 10 months from 2009 &#8211; March 2010 has just won an award at the international &#8216;Museums and the Web' conference held in Philadelphia. I originally entered the Scheme's website just to try and get it a bit more exposure in the international museum sector and it came first in the &#8216;[Research/online collectio](http://conference.archimuse.com/mw2011/best/nominees/research_online_collection "Best of the web category shortlist")n' category against some quite stiff opposition (last year's section was won by the V&A!) Surprisingly for me, it also gathered votes in the people's choice award, which makes me feel very humble. I actually found out that the site had won via Twitter whilst checking in on foursquare to the [Ghazala beach bar](https://foursquare.com/venue/13929982) in Sharm el Sheikh. Power to the web!

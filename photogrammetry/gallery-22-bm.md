@@ -19,12 +19,12 @@ github_repos:
     sketchfab: https://sketchfab.com/models/39505bba2c5247eb943b5cde253bf495
     license: CC-BY-NC-SA
 tags:
-  - Archaeology
-  - Museum
-  - British Museum 
-  - Guerrilla
-  - 3D
-  - Photogrammetry
+  - archaeology
+  - museums
+  - british museum 
+  - guerrilla
+  - 3d
+  - photogrammetry
 ---
 
 This collection of 3D scans was created for the British Museum's gallery 22.

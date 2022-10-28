@@ -6,13 +6,13 @@ featuredImg: ../images/2019/screenly.jpg
 background: ../images/2019/10/pi.jpg
 cost: £845
 tags:
-  - Museums
-  - Creative Economy
-  - FOSS
-  - Raspberry Pi
-  - Screenly
-  - Displays
-  - Low budget
+  - museums
+  - creative economy
+  - foss
+  - raspberry pi
+  - screenly
+  - displays
+  - low budget
 date: 2019-10-4T22:51:56+01:00
 slug: /projects/raspberry-pi-screenly
 status: active
@@ -49,6 +49,6 @@ the security team to easily install the screen and not create new work for the m
 ## An example of content displayed 
 <div class="ratio-16x9 ratio">
 <video controls>
-  <source src="/welcomescreen.mp4" type="video/mp4">
+  <source src="/video/welcomescreen.mp4" type="video/mp4">
 </video> 
 </div>

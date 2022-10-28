@@ -7,6 +7,8 @@ background: ../images/projects/micropasts/micro.jpg
 project_website: https://crowdsourced.micropasts.org
 date: 2014-10-29T22:51:56+01:00
 year: "2013 - 2022"
+geo_lat: 51.519400
+geo_lon: -0.126924
 funders:
   - AHRC
 collaborators:
@@ -44,14 +46,15 @@ github_repo:
   - url: https://github.com/micropasts
     name: Github profile
 tags:
-  - Citizen Science
-  - 3D 
-  - Crowdsourcing
-  - Crowdfunding
-  - Archaeology
-  - Museums
-  - Heritage
-  - FOSS
+  - citizen science
+  - 3d
+  - crowdsourcing
+  - crowdfunding
+  - archaeology
+  - museums
+  - heritage
+  - foss
+  - ahrc
 publications:
   - "Bonacchi, C, Bevan, A., Keinan, A., Pett, D.E.J. & Wexler, J. (2019) ’Participation in heritage crowdsourcing’ in Museum Management and Curatorship Volume 34 DOI: 10.1080/09647775.2018.1559080"
   - "Bonacchi, C., Pett, D.E.J., Bevan, A. & Keinan-Schoonbaert, A. (2015) ‘Experiments in Crowd- funding Community Archaeology’ in Journal of Community Archaeology Volume 2. DOI: 10.1179/2051819615Z.00000000041"
