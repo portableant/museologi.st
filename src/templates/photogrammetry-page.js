@@ -72,6 +72,18 @@ export const pageQuery = graphql`
                         )
                     }
                 }
+                 featuredImg{
+                    childImageSharp {
+                        gatsbyImageData(
+                            placeholder: BLURRED
+                            height: 600
+                            formats: [AUTO, WEBP, AVIF]
+                            width: 600
+                            quality: 90
+                            transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+                        )
+                    }
+                }
             }
         }
     }

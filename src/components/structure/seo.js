@@ -31,6 +31,17 @@ export const SEO = ({ title, description, pathname, children, featured }) => {
             <meta name="twitter:description" content={seo.description} />
             <meta name="twitter:image" content={seo.image} />
             <meta name="twitter:creator" content={seo.twitterHandle} />
+            <meta property="og:url" content={seo.url.toString()} />
+            <meta property="og:title" content={seo.title} />
+            <meta property="og:type" content="website" />
+            <meta property="og:site_name" content="Museologi.st" />
+            <meta property="og:description" content={seo.description} />
+            <meta property="og:locale" content="en-gb" />
+            <meta property="og:image" content={seo.image.toString()} />
+            <meta property="og:image:alt" content="An image representing this post" />
+            <meta property="og:image:width" content="600"/>
+            <meta property="og:image:width" content="600" />
+            <meta property="og:image:type" content="image/jpeg" />
             {children}
         </>
     )
