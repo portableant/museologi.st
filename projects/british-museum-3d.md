@@ -35,7 +35,7 @@ tags:
   - 3d printing
 github_repo: 
   - url: https://github.com/britishmuseumdh
-  name: Main British Museum Digital Humanities Github profile
+    name: Main British Museum Digital Humanities Github profile
 role: Project Lead
 images:
   - image: ../images/2017/DifjFeuWsAACQW3.jpg

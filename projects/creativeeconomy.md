@@ -89,7 +89,7 @@ audio:
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
   - title: 7 - The discovery of Thermi
-    location: /audio/7_Discovery_Of_thermi.wav
+    location: /audio/7_Discovery_of_thermi.wav
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects

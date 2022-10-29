@@ -6,9 +6,8 @@ import {Link} from "gatsby";
 const FairData = ({zenodo_doi, github_repo, project_website, deposited_archive}) => (
     <div>
         {project_website &&  <div>
-            <h4 className="p-2">Project Website</h4>
             <p className="p-2">
-                <a href={project_website}>{project_website}</a>
+                <a href={project_website}>Project website</a>
             </p>
         </div>
         }

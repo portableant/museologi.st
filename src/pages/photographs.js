@@ -3,7 +3,7 @@ import Layout from "../components/layouts/layout"
 import PhotoLink from "../components/structure/photo-link";
 import {graphql} from "gatsby"
 import {Row, Container} from 'react-bootstrap';
-import Seo from "../components/structure/seo"
+import {SEO} from "../components/structure/seo"
 
 const PhotographsPage = ({data: {allMarkdownRemark: {edges},},}) => {
     const Posts = edges
@@ -11,11 +11,7 @@ const PhotographsPage = ({data: {allMarkdownRemark: {edges},},}) => {
         .map(edge => <PhotoLink key={edge.node.id} post={edge.node}/>)
     return (
         <Layout>
-            <Seo
-                title="Random Photographs"
-                description="This page displays some random photographs from times in my life."
-                image="http://localhost:8000/images/backgrounds/classical.jpg"
-            />
+
             <Container>
                 <Row>
                     <h1 className={"ml-4 mt-4"}>Photographs</h1>
@@ -57,4 +53,7 @@ export const pageQuery = graphql`
         }
     }
 `
-export const Head = () => <title>Photographs</title>
+export const Head = () => (
+    <SEO title={"Random Photographs"}/>
+)
+

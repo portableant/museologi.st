@@ -5,8 +5,13 @@ module.exports = {
         title: `Museologi.st`,
         siteUrl: `https://www.museologi.st`,
         author: `Daniel Pett`,
-        description: 'A Gatsby blog',
+        description: 'A Gatsby powered website documenting Daniel Pett and his work',
         twitterHandle: '@dejpett',
+        image: `/img.png`,
+        og: {
+            siteName: 'Museologi.st - Daniel Pett',
+            twitterCreator: '@dejpett',
+        },
         menuLinks: [
 
             {

@@ -116,7 +116,11 @@ Shifts in the Earth’s tilt and orbital rotation changed regional climatic patt
 further north, with the increased water bringing the fertile soil to life and greening the desert (the Green Sahara period). 
 
 For this project, we combined rock art data, 3D models and landscape photos from our archive with satellite imagery to 
-create an interactive film entitled Rock Art in the Green Sahara (https://youtu.be/HD_Ot2GaCXo). 
+create an interactive film entitled Rock Art in the Green Sahara.
+
+<div class="ratio-16x9 ratio my-3">
+<iframe src="https://www.youtube.com/embed/HD_Ot2GaCXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 This was developed in collaboration with the [Peopling the Green Sahara Project](https://www.greensahara-leverhulme.com/) 
 at Kings College London and the University of Bristol, and incorporates satellite visualisations of climate change in 
