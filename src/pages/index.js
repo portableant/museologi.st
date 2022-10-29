@@ -2,6 +2,7 @@ import * as React from "react"
 import HomeLayout from "../components/layouts/homeLayout";
 import {Container, Row, Col} from "react-bootstrap";
 import {Link} from "gatsby";
+import {SEO} from "../components/structure/seo"
 
 const contStyles = {
     height: "60vh",
@@ -44,4 +45,6 @@ const IndexPage = () => {
 
 export default IndexPage
 
-export const Head = () => <title>Daniel Pett - Museologi.st</title>
+export const Head = () => (
+    <SEO />
+)

@@ -4,6 +4,7 @@ import PostLink from "../components/structure/post-link";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
 import Pagination from '../components/structure/pagination';
+import {SEO} from "../components/structure/seo";
 
 const BlogPage = (props) => {
     const Posts = props.data.allMarkdownRemark.edges
@@ -67,4 +68,6 @@ export const pageQuery = graphql`
     }
 `
 
-export const Head = () => <title>Blog posts</title>
+export const Head = () => (
+    <SEO title={"Blog and news"} description={"A sporadically populated blog; news, stories, tips"} />
+)

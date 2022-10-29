@@ -3,6 +3,7 @@ import Layout from "../components/layouts/layout"
 import ProjectLink from "../components/structure/project-link";
 import {graphql} from "gatsby"
 import {Row,Container} from "react-bootstrap";
+import {SEO} from "../components/structure/seo";
 
 const ProjectsPage = ({data: {allMarkdownRemark: {edges},},}) => {
     const Posts = edges
@@ -71,4 +72,6 @@ export const pageQuery = graphql`
         }
     }
 `
-export const Head = () => <title>Projects</title>
+export const Head = () => (
+    <SEO title={"Projects I have worked on"} description={"An overview of projects I have worked on in museums and heritage"}/>
+)

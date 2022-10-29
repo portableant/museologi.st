@@ -5,6 +5,7 @@ import {Container, Row} from "react-bootstrap";
 import HeaderImage from "../components/elements/headerImage";
 import Map from "../components/elements/map";
 import Tags from "../components/elements/tag";
+import {SEO} from "../components/structure/seo";
 
 export default function BlogPageTemplate({data: {markdownRemark}}) {
     const {frontmatter, timeToRead, html} = markdownRemark;
@@ -68,7 +69,5 @@ export const pageQuery = graphql`
 
 export function Head({data: {markdownRemark}}) {
     const {frontmatter} = markdownRemark;
-    return (
-        <title>{frontmatter.title}</title>
-    )
+    return (<SEO title={frontmatter.title} featured={frontmatter.featuredImg} />)
 }

@@ -7,6 +7,7 @@ import PostLink from "../components/structure/post-link";
 import {Container, Row, Button, Col} from "react-bootstrap";
 // Utilities
 import {startCase} from "lodash"
+import {SEO} from "../components/structure/seo";
 
 const Tags = ({pageContext, data}) => {
     const {tag} = pageContext
@@ -90,4 +91,6 @@ export const pageQuery = graphql`
   }
 }
 `
-export const Head = ({pageContext}) => <title>Posts tagged with {pageContext.tag}</title>
+export function Head({pageContext}) {
+    return (<SEO title={"Pages tagged with " + pageContext.tag} />)
+}

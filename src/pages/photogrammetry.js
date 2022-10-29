@@ -3,6 +3,9 @@ import Layout from "../components/layouts/layout"
 import PhotogrammetryLink from "../components/structure/photogrammetry-link";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
+import {SEO} from "../components/structure/seo"
+
+
 const PhotogrammetryPage = ({data: {allMarkdownRemark: {edges},},}) => {
     const Posts = edges.map(edge => <PhotogrammetryLink key={edge.node.id} post={edge.node}/>)
     return (
@@ -62,4 +65,6 @@ export const pageQuery = graphql`
         }
     }
 `
-export const Head = () => <title>Photogrammetry work</title>
+export const Head = () => (
+    <SEO title={"My photogrammetry and 3d scanning work"} description={"An overview of my photogrammetry work around the world"}/>
+)

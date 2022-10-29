@@ -54,6 +54,6 @@ export const pageQuery = graphql`
     }
 `
 export const Head = () => (
-    <SEO title={"Random Photographs"}/>
+    <SEO title={"Random Photographs"} description={"A collection of photographs I like"}/>
 )
 

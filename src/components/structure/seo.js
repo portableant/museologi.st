@@ -1,13 +1,21 @@
 import React from "react"
 import { useSiteMetadata } from "../../hooks/use-site-metadata"
 
-export const SEO = ({ title, description, pathname, children }) => {
+function createSeoImage(featured, image) {
+    if (featured) {
+        return featured?.childImageSharp.gatsbyImageData.images.fallback.src;
+    }
+    return image;
+}
+
+export const SEO = ({ title, description, pathname, children, featured }) => {
     const { title: defaultTitle, description: defaultDescription, image, siteUrl, twitterHandle } = useSiteMetadata()
 
+    const featuredImage = createSeoImage(featured,image);
     const seo = {
         title: title || defaultTitle,
         description: description || defaultDescription,
-        image: `${siteUrl}${image}`,
+        image: `${siteUrl}${featuredImage}`,
         url: `${siteUrl}${pathname || ``}`,
         twitterHandle,
     }

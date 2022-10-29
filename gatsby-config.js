@@ -1,9 +1,9 @@
-const siteUrl = process.env.URL || `https://www.museologi.st`
+const siteUrl = process.env.URL || `https://museologi.st`
 
 module.exports = {
     siteMetadata: {
         title: `Museologi.st`,
-        siteUrl: `https://www.museologi.st`,
+        siteUrl: `https://museologi.st`,
         author: `Daniel Pett`,
         description: 'A Gatsby powered website documenting Daniel Pett and his work',
         twitterHandle: '@dejpett',
@@ -86,7 +86,6 @@ module.exports = {
                     "G-M5H80B9MSP",
                 ],
                 pluginConfig: {
-                    // Puts tracking script in the head instead of the body
                     head: true
                 },
             },
