@@ -151,13 +151,13 @@ The website and collections system (two separate code stacks with commonality) w
 below. I tried to maintain and develop using the latest and best versions of PHP software and practises.
 
 * PHP 8.1
-* Laravel 8 at the beginning, latest version of 9 by the time I left in September 2022)
+* Laravel 8 at the beginning, latest version of 9 by the time I left in September 2022
 * Elastic Search 7 
 * Solr 8.11.1 - on a Fitzwilliam Server 
-* Redis
+* Redis 6.24
 * AWS EC2 (for the web server)
   * T2.Small for CMS 
-  * T3.Medium for Website and collections (and redis)
+  * T3.Medium for Website and collections (and Redis)
 * S3 for image storage, backups and serving IIIF images
 * DirectUs 8 for the Headless CMS 
 * MySQL 8

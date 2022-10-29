@@ -32,7 +32,13 @@ github_repo:
     sketchfab: https://sketchfab.com/3d-models/portrait-of-a-man-9c148f09ec5e4b95835ef34e15f2acc0
 
 ---
-These 3D models were created at the Museums and the Web conference with Tom Flynn.
+These 3D models were created at the Museums and the Web conference with Tom Flynn. We went to this conference to present on
+behalf of Sketchfab, to try and evangelise for their platform and how the British Museum had 
+made use of their services and to teach other people how to use 3D techniques. 
+
+We heard the excellent Jane Alexander speak about her work, how CMA wanted to create 3D models and incorporate them into their
+own programmes. We decided to scan a load of objects, process them overnight in our AirBnB in Cleveland after the 
+party and present them the next day in our talk. So we did...
 
 <div class="ratio  ratio-1x1 mb-3">
     <iframe title="A 3D model"  src="https://sketchfab.com/playlists/embed?collection=ce9a3d1cbd23460e9ad9390aa5b9972e"  allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

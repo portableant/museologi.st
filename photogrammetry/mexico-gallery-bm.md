@@ -15,7 +15,12 @@ tags:
   - photogrammetry
 ---
 
-Yaxchilan Lintels from the British Museum Mexico gallery.
+These scans of the Yaxchilan Lintels are from the British Museum Mexico gallery and were 
+shot as a visitor to the museum and are simple photogrammetric models processed in 
+Agisoft Photoscan/Metashape and Reality Capture. 
+
+They are super simple to capture, just a selection of DSLR and mobile phone images taken in gallery 
+under visiting conditions walking past the objects on display. Careful, don't set the alarms off!
 
 <div class="ratio-1x1 ratio my-3">
   <iframe title="A 3D model playlist from the BM Mexico gallery" 
