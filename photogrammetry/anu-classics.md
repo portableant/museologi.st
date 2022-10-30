@@ -20,7 +20,7 @@ tags:
 
 In 2017, I was invited by the Digital Humanities scholars of ANU Canberra, to be RHSA visiting scholar to their department. 
 Unfortunately, due to redundancy at the British Museum, I could not take this up. Upon moving to the Fitzwilliam Museum, 
-I managed to go in 2019 for a 4 week stint, which was extremely productive. 
+I managed to go in 2019 for a 4-week stint, which was extremely productive. 
 
 As part of the time spent with Terhi Nurmikko Fuller and Katrina Grant, I worked with the ANU scholars and students to 
 create 3D scans in the Classics museum. 

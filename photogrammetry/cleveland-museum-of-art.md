@@ -14,7 +14,7 @@ tags:
   - sketchfab
   - museums
   - archaeology 
-github_repo:
+GitHub_repo:
   -
     url: https://github.com/portableant/clevelandBuddha
     name: The head of a Buddha

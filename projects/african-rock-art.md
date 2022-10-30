@@ -82,7 +82,6 @@ in light weight handling materials for use in workshops and events.
 <div class="ratio ratio-16x9 my-3">
     <iframe src="https://sketchfab.com/playlists/embed?collection=3348c986a05d423d850f66ac5500b65a&autostart=0"
             title="African Rock Art"
-            frameborder="0"
             allowfullscreen
             mozallowfullscreen="true"
             webkitallowfullscreen="true"
@@ -119,7 +118,7 @@ For this project, we combined rock art data, 3D models and landscape photos from
 create an interactive film entitled Rock Art in the Green Sahara.
 
 <div class="ratio-16x9 ratio my-3">
-<iframe src="https://www.youtube.com/embed/HD_Ot2GaCXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HD_Ot2GaCXo" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 This was developed in collaboration with the [Peopling the Green Sahara Project](https://www.greensahara-leverhulme.com/) 

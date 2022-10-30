@@ -39,7 +39,7 @@ github_repo:
   - url: https://github.com/findsorguk/findsorguk
     name: Finds.org.uk source code
   - url: https://github.com/findsorguk
-    name: Github Organisation profile
+    name: GitHub Organisation profile
   - url: https://github.com/findsorguk/findsorguk-geodata
     name: Geodata split out to json
 zenodo_doi: 10.5281/zenodo.56497

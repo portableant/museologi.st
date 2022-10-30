@@ -9,13 +9,13 @@ featuredImg: ../images/large_PD_8_1979_1_201709.jpg
 background: ../images/large_PD_8_1979_1_201709.jpg
 role: Project Lead
 status: active
-github_repo: 
+GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-collection-online
     name: Source code for the website and API
   - url: https://github.com/FitzwilliamMuseum/fitz-twitter-art-bot
     name: Twitter Art Bot source code
   - url: https://github.com/FitzwilliamMuseum/fitz-wp-collection-beta
-    name: Wordpress plugin for the collection
+    name: WordPress plugin for the collection
   - url: https://github.com/FitzwilliamMuseum/fitz-collection-raw-data
     name: Raw data for the collection
   - url: https://github.com/FitzwilliamMuseum/fitz-browser-extension
@@ -45,7 +45,7 @@ by a remote code injection that was spreading malicious code to all and sundry.
 With my team and management, we took the decision to remove the system from public use until we had a minimum viable product 
 working with Knowledge Integration's CIIM (elastic search endpoint), which would allow me to have a foundation on which to 
 build a new system. Unfortunately, I lost one of the key people in the process, our excellent Captain Adlib, Rosie Forrest who got 
-an new role in Scotland; her moving meant some of the mappings of data between Adlib/Axiell Collections and data enrichment 
+a new role in Scotland; her moving meant some mappings of data between Adlib/Axiell Collections and data enrichment 
 didn't get implemented (so some firewalled use of the Axiell API was used to show things like object location at low level detail.)
 However before she left, she managed to upgrade the museum from Adlib to Axiell Collections in a matter of weeks 
 to enable remote working during the pandemic - what should have taken a year was done in days. :fire:
@@ -92,9 +92,9 @@ endpoint.
 * This integration pulls data from Axiell Collections (Adlib), Portfolio image management and presents as a JSON
 API. 
 * This is then consumed by a [Laravel 9 project](https://github.com/FitzwilliamMuseum/fitz-collection-online) deployed to an AWS EC2 server, 
-using Blade templating, Redis caching and RDF generation. Endpoints are restricted for IP address access - eg 
+using Blade templating, Redis caching and RDF generation. Endpoints are restricted for IP address access - e.g. 
 ElasticSearch CIIM, Solr cluster, Adlib.
-* Code is all library driven - eg ElasticPHP library, so easy for people to pick up if they take over product development/management
+* Code is all library driven - e.g. ElasticPHP library, so easy for people to pick up if they take over product development/management
 
 ## Visual change 
 
@@ -108,7 +108,7 @@ ElasticSearch CIIM, Solr cluster, Adlib.
 
 ## What features did this MVP have?
 
-I took a lot of inspiration from previous work I had done at the BM for the PAS and on API research and
+I took a lot of inspiration from previous work I had done at the BM for the PAS and on API research, and
 I was inspired by generous interface thinking (see Mitchell Whitelaw's work); Nomisma, the Getty, Yale and V&A and not by the BM or the Ashmolean. 
 What I wanted to have was as much information available to researchers as possible. 
 
@@ -124,8 +124,8 @@ What I wanted to have was as much information available to researchers as possib
   * XML
   * Linked Art implementation
 * [Twitter Bot](https://twitter.com/fitzartbot) (though the Royal funeral was used as a reason to decommission it)
-* Random image generator as a chrome extension
-* Wordpress plugin for displaying images on blogs
+* Random image generator as a Chrome extension
+* WordPress plugin for displaying images on blogs
 * Citation generator - Harvard, Wikipedia 
 * Twitter cards & OpenGraph implementation
 * Microformats (remember that?)
@@ -152,7 +152,7 @@ so don't judge me on the code :blush:
       "type": "Type",
       "_label": "painting",
       "classified_as": {
-        "id": "http://vocab.getty.edu/aat/300435444",
+        "id": "https://vocab.getty.edu/aat/300435444",
         "type": "Type",
         "_label": "Classification (Category)"
       }
@@ -162,13 +162,13 @@ so don't judge me on the code :blush:
       "type": "Type",
       "_label": "Netherlandish",
       "classified_as": {
-        "id": "http://vocab.getty.edu/aat/300055768",
+        "id": "https://vocab.getty.edu/aat/300055768",
         "type": "Type",
         "_label": "Culture"
       }
     },
     {
-      "id": "http://vocab.getty.edu/aat/300133025",
+      "id": "https://vocab.getty.edu/aat/300133025",
       "type": "Type",
       "_label": "Work of Art"
     },
@@ -189,12 +189,12 @@ so don't judge me on the code :blush:
       "type": "Title",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300417193",
+          "id": "https://vocab.getty.edu/aat/300417193",
           "type": "Name",
           "_label": "Titles (General, Names)"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300404670",
+          "id": "https://vocab.getty.edu/aat/300404670",
           "type": "Type",
           "_label": "Preferred Term"
         }
@@ -213,17 +213,17 @@ so don't judge me on the code :blush:
       "type": "Identifier",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300404626",
+          "id": "https://vocab.getty.edu/aat/300404626",
           "type": "Type",
           "_label": "Identification Number"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300312355",
+          "id": "https://vocab.getty.edu/aat/300312355",
           "type": "Type",
           "_label": "Accession Number"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300404670",
+          "id": "https://vocab.getty.edu/aat/300404670",
           "type": "Type",
           "_label": "Preferred Term"
         }
@@ -240,7 +240,7 @@ so don't judge me on the code :blush:
           "_label": "Primary Reference"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300404626",
+          "id": "https://vocab.getty.edu/aat/300404626",
           "type": "Type",
           "_label": "Identification Number"
         }
@@ -252,7 +252,7 @@ so don't judge me on the code :blush:
       "type": "Identifier",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/page/aat/300417447",
+          "id": "https://vocab.getty.edu/page/aat/300417447",
           "type": "Type",
           "_label": "Axiell System Identifier"
         }
@@ -267,17 +267,17 @@ so don't judge me on the code :blush:
       "_label": "Source Credit Line",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300435418",
+          "id": "https://vocab.getty.edu/aat/300435418",
           "type": "Type",
           "_label": "Credit Line"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300404764",
+          "id": "https://vocab.getty.edu/aat/300404764",
           "type": "Type",
           "_label": "Sources (General Concept)"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300418049",
+          "id": "https://vocab.getty.edu/aat/300418049",
           "type": "Type",
           "_label": "Brief Text"
         }
@@ -290,17 +290,17 @@ so don't judge me on the code :blush:
       "_label": "Source Credit Line",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300435418",
+          "id": "https://vocab.getty.edu/aat/300435418",
           "type": "Type",
           "_label": "Credit Line"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300404764",
+          "id": "https://vocab.getty.edu/aat/300404764",
           "type": "Type",
           "_label": "Sources (General Concept)"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300418049",
+          "id": "https://vocab.getty.edu/aat/300418049",
           "type": "Type",
           "_label": "Brief Text"
         }
@@ -313,12 +313,12 @@ so don't judge me on the code :blush:
       "_label": "Dimensions Statement",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300435430",
+          "id": "https://vocab.getty.edu/aat/300435430",
           "type": "Type",
           "_label": "Dimensions Description"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300418049",
+          "id": "https://vocab.getty.edu/aat/300418049",
           "type": "Type",
           "_label": "Brief Text"
         }
@@ -331,12 +331,12 @@ so don't judge me on the code :blush:
       "_label": "Object Type",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300435443",
+          "id": "https://vocab.getty.edu/aat/300435443",
           "type": "Type",
           "_label": "Object/Work Type (Category)"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300418049",
+          "id": "https://vocab.getty.edu/aat/300418049",
           "type": "Type",
           "_label": "Brief Text"
         }
@@ -350,14 +350,14 @@ so don't judge me on the code :blush:
       "type": "Dimension",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300055644",
+          "id": "https://vocab.getty.edu/aat/300055644",
           "type": "Type",
           "_label": "Height"
         }
       ],
       "value": 44,
       "unit": {
-        "id": "http://vocab.getty.edu/aat/300379098",
+        "id": "https://vocab.getty.edu/aat/300379098",
         "type": "MeasurementUnit",
         "_label": "cm"
       }
@@ -367,14 +367,14 @@ so don't judge me on the code :blush:
       "type": "Dimension",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300055647",
+          "id": "https://vocab.getty.edu/aat/300055647",
           "type": "Type",
           "_label": "Width"
         }
       ],
       "value": 60,
       "unit": {
-        "id": "http://vocab.getty.edu/aat/300379098",
+        "id": "https://vocab.getty.edu/aat/300379098",
         "type": "MeasurementUnit",
         "_label": "cm"
       }
@@ -402,14 +402,14 @@ so don't judge me on the code :blush:
                 "_label": "Artist/Maker (Producer) Role Statement"
               },
               {
-                "id": "http://vocab.getty.edu/aat/300418049",
+                "id": "https://vocab.getty.edu/aat/300418049",
                 "type": "Type",
                 "_label": "Brief Text"
               }
             ],
             "content": "Artists (Visual Artists)",
             "close_match": {
-              "id": "http://vocab.getty.edu/aat/300025103",
+              "id": "https://vocab.getty.edu/aat/300025103",
               "type": "Type",
               "_label": "Artists (Visual Artists)"
             }
@@ -434,12 +434,12 @@ so don't judge me on the code :blush:
     }
   ],
   "current_location": {
-    "id": "http://vocab.getty.edu/ulan/500219279",
+    "id": "https://vocab.getty.edu/ulan/500219279",
     "type": "Place",
     "_label": "Display Fitzwilliam Museum Gallery 8",
     "classified_as": [
       {
-        "id": "http://vocab.getty.edu/aat/300240057",
+        "id": "https://vocab.getty.edu/aat/300240057",
         "type": "Type",
         "_label": "Galleries (Display Spaces) [Object On Display]"
       }
@@ -447,24 +447,24 @@ so don't judge me on the code :blush:
   },
   "current_owner": [
     {
-      "id": "http://vocab.getty.edu/ulan/500219279",
+      "id": "https://vocab.getty.edu/ulan/500219279",
       "type": "Group",
       "_label": "The Fitzwilliam Museum",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300312281",
+          "id": "https://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "Museum"
         }
       ],
       "member_of": [
         {
-          "id": "http://vocab.getty.edu/ulan/500247221",
+          "id": "https://vocab.getty.edu/ulan/500247221",
           "type": "Group",
           "_label": "The University of Cambridge",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/ulan/500000003",
+              "id": "https://vocab.getty.edu/ulan/500000003",
               "type": "Type",
               "_label": "Corporate Body"
             }
@@ -478,12 +478,12 @@ so don't judge me on the code :blush:
           "_label": "Homepage for the Museum",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300264578",
+              "id": "https://vocab.getty.edu/aat/300264578",
               "type": "Type",
               "_label": "Web Page"
             },
             {
-              "id": "http://vocab.getty.edu/aat/300404670",
+              "id": "https://vocab.getty.edu/aat/300404670",
               "type": "Type",
               "_label": "Primary"
             }
@@ -522,7 +522,7 @@ so don't judge me on the code :blush:
           ],
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300264578",
+              "id": "https://vocab.getty.edu/aat/300264578",
               "type": "Type",
               "_label": "Web Page"
             }
@@ -550,12 +550,12 @@ so don't judge me on the code :blush:
       ],
       "conforms_to": [
         {
-          "id": "http://iiif.io/api/presentation",
+          "id": "https://iiif.io/api/presentation",
           "type": "InformationObject",
           "_label": "IIIF Presentation API"
         }
       ],
-      "format": "application/ld+json;profile='http://iiif.io/api/presentation/2/context.json'"
+      "format": "application/ld+json;profile='https://iiif.io/api/presentation/2/context.json'"
     }
   ],
   "representation": [
@@ -564,7 +564,7 @@ so don't judge me on the code :blush:
       "type": "VisualItem",
       "_label": "A representation of the artwork",
       "classified_as": {
-        "id": "http://vocab.getty.edu/aat/300215302",
+        "id": "https://vocab.getty.edu/aat/300215302",
         "type": "Type",
         "_label": "Digital Image"
       },
@@ -575,14 +575,14 @@ so don't judge me on the code :blush:
           "type": "Dimension",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300055644",
+              "id": "https://vocab.getty.edu/aat/300055644",
               "type": "Type",
               "_label": "Height"
             }
           ],
           "value": 565,
           "unit": {
-            "id": "http://vocab.getty.edu/aat/300266190",
+            "id": "https://vocab.getty.edu/aat/300266190",
             "type": "MeasurementUnit",
             "_label": "pixels"
           }
@@ -592,14 +592,14 @@ so don't judge me on the code :blush:
           "type": "Dimension",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300055647",
+              "id": "https://vocab.getty.edu/aat/300055647",
               "type": "Type",
               "_label": "Width"
             }
           ],
           "value": 760,
           "unit": {
-            "id": "http://vocab.getty.edu/aat/300266190",
+            "id": "https://vocab.getty.edu/aat/300266190",
             "type": "MeasurementUnit",
             "_label": "pixels"
           }
@@ -617,7 +617,7 @@ so don't judge me on the code :blush:
       "type": "VisualItem",
       "_label": "A representation of the artwork",
       "classified_as": {
-        "id": "http://vocab.getty.edu/aat/300215302",
+        "id": "https://vocab.getty.edu/aat/300215302",
         "type": "Type",
         "_label": "Digital Image"
       },
@@ -628,14 +628,14 @@ so don't judge me on the code :blush:
           "type": "Dimension",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300055644",
+              "id": "https://vocab.getty.edu/aat/300055644",
               "type": "Type",
               "_label": "Height"
             }
           ],
           "value": 812,
           "unit": {
-            "id": "http://vocab.getty.edu/aat/300266190",
+            "id": "https://vocab.getty.edu/aat/300266190",
             "type": "MeasurementUnit",
             "_label": "pixels"
           }
@@ -645,14 +645,14 @@ so don't judge me on the code :blush:
           "type": "Dimension",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300055647",
+              "id": "https://vocab.getty.edu/aat/300055647",
               "type": "Type",
               "_label": "Width"
             }
           ],
           "value": 1024,
           "unit": {
-            "id": "http://vocab.getty.edu/aat/300266190",
+            "id": "https://vocab.getty.edu/aat/300266190",
             "type": "MeasurementUnit",
             "_label": "pixels"
           }
@@ -670,7 +670,7 @@ so don't judge me on the code :blush:
       "type": "VisualItem",
       "_label": "A representation of the artwork",
       "classified_as": {
-        "id": "http://vocab.getty.edu/aat/300215302",
+        "id": "https://vocab.getty.edu/aat/300215302",
         "type": "Type",
         "_label": "Digital Image"
       },
@@ -681,14 +681,14 @@ so don't judge me on the code :blush:
           "type": "Dimension",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300055644",
+              "id": "https://vocab.getty.edu/aat/300055644",
               "type": "Type",
               "_label": "Height"
             }
           ],
           "value": 773,
           "unit": {
-            "id": "http://vocab.getty.edu/aat/300266190",
+            "id": "https://vocab.getty.edu/aat/300266190",
             "type": "MeasurementUnit",
             "_label": "pixels"
           }
@@ -698,14 +698,14 @@ so don't judge me on the code :blush:
           "type": "Dimension",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300055647",
+              "id": "https://vocab.getty.edu/aat/300055647",
               "type": "Type",
               "_label": "Width"
             }
           ],
           "value": 1023,
           "unit": {
-            "id": "http://vocab.getty.edu/aat/300266190",
+            "id": "https://vocab.getty.edu/aat/300266190",
             "type": "MeasurementUnit",
             "_label": "pixels"
           }
@@ -725,12 +725,12 @@ so don't judge me on the code :blush:
       "type": "LinguisticObject",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300435414",
+          "id": "https://vocab.getty.edu/aat/300435414",
           "type": "Type",
           "_label": "Inscription Description"
         },
         {
-          "id": "http://vocab.getty.edu/aat/300418049",
+          "id": "https://vocab.getty.edu/aat/300418049",
           "type": "Type",
           "_label": "Brief Text"
         }
@@ -763,7 +763,7 @@ allow staff to run the inventory and DAMS:
 ## Did anyone use this system?
 
 Well, yes, they did. However unlike the majority of Museum collections online the uptake is small annually, there was no surge
-through the pandemic as was documented elsewhere. Why? I'm not sure. The Fitz system provides lots of digital humanities functions - portable data & images, IIIF etc; it's 
+through the pandemic as was documented elsewhere. Why? I'm not sure. The Fitz system provides lots of digital humanities functions - portable data & images, IIIF etc.; it's 
 super optimised under Lighthouse scores (100% SEO, > 90% for all other factors) but it is under marketed by the Museum. Links to 
 objects are rarely added on social media and marketing copy. I tried to change this...
 

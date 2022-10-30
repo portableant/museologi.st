@@ -95,10 +95,10 @@ We used Cantaloupe to deliver our IIIF data and their basic manifests produced t
 
 ```json
 {
-  "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "http://iiif.fitz.ms/iiif/3/037b074e-f999-47a7-9a54-80622ff15b6f.tif",
+  "@context": "https://iiif.io/api/image/3/context.json",
+  "id": "https://iiif.fitz.ms/iiif/3/037b074e-f999-47a7-9a54-80622ff15b6f.tif",
   "type": "ImageService3",
-  "protocol": "http://iiif.io/api/image",
+  "protocol": "https://iiif.io/api/image",
   "profile": "level2",
   "width": 2560,
   "height": 1920,
@@ -172,7 +172,7 @@ The resulting manifest was then rendered as:
 
 ```json
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://miniatures-iiif.fitzmuseum.cam.ac.uk/AGOID.29376/manifest.json",
   "type": "Manifest",
   "label": {
@@ -197,7 +197,7 @@ The resulting manifest was then rendered as:
       ]
     }
   },
-  "rights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
   "items": [
     {
       "id": "https://miniatures-iiif.fitzmuseum.cam.ac.uk/AGOID.29376/canvas/0",
@@ -301,13 +301,13 @@ The resulting manifest was then rendered as:
       ],
       "physicalDimensions": {
         "type": "PhysicalDimension",
-        "profile": "http://iiif.io/api/annex/extensions/physdim",
+        "profile": "https://iiif.io/api/annex/extensions/physdim",
         "physicalScale": 0.0139,
         "physicalUnits": "mm"
       },
       "annotations": [
         {
-          "id": "https://miniatures-iiif.fitzmuseum.cam.ac.uk/AGOID.29376/page/0/0",
+          "id": "httpss://miniatures-iiif.fitzmuseum.cam.ac.uk/AGOID.29376/page/0/0",
           "type": "AnnotationPage",
           "items": []
         }

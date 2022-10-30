@@ -28,9 +28,9 @@ from Artec and a processing PC via the Marlay Group's funding scheme.
 **These devices are not cheap!**
 
 | Device    | Educational price 2018 | 
-|-----------|-----------------------|
-| Artec Leo | £16,000               |
-| Artec Eva | £11,050               |
+|-----------|------------------------|
+| Artec Leo | £16,000                |
+| Artec Eva | £11,050                |
 
 We chose to purchase a Leo from one of Artec's approved dealers, mainly due to its wire free operation and on device data storage. 
 However, the major obstacle to acquisition of the device, was the immense lead time for delivery - **18 months** after the order 
@@ -56,7 +56,6 @@ To illustrate the quality of the 3D models captured and processed using the Leo 
 <div class="ratio ratio-16x9 my-3">
 <iframe src="https://sketchfab.com/playlists/embed?collection=295b4d8154ed4fffb58310f1354b7cb6&autostart=0"
         title="Artec Leo Scans"
-        frameborder="0"
         allowfullscreen
         mozallowfullscreen="true"
         webkitallowfullscreen="true"

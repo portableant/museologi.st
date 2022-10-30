@@ -20,7 +20,7 @@ status: active
 I was asked to install the first digital marketing screen at the Fitzwilliam Museum with 2 days notice, just before the 
 reopening of gallery 3 (this went alongside all the work we were putting in on [enhanced labels](/projects/beyond-the-label)).
 
-We purchased a [Iiyama touch screen](https://www.iiyama-monitors.co.uk) (not using that bit yet), and connected a [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) that I donated to the Museum and [Screenly's Open Source Edition](https://www.screenly.io/ose/).
+We purchased an [Iiyama touch screen](https://www.iiyama-monitors.co.uk) (not using that bit yet), and connected a [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) that I donated to the Museum and [Screenly's Open Source Edition](https://www.screenly.io/ose/).
 The purpose of the screen wasn't fully defined at the point of installation, but the marketing team wanted to 
 display a video loop of the Museum's exhibitions and events. 
 
@@ -28,7 +28,7 @@ display a video loop of the Museum's exhibitions and events.
 
 The solution for this project cost £845 - the screen was about £800, Pi about £40 and fixtures about £5. 
 Set up for the screen took a couple of hours due to the trickiness of getting the machine to [connect to Eduroam](https://www.instructables.com/Access-Eduroam-on-a-Raspberry-Pi-in-Cambridge/) within 
-the museum's estate (at the point of install, the museum network had not been upgraded) and getting it to stay connected to the wifi. 
+the museum's estate (at the point of install, the museum network had not been upgraded) and getting it to stay connected to the Wi-Fi. 
 
 ![Setting up Screenly on my macbook](../images/2019/10/screenlySetUp.jpg)
 

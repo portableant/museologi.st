@@ -27,13 +27,13 @@ collaborators:
   - Holly Wright
   - Tea Uglow
   - Kirstin Sillitoe
-  - Jane Carr
+  - Julie Carr
   - Jonny Richards
   - Jude Osborne
   - Imma Ramos
 partners:
   - Google Creative Lab
-github_repo: 
+GitHub_repo: 
   - url: https://github.com/googlecreativelab/xyfi
     name: XYFI code 
 date: 2019-10-29T22:51:56+01:00

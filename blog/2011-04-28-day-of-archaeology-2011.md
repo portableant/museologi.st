@@ -18,7 +18,7 @@ One of the projects that I'm working on, alongside some other digital archaeolog
 Jess Ogden, Stu Eve, Andrew Dufton and Tom Goskar) is the &#8220;The Day of Archaeology 2011&#8221;, a social media
 based project that will allow archaeologists working all over the world to document what they do on one day, July
 29<sup>th</sup> 2011. I'm providing server space via the Portable Antiquities Scheme's underused backup box and also
-configured the wordpress install and open source twapperkeeper for storing the social buzz.
+configured the WordPress install and open source twapperkeeper for storing the social buzz.
 
 This date coincides with the
 &#8220;[Festival of British Archaeology](http://festival.britarch.ac.uk/ "CBA festival website")&#8220;, which runs from
@@ -26,7 +26,7 @@ This date coincides with the
 archaeology in the UK and beyond.
 
 So how does it work? Well, archaeologists taking part in the project will document their day through photography, video,
-facebook activity, twitter commentary and written blog posts. These will then be collated in realtime on the project's
+facebook activity, Twitter commentary and written blog posts. These will then be collated in realtime on the project's
 dedicated website [The day of archaeology website](http://dayofarchaeology.com), which
 will then provide a glimpse into a day in the life of people working in archaeology, from archaeological excavations to
 laboratories, universities, community archaeology groups, education services, museums and offices. This project is open
@@ -35,7 +35,7 @@ have defected! Currently, over 150 people and organisations have signed up. You 
 voice!
 
 This innovative idea, follows on from the very successful &#8220;Day of Digital Humanities&#8221; and was dreamt up by
-Matthew Law and Lorna Richardson and was then built upon following a twitter conversation and subs
+Matthew Law and Lorna Richardson and was then built upon following a Twitter conversation and subs
 
 The project is supported by:
 

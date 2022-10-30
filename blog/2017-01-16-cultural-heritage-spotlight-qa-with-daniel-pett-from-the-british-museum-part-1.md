@@ -23,7 +23,7 @@ we’ll explore museums and cultural institutions who are using 3D technology to
 Today’s blog post features Daniel Pett’s effort to make the collections of the [British Museum](https://sketchfab.com/britishmuseum) 
 accessible for anyone in 3D and VR.__
 
-Daniel Pett is a Senior Digital Humanities Manager at the British Museum. He has a background in Archaeology, having studied at the Institute of Archaeology (UCL) and Cambridge University and he has also worked in Telecoms and Investment Banking technology and subsequently as technical lead for [the Portable Antiquities Scheme](https://finds.org.uk). He has also been co-lead on the [MicroPasts project](https://sketchfab.com/micropasts) with Professor Andy Bevan (UCL) and now leads on the British Museum’s foray into the world of Digital Humanities, sitting in between the curatorial community of the Museum and the Digital and Publishing department. One of the most recent projects he delivered, was the new Knowledge Search application for the Museum, which brings together many of the Museum’s resources in one interface.
+Daniel Pett is a Senior Digital Humanities Manager at the British Museum. He has a background in Archaeology, having studied at the Institute of Archaeology (UCL) and Cambridge University, and he has also worked in Telecoms and Investment Banking technology and subsequently as technical lead for [the Portable Antiquities Scheme](https://finds.org.uk). He has also been co-lead on the [MicroPasts project](https://sketchfab.com/micropasts) with Professor Andy Bevan (UCL) and now leads on the British Museum’s foray into the world of Digital Humanities, sitting in between the curatorial community of the Museum and the Digital and Publishing department. One of the most recent projects he delivered, was the new Knowledge Search application for the Museum, which brings together many of the Museum’s resources in one interface.
 
 As a side-project he has co-created one of the most breathtaking and largest 3D/VR collection of cultural artefacts in the world. The British Museum was early on Sketchfab, they created their account in October 2014: 121 3D models later, with more than 380K views on their models and 3000 likes, they are now the most followed Museum on Sketchfab. The Jericho Skull has been featured by CNN and the National Geographic:
 
@@ -31,7 +31,7 @@ As a side-project he has co-created one of the most breathtaking and largest 3D/
     <iframe title="A 3D model" src="https://sketchfab.com/models/bdcf4843e0964da2931aa7ab1fc1b99d/embed" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-The first foray into making British Museum 3D content available on Sketchfab was through the [MicroPasts](http://micropasts.org) project, using crowdsourced photo masking and subsequently Thomas Flynn placed his models online under the BM banner. Daniel now shares the British Museum’s collections with the entire world making them easily accessible for educational purposes, scientific reasons and, of course, for anyone who is interested in Culture. Thanks to his initiative and knowledge transfer to colleagues, the British Museum helps democratizing culture and digitally preserve their collections.
+The first foray into making British Museum 3D content available on Sketchfab was through the [MicroPasts](http://micropasts.org) project, using crowdsourced photo masking and subsequently Thomas Flynn placed his models online under the BM banner. Daniel now shares the British Museum’s collections with the entire world making them easily accessible for educational purposes, scientific reasons and, of course, for anyone who is interested in Culture. Thanks to his initiative and knowledge transfer to colleagues, the British Museum helps to democratize culture and digitally preserve their collections.
 
 Sharing their artefacts is also a way to promote the British Museum’s collections and encourage to actually go in the museum to discover them. It can also be a way to show the hidden artefacts since not all the collections of the museum are shown in the Museum or an easy way to manipulate fragile or very small/big artefacts.
 
@@ -58,7 +58,7 @@ Our output is generally done so that [anyone can replicate](https://www.software
   7. Build dense cloud
   8. Build mesh
   9. Build texture
- 10. Upload models, masks, photoscan files and images to Github and obtain a DOI for the 3D capture
+ 10. Upload models, masks, photoscan files and images to GitHub and obtain a DOI for the 3D capture
  11. Upload to Sketchfab under the license that the Museum allows (Creative Commons By Attribution Non-Commercial Share-Alike) under its interpretation of the Public Sector Information Act.
  12. Ask a curator if they will annotate the model and encode their knowledge for others to enjoy.
 
@@ -75,7 +75,7 @@ Some 3D models have been done in collaboration with other institutions. For exam
 
 **Is it costly (in time, money, equipment, etc.)?**
 
-The biggest cost for all activities is time. We’re all time poor! We use very basic equipment for example mobile phones with decent sensors, low end digital SLRs and reasonable compact cameras allied with lazy susan turntables and tripods. At the moment, I’m just using my OnePlus3 mobile as my 1 year old daughter broke my DSLR when she pulled it off the table at home.
+The biggest cost for all activities is time. We’re all time poor! We use very basic equipment for example mobile phones with decent sensors, high-end digital SLRs and reasonable compact cameras allied with lazy susan turntables and tripods. At the moment, I’m just using my OnePlus3 mobile as my 1-year-old daughter broke my DSLR when she pulled it off the table at home.
 
 ![The mold gold cape](../images/mold.jpg)
 
@@ -107,7 +107,7 @@ Some of the things I’ve seen BM content being used for are really inspiring, f
 
 We’re also seeing our 3D work propagating onto the museum floor as handling objects (for example the Egyptian house for the Sunken Cities exhibition handling desk), as information points in gallery (for example the [Jericho Skull](https://sketchfab.com/models/bdcf4843e0964da2931aa7ab1fc1b99d), [statue of A’a](https://sketchfab.com/models/e4dd6d342fa044b99732b484985797b6) and [the Kakiemon ‘Boy on a Go board’](https://sketchfab.com/models/64dcc40a6e9249849f5735ae0ebf41c6)) and in VR work that the museum has done on the Bronze Age and African Rock Art. For all of these bits of work, we’ve had supportive curatorial staff who generally have been enthused by chat in the canteen at lunch.
 
-The use of 3D is now making things possible that the 2D representation cannot, but I do not believe Adrian Hon’s assertion that VR will break the museum. 3D has the potential to augment, enhance and improve the museum experience. Other areas where we’ve started to use 3D models and printing is within exhibition design, for example instead of card board mockups of display spaces we can now print directly from CAD models saving our designers lots of time.
+The use of 3D is now making things possible that the 2D representation cannot, but I do not believe Adrian Hon’s assertion that VR will break the museum. 3D has the potential to augment, enhance and improve the museum experience. Other areas where we’ve started to use 3D models and printing is within exhibition design, for example instead of cardboard mockups of display spaces we can now print directly from CAD models saving our designers lots of time.
 
 _Thanks again for sharing, Daniel! Stay tuned for Part2 of this Q&A next week._
 

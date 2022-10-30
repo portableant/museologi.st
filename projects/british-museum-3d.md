@@ -54,7 +54,7 @@ out that Tom Flynn in the web team at the BM was also interested in 3D imaging, 
 British Museum's adventure into 3D imaging began. 
 
 <div class="ratio-16x9 ratio my-2">
-    <iframe title="Granite head of Amenemhat III" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/64d0b7662b59417986e9d693624de97a/embed?camera=0&ui_infos=0&ui_watermark_link=0&ui_watermark=0&ui_theme=dark"> </iframe> 
+    <iframe title="Granite head of Amenemhat III" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/64d0b7662b59417986e9d693624de97a/embed?camera=0&ui_infos=0&ui_watermark_link=0&ui_watermark=0&ui_theme=dark"> </iframe> 
 </div>
    
 Tom experimented with various lightweight applications for 3D imaging and produced the first models (see the model of Amenemhat III above) on 

@@ -125,5 +125,5 @@ but the blogpost fails to acknowledge the work that went on here first (which wa
 Here's a video to show what their labels did - simple instructions are key. 
 
 <div class="ratio-16x9 my-3 ratio">
-    <iframe src="https://www.youtube.com/embed/C-SaHHZM1m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/C-SaHHZM1m8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

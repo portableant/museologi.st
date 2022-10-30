@@ -21,7 +21,7 @@ attribution if this location is uncertain) and where they were discovered and th
 
 ![Screenshot of the Lost Change mapping interface with lines to mints](../images/2014/02/544.jpeg)
 
-While much of the the data is made available for re-use on the PAS website under [a Creative Commons licence](http://creativecommons.org/licenses/by-sa/3.0/), 
+While much of the data is made available for re-use on the PAS website under [a Creative Commons licence](http://creativecommons.org/licenses/by-sa/3.0/), 
 some details are closely guarded to prevent illicit activity (for example night-hawking or detecting without landowner 
 permission) and so this application has been developed with these restrictions in mind. An object’s coordinates are only 
 mapped to an Ordnance Survey four-figure National Grid Reference (which equates to a point within a 1km square), and only 

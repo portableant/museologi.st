@@ -14,11 +14,10 @@ Jennifer Wexler, Bronze Age Index Manager, MicroPasts Project, Daniel Pett, ICT 
 Portable Antiquities Scheme, and Neil Wilkin, Curator of European Bronze Age collections, 
 British Museum
 
-As any museum researcher will tell you, getting used to a new museum is as much about 
-learning about the collections of objects, as chasing down the paper records that 
+As any museum researcher will tell you, getting used to a new museum is as much  learning about the collections of objects, as chasing down the paper records that 
 accompany them. These can yield vital clues about how and where important finds were 
 made and how their biography unfolded. Last winter the MicroPasts team (a collaborative, 
-multi-disciplinary AHRC-funded project with University College London's Institute of 
+multidisciplinary AHRC-funded project with University College London's Institute of 
 Archaeology) assembled at Franks House, to view the British Museum's Bronze Age collection.
 
 Our visit was the inspiration for an exciting new project to digitise one of the first 
@@ -68,7 +67,7 @@ of Wight. Following in the footsteps of creators of the Index, we are once again
 research this extremely important untapped resource.
 
 Since late 2013, the digitisation of the entire Index has been undertaken 
-by the MicroPasts project. The MicroPasts project employs a crowd-sourcing 
+by the MicroPasts project. The MicroPasts project employs a crowdsourcing 
 platform (built on the open source project Pybossa) in order to solicit 
 help from members of the public or 'citizen archaeologists' to assist us 
 transcribing the important information contained on these cards. 
@@ -88,7 +87,7 @@ database will allow for the rethinking of almost everything we currently
 know about the use of metal in Bronze Age Britain, giving us a more 
 comprehensive view of our prehistoric past. It is also fascinating as it should demonstrate 
 how the interplay between reassessing archaeological archives and the employment 
-of new technologies, such as crowd-sourcing, can open up new avenues of research and public engagement.
+of new technologies, such as crowdsourcing, can open up new avenues of research and public engagement.
 
 If you are interested in helping us research and enrich our knowledge of the Bronze Age, as well as 
 many other museum archives, please join us and help to realise the 

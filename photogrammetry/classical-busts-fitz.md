@@ -8,7 +8,7 @@ city: Cambridge
 country: England
 geo_lat: 52.200205
 geo_lon: 0.119892
-github_repo:
+GitHub_repo:
   - 
     url: https://github.com/FitzwilliamMuseum/alexanderTheGreat
     name: Alexander the Great

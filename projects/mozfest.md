@@ -51,7 +51,7 @@ Museum African Rock Art project, engaged in discussion with attendees and made n
 
 ## Mozfest 2018
 
-For our second trip to Mozfest, I'd been let go by the British Museum by that point. Instead I and colleagues
+For our second trip to Mozfest, I'd been let go by the British Museum by that point. Instead, I and colleagues
 attended and set up a pop up museum stand amongst other cultural heritage exhibits that we pulled together. We organised 
 talks by various other people and grew the Arts and Culture community a bit further. Fab people who got involved included
 Andrew Prescott, Ed Silverton, Philo, Jennifer, Roy Raudenhauser, Steve Dey, Museum in a Box and many more. 

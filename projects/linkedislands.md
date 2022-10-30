@@ -105,9 +105,9 @@ Museum's antiquities collection.
 
 <div class="row">
   <div class="col-md-6">
-    <div class="ratio-16x9 ratio"><iframe src="https://www.youtube.com/embed/0m79yDb4AzE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="ratio-16x9 ratio"><iframe src="https://www.youtube.com/embed/0m79yDb4AzE?controls=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   </div>  
   <div class="col-md-6">
-    <div class="ratio-16x9 ratio"><iframe src="https://www.youtube.com/embed/mMR6JQ1M6qE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <div class="ratio-16x9 ratio"><iframe src="https://www.youtube.com/embed/mMR6JQ1M6qE?controls=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   </div>
 </div>

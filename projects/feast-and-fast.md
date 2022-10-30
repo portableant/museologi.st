@@ -87,10 +87,10 @@ Feast & Fast: The Art of Food in Europe, 1500-1800 is the latest interdisciplina
 This project was challenging for a variety of reasons:
 
 1. Late delivery of content that was required to be turned into a digital exhibition
-2. Content supplied in a word document with variable structures, there would be original poetry, 2 films, stories and full labels
+2. Content supplied in a Word document with variable structures, there would be original poetry, 2 films, stories and full labels
 3. Images supplied in formats that needed reworking to be used in the website and be cleared for use for IPR
 4. The Drupal website structure was not really suitable for the exhibition content in the format required
-5. The output was possibly going to be part of the Research Excellence Framework (REF) submission and therefore needed to be archive ready and citable.
+5. The output was possibly going to be part of the Research Excellence Framework (REF) submission and therefore needed to be archived and citable.
 
 To deal with the above, I decided that we would use Jekyll to build the website. This would allow us to use Markdown to write the content and use YAML to structure the content. This would allow us to use the same content to build the website, server for free via subdomained GitHub pages, deposit with Zenodo and provide a DOI for the REF submission that the history department would make.  
 

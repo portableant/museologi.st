@@ -34,5 +34,5 @@ the labels, text and audio for the exhibition to be put online a few days before
 Pull these together! 
 
 To do this, a custom table was created in Directus and content uploaded and pulled back through the API. This provided 
-reusable content structure for any other exhibitions that might be created in the future that had many to many 
+reusable content structure for any other exhibitions that might be created in the future that had many-to-many 
 relationships for cases, object and labels.  

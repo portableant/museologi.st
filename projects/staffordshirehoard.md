@@ -50,7 +50,7 @@ historians and enthusiasts.
 
 ![A screenshot of the old website](../images/2009/staffshoardwebsite.jpg)
 
-The original web site was built in one day by Daniel Pett, PAS ICT Adviser, using the OpenSource [Textpattern](https://textpattern.com) Content Management System (used to 
+The original website was built in one day by Daniel Pett, PAS ICT Adviser, using the OpenSource [Textpattern](https://textpattern.com) Content Management System (used to 
 great effect by friends like LP-Archaeology).  The labeling of images was conducted by Katharine Kelland over a period of a few days whilst the data was manipulated from original work by Kevin Leahy 
 via Roger Bland. The fantastic images come from a variety of sources - Daniel Buxton, David Rowan Birmingham University, 
 the councils involved and Duncan Slarke (the local FLO). The website was replaced by Staffordshire County Council soon after

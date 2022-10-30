@@ -44,7 +44,7 @@ status: active
 slug: /projects/micropasts-crowd-powered
 github_repo: 
   - url: https://github.com/micropasts
-    name: Github profile
+    name: GitHub profile
 tags:
   - citizen science
   - 3d
@@ -57,7 +57,7 @@ tags:
   - ahrc
 publications:
   - "Bonacchi, C, Bevan, A., Keinan, A., Pett, D.E.J. & Wexler, J. (2019) ’Participation in heritage crowdsourcing’ in Museum Management and Curatorship Volume 34 DOI: 10.1080/09647775.2018.1559080"
-  - "Bonacchi, C., Pett, D.E.J., Bevan, A. & Keinan-Schoonbaert, A. (2015) ‘Experiments in Crowd- funding Community Archaeology’ in Journal of Community Archaeology Volume 2. DOI: 10.1179/2051819615Z.00000000041"
+  - "Bonacchi, C., Pett, D.E.J., Bevan, A. & Keinan-Schoonbaert, A. (2015) ‘Experiments in Crowd-funding Community Archaeology’ in Journal of Community Archaeology Volume 2. DOI: 10.1179/2051819615Z.00000000041"
   - "Wexler, J., Bevan, A., Bonacchi, C., Keinan-Schoonbaert, A., Pett, D. & Wilkin, N. (2015) ’Collective Re-Excavation and Lost Media from the Last Century of British Prehistoric Studies’ in Journal of Contemporary Archaeology DOI: 10.1558/jca.v2i1.27124"
   - "Bonacchi, C., Bevan, A., Pett, D. and Keinan-Schoonbaert, A. Crowd- and Community-Fuelled Archaeology. Early Results from the MicroPasts Project. Proceedings of the Conference ‘Computer Applications and Quantitative Methods in Archaeology’. 22-25 April 2014, Paris, France."
   - "Wilkin, N., Bonacchi, C., Wexler, J., Bevan, A., Pett, D, and Keinan-Schoonbaert (2014) ‘Crowd-sourced Archaeological Research. The MicroPasts Project’ in Archaeology International 17:61-68"
@@ -74,27 +74,27 @@ research conducted by Chiara Bonnachi, Adi Keinan-Schoonbaert, Jennifer Wexler a
 
 The project was multifaceted and was intended to do 3 things:
 
-1. Create a crowd-funding platform for micro-financing of archaeological research projects
-2. Create a crowd-sourcing platform for the public to help with the analysis of archaeological data
+1. Create a crowdfunding platform for micro-financing of archaeological research projects
+2. Create a crowdsourcing platform for the public to help with the analysis of archaeological data
 3. Work towards the creation of 3d models from structure from motion projects at scale, when masking was required. 
 
 To create these platforms, we planned to use open principles - open source software, open data, open access and to collaborate
 internationally. The video below, from our [2014 conference](https://www.youtube.com/watch?v=QQXK9biDVBY&list=PLYLI4bmKQXBsseVqA91HLs8yI81_WKqjZ) held at the Royal Geographical Society, Kensington Gore explains more. 
 
 <div class="ratio ratio-16x9 my-3"> 
-    <iframe src="https://www.youtube.com/embed/yIXH6UsWYNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/yIXH6UsWYNU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Crowd-sourcing website 
+## Crowdsourcing website 
 
-The crowd-sourcing website was first launched in October 2013 and used the Shuttleworth Foundation funded Pybossa platform 
+The crowdsourcing website was first launched in October 2013 and used the Shuttleworth Foundation funded Pybossa platform 
 which was based out of Madrid; after we had managed to get the platform installed, we commissioned the founder, Daniel 
 Lombraña González, to create a new version of the platform which was more suited to our needs and to provide advice as to how we maximised and 
 adapted it for our projects. We initially planned to used citizen science to transcribe 30,000 index cards from 
 the British Museum's National Bronze Age Index (NBAI), which was achieved within 13 months (slow progress due to the 
 scanning of the records taking a long time.)
 
-> MicroPasts is a free and open-source, crowd-sourcing platform which supports massive online data collection about the human past (e.g. for researchers in archaeology, history and heritage). It is inspired by existing multi-application,  crowd-sourcing projects such as Zooniverse or Crowdcrafting and, like the latter, is built using the excellent  Pybossa platform. PyBossa handles storage of data, management of users, and overall workflow, while individual projects  are written in Javascript and HTML5.
+> MicroPasts is a free and open-source, crowdsourcing platform which supports massive online data collection about the human past (e.g. for researchers in archaeology, history and heritage). It is inspired by existing multi-application,  crowdsourcing projects such as Zooniverse or Crowdcrafting and, like the latter, is built using the excellent  Pybossa platform. PyBossa handles storage of data, management of users, and overall workflow, while individual projects  are written in Javascript and HTML5.
 
 People could assist existing research projects with tasks that need human intelligence, such as the accurate location of artefact 
 find spots or photographed scenes, the identification of subject matter in historic archives, the masking of photos meant 
@@ -108,13 +108,13 @@ By contributing to a MicroPasts project people could:
 * Develop skills that interested them
 * Produce results that will be open and freely usable
 
-## Crowd-funding website 
+## Crowdfunding website 
 
-The crowd-funding website was launched in 2014 and was based on the Brazilian Catarse platform (which we adapted with Irio Musskopf),
+The crowdfunding website was launched in 2014 and was based on the Brazilian Catarse platform (which we adapted with Irio Musskopf),
 and was used to fund several pilot archaeological research projects. This part of the project was mired in university red tape -
 
 * Financial regulations made it difficult for us to collect and distribute funds
-  * We used Paypal to facilitate donations 
+  * We used PayPal to facilitate donations 
 * We found that the partner organisations were not very adept at promoting their fundraising projects
 * Our target audience was cash poor! 
 
@@ -126,13 +126,12 @@ Using the citizen science platform, we allowed our contributors to mass produce 
 of images. These were then used to create 3d models by members of the community. For example:
 
 <div class="ratio ratio-16x9 my-3">
-<iframe  src="https://sketchfab.com/playlists/embed?collection=d7b65a2e3858481f86c6e0181d158449&autostart=0"
-title="Bronze Age Palstaves"
-frameborder="0"
+<iframe src="https://sketchfab.com/playlists/embed?collection=d7b65a2e3858481f86c6e0181d158449&autostart=0" 
+title="Bronze Age Palstaves" 
 allowfullscreen
-mozallowfullscreen="true"
-webkitallowfullscreen="true"
-allow="autoplay; fullscreen; xr-spatial-tracking"
+mozallowfullscreen 
+webkitallowfullscreen 
+allow="autoplay; fullscreen; xr-spatial-tracking" 
 xr-spatial-tracking
 execution-while-out-of-viewport
 execution-while-not-rendered

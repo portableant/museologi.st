@@ -39,7 +39,7 @@ At my interview, the CRM process was meant to be well advanced and likely to be 
 was not to be the case and one of my projects to enable digital transformation was to procure and assist with 
 the implementation of full ticketing and CRM functions.
 
-After a rigorous tendering exercise carried out from the end of 2018 to mid 2019, we selected Tessitura from a short list of 3 companies and 
+After a rigorous tendering exercise carried out from the end of 2018 to mid 2019, we selected Tessitura from a short list of 3 companies, and 
 they began work with the Museum in October 2019, with difficulties arising at the Museum end due to paucity of staff
 availability to work on the process. This was alleviated when the brilliant Grace Hadley joined the team and project managed our implementation work alongside 
 Mark Hazell (an excellent consultant if you need one). One of the major problems in the Fitzwilliam is 
@@ -51,7 +51,7 @@ The Museum had legacy to integrate and clean to get to delivery. Systems to inte
 
 * a very out of date [Artifax event management](https://artifax.com) system which had not been updated for nearly a decade
 * multiple spreadsheets of disparate data (if you work in a museum, you'll know this well)
-* proprietary fund raising systems
+* proprietary fund-raising systems
 * people's contact lists 
 
 ## Pandemic stimulus 
@@ -61,7 +61,7 @@ far faster than it would have done otherwise. Tessitura's team provided some of 
 I have seen from a tech organisation for users of its product - days of Nicola and Chloe's time with lots of patience. 
 
 By the start of July 2020, the Museum and Tessitura team managed to 
-deliver an iteration of the ticketing system for the Fitzwilliam Museum. Soon after, fund raising came on line and then the
+deliver an iteration of the ticketing system for the Fitzwilliam Museum. Soon after, fund-raising came online and then the
 TNEW API was used to integrate with the Laravel front end I had built for the Fitz. 
 
 ## Consortium (well sort of...)
@@ -89,12 +89,12 @@ Questions to think about:
   * Transactional fees for payments 
     * For example Mastercard, Windcave or Tessitura Merchant Services
   * Email transaction fees
-    * You will need to use a third party eg Wordfly
+    * You will need to use a third party e.g. Wordfly
 
 ## TNEW front end 
 
 The TNEW system is meant to be your window onto ticketing and CRM, however, management for us 
-wanted it to have tighter integration into the Fitz website. We combined Directus with TNEW to get a 
+wanted it to have tighter integration into the Fitz website. We combined Directus with TNEW to get an 
 MVP working for integrated ticketing information. The front end template was built using Jekyll and served off 
 GitHub pages (for free!!) and is completely version controlled. TNEW takes your HTML template and inserts
 into their wrapper. 
@@ -106,7 +106,7 @@ into their wrapper.
 The Museum's community and consumers were forced into using this project more quickly than expected 
 due to the pandemic. Data capture was more intrusive than we had anticipated, due to tracking requirements (which 
 had some push back), but these data grew rapidly. The project was there to create new data insights into 
-visitors' relationships with the museum and track and facilitate fund raising. The two Google Analytics graphs below
+visitors' relationships with the museum and track and facilitate fundraising. The two Google Analytics graphs below
 show how the visitor's usage of the site panned out from July 2020 to September 2022.
 
 ![Google Analytics for the Fitzwilliam Museum's ticketing website](../images/2022/09/tessituraWeb.jpg)

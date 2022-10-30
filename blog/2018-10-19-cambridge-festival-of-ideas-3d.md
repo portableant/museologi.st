@@ -16,8 +16,8 @@ tags:
 Yesterday at the Museum of Classical Archaeology, I led a session to teach members of the public how to create
 3D models using Structure from Motion. 20 people attended and I hope enjoyed and learnt new
 things. The training materials for the workshop are
-on [Github pages](https://universityofcambridgemuseums.github.io/festivalOfIdeas/)
-and some of the models are now going online, for example [Greg Painter](https://sketchfab.com/GregPainter)'s below.
+on [GitHub pages](https://universityofcambridgemuseums.github.io/festivalOfIdeas/)
+and some models are now going online, for example [Greg Painter](https://sketchfab.com/GregPainter)'s below.
 
 I will probably be doing more of these workshops over the next year or so. So if you're interested, look out for
 details.

@@ -14,7 +14,7 @@ tags:
 
 ![3D instructional website screenshot](../images/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png)
 
-At the Fitzwilliam Museum, we have a large amount of old websites that were built over the last decade. Many of these are now presenting security risks as they are on old WordPress installations, or they are just plain hand coded HTML. To alleviate the burden for supporting these sites, I have been transferring as much as possible to [Jekyll](https://jekyllrb.com/) powered Github Pages instances (although I am also looking at [Gatsby](https://gatsbyjs.com)).
+At the Fitzwilliam Museum, we have a large amount of old websites that were built over the last decade. Many of these are now presenting security risks as they are on old WordPress installations, or they are just plain hand coded HTML. To alleviate the burden for supporting these sites, I have been transferring as much as possible to [Jekyll](https://jekyllrb.com/) powered GitHub Pages instances (although I am also looking at [Gatsby](https://gatsbyjs.com)).
 
 I'm attracted to Jekyll, due to the powerful conversion of very simple**markdown** files. Lightweight, easy to edit, hard to break and easy to run through version control. I'm hoping that we can use this format to stay away from heavily customising content management systems for our research sections at the Fitz. The sheer amount of sites that we have now got makes administering them all a gigantic task. Going this way, with simple text files might make it easier, or it might be a red herring.
 
@@ -22,11 +22,12 @@ I'm attracted to Jekyll, due to the powerful conversion of very simple**markdown
 
 Generating a Jekyll site is pretty straightforward, and this post outlines how I built the [University of Cambridge Museums tutorial site](https://github.com/UniversityofCambridgeMuseums/festivalOfIdeas) for the Festival of Ideas event I ran on Photogrammetry. Having an example to build towards, makes the process easier!
 
-**Remember though, this is a bare bones example.**
+**Remember though, this is a bare-bones example.**
 
 ### Installing Jekyll
 
-I am assuming in this instance, you, the reader will be on OSX and have homebrew installed, RVM and the lastest Ruby and can use terminal. If you have all of those set up, you will now need to install the Jekyll gem. So go to terminal and issue this command:
+I am assuming in this instance, you, the reader will be on OSX and have homebrew installed, RVM and the latest Ruby and can 
+use terminal. If you have all of those set up, you will now need to install the Jekyll gem. So go to terminal and issue this command:
 
 ```bash
 gem install bundler jekyll
@@ -93,7 +94,7 @@ description: >- # This site will provide training material for the Museum of Cla
 baseurl: "/festivalOfIdeas" 
 url: "https://UniversityofCambridgeMuseums.github.io/" 
 twitter_username: dejpett
-github_username:  portableant
+GitHub_username:  portableant
 logo: images/festivalLogo.jpg
 # Build settings
 markdown: kramdown
@@ -119,7 +120,7 @@ This config file also has:
   * the markdown type
   * the plugins I want to use on gh-pages
 
-If you look at the plugins section, you will see I have asked for feed, sitemap, seo, emoji and git hub mentions to also be included. Now create a page inside the _tutorials folder:
+If you look at the plugins section, you will see I have asked for feed, sitemap, seo, emoji and GitHub mentions to also be included. Now create a page inside the _tutorials' folder:
 
 ```bash
 touch _tutorials/introduction.md
@@ -134,7 +135,7 @@ url: tutorials/introduction
 ---
 ```
 
-Save the file and then you can test to see if this has worked:
+Save the file, and then you can test to see if this has worked:
 
 ```bash
 jekyll serve
@@ -150,11 +151,11 @@ and you will see a page with the title of the file and your name. Jekyll parses 
 
 Now you can create the page files that you need. Edit the index.md file, 404.html and about.md file as much as you want. You can find more examples of logic for rendering page lists and ordering of these in the repo referred to above.
 
-So that is the basics of getting a Jekyll site running with custom page structure. You now probably want to know how to deploy to Github.
+So that is the basics of getting a Jekyll site running with custom page structure. You now probably want to know how to deploy to GitHub.
 
 ### Github pages
 
-Git scares people, Github is the friendlier face. Still scary for most. So how do you get your Jekyll site running off there. Follow these steps (assuming you have a Github profile):
+Git scares people, GitHub is the friendlier face. Still scary for most. So how do you get your Jekyll site running off there. Follow these steps (assuming you have a GitHub profile):
 
   1. Create a new empty repository
   2. Look for the instructions on how to add data
@@ -169,9 +170,9 @@ git remote add origin path/to/gitrepo
 git push -u origin master
 ```
 
-You now should have your jekyll code on github if all went well. Now you need to create the branch that will auto-render on [gh-pages](https://pages.github.com/). Follow these steps:
+You now should have your jekyll code on GitHub if all went well. Now you need to create the branch that will auto-render on [gh-pages](https://pages.github.com/). Follow these steps:
 
-  1. Go to the github repository
+  1. Go to the GitHub repository
   2. click on the branches button
   3. click add new branch and type gh-pages
 

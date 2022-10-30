@@ -23,7 +23,7 @@ tags:
 ---
 Lost Change, an innovative and experimental application that allows coins found within England and Wales and recorded through the British Museum’s Portable Antiquities Scheme (PAS), to be visualised on an interactive, dual-mapping interface. This tool enables people to interrogate a huge dataset (over 300,000 coin records can be manipulated) and discover links between coins’ place of origin (the issuing mint or a more vague attribution if this location is uncertain) and where they were discovered and then subsequently reported to the PAS Finds Liaison Officers.
 
-While much of the the data is made available for re-use on the PAS website under a Creative Commons licence, some details are closely guarded to prevent illicit activity (for example night-hawking or detecting without landowner permission) and so this application has been developed with these restrictions in mind. An object’s coordinates are only mapped to an Ordnance Survey four-figure National Grid Reference (which equates to a point within a 1km square), and only if the landowner or finder has not requested these to be hidden from the public.
+While much of the data is made available for re-use on the PAS website under a Creative Commons licence, some details are closely guarded to prevent illicit activity (for example night-hawking or detecting without landowner permission) and so this application has been developed with these restrictions in mind. An object’s coordinates are only mapped to an Ordnance Survey four-figure National Grid Reference (which equates to a point within a 1km square), and only if the landowner or finder has not requested these to be hidden from the public.
 
 The distribution of coins is biased by a number of factors (a project funded by the Leverhulme Trust is looking at this in greater depth) which could include:
 
@@ -33,11 +33,17 @@ The distribution of coins is biased by a number of factors (a project funded by 
 
 ![A screenshot of the interface](http://britishmuseumblog.files.wordpress.com/2014/02/544x306.jpg)
 
-The tool is straightforward to use. The left hand pane holds details for the place of discovery; the right hand side holds details for the place of issue, the mint. These panes work in tandem, with data dynamically updating in each, depending on the user’s choice. A
-The PAS intends to build on this project at a later stage and will be seeking further funding to enable this to happen, with many more facets of discovery available to query the dataset.
+The tool is straightforward to use. The left hand pane holds details for the place of discovery; the right hand side holds 
+details for the place of issue, the mint. These panes work in tandem, with data dynamically updating in each, depending on 
+the user’s choice.
 
-Lost Change was funded through a £5,000 grant from the CreativeWorks London ‘Entrepreneur-in-Residence’ programme.
+The PAS intends to build on this project at a later stage and will be seeking further funding to enable this to happen, 
+with many more facets of discovery available to query the dataset.
 
-The PAS is grateful to Gavin Baily and Sarah Bagshaw from Tracemedia who developed the application, and everyone who has contributed to the PAS database.
+Lost Change was funded through a £5,000 grant from the CreativeWorks London 
+‘Entrepreneur-in-Residence’ programme.
+
+The PAS is grateful to Gavin Baily and Sarah Bagshaw from Tracemedia who developed the application, and everyone who has 
+contributed to the PAS database.
 
 This originally appeared on the British Museum blog

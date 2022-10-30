@@ -40,7 +40,7 @@ tags:
   - 3d
   - photogrammetry
 ---
-This collection of 3D scans consists of the reliefs held within the British Museum's Assyrian galleries on the ground floor.
+This collection of 3D scans consists of the reliefs held within the British Museum's Assyrian galleries on the first floor.
 
 <div class="ratio  ratio-1x1 mb-3">
   <iframe title="A 3D model playlist of scans of the Nineveh objects"  src="https://sketchfab.com/playlists/embed?collection=466149797af64674b8de5b88b867ace6"  allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

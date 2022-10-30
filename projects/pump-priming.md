@@ -11,7 +11,7 @@ funder:
   - The University of Cambridge
 collaborators:
   - Jo Vine
-github_repo: 
+GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/pump-priming
     name: Pump priming source code
 zenodo_doi: 10.5281/zenodo.6471455

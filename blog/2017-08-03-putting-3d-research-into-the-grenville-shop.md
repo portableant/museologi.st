@@ -13,14 +13,14 @@ tags:
   - entrepreneurship
 section: blog
 ---
-<div class="alert alert-dark">This was originally published on the British Museum blog as <a href="http://blog.britishmuseum.org/a-new-dimension-in-home-shopping/">A new dimension in home shopping</a>)</div>
+<div class="alert alert-dark">This was originally published on the British Museum blog as <a href="https://blog.britishmuseum.org/a-new-dimension-in-home-shopping/">A new dimension in home shopping</a>)</div>
 
 ![Two 3d jesmonite casts of Antinous and Roy](../images/2017/08/x3D-Antinous-Roy-landcape.jpg)
 
 Over the last four years, the British Museum has been producing 3D models that can be viewed by anyone online. 
 
 The roots of this work can be traced back to the [Arts and Humanities Research Council](http://www.ahrc.ac.uk/)'s 
-funding of the [MicroPasts](http://micropasts.org) crowd-sourcing project with University College London, 
+funding of the [MicroPasts](http://micropasts.org) crowdsourcing project with University College London, 
 which produced 3D objects for academic research. 
 
 The Museum continued its 3D output by using native mobile phone applications to publish a selection of

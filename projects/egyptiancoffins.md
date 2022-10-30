@@ -61,7 +61,7 @@ tags:
   - knowledge transfer
   - british council
 ---
-The Egyptian Coffins Project is a collaboration between the Fitzwilliam Museum, Cambridge, and the Egyptian Museum, Cairo and I was fortunate to be invited to join the team for this project. 
+The Egyptian Coffins Project is a collaboration between the Fitzwilliam Museum, Cambridge, and the Egyptian Museum, Cairo, and I was fortunate to be invited to join the team for this project. 
 
 ## Background 
 
@@ -69,12 +69,12 @@ Since 2014, the Fitzwilliam Museum has been conducting cutting-edge interdiscipl
 
 ### Teaching digital skills
 
-As part of my collaboration on this project, I taught the team how to generate a Jekyll website that runs off Github pages (zero cost, low maintenance) allowing them to have autonomy as humanities researchers over their toolkit. 
+As part of my collaboration on this project, I taught the team how to generate a Jekyll website that runs off GitHub pages (zero cost, low maintenance) allowing them to have autonomy as humanities researchers over their toolkit. 
 
 This online resource presents the complete results of this research as it unfolds, commencing with the coffins of the 25th Dynasty ‘water pourer on the west of Thebes’, Pakepu, and the 21st Dynasty coffin set of Nespawershefyt. This includes full transliterations and translations of the hieroglyphic text, descriptions of the iconography, raw and interpreted results of the scientific analysis, including pigment analysis and wood identification, results of advanced imaging techniques such as CT scans, X-radiography and scanning electron microscopy, and some historical and social commentary on the significance of our findings in the context of ancient Egyptian attitudes to funerary beliefs, the economy and death and the afterlife. The website also contains some special behind-the-scenes footage and insight into what it is like working both internationally and collaboratively.
 
 <div class="ratio-16x9 ratio my-2">
-    <iframe src="https://player.vimeo.com/video/307004713?h=30f9a0c370&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js">
+    <iframe src="https://player.vimeo.com/video/307004713?h=30f9a0c370&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js">
 </script>
 
 ### AHRC collaboration 

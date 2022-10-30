@@ -5,7 +5,7 @@ title: Do Not Touch
 institution: The Fitzwilliam Museum
 featuredImg: ../images/projects/touch.jpg
 background: ../images/2019/IMG_20181203_114202.jpg
-github_repo:
+GitHub_repo:
   - url: https://github.com/FitzwilliamMuseum/fitz-do-not-touch
     name: Source code for the website
 funders:
@@ -71,7 +71,7 @@ the eligible PI for the grant, with Helena and myself delivering the research.
 3. Create a series of 3D prints for installation in the Fitzwilliam Museum antiquities galleries and the Museum of Cambridge 
 4. Evaluate the use of these pieces in the galleries and the effectiveness of the deterrents (research conducted by Rafie Cecilia)
 
-The research and practical interventions listed above produced some useful results, which are outlined in the [Do Not Touch Evaluation Report](/doNotTouchRafie.pdf) 
+The research and practical interventions listed above produced some useful results, which are outlined in the [Do Not Touch Evaluation Report,](/doNotTouchRafie.pdf) 
 and we managed to hold meaningful workshops to teach 3d modelling skills to the public and museum staff. 
 
 ## Physical interventions

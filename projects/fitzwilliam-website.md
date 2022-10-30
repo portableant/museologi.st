@@ -10,7 +10,7 @@ background: ../images/2022/website/september2022.jpg
 start: 2019-09-21
 end: 2019-10-07
 status: active
-github_repo: 
+GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-main-website
     name: Website source code
   - url: https://github.com/FitzwilliamMuseum/fitz-collection-online
@@ -190,7 +190,7 @@ However, this aspect just didn't seem to click with our audiences and take up of
 
 <div class="col-md-6 mx-auto">
     <div class="ratio ratio-4x3 my-3">
-        <iframe src="https://www.youtube.com/embed/-r6G4KfPkXs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/-r6G4KfPkXs?controls=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 

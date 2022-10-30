@@ -30,7 +30,7 @@ tags:
 After I left the British Museum, I regularly returned to scan objects within the collection - mainly the large 
 friezes of the permanent collection as they are so easy to rapidly capture high quality data from. 
 
-This collection of 3D scans depicts the Parthenon Marbles in the British Museum. The method to scan these is extremely simple;
+This collection of 3D scans depicts the Parthenon Marbles in the British Museum. The method to scan these are extremely simple;
 take a DSLR with loads of disc space on the cards, walk backwards and forwards taking overlapping images of the marbles. 
 Data has been processed at low settings in Agisoft Metashape, and high quality in Reality Capture 1.2. Lots more to come!
 

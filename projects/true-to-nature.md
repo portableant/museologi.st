@@ -7,7 +7,7 @@ project_website: https://fitzmuseum.cam.ac.uk/visit-us/exhibitions/true-to-natur
 slug: /projects/true-to-nature
 featuredImg: ../images/2022/PD_222_1961.jpg
 background: ../images/2022/large_pd_11_1997_201701_adn21_dc2.jpg
-github_repo: 
+GitHub_repo: 
   - url: https://github.com/fitzwilliamMuseum/peripleo
     name: Peripleo map
 tags:
@@ -19,7 +19,7 @@ tags:
   - museums
   - last minute digital
 ---
-True to Nature was another project which came around with out digital outputs specified fully in the 
+True to Nature was another project which came around without digital outputs specified fully in the 
 exhibition planning brief. However, there was a request from the curatorial team to produce a rich set of pages
 to augment the exhibition online. 
 
@@ -34,5 +34,5 @@ To do this, I created:
 All very simple and driven off the Directus CMS.
 
 <div class="ratio ratio-1x1">
-<iframe src="https://peripleo.fitzmuseum.cam.ac.uk/#/?/?/?/mode=points" title="Mapping True to Nature" allowfullscreen="true"></iframe>
+<iframe src="https://peripleo.fitzmuseum.cam.ac.uk/#/?/?/?/mode=points" title="Mapping True to Nature" allowfullscreen></iframe>
 </div>

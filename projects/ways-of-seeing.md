@@ -55,11 +55,11 @@ Links with scholars in Florence suggested the possibility of extending the displ
 with cultural heritage app developer Maggioli Musei, University of Florence researcher Giovanni Pescarmona had already 
 created a smartphone app for the Museo Bandini in Fiesole using AR to provide iconographic analysis, conservation data, 
 and montages with companion pieces in other collections. Pescarmona and his colleagues now adapted their Bandini template 
-for the Inspire2020 display. As a centre piece for this exhibition, the [Story of Cupid and Psyche: M.75](https://data.fitzmuseum.cam.ac.uk/id/object/627)
+for the Inspire2020 display. As a centrepiece for this exhibition, the [Story of Cupid and Psyche: M.75](https://data.fitzmuseum.cam.ac.uk/id/object/627)
 was the focal object, and it was this (as shown in the IIIF embed below) that was the subject of the AR app.
 
 <div class="ratio-16x9 ratio my-3">
-    <iframe src="https://data.fitzmuseum.cam.ac.uk/uv.html#?manifest=https://api.fitz.ms/data-distributor/iiif/object-627/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-514,-129,8494,3984&r=0" allowfullscreen frameborder="0"></iframe>
+    <iframe src="https://data.fitzmuseum.cam.ac.uk/uv.html#?manifest=https://api.fitz.ms/data-distributor/iiif/object-627/manifest&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-514,-129,8494,3984&r=0" allowfullscreen></iframe>
 </div>
 
 The new ‘Ways of Seeing’ smartphone app locks on to the artwork when the phone is held before the painting. The navigation 
@@ -73,5 +73,5 @@ particularly high, but it gives a sense of the experience. The app is now defunc
 has expired.
 
 <div class="ratio ratio-16x9 my-3">
-    <video controls src="/video/VID_414250210_212732_641.mp4" />
+    <video controls src="/video/VID_414250210_212732_641.mp4"></video>
 </div>

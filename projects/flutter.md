@@ -1,7 +1,7 @@
 ---
 title: "Experiments with Flutter mobile app development"
 institution: Fitzwilliam Museum
-github_repo: 
+GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-flutter-app
     name: Flutter App source code
 date: 2022-03-29T22:51:56+01:00
@@ -59,7 +59,7 @@ In creating this application, I learned:
 
 I based all the code around established libraries and plugins and managed to create a decent prototype 
 or MVP. I managed to get the app to work on both Android and iOS and to pull data from all the sources mentioned above. 
-I found the language and framework easy to use, but I found that Android Studio was compute heavy and drained 
+I found the language and framework easy to use, but I found that Android Studio was computed heavy and drained 
 laptop batteries extremely quickly. I have not pushed the APK or packages to the app stores as there was no interest 
 shown in any way by the Fitzwilliam Museum management, who would rather not make decisions and wait for 
 philanthropic funding. We had been approached by Smartify and a few other services to run mobile app

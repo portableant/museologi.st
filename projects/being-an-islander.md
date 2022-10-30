@@ -72,6 +72,6 @@ software, and I worked with Elton Barker and Rainer Simon to create a version th
 <div class="ratio ratio-1x1">
     <iframe src="https://mapping-antiquity.fitzmuseum.cam.ac.uk/#/?/?/?/mode=points" 
         title="Mapping True to Nature" 
-        allowfullscreen="true"></iframe>
+        allowfullscreen></iframe>
 </div>
 

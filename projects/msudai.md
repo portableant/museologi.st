@@ -46,7 +46,7 @@ Archaeology is in an age where digital methods and practices are having an unavo
 ### Institute Themes
 ![Massimo in his MSU Spartans helmet, a souvenir from the Institute](../images/2015/DPj4Ok0WsAAKXuP.jpeg)
 
-The activities of the Institute for Digital Archaeological Method & Practice (lectures, workshops, etc) are organized to address a variety of themes:
+The activities of the Institute for Digital Archaeological Method & Practice (lectures, workshops, etc.) are organized to address a variety of themes:
 
 * Geospatial & Digital Cultural Mapping: the geospatial web, with particular emphasis on low cost or open source tools to display, visualize, share, publish, and creatively combine geospatial data for research, scholarly communication, and public engagement. Articulates with any existing “traditional” GIS experience that invited attendees may have, and draws heavily on the domain of Neogeography.
 * Publication and Scholarly Communication: the radically changing landscape of scholarly publishing and communication, and the ways in which archaeologists (public, private, scholarly, or student) can leverage new digital tools and platforms to build, publishing, and widely disseminate engaging archaeological “publications.”
@@ -57,7 +57,7 @@ The activities of the Institute for Digital Archaeological Method & Practice (le
 
 ## What did people do?
 
-Over a two year cycle, a group of scholars worked on digital archaeology projects, relevant to their careers and were tutored for two 
+Over a two-year cycle, a group of scholars worked on digital archaeology projects, relevant to their careers and were tutored for two 
 weeks by experts in the field. The projects were then presented in the final week of the Institute at Michigan State University, East Lansing. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">But, wow. Reflecting, and it&#39;s true. If it weren&#39;t for <a href="https://twitter.com/hashtag/msudai?src=hash&amp;ref_src=twsrc%5Etfw">#msudai</a> I wouldn&#39;t have gone to SAA in 2016 and met all the digi folks there or taken <a href="https://twitter.com/benmarwick?ref_src=twsrc%5Etfw">@benmarwick</a> and <a href="https://twitter.com/Md_Harris?ref_src=twsrc%5Etfw">@Md_Harris</a> R workshop in Vancouver or become co-chair of <a href="https://twitter.com/SAA_DDIG?ref_src=twsrc%5Etfw">@SAA_DDIG</a> this year. Or a million other things. Thanks, <a href="https://twitter.com/NEH_ODH?ref_src=twsrc%5Etfw">@NEH_ODH</a>.</p>&mdash; Jolene Smith (@aejolene) <a href="https://twitter.com/aejolene/status/990739999204302856?ref_src=twsrc%5Etfw">April 29, 2018</a></blockquote> 

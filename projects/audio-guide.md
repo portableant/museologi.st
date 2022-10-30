@@ -12,7 +12,7 @@ geo_lon: -0.126924
 start: 2015-09-21
 end: 2015-10-07
 status: active
-github_repo: 
+GitHub_repo: 
   - 
     url: https://github.com/portableant/multimediaApi
     name: Source code for the API
@@ -124,5 +124,5 @@ using a MYSQL connection.
 3. API saves the data to a database
 4. Web page would pull data from Contentful system and present the web page 
 
-The project's code has been deleted from the Github repository I set up for the BM, but the code 
+The project's code has been deleted from the GitHub repository I set up for the BM, but the code 
 is available via Zenodod and on my personal repository account. 

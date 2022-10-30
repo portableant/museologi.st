@@ -23,7 +23,7 @@ collaborators:
 partners:
   - ThinkSee3D
   - museum in a box
-github_repo: 
+GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows
     name: Website source code
 start: 2019-01-01
@@ -93,7 +93,7 @@ audio:
     type: audio/wav
     author: Jennifer Wexler
     project: MIAB - Travelling Objects
-  - title: 8 - A plan of of Thermi
+  - title: 8 - A plan of Thermi
     location: /audio/8_A_plan_Of_Thermi.wav
     type: audio/wav
     author: Jennifer Wexler
@@ -196,7 +196,7 @@ The efficacy of this type of partnership can be developed during this project to
 
 By providing a shared base within a museum and through partnership with industrial collaborators, the researchers will benefit from exposure to two new contexts in which their research could be used. The ECRs will also be able to apply their expertise to a live challenge and foster cross-sectoral information sharing and awareness-raising both during this project and in their future careers.
 
-Our partners bring very unique skill sets to the Museum. ThinkSee3D and Museum in a Box are innovators in joining heritage with digital. This site will document our 2019 journey of collaborations, events and products.
+Our partners bring unique skill sets to the Museum. ThinkSee3D and Museum in a Box are innovators in joining heritage with digital. This site will document our 2019 journey of collaborations, events and products.
 
 This project is grant AH/S012583/1 part of the Development Grants Scheme. It starts on January 1st 2019 and finishes on December 31st 2019.
 
@@ -206,9 +206,9 @@ This project is grant AH/S012583/1 part of the Development Grants Scheme. It sta
 
 ## Outputs 
 
-The fellows created a wide array of outputs during their short 6 month stay in the Fitzwilliam Museum. These included:
+The fellows created a wide array of outputs during their short 6-month stay in the Fitzwilliam Museum. These included:
 
-* A [website to showcase the project](https://creative-economy.fitzmuseum.cam.ac.uk) and the fellows' work (this was [built in Jekyll](https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows) and they were taught basic RSE skills)
+* A [website to showcase the project](https://creative-economy.fitzmuseum.cam.ac.uk) and the fellows' work (this was [built in Jekyll,](https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows) and they were taught basic RSE skills)
 * [3D models of objects](https://sketchfab.com/fitzwilliammuseum/collections/ahrc-ceef3d-97cb70135c1c4cc482c83b14849271c5) in the collection 
 * Several Collections for Museum in a Box
   * [Travelling Objects Part 1](https://heart.museuminabox.org/view_collection/379)
@@ -217,7 +217,7 @@ The fellows created a wide array of outputs during their short 6 month stay in t
   * [Feast and Fast](https://heart.museuminabox.org/view_collection/344)
   * [Dialysis Unit](https://heart.museuminabox.org/view_collection/277) at Addenbrookes Hospital (ChYpPs collection)
 * Audio files linked to Museum in a Box (found embedded below and voiced by Hannah Platts, Abi Glen and James)
-  * Winifred Lamb and the Being an Islander
+  * Winifred Lamb and Being an Islander
   * Feast and Fast
 
 ![Installation of Abi Glen's MIAB in the Feast and Fast exhibition](../images/2019/feastMIAB.jpg)

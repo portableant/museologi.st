@@ -43,12 +43,12 @@ Nick Harris (former BM colleague), leading the development of these guiding my c
 <div class="row">
     <div class="col-md-6">
         <div class="ratio-16x9 ratio my-3">
-            <iframe src="https://www.youtube.com/embed/y52LprXN6_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/y52LprXN6_c" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
     <div class="col-md-6">
         <div class="ratio-16x9 ratio my-3">
-            <iframe src="https://www.youtube.com/embed/cgtrc4Cxu2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/cgtrc4Cxu2w" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>  
