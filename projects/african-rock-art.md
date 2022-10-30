@@ -70,14 +70,14 @@ Recap of key features:
 4. AWS for final delivery with 3 years of reserved instance. 
 
 The Jekyll site pulled data from Contentful into nodes and created static pages for each rock art image and topic; this created
-a sustainable and preservable digital resource - low band width, fast and easy to maintain.
+a sustainable and preservable digital resource - low bandwidth, fast and easy to maintain.
 
 ## 3d Models 
 
 With Jennifer and Steve Dey at ThinkSee3D, we generated 3D models from archive images using photogrammetry methodologies, which
 were hosted on SketchFab under the British Museum profile, this enabled the physical objects that were still in situ to be 
 visualised. These models were then embedded into the website and some were printed, in digital and 
-in light weight handling materials for use in workshops and events. 
+in lightweight handling materials for use in workshops and events. 
 
 <div class="ratio ratio-16x9 my-3">
     <iframe src="https://sketchfab.com/playlists/embed?collection=3348c986a05d423d850f66ac5500b65a&autostart=0"
@@ -122,5 +122,5 @@ create an interactive film entitled Rock Art in the Green Sahara.
 </div>
 
 This was developed in collaboration with the [Peopling the Green Sahara Project](https://www.greensahara-leverhulme.com/) 
-at Kings College London and the University of Bristol, and incorporates satellite visualisations of climate change in 
+at King's College London and the University of Bristol, and incorporates satellite visualisations of climate change in 
 the Sahara over the last 11,000 years with information about the rock art sites. 
