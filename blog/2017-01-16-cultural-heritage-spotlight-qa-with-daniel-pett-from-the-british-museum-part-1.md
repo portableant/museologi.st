@@ -15,7 +15,7 @@ background: ../images/backgrounds/british-museum.jpg
 section: blog
 ---
 <div class="alert-dark alert" role="alert">
-<p>This was originally published as part 1 of a 3 part interview on the SketchFab blog in January 2017.</p>
+This was originally published as part 1 of a 3 part interview on the SketchFab blog in January 2017.
 </div>
 
 __Our [Cultural institutions Page](https://sketchfab.com/museums) highlights our ongoing support of museums and cultural institutions with 

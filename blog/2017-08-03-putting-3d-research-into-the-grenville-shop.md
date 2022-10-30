@@ -13,7 +13,9 @@ tags:
   - entrepreneurship
 section: blog
 ---
-<div class="alert alert-dark">This was originally published on the British Museum blog as <a href="https://blog.britishmuseum.org/a-new-dimension-in-home-shopping/">A new dimension in home shopping</a>)</div>
+<div class="alert alert-dark">
+This was originally published on the British Museum blog as <a href="https://blog.britishmuseum.org/a-new-dimension-in-home-shopping/">A new dimension in home shopping</a>)
+</div>
 
 ![Two 3d jesmonite casts of Antinous and Roy](../images/2017/08/x3D-Antinous-Roy-landcape.jpg)
 

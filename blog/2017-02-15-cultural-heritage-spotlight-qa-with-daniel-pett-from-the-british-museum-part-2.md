@@ -12,7 +12,7 @@ tags:
 ---
 
 <div class="alert-dark alert" role="alert">
-<p>This was originally published as part 2 of a 3 part interview on the SketchFab blog in January 2017.</p>
+This was originally published as part 2 of a 3 part interview on the SketchFab blog in January 2017.
 </div>
 
 _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights our ongoing support of museums and cultural 
