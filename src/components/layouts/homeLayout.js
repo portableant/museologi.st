@@ -1,10 +1,3 @@
-/**
- * Layout component that queries for data
- * with Gatsby's StaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/static-query/
- */
-
 import React from "react"
 import PropTypes from "prop-types"
 import {StaticQuery, graphql} from "gatsby"
@@ -37,26 +30,28 @@ const HomeLayout = ({children}) => (
         render={data => (
             <>
                 <Helmet></Helmet>
-                    <main>
-                        {children}
-                    </main>
+                <main>
+                    {children}
+                </main>
                 <Footer aboutLinks={data.site.siteMetadata.aboutLinks}/>
                 <BackToTop
                     mainStyle={{
                         width: '100%',
                         height: '100%',
                         background: 'url(...)',
-                        backgroundColor: 'blue'
+                        backgroundColor: '#192036',
+                        color: 'white'
                     }}
                     percentStyle={{
                         width: '100%',
                         height: '100%',
+                        display: 'none'
                     }}
                     animate='rotate'
                     offsetTop={20}
                     step={50}
-                    percent={true}
-                    visiblePercent={40}
+                    percent={false}
+                    visiblePercent={50}
                 />
                 <CookieConsent/>
             </>
