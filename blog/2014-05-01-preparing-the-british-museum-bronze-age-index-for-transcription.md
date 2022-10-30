@@ -11,7 +11,9 @@ tags:
   - museums
   - citizen science
 ---
-Originally published at: [http://blog.micropasts.org/2014/04/30/preparing-the-index/](http://blog.micropasts.org/2014/04/30/preparing-the-index/)
+<div class="alert alert-dark" role="alert">
+Originally published on the <a href="http://blog.micropasts.org/2014/04/30/preparing-the-index/](http://blog.micropasts.org/2014/04/30/preparing-the-index/">micropasts blog</a>
+</div>
 
 Since late 2013, the MicroPasts team has been preparing the [British Museum](http://britishmuseum.org)&#8216;s (BM) Bronze Age Index to be the first offering on our [crowdsourcing platform](http://crowdsourced.micropasts.org "The MicroPasts crowd sourcing platform"). This corpus consists of around 30,000 (roughly A4 sized) cards (holding information going back to as early as 1913).  The majority of these are double-sided and generally have text on the front and a line drawing on the reverse (there are many variants that have been discovered, such as large fold out shield plans.)
 
@@ -93,9 +95,3 @@ This project is very exciting for the BM and especially for our curatorial staff
 </blockquote>
 
 Thank you for participating!
-
-<div class="alert alert-dark" role="alert">
-    <p>
-        Originally published on the <a href="https://research.micropasts.org/2014/04/30/preparing-the-index/">MicroPasts research blog</a>
-    </p>
-</div>
