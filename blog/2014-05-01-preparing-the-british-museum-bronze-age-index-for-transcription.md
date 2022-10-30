@@ -94,5 +94,8 @@ This project is very exciting for the BM and especially for our curatorial staff
 
 Thank you for participating!
 
-<div class="alert-dark"><p>Originally published at: https://research.micropasts.org/2014/04/30/preparing-the-index/
-</p></div>
+<div class="alert alert-dark" role="alert">
+    <p>
+        Originally published on the <a href="https://research.micropasts.org/2014/04/30/preparing-the-index/">MicroPasts research blog</a>
+    </p>
+</div>

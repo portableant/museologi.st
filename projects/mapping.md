@@ -2,8 +2,8 @@
 section: projects
 title: Mapping Palaeolithic Britain
 institution: The British Museum
-featuredImg: ../images/projects/palaeolithic-hand axes.jpg
-background: ../images/projects/palaeolithic-hand axes.jpg
+featuredImg: ../images/projects/palaeolithic-handaxes.jpg
+background: ../images/projects/palaeolithic-handaxes.jpg
 funders:
   - Leverhulme Trust
 partners:

@@ -46,5 +46,5 @@ const IndexPage = () => {
 export default IndexPage
 
 export const Head = () => (
-    <SEO />
+    <SEO title={"Daniel Pett, Museologi.st"}/>
 )

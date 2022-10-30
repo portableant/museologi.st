@@ -14,8 +14,9 @@ featuredImg: ../images/british-museum.jpg
 background: ../images/backgrounds/british-museum.jpg
 section: blog
 ---
-
-This was originally published as part 1 of a 3 part interview on the SketchFab blog in January 2017.
+<div class="alert-dark alert" role="alert">
+<p>This was originally published as part 1 of a 3 part interview on the SketchFab blog in January 2017.</p>
+</div>
 
 __Our [Cultural institutions Page](https://sketchfab.com/museums) highlights our ongoing support of museums and cultural institutions with 
 free accounts and access to tools. In [Cultural Heritage Spotlight](https://blog.sketchfab.com/tag/culturalspotlight/), 

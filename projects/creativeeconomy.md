@@ -20,9 +20,13 @@ collaborators:
   - Jennifer Wexler
   - Catriona Cooper
   - Melanie Pitkin
+  - Hannah Platts
+  - Kathryn Fry
+  - Steve Dey
+  - George Oates
 partners:
   - ThinkSee3D
-  - museum in a box
+  - Museum in a Box (MiAB) 
 GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows
     name: Website source code
