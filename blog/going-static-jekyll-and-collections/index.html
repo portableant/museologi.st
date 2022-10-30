@@ -56,13 +56,14 @@
     </span>
     <figcaption class="gatsby-resp-image-figcaption">3D instructional website screenshot</figcaption>
   </figure></p>
-<p>At the Fitzwilliam Museum, we have a large amount of old websites that were built over the last decade. Many of these are now presenting security risks as they are on old WordPress installations, or they are just plain hand coded HTML. To alleviate the burden for supporting these sites, I have been transferring as much as possible to <a href="https://jekyllrb.com/">Jekyll</a> powered Github Pages instances (although I am also looking at <a href="https://gatsbyjs.com">Gatsby</a>).</p>
+<p>At the Fitzwilliam Museum, we have a large amount of old websites that were built over the last decade. Many of these are now presenting security risks as they are on old WordPress installations, or they are just plain hand coded HTML. To alleviate the burden for supporting these sites, I have been transferring as much as possible to <a href="https://jekyllrb.com/">Jekyll</a> powered GitHub Pages instances (although I am also looking at <a href="https://gatsbyjs.com">Gatsby</a>).</p>
 <p>I'm attracted to Jekyll, due to the powerful conversion of very simple<strong>markdown</strong> files. Lightweight, easy to edit, hard to break and easy to run through version control. I'm hoping that we can use this format to stay away from heavily customising content management systems for our research sections at the Fitz. The sheer amount of sites that we have now got makes administering them all a gigantic task. Going this way, with simple text files might make it easier, or it might be a red herring.</p>
 <h3>How to generate? Is it hard?</h3>
 <p>Generating a Jekyll site is pretty straightforward, and this post outlines how I built the <a href="https://github.com/UniversityofCambridgeMuseums/festivalOfIdeas">University of Cambridge Museums tutorial site</a> for the Festival of Ideas event I ran on Photogrammetry. Having an example to build towards, makes the process easier!</p>
-<p><strong>Remember though, this is a bare bones example.</strong></p>
+<p><strong>Remember though, this is a bare-bones example.</strong></p>
 <h3>Installing Jekyll</h3>
-<p>I am assuming in this instance, you, the reader will be on OSX and have homebrew installed, RVM and the lastest Ruby and can use terminal. If you have all of those set up, you will now need to install the Jekyll gem. So go to terminal and issue this command:</p>
+<p>I am assuming in this instance, you, the reader will be on OSX and have homebrew installed, RVM and the latest Ruby and can
+use terminal. If you have all of those set up, you will now need to install the Jekyll gem. So go to terminal and issue this command:</p>
 <deckgo-highlight-code language="bash" terminal="carbon"  >
           <code slot="code">gem install bundler jekyll</code>
         </deckgo-highlight-code>
@@ -111,7 +112,7 @@ description: &gt;- # This site will provide training material for the Museum of 
 baseurl: &quot;/festivalOfIdeas&quot; 
 url: &quot;https://UniversityofCambridgeMuseums.github.io/&quot; 
 twitter_username: dejpett
-github_username:  portableant
+GitHub_username:  portableant
 logo: images/festivalLogo.jpg
 # Build settings
 markdown: kramdown
@@ -136,7 +137,7 @@ collections:
 <li>the markdown type</li>
 <li>the plugins I want to use on gh-pages</li>
 </ul>
-<p>If you look at the plugins section, you will see I have asked for feed, sitemap, seo, emoji and git hub mentions to also be included. Now create a page inside the _tutorials folder:</p>
+<p>If you look at the plugins section, you will see I have asked for feed, sitemap, seo, emoji and GitHub mentions to also be included. Now create a page inside the _tutorials' folder:</p>
 <deckgo-highlight-code language="bash" terminal="carbon"  >
           <code slot="code">touch _tutorials/introduction.md</code>
         </deckgo-highlight-code>
@@ -147,7 +148,7 @@ author: your name
 url: tutorials/introduction
 ---</code>
         </deckgo-highlight-code>
-<p>Save the file and then you can test to see if this has worked:</p>
+<p>Save the file, and then you can test to see if this has worked:</p>
 <deckgo-highlight-code language="bash" terminal="carbon"  >
           <code slot="code">jekyll serve</code>
         </deckgo-highlight-code>
@@ -157,9 +158,9 @@ url: tutorials/introduction
         </deckgo-highlight-code>
 <p>and you will see a page with the title of the file and your name. Jekyll parses the markdown file name to give the page a title by default. How clever is that? When you run the serve command, a static file is compiled into the _site folder.</p>
 <p>Now you can create the page files that you need. Edit the index.md file, 404.html and about.md file as much as you want. You can find more examples of logic for rendering page lists and ordering of these in the repo referred to above.</p>
-<p>So that is the basics of getting a Jekyll site running with custom page structure. You now probably want to know how to deploy to Github.</p>
+<p>So that is the basics of getting a Jekyll site running with custom page structure. You now probably want to know how to deploy to GitHub.</p>
 <h3>Github pages</h3>
-<p>Git scares people, Github is the friendlier face. Still scary for most. So how do you get your Jekyll site running off there. Follow these steps (assuming you have a Github profile):</p>
+<p>Git scares people, GitHub is the friendlier face. Still scary for most. So how do you get your Jekyll site running off there. Follow these steps (assuming you have a GitHub profile):</p>
 <ol>
 <li>Create a new empty repository</li>
 <li>Look for the instructions on how to add data</li>
@@ -173,9 +174,9 @@ git commit -m &quot;Added the base layout&quot;
 git remote add origin path/to/gitrepo
 git push -u origin master</code>
         </deckgo-highlight-code>
-<p>You now should have your jekyll code on github if all went well. Now you need to create the branch that will auto-render on <a href="https://pages.github.com/">gh-pages</a>. Follow these steps:</p>
+<p>You now should have your jekyll code on GitHub if all went well. Now you need to create the branch that will auto-render on <a href="https://pages.github.com/">gh-pages</a>. Follow these steps:</p>
 <ol>
-<li>Go to the github repository</li>
+<li>Go to the GitHub repository</li>
 <li>click on the branches button</li>
 <li>click add new branch and type gh-pages</li>
 </ol>
