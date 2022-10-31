@@ -8,7 +8,7 @@ slug: /portfolio
 I have worked on a wide array of digital and museum projects during my career. 
 
 Below I list these with technologies, partners and urls associated where appropriate. To discover more about any of this work, you can find more via 
-the [projects](/projects) pages; if there is something you want to know more about then do contact me.
+the [projects](/content/projectsprojects) pages; if there is something you want to know more about then do contact me.
 
 Generally the code for all my projects is available on Github. 
 

@@ -5,7 +5,7 @@ import {Container, Row} from "react-bootstrap";
 import {GatsbyImage, getImage} from "gatsby-plugin-image";
 import Tags from '../components/elements/tag';
 import Map from "../components/elements/map";
-import {SEO} from "../components/structure/seo";
+import Seo from "../components/structure/SEO";
 
 export default function PhotographsPageTemplate({data: {markdownRemark}}) {
     const {frontmatter} = markdownRemark;
@@ -68,5 +68,7 @@ export const pageQuery = graphql`
 
 export function Head({data: {markdownRemark}}) {
     const {frontmatter} = markdownRemark;
-    return (<SEO title={frontmatter.title} featured={frontmatter.featuredImg}/>)
+    return (
+        <Seo title={frontmatter.title} featured={frontmatter.featuredImg}/>
+    )
 }

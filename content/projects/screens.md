@@ -18,7 +18,7 @@ slug: /projects/raspberry-pi-screenly
 status: active
 ---
 I was asked to install the first digital marketing screen at the Fitzwilliam Museum with 2 days notice, just before the 
-reopening of gallery 3 (this went alongside all the work we were putting in on [enhanced labels](/projects/beyond-the-label)).
+reopening of gallery 3 (this went alongside all the work we were putting in on [enhanced labels](/content/projects/beyond-the-label)).
 
 We purchased an [Iiyama touch screen](https://www.iiyama-monitors.co.uk) (not using that bit yet), and connected a [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) that I donated to the Museum and [Screenly's Open Source Edition](https://www.screenly.io/ose/).
 The purpose of the screen wasn't fully defined at the point of installation, but the marketing team wanted to 

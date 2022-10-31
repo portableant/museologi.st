@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-import {SEO} from "../components/structure/seo";
+import Seo from "../components/structure/SEO";
 
 // Utilities
 import {kebabCase, startCase} from "lodash"
@@ -74,5 +74,5 @@ export const pageQuery = graphql`
 `
 
 export const Head = () => (
-    <SEO title={"An index of tags used on this site"} description={"An indexed view of tags used on this site, with counts"}/>
+    <Seo title={"An index of tags used on this site"} description={"An indexed view of tags used on this site, with counts"}/>
 )

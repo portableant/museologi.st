@@ -8,9 +8,8 @@ function createSeoImage(featured, image) {
     return image;
 }
 
-export const SEO = ({ title, description, pathname, children, featured }) => {
+const Seo = ({ title, description, pathname, children, featured }) => {
     const { title: defaultTitle, description: defaultDescription, image, siteUrl, twitterHandle } = useSiteMetadata()
-
     const featuredImage = createSeoImage(featured,image);
     const seo = {
         title: title || defaultTitle,
@@ -46,3 +45,5 @@ export const SEO = ({ title, description, pathname, children, featured }) => {
         </>
     )
 }
+
+export default Seo

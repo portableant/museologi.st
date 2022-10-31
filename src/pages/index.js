@@ -2,7 +2,8 @@ import * as React from "react"
 import HomeLayout from "../components/layouts/homeLayout";
 import {Container, Row, Col} from "react-bootstrap";
 import {Link} from "gatsby";
-import {SEO} from "../components/structure/seo"
+import Seo from "../components/structure/SEO";
+import Video from "../components/structure/video";
 
 const contStyles = {
     height: "60vh",
@@ -37,6 +38,9 @@ const IndexPage = () => {
                     </Col>
                 </Row>
             </Container>
+            {/*<Container fluid className={"px-0 py-0 mb-0 my-0"}>*/}
+            {/*    <Video src='/video/welcomescreen.mp4' className="fullscreen"/>*/}
+            {/*</Container>*/}
             <Container fluid style={bgStyles}>
             </Container>
         </HomeLayout>
@@ -46,5 +50,5 @@ const IndexPage = () => {
 export default IndexPage
 
 export const Head = () => (
-    <SEO title={"Daniel Pett, Museologi.st"}/>
+    <Seo title={"Daniel Pett, Museologi.st"}/>
 )

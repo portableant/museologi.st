@@ -284,7 +284,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `blog`,
-                path: `${__dirname}/blog`,
+                path: `${__dirname}/content/blog`,
             },
             __key: "blog"
         },
@@ -292,7 +292,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `projects`,
-                path: `${__dirname}/projects`,
+                path: `${__dirname}/content/projects`,
             },
             __key: "projects"
         },
@@ -300,7 +300,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `photogrammetry`,
-                path: `${__dirname}/photogrammetry`,
+                path: `${__dirname}/content/photogrammetry`,
             },
             __key: "photogrammetry"
         },
@@ -308,7 +308,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `about`,
-                path: `${__dirname}/about-me`,
+                path: `${__dirname}/content/about-me`,
             },
             __key: "about"
         },
@@ -316,7 +316,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `photographs`,
-                path: `${__dirname}/photographs`,
+                path: `${__dirname}/content/photographs`,
             },
             __key: "photographs"
         },
@@ -324,7 +324,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `assets`,
-                path: `${__dirname}/images`,
+                path: `${__dirname}/content/images`,
             },
             __key: "assets"
         },

@@ -33,7 +33,7 @@ tags:
   - digital humanities
   - puns
 ---
-This cunningly titled project came out of our [CEEF3D AHRC project](/projects/ceef-3d) and kept the fab Abi Glen 
+This cunningly titled project came out of our [CEEF3D AHRC project](/content/projects/ceef-3d) and kept the fab Abi Glen 
 involved with us for longer. She was interested in how Museum in a Box could be used to work within 
 clinical settings to disseminate cultural heritage information. We worked with the dialysis unit at
 Addenbrookes Hospital and Museum's Learning department to develop activities that Abi co-ordinated.

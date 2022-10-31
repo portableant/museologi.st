@@ -2,15 +2,15 @@ const _ = require("lodash")
 const fs = require("fs");
 
 // Ensure that the required directories exist
-exports.onPreBootstrap = ({reporter}) => {
-    const requiredPaths = ["about-me", "blog", "drafts", "images", "photogrammetry", "photographs", "static", "projects"];
-    requiredPaths.forEach(path => {
-        if (!fs.existsSync(path)) {
-            reporter.info(`creating directory ${path}...`);
-            fs.mkdirSync(path);
-        }
-    });
-};
+// exports.onPreBootstrap = ({reporter}) => {
+//     const requiredPaths = ["about-me", "blog", "drafts", "images", "photogrammetry", "photographs", "static", "projects"];
+//     requiredPaths.forEach(path => {
+//         if (!fs.existsSync(path)) {
+//             reporter.info(`creating directory ${path}...`);
+//             fs.mkdirSync(path);
+//         }
+//     });
+// };
 
 // Set up schemas
 exports.createSchemaCustomization = ({actions}) => {

@@ -32,7 +32,7 @@ of post-doctoral fellows and the research facilitator, and travelling to Egypt t
 digital presence (single-handed development of the website and collections systems) and finished off all the projects that were on the to do list when I joined. 
 
 They are in a far better place now than they were in 2018 when I joined - network upgraded,
-systems replaced and upgraded. I've documented my projects and research from my time at the Museum fully on this [site](/projects)
+systems replaced and upgraded. I've documented my projects and research from my time at the Museum fully on this [site](/content/projectsprojects)
 
 I won't miss the 5-hour round trip in my car or the endless meetings that begot yet more meetings to discuss the same thing.
 

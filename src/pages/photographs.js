@@ -3,7 +3,7 @@ import Layout from "../components/layouts/layout"
 import PhotoLink from "../components/structure/photo-link";
 import {graphql} from "gatsby"
 import {Row, Container} from 'react-bootstrap';
-import {SEO} from "../components/structure/seo"
+import Seo from "../components/structure/SEO"
 
 const PhotographsPage = ({data: {allMarkdownRemark: {edges},},}) => {
     const Posts = edges
@@ -54,6 +54,6 @@ export const pageQuery = graphql`
     }
 `
 export const Head = () => (
-    <SEO title={"Random Photographs"} description={"A collection of photographs I like"}/>
+    <Seo title={"Random Photographs"} description={"A collection of photographs I like"}/>
 )
 

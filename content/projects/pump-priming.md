@@ -30,7 +30,7 @@ documents:
     location: /pdf/pumpPrimingFinalReport.pdf
     type: pdf
 ---
-**Note this is part of the [Do Not Touch project](/projects/do-not-touch), and represents the training element. It developed into a 
+**Note this is part of the [Do Not Touch project](/content/projects/do-not-touch), and represents the training element. It developed into a 
 knowledge transfer activity by itself and was assessed by participants with a 95% approval rating from the 
 surveys conducted.**
 

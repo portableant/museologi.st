@@ -66,7 +66,7 @@ the Fitzwilliam Museum and its associated museological practise to aid with dete
 decided to touch museum objects. The project's funding was accessed via Dr Jo Vine as our research facilitator was 
 the eligible PI for the grant, with Helena and myself delivering the research.
 
-1. Organise a [series of 4 public workshops](/projects/pump-priming) to teach 3d model making skills
+1. Organise a [series of 4 public workshops](/content/projects/pump-priming) to teach 3d model making skills
 2. Purchase 100 Agisoft Photoscan/metashapeEducational licenses for the public workshops and internal Cambridge staff
 3. Create a series of 3D prints for installation in the Fitzwilliam Museum antiquities galleries and the Museum of Cambridge 
 4. Evaluate the use of these pieces in the galleries and the effectiveness of the deterrents (research conducted by Rafie Cecilia)
