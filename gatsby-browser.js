@@ -13,7 +13,6 @@ import "@fontsource/public-sans";
 import 'typeface-sorts-mill-goudy/index.css';
 import './static/plyr.css';
 import {defineCustomElements as deckDeckGoHighlightElement} from '@deckdeckgo/highlight-code/dist/loader';
-
 require("prismjs/themes/prism-tomorrow.css");
 
 deckDeckGoHighlightElement();
