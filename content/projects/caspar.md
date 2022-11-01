@@ -65,24 +65,48 @@ The centre ran a series of seminars (2010-11) and conferences (ACRN & CASPAR Con
 
 ![The conference team](https://live.staticflickr.com/8488/8178208208_70d5725099_b.jpg)
 _Abstract: When digital engagement costs you nothing: making websites in minutes_
-In 2010, the BBC reported that it cost the UK Government £105 million over three years to create and run one of its websites, businesslink.gov.uk. Most archaeologists, regardless of affiliation, academia, charity, commercial and even government, do not have £105 million available to them for digital engagement. It is safe to assume that no archaeology project has ever spent £105 million on a website. So how do we, as archaeologists, provide digital engagement to the public and each other on shoe string budgets? This paper looks at some of the success stories of archaeologists creating websites on shoe string budgets. It also examines some the increasingly complex capabilities that these budget websites can provide.
+In 2010, the BBC reported that it cost the UK Government £105 million over three years to create and run one of its websites, 
+businesslink.gov.uk. Most archaeologists, regardless of affiliation, academia, charity, commercial and even government, 
+do not have £105 million available to them for digital engagement. It is safe to assume that no archaeology project has 
+ever spent £105 million on a website. So how do we, as archaeologists, provide digital engagement to the public and each 
+other on shoe string budgets? This paper looks at some of the success stories of archaeologists creating websites on shoe 
+string budgets. It also examines some the increasingly complex capabilities that these budget websites can provide.  
 Doug Rocks-Mcqueen, University of Edinburgh
 
 _Abstract: Publishing in archaeology: Open Access and the REWARD project_
-Publishing in archaeology is evolving along with trends in open access, open data and the semantic web. The open access publishing model has proven highly successful for smaller archaeology journals. New initiatives will be presented that enable and reward the publication of archaeological data and software. The second half of the presentation will focus on the JISC-funded REWARD project, which ran at UCL from 2011-2012. REWARD looked at ways to encourage archaeologists to share data through data management planning, publishing data papers, and use of the UCL institutional repository.
-Tom Pollard Ubiquity Press
+Publishing in archaeology is evolving along with trends in open access, open data and the semantic web. The open access 
+publishing model has proven highly successful for smaller archaeology journals. New initiatives will be presented that 
+enable and reward the publication of archaeological data and software. The second half of the presentation will focus 
+on the JISC-funded REWARD project, which ran at UCL from 2011-2012. REWARD looked at ways to encourage archaeologists to 
+share data through data management planning, publishing data papers, and use of the UCL institutional repository.  
+Tom Pollard Ubiquity Press  
 Victoria Yorke-Edwards Editor Journal of Archaeological Data
 
 _Abstract: A case study in social media, new audiences and local museums – Wiltshire Heritage Museum_
-As a small museum, with few resources, social media is a great way of getting messages to new audiences. Without a budget, our messages are now seen by upward of 2,000 people. But the real value has proved to be unexpected …
+As a small museum, with few resources, social media is a great way of getting messages to new audiences. Without a budget, 
+our messages are now seen by upward of 2,000 people. But the real value has proved to be unexpected …  
 David Dawson, Director Wiltshire Heritage Museum
 
 _Abstract: The Portable Antiquities Scheme and its impact on the public_
-The Portable Antiquities Scheme (PAS) began in 1997 and encourages the voluntary recording of archaeological objects discovered by members of the public in England and Wales. The PAS has had a digital presence of some form for over 13 years and this paper will discuss the impact that the digital arm of the project has had on a national and international audience. Over 820,000 objects have been recorded on the PAS database and these are made available for all to view, comment and reuse within their own research, on their websites or elsewhere and this liberal outlook has seen over ½ million visits for 2011 and this figure is rising steadily for 2012. This paper will show how the PAS website impacts on the public with specific reference to stories of international interest – such as the Crosby Garrett helmet and the Staffordshire Hoard. It will also discuss how these successes have been reached on a minimal digital budget via the use of open source technology and through the buy in of its audience.
+The Portable Antiquities Scheme (PAS) began in 1997 and encourages the voluntary recording of archaeological objects 
+discovered by members of the public in England and Wales. The PAS has had a digital presence of some form for over 13 years 
+and this paper will discuss the impact that the digital arm of the project has had on a national and international 
+audience. Over 820,000 objects have been recorded on the PAS database and these are made available for all to view, 
+comment and reuse within their own research, on their websites or elsewhere and this liberal outlook has seen over ½ 
+million visits for 2011 and this figure is rising steadily for 2012. This paper will show how the PAS website impacts on 
+the public with specific reference to stories of international interest – such as the Crosby Garrett helmet and the 
+Staffordshire Hoard. It will also discuss how these successes have been reached on a minimal digital budget via the use of 
+open source technology and through the buy in of its audience.  
 Daniel Pett ICT Advisor British Museum
 
 _Abstract: Trends of Engaging with Archaeology Using New vs. Old Media in Italy and the UK_
-This paper looks at the overall context of public engagement with archaeology and focuses on the specific contribution of digital technologies to communicate, with the public, about the past. It considers two case studies, the UK and Italy, and presents trends of participation in archaeology as reconstructed through quantitative social research. Findings isolate the role played by the Web, in comparison with offline forms of communication, to involve different audiences in the two countries. The presentation will outline not only the profile of those engaging with the past using digital resources, but also the influence of socio-cultural and political factors in determining the utility of Web resources vs. more traditional media and technologies.
+This paper looks at the overall context of public engagement with archaeology and focuses on the specific contribution of 
+digital technologies to communicate, with the public, about the past. It considers two case studies, the UK and Italy, 
+and presents trends of participation in archaeology as reconstructed through quantitative social research. Findings isolate 
+the role played by the Web, in comparison with offline forms of communication, to involve different audiences in the two 
+countries. The presentation will outline not only the profile of those engaging with the past using digital resources, 
+but also the influence of socio-cultural and political factors in determining the utility of Web resources vs. more traditional 
+media and technologies.  
 Chiara Bonacchi PhD University College London
 
 [Full photoset](https://www.flickr.com/photos/finds/albums/72157631988296616)

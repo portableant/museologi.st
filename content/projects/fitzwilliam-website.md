@@ -68,6 +68,9 @@ idea of progression prior to my redevelopment work
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
             <img src="../images/2022/website/mar-2016.jpg" class="img-fluid" alt="March 2016 screenshot of home page" />        
         </div>
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+            <img src="../images/2022/fmFull.jpg" class="img-fluid" alt="2022 screenshot of visit page" />        
+        </div>
     </div>
 </div>
 
@@ -174,7 +177,8 @@ below. I tried to maintain and develop using the latest and best versions of PHP
 
 All code was developed using Laravel libraries, using Atom or JetBrains PhpStorm, with custom classes written for integration with several services, and 
 version controlled via GitHub. A branching methodology was used, with a staging environment run off local machines - not a production website - to drive 
-costs to minimal level. 
+costs to minimal level. The site became mobile by default, used the latest web standards and was built to be accessible, a massive improvement on the inherited version. 
+Having been at the Fitz for a few years, I appreciate the constraints under which the team had operated previously!
 
 ## Alpha, Beta, Omega/Production and co-production (alright that bit failed)
 

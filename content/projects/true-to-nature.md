@@ -7,6 +7,9 @@ project_website: https://fitzmuseum.cam.ac.uk/visit-us/exhibitions/true-to-natur
 slug: /projects/true-to-nature
 featuredImg: ../images/2022/PD_222_1961.jpg
 background: ../images/2022/large_pd_11_1997_201701_adn21_dc2.jpg
+collaborators:
+  - Rebecca Virag
+  - Rainer Simon (Peripleo mapping)
 GitHub_repo: 
   - url: https://github.com/fitzwilliamMuseum/peripleo
     name: Peripleo map
