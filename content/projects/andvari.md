@@ -31,6 +31,9 @@ collaborators:
   - Joshua Westgard
   - Youngok Choi
 project_website: http://www.andvari.org/
+institution: Catholic University of America
+funders: 
+  - NEH
 ---
 In 2013, I was lucky to be invited to the NEH funded Project Andvari workshop at Catholic University of America, led by Lilla
 Kopar and Nancy Wicker (and bring my son and wife for a holiday in Washington DC). 
