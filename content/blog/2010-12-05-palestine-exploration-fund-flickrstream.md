@@ -6,6 +6,8 @@ section: blog
 slug: /blog/palestine-exploration-fund-flickrstream/
 featuredImg: ../images/2010/12/5232182148_d8b1cd617c_b.jpg
 background: ../images/backgrounds/5226861592_028fb73909_b.jpg
+geo_lat: 51.516642
+geo_lon: -0.150559
 tags:
   - exploration
   - palestine

@@ -11,6 +11,8 @@ tags:
   - foss
   - opensource
   - productivity
+geo_lat: 52.200205
+geo_lon: 0.119892
 ---
 Last week at the Museum Computer Group's conference at the National Gallery, the great Jon Pratty, gave a talk entitled "[Doing us the Power of Good? Ethics, sustainability, and continuing GLAM reliance on Google and Facebook](https://www.slideshare.net/museumscomputergroup/doing-us-the-power-of-good-ethics-sustainability-and-continuing-glam-reliance-on-google-and-facebook?ref=http://www.museumscomputergroup.org.uk/events/museumstech2018/)". This can be seen on the [MCG report](http://www.museumscomputergroup.org.uk/events/museumstech2018/) on that conference alongside all the other high quality pieces that were presented on that day.
 

@@ -6,6 +6,8 @@ date: 2022-09-08
 section: blog
 featuredImg: ../images/2022/09/natgx.jpg
 background: ../images/2022/09/lantern.jpg
+geo_lat: 51.508530
+geo_lon: -0.128005 
 tags:
   - virtual reality
   - research

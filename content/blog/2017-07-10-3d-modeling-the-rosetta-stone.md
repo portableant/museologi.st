@@ -11,6 +11,8 @@ tags:
   - 3d
 featuredImg: ../images/rosetta.jpg
 section: blog
+    geo_lat: 51.519418
+    geo_lon: -0.126973
 ---
 
 <div class="ratio ratio-16x9 my-2 mx-2">

@@ -10,6 +10,8 @@ section: blog
 tags:
   - mozfest
   - museums
+geo_lat: 51.501738
+geo_lon: 0.005528
 ---
 ![](../images/2018/10/44701677975_69ceeaa570_k.jpg)
 

@@ -6,6 +6,8 @@ slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-mus
 featuredImg: ../images/enlightenment-gallery-british-museum.jpg
 background: ../images/backgrounds/enlightenment-gallery-british-museum.jpg
 section: blog
+geo_lat: 51.519418
+geo_lon: -0.126973
 tags:
   - british museum
   - 3d

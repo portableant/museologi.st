@@ -6,6 +6,8 @@ section: blog
 featuredImg: ../images/2011/04/5609998467_00350d0b49_b.jpg
 background: ../images/2011/04/5609998467_00350d0b49_b.jpg
 slug: /blog/portable-antiquities-scheme-site-wins-an-award/
+geo_lat: 27.913392
+geo_lon: 34.329597
 tags:
   - archaeology
   - british museum

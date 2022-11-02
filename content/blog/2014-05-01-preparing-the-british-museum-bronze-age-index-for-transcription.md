@@ -3,6 +3,8 @@ title: Preparing the British Museum Bronze Age index for transcription
 description: A post about the Bronze Age index
 date: 2014-05-01T09:00:58+01:00
 author: Daniel Pett
+geo_lat: 51.519418
+geo_lon: -0.126973
 section: blog
 slug: /blog/preparing-the-british-museum-bronze-age-index-for-transcription/
 featuredImg: ../images/crowdsourced.png

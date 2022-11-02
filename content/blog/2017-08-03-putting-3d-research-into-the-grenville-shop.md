@@ -13,6 +13,8 @@ tags:
   - creativity
   - entrepreneurship
 section: blog
+geo_lat: 51.519418
+geo_lon: -0.126973
 ---
 <div class="alert alert-dark">
 This was originally published on the British Museum blog as <a href="https://blog.britishmuseum.org/a-new-dimension-in-home-shopping/">A new dimension in home shopping</a>)

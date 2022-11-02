@@ -4,6 +4,8 @@ description: 'A post about the Lost Change project'
 date: 2014-02-19T17:08:06+01:00
 author: Daniel Pett
 section: blog
+geo_lat: 51.519418
+geo_lon: -0.126973
 featuredImg: ../images/2014/02/544.jpeg
 background: ../images/backgrounds/lostchange.jpg
 slug: /blog/lostchange/

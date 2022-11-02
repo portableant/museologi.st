@@ -6,6 +6,8 @@ section: blog
 slug: /blog/scuba-diving-sharm-el-sheikh/
 featuredImg: ../images/2011/04/5610015807_8622c1d042_b.jpg
 background: ../images/2011/04/5610015807_8622c1d042_b.jpg
+geo_lat: 27.909457
+geo_lon: 34.32618
 tags:
   - diving
   - egypt

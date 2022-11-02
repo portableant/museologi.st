@@ -5,6 +5,8 @@ date: 2016-11-21T14:00:08+01:00
 featuredImg: ../images/projects/gsa/gsa.jpg
 background: ../images/projects/gsa/gsa.jpg
 slug: /blog/google-search-appliance-british-museum-install/
+geo_lat: 51.519418
+geo_lon: -0.126973
 section: blog
 tags:
    - web

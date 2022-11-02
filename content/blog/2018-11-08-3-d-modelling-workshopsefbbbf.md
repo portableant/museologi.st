@@ -9,6 +9,8 @@ background: ../images/backgrounds/scanning.jpg
 tags:
   - techie stuff
   - 3d
+geo_lat: 52.200205
+geo_lon: 0.119892
 ---
 **Thursday 29 November, 2-4pm** or **Monday 3 December, 10-12noon**
 

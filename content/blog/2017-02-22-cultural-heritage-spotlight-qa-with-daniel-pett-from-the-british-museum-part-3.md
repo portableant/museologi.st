@@ -6,6 +6,8 @@ slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-mus
 featuredImg: ../images/facade-bm.jpg
 background: ../images/backgrounds/facade-bm.jpg
 section: blog
+geo_lat: 51.519418
+geo_lon: -0.126973
 tags:
   - 3d
   - museums

@@ -3,7 +3,7 @@ import HomeLayout from "../components/layouts/homeLayout";
 import {Container, Row, Col} from "react-bootstrap";
 import {Link} from "gatsby";
 import Seo from "../components/structure/SEO";
-import Video from "../components/structure/video";
+// import Video from "../components/structure/video";
 
 const contStyles = {
     height: "60vh",
@@ -50,5 +50,5 @@ const IndexPage = () => {
 export default IndexPage
 
 export const Head = () => (
-    <Seo title={"Daniel Pett, Museologi.st"}/>
+    <Seo title={"Daniel Pett, Museologi.st"} description={"A website about Daniel Pett and his work"}/>
 )
