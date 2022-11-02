@@ -1,5 +1,6 @@
 ---
 title: 'Lost Change: mapping coins from the Portable Antiquities Scheme'
+description: 'A post about the Lost Change project'
 date: 2014-02-19T17:08:06+01:00
 author: Daniel Pett
 section: blog

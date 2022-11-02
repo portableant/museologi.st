@@ -1,6 +1,7 @@
 ---
 title: Gallery 70, British Museum
 section: 3d
+description: 3D scans of Gallery 70, British Museum
 featuredImg: ../images/backgrounds/hound.jpg
 background: ../images/backgrounds/hound.jpg
 slug: /photogrammetry/gallery-70-bm

@@ -2,6 +2,7 @@
 section: projects
 date: 2018-11-29T22:51:56+01:00
 title: Pump Priming - the road to learning 3D modeling skills
+description: "A series of workshops to teach 3D modeling skills to the British Museum's Digital Humanities team"
 institution: The Fitzwilliam Museum
 project_website: https://github.fitzmuseum.cam.ac.uk/pump-priming/
 slug: /projects/pump-priming

@@ -1,5 +1,6 @@
 ---
 title: Project Nimrud
+description: 3D scans of the Nimrud objects in the British Museum
 section: 3d
 featuredImg: ../images/backgrounds/nimrud.jpg
 background: ../images/backgrounds/assyrianFrieze.jpg

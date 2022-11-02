@@ -1,5 +1,6 @@
 ---
 title: A day in the life of a lot of archaeologists
+description: A post about the day of archaeology
 date: 2011-07-27T11:09:21+01:00
 section: blog
 slug: /blog/a-day-in-the-life-of-a-lot-of-archaeologists/

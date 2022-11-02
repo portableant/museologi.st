@@ -1,6 +1,7 @@
 ---
 section: 3d
 title: The Cleveland Museum of Art
+description: 3D scans of the Cleveland Museum of Art's Collection
 featuredImg: ../images/backgrounds/cleveland.jpg
 background: ../images/backgrounds/cleveland.jpg
 slug: /photogrammetry/cleveland-museum-of-art

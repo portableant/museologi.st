@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Walking the Landscape - exploring Constable
+description: "A digital element for the Constable exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum
 project_website: https://walking-the-landscape.fitzmuseum.cam.ac.uk
 funders:

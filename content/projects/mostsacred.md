@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Most Sacred Things
+description: A project to discover more about William Hayley
 institution: The Fitzwilliam Museum
 project_website: https://amor.fitzmuseum.cam.ac.uk
 funders:

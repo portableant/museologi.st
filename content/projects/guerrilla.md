@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Guerrilla Photogrammetry
+description: A personal project to use guerrilla photogrammetry to create 3D models of objects
 featuredImg: ../images/blob.jpeg
 background: ../images/blob.jpeg
 role: Principal Agitator

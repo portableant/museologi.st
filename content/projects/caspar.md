@@ -1,5 +1,6 @@
 ---
 title: CASPAR - Centre for Audio-Visual Study and Practice in Archaeology
+description: The Centre for Audio-Visual Study and Practice in Archaeology (CASPAR) is a research centre at the University of York, which aims to develop new methods for the study of the past through the use of audio-visual media.
 section: projects
 slug: /projects/caspar
 date: 2010-10-01

@@ -1,5 +1,6 @@
 ---
 title: Our beloved Pericles cat
+description: 'A post about our mighty Pericles cat'
 slug: /blog/pericles-cat
 date: 2022-09-30
 section: blog

@@ -1,6 +1,7 @@
 ---
 title: The Egyptian Museum, Cairo
 section: 3d
+description: 3D scans of the Egyptian Museum, Cairo
 featuredImg: ../images/backgrounds/cairo.jpg
 background: ../images/backgrounds/cairo.jpg
 geo_lat: 30.047472

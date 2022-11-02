@@ -1,6 +1,7 @@
 ---
 date: 2022-09-20T22:51:56+01:00
-title: "Ways of Seeing"
+title: Ways of Seeing
+description: "A digital element for the Ways of Seeing exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2020/cupid.jpg
 background: ../images/2020/cupid.jpg

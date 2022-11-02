@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Unlocking the Portrait Miniature
+description: A project to unlock the portrait miniature in national and regional collections
 institution: The Fitzwilliam Museum
 project_website: https://unlocking-miniatures.fitzmuseum.cam.ac.uk/
 funders:

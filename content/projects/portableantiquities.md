@@ -1,6 +1,7 @@
 ---
 section: projects
 title: The Portable Antiquities Scheme
+description: "A crowdsourced database of archaeological finds"
 institution: The British Museum
 featuredImg: ../images/backgrounds/4202540707_1eee311017_o.jpg
 date: 2003-04-29T22:51:56+01:00

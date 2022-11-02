@@ -46,6 +46,7 @@ export const pageQuery = graphql`
                 slug
                 date(formatString: "MMMM DD, YYYY")
                 title
+                description
                 section
                 tags
                 geo_lat
@@ -82,6 +83,6 @@ export const pageQuery = graphql`
 export function Head({data: {markdownRemark}}) {
     const {frontmatter} = markdownRemark;
     return (
-        <Seo title={frontmatter.title} featured={frontmatter.featuredImg} />
+        <Seo title={frontmatter.title} featured={frontmatter.featuredImg} description={frontmatter.description}/>
     )
 }

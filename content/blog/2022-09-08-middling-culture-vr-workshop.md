@@ -1,5 +1,6 @@
 ---
 title: Middling Culture workshop
+description: 'A post about the Middling Culture workshop'
 slug: /blog/middling-culture-national-gallery-x
 date: 2022-09-08
 section: blog

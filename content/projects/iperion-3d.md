@@ -1,5 +1,6 @@
 ---
 title: IPERION 3D 
+description: An overview of the IPERION 3D conference
 section: projects
 featuredImg: ../images/2017/11/IMG_-5spq1c.jpg
 background: ../images/2017/11/IMG_20171109_072823.jpg

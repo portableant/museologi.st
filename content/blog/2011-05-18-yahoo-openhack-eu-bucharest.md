@@ -1,5 +1,6 @@
 ---
 title: "Yahoo! Openhack EU (Bucharest)"
+description: "A post about the Yahoo! Openhack EU event in Bucharest"
 date: 2011-05-18T14:57:55+01:00
 section: blog
 slug: /blog/yahoo-openhack-eu-bucharest/

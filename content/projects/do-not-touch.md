@@ -2,6 +2,7 @@
 section: projects
 slug: /projects/do-not-touch
 title: Do Not Touch
+description: A project to interrogate 3d technologies and Do Not Touch mentality in museums
 institution: The Fitzwilliam Museum
 featuredImg: ../images/projects/touch.jpg
 background: ../images/2019/IMG_20181203_114202.jpg

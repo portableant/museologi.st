@@ -3,6 +3,7 @@ section: projects
 date: 2019-10-29T22:51:56+01:00
 role: 3D model creation, Project liaison 
 title: Oculus Collaboration
+description: "A collaboration between the British Museum and Oculus VR to create a virtual reality experience of the British Museum's collection"
 institution: The British Museum
 project_website: https://portableant.github.io/oculus-demo/
 slug: /projects/oculus

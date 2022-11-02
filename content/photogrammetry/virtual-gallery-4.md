@@ -1,5 +1,6 @@
 ---
 title: The Egyptian Galleries BM
+description: 3D scans of the Egyptian galleries in the British Museum
 section: 3d
 collection_id: fe1114a036824f86adbe596215675d56
 type: collection

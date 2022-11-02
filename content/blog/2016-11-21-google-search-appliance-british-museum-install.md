@@ -1,5 +1,6 @@
 ---
 title: 'Google Search Appliance British Museum install'
+description: 'A post about the installation of a Google Search Appliance at the British Museum'
 date: 2016-11-21T14:00:08+01:00
 featuredImg: ../images/projects/gsa/gsa.jpg
 background: ../images/projects/gsa/gsa.jpg

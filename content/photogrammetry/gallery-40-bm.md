@@ -1,6 +1,7 @@
 ---
 title: Lewis Chessmen, British Museum
 section: 3d
+description: 3D scans of the Lewis Chessmen
 featuredImg: ../images/backgrounds/lewis.jpg
 background: ../images/backgrounds/lewis.jpg
 slug: /photogrammetry/lewis-chessmen

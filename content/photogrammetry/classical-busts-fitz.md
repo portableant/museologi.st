@@ -1,5 +1,6 @@
 ---
 title: The Fitzwilliam Museum Classical Busts
+description: 3D scans of the Fitzwilliam Museum's Classical Busts
 section: 3d
 featuredImg: ../images/backgrounds/antinous.jpg
 background: ../images/backgrounds/antinous.jpg

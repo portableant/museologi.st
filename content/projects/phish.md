@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Phish and ChYpPS
+description: An AHIF funded project with Addenbrooke's Hospital to create a digital archive of the work of the ChYpPS team
 institution: The Fitzwilliam Museum
 funders:
   - Arts and Humanities Impact Fund, Cambridge University
@@ -32,6 +33,7 @@ tags:
   - museum in a box
   - digital humanities
   - puns
+  - wellbeing
 ---
 This cunningly titled project came out of our [CEEF3D AHRC project](/content/projects/ceef-3d) and kept the fab Abi Glen 
 involved with us for longer. She was interested in how Museum in a Box could be used to work within 

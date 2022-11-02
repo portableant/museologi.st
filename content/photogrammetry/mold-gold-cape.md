@@ -1,6 +1,7 @@
 ---
 section: 3d
 title: The Mold gold cape
+description: 3D scans of the Mold gold cape
 featuredImg: ../images/backgrounds/cape-mold.jpg
 background: ../images/backgrounds/cape-mold.jpg
 geo_lat: 51.519400

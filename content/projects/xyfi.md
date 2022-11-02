@@ -1,6 +1,7 @@
 ---
 section: projects
 title: "Google XYFI: Virtual Pilgrimage"
+description: "A virtual pilgrimage to the Amaravati shrine"
 institution: The British Museum
 featuredImg: ../images/projects/xyfi/IMG_20170804_093629.jpg
 background: ../images/projects/xyfi/IMG_20170804_093629.jpg

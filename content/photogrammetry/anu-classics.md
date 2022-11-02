@@ -1,5 +1,6 @@
 ---
 title: The Australian National University
+description: 3D scans of the Australian National University's Classical Collection
 section: 3d
 featuredImg: ../images/backgrounds/anu.jpg
 background: ../images/backgrounds/anu.jpg

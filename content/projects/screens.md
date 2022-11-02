@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Raspberry Pi x Screenly
+description: "A Raspberry Pi based digital signage solution"
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2019/screenly.jpg
 background: ../images/2019/10/pi.jpg

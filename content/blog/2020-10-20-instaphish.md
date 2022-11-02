@@ -1,5 +1,6 @@
 ---
 title: "InstaPhish: Do you crave that blue tick?"
+description: "A post about InstaPhish"
 date: 2020-10-20T17:25:31+01:00
 section: blog
 slug: /blog/instaphish

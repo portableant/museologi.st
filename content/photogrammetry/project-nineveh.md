@@ -1,5 +1,6 @@
 ---
 title: Project Nineveh
+description: 3D scans of the Nineveh objects in the British Museum
 section: 3d
 featuredImg: ../images/backgrounds/the_siege_of_lachish.jpg
 background: ../images/backgrounds/the_siege_of_lachish.jpg

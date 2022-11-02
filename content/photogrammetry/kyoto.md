@@ -1,6 +1,7 @@
 ---
 section: 3d
 title: Kyoto scans
+description: 3D scans of objects from Kyoto
 featuredImg: ../images/backgrounds/kyoto.jpg
 background: ../images/backgrounds/kyoto.jpg
 geo_lat: 35.017693

@@ -1,6 +1,7 @@
 ---
 title: Gallery 22, British Museum
 section: 3d
+description: 3D scans of Gallery 22, British Museum
 featuredImg: ../images/backgrounds/columns-lights.jpg
 background: ../images/backgrounds/columns-lights.jpg
 slug: /photogrammetry/gallery-22-bm

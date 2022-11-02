@@ -1,5 +1,6 @@
 ---
 title: The Tokyo National Museum
+description: 3D scans of the Tokyo National Museum collection
 section: 3d
 featuredImg: ../images/backgrounds/tokyo.jpg
 background: ../images/backgrounds/tokyo.jpg

@@ -1,5 +1,6 @@
 ---
 title: "Scuba diving, Sharm el Sheikh"
+description: "A short post about scuba diving in Sharm el Sheikh"
 date: 2011-04-10T23:50:18+01:00
 section: blog
 slug: /blog/scuba-diving-sharm-el-sheikh/

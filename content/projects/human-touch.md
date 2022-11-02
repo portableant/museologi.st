@@ -2,6 +2,7 @@
 section: projects
 date: 2019-10-29T22:51:56+01:00
 title: Human Touch digital element
+description: A digital element for the Human Touch exhibition
 institution: The Fitzwilliam Museum
 project_website: https://human-touch.fitzmuseum.cam.ac.uk/
 slug: /projects/the-human-touch

@@ -1,5 +1,6 @@
 ---
-title: "Portable Antiquities Scheme site wins an award"
+title: Portable Antiquities Scheme site wins an award
+description: A post about the PAS site winning an award
 date: 2011-04-12T19:19:09+01:00
 section: blog
 featuredImg: ../images/2011/04/5609998467_00350d0b49_b.jpg

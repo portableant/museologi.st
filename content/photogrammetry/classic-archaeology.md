@@ -1,6 +1,7 @@
 ---
 section: 3d
 title: The Museum of Classical Archaeology
+description: 3D scans of the Museum of Classical Archaeology
 featuredImg: ../images/backgrounds/classical.jpg
 background: ../images/backgrounds/classical.jpg
 slug: /photogrammetry/classic-archaeology

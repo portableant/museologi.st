@@ -1,5 +1,6 @@
 ---
-title: Institute on Digital Archaeology Method & Practice - MSUDAI 
+title: Institute on Digital Archaeology Method & Practice - MSUDAI
+description: A project to develop a digital archaeology institute
 date: 2016-08-16T22:51:56+01:00
 author: Daniel Pett
 section: projects

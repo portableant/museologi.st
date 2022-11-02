@@ -1,5 +1,6 @@
 ---
 title: '#Mozfest: the pop up museum'
+description: 'A post about #Mozfest: the pop up museum'
 date: 2018-10-30T12:25:59+01:00
 author: Daniel Pett
 slug: /blog/mozfest-the-pop-up-museum/

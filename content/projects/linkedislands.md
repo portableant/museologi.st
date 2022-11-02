@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Linking Islands of Data
+description: A project to promote a network for linked open data from various museums
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2006/11/2403395424_1545285f23_b.jpg
 background: ../images/2019/IMG_20191017_155845.jpg

@@ -1,5 +1,6 @@
 ---
 title: Avoiding vendor lock-in at the Fitzwilliam Museum
+description: A post about avoiding vendor lock-in at the Fitzwilliam Museum
 date: 2018-10-22T20:02:23+01:00
 author: Daniel Pett
 featuredImg: ../images/backgrounds/ice-cream.jpg

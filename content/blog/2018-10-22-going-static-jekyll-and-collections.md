@@ -1,5 +1,6 @@
 ---
 title: 'Going static: Jekyll and collections'
+description: 'A post about going static with Jekyll and collections'
 date: 2018-10-22T22:04:17+01:00
 author: Daniel Pett
 slug: /blog/going-static-jekyll-and-collections/

@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Fitzwilliam Museum CRM and Ticketing - Tessitura
+description: A project to create a CRM and ticketing system for the Fitzwilliam Museum
 institution: The Fitzwilliam Museum
 featuredImg: ../images/projects/tessitura.jpg
 background: ../images/2021/25th_november_131_2000x1000.jpg

@@ -1,5 +1,6 @@
 ---
 title: 'Cultural Heritage Spotlight: Q&A with Daniel Pett from the British Museum (Part 2)'
+description: Part 2 of a Q&A with Daniel Pett from the British Museum
 date: 2017-02-15T07:06:34+01:00
 slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-2/
 featuredImg: ../images/enlightenment-gallery-british-museum.jpg

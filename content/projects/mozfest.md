@@ -1,6 +1,7 @@
 ---
 section: projects
 title: "Mozfest: Arts and Culture"
+description: An overview of my involvement in Mozfest
 slug: /projects/mozfest
 featuredImg: ../images/projects/mozfest.png
 status: active

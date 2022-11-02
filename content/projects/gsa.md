@@ -1,6 +1,7 @@
 ---
 section: projects
-title: "Google Search Appliance - British Museum Knowledge Search"
+title: Google Search Appliance - British Museum Knowledge Search
+description: Implementation of the Google Search Appliance for the British Museum Knowledge Search project
 institution: The British Museum
 featuredImg: ../images/projects/gsa.jpg
 role: Project Lead

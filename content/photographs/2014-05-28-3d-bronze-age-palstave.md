@@ -1,5 +1,6 @@
 ---
 title: 3d Bronze Age palstave
+description: A photograph of a 3d printed Bronze Age palstave
 date: 2014-05-28T23:39:27+01:00
 author: Daniel Pett
 slug: /blog/3d-bronze-age-palstave/

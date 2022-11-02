@@ -1,5 +1,6 @@
 ---
 title: Palestine Exploration Fund flickrstream
+description: A post about putting the PEF on FLickr
 date: 2010-12-05T19:31:41+01:00
 section: blog
 slug: /blog/palestine-exploration-fund-flickrstream/

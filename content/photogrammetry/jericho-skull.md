@@ -1,6 +1,7 @@
 ---
 section: 3d
 title: The Jericho Skull
+description: 3D scans of the Jericho Skull
 background: ../images/backgrounds/jericho.jpg
 featuredImg: ../images/backgrounds/jericho.jpg
 slug: /photogrammetry/jericho-skull

@@ -2,6 +2,7 @@
 section: projects
 date: 2019-10-29T22:51:56+01:00
 title: Rebuilding the Fitzwilliam Website
+description: A project to rebuild the Fitzwilliam Museum's website
 institution: The Fitzwilliam Museum
 project_website: https://fitzmuseum.cam.ac.uk
 slug: /projects/fitzwilliam-website

@@ -1,5 +1,6 @@
 ---
 title: "Experiments with Flutter mobile app development"
+description: "A project to develop a mobile app for the Fitzwilliam Museum"
 institution: Fitzwilliam Museum
 GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-flutter-app

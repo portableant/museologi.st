@@ -1,5 +1,6 @@
 ---
 title: 'Cultural Heritage Spotlight: Q&A with Daniel Pett from the British Museum (Part 1)'
+description: A Sketchfab sourced blog post about 3D
 date: 2017-01-16T07:04:46+01:00
 author: Daniel Pett
 slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-1/

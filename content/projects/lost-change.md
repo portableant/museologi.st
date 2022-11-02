@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Lost Change - visualising numismatics from the Portable Antiquities Scheme
+description: A project to visualise the Portable Antiquities Scheme database
 institution: The British Museum
 featuredImg: ../images/projects/lostChangeThumb.jpg
 funders:

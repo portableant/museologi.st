@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Day of Archaeology
+description: A project to create a website to promote the Day of Archaeology
 institution: The British Museum
 featuredImg: ../images/projects/dayofarch/5739627950_ef12967b93_o.jpg
 background: ../images/projects/dayofarch/dayofarch-tweets-detail.jpg

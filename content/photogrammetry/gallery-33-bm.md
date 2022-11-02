@@ -1,6 +1,7 @@
 ---
 title: Gallery 33, British Museum
 section: 3d
+description: 3D scans of Gallery 33, British Museum
 featuredImg: ../images/backgrounds/g33.jpg
 background: ../images/backgrounds/g33.jpg
 slug: /photogrammetry/gallery-33-bm

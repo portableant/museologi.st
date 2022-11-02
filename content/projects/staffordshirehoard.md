@@ -1,6 +1,7 @@
 ---
 section: projects
 title: The Staffordshire Hoard Website
+description: "A website for the Staffordshire Hoard"
 institution: The British Museum
 role: Website Developer
 geo_lat: 51.519400

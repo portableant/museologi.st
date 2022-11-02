@@ -1,5 +1,6 @@
 ---
 title: The Smithsonian Museums
+description: 3D scans of the Smithsonian Museums collection
 section: 3d
 featuredImg: ../images/backgrounds/si.jpg
 background: ../images/backgrounds/si.jpg

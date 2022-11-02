@@ -1,6 +1,7 @@
 ---
 section: projects
 title: "MicroPasts: crowdfuelled archaeological research"
+description: "A project to crowdsource archaeological research"
 institution: The British Museum
 featuredImg: ../images/projects/micropasts.png
 background: ../images/projects/micropasts/micro.jpg

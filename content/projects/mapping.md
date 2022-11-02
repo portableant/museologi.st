@@ -1,6 +1,7 @@
 ---
 section: projects
 title: Mapping Palaeolithic Britain
+description: A project to map the locations of Palaeolithic sites in the UK
 institution: The British Museum
 featuredImg: ../images/projects/palaeolithic-handaxes.jpg
 background: ../images/projects/palaeolithic-handaxes.jpg

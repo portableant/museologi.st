@@ -1,7 +1,8 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-title: "ReACH - V&A 3D"
+title: ReACH - V&A 3D
+description: A collaborative project to develop new 3D guidance led by the V&A
 institution: The V&A 
 slug: /projects/reach
 featuredImg: ../images/2019/04/DbqKrZFX0AIlSo9.jpg

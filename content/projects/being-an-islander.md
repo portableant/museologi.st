@@ -1,5 +1,6 @@
 ---
 title: Being an Islander
+description: An overview of my involvement in the Fitzwilliam Museum Being-an-Islander project
 section: projects
 featuredImg: ../images/2022/islander/dbp_9287-9_tm_1500_small.jpeg
 background: ../images/2022/islander/GR_2_1891_1_201603_mfj22_dc1.jpg

@@ -1,5 +1,6 @@
 ---
 title: The Parthenon Marbles
+description: 3D scans of the Parthenon Marbles in the British Museum
 section: 3d
 featuredImg: ../images/backgrounds/parthenon.jpg
 background: ../images/backgrounds/parthenon.jpg

@@ -1,5 +1,6 @@
 ---
 title: 3-D Modelling Workshops
+description: A post about 3-D Modelling Workshops
 date: 2018-11-08T17:25:31+01:00
 section: blog
 slug: /blog/3-d-modelling-workshops/

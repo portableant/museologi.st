@@ -1,5 +1,6 @@
 ---
 title: Mapping Black Sculpture
+description: A project to map the locations of black sculpture in the UK
 slug: /projects/mapping-black-sculpture
 date: 2022-06-20T00:00:00.01Z
 section: projects

@@ -1,5 +1,6 @@
 ---
 title: "The Met, NYC"
+description: "A tilt shift photograph of the Metropolitan Museum of Art in New York"
 date: 2012-06-01T12:37:01+01:00
 author: Daniel Pett
 section: image

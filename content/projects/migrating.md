@@ -2,6 +2,7 @@
 section: projects
 date: 2019-10-29T22:51:56+01:00
 title: Migrating Fitz digital legacy
+description: Migrating Fitz digital legacy
 institution: The Fitzwilliam Museum
 slug: /projects/legacy
 featuredImg: ../images/2022/p.81-1999.jpg

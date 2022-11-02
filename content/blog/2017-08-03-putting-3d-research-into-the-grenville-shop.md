@@ -1,5 +1,6 @@
 ---
 title: Putting 3D research into the Grenville Shop
+description: A post about putting 3D research into the Grenville Shop
 date: 2017-08-03T12:20:32+01:00
 slug: /blog/putting-3d-research-into-the-grenville-shop/
 featuredImg: ../images/2017/08/x3D-Antinous-Roy-landcape.jpg

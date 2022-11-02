@@ -2,6 +2,7 @@
 section: projects
 date: 2019-10-06T22:51:56+01:00
 title: Beyond the Label - enhancing labels in the gallery
+description: A project to enhance labels in the gallery with QR codes and a mobile app
 institution: The Fitzwilliam Museum
 project_website: https://beyond-the-label.fitzmuseum.cam.ac.uk
 slug: /projects/beyond-the-label

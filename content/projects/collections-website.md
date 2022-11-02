@@ -2,6 +2,7 @@
 section: projects
 date: 2019-10-29T22:51:56+01:00
 title: Reinventing the Fitzwilliam Museum collections - rescuing a hacked project
+description: A project to rescue a hacked project and create a new collections website for the Fitzwilliam Museum
 institution: The Fitzwilliam Museum
 project_website: https://data.fitzmuseum.cam.ac.uk
 slug: /projects/fitzwilliam-collections-interface

@@ -1,6 +1,7 @@
 ---
 section: projects
 title: The Egyptian Coffins Project
+description: A project to create a digital catalogue of the Egyptian coffins in the Fitzwilliam Museum
 institution: The Fitzwilliam Museum
 featuredImg: ../images/IMG_20190618_181525_223.jpg
 background: ../images/projects/coffins/nesp.jpg

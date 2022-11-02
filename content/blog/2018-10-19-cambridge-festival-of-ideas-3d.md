@@ -1,5 +1,6 @@
 ---
 title: 'Cambridge Festival of Ideas'
+description: 'A post about the Cambridge Festival of Ideas'
 date: 2018-10-19T07:18:53+01:00
 author: Daniel Pett
 section: blog

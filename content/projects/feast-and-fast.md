@@ -2,6 +2,7 @@
 section: projects
 date: 2019-10-29T22:51:56+01:00
 title: Feast and Fast Digital
+description: A project to create a digital resource and interactives for Fitzwilliam Museum's Feast and Fast
 institution: The Fitzwilliam Museum
 project_website: https://feast-and-fast.fitzmuseum.cam.ac.uk
 slug: /projects/feast-and-fast

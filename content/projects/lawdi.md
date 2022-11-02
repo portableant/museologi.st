@@ -1,5 +1,6 @@
 ---
 title: Linked Ancient World Data Institute (LAWDI)
+description: A project to develop a Linked Open Data infrastructure for the Ancient World
 institution: ISAW NYU, Drew University
 date: 2013-06-12
 section: projects

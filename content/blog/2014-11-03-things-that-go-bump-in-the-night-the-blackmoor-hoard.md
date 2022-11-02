@@ -1,5 +1,6 @@
 ---
 title: 'Things that go bump in the night: the Blackmoor hoard'
+description: 'A post about the Blackmoor hoard'
 date: 2014-11-03T09:58:20+01:00
 slug: /blog/things-that-go-bump-in-the-night-the-blackmoor-hoard/
 tag:

@@ -1,5 +1,6 @@
 ---
 title: Indy in FAO Schwartz
+description: A photograph of Indiana Jones in Lego in FAO Schwartz in New York
 date: 2011-06-21T08:30:00+01:00
 author: Daniel Pett
 featuredImg: ../images/2011/06/IMAG0222-1.jpg

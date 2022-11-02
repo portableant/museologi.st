@@ -1,5 +1,6 @@
 ---
-title: "Day of archaeology 2011"
+title: Day of archaeology 2011
+description: A post about the day of archaeology
 date: 2011-04-28T14:26:07+01:00
 featuredImg: ../images/2011/04/day-of-archaeology.jpg
 background: ../images/british-museum.jpg
