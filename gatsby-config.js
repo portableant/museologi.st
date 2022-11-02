@@ -40,6 +40,11 @@ module.exports = {
                 name: 'Photographs',
                 link: '/photographs/',
                 id: 2
+            },
+            {
+                name: 'Publications',
+                link: '/publications/',
+                id: 3
             }
         ],
         serviceLinks: [

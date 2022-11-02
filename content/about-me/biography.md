@@ -5,6 +5,11 @@ subtitle: Biography
 section: about-me
 date: 2022-09-14
 slug: /biography
+featuredImg: ../images/photo.jpg 
+tags:
+  - biography
+  - self
+  - about
 ---
 
 Daniel has worked in a variety of sectors during his career; telecoms, banking, 
