@@ -73,7 +73,7 @@ export default function CookieConsent() {
                             blocks: [
                                 {
                                     title: 'Cookie usage and the Fitzwilliam website',
-                                    description: 'The Fitzwilliam Museum uses cookies to ensure the basic functionalities of the website and to enhance your online experience. You can choose for each category to opt-in/out whenever you want. For more details relative to cookies and other sensitive data, please read the full <a href="#" class="cc-link">privacy policy</a>.'
+                                    description: 'I use cookies to ensure the basic functionalities of the website and to enhance your online experience. You can choose for each category to opt-in/out whenever you want.'
                                 }, {
                                     title: 'Strictly necessary cookies',
                                     description: 'These cookies are essential for the proper functioning of my website. Without these cookies, the website would not work properly',

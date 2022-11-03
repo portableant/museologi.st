@@ -14,7 +14,7 @@ export default function Pagination(props) {
                             <Link
                                 title="Go to previous page"
                                 to={previousPagePath}>
-                                ← Newer posts
+                                ← Previous
                             </Link>) :
                         <span/>}
                     <strong>Page {pageNumber + 1} of {numberOfPages}</strong>
@@ -22,7 +22,7 @@ export default function Pagination(props) {
                             <Link
                                 title="Go to next page"
                                 to={nextPagePath}>
-                                Older posts →
+                                Next →
                             </Link>) :
                         <span/>}
                 </nav>

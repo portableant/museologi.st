@@ -1,4 +1,5 @@
 const siteUrl = process.env.URL || `https://museologi.st`
+const path = require('path')
 
 module.exports = {
     siteMetadata: {

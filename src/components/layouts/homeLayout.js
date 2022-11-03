@@ -2,7 +2,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import {StaticQuery, graphql} from "gatsby"
 import Footer from "../structure/footer"
-import Helmet from 'react-helmet'
 import BackToTop from "react-back-to-top";
 import CookieConsent from '../services/cookieconsent';
 
@@ -29,7 +28,6 @@ const HomeLayout = ({children}) => (
     `}
         render={data => (
             <>
-                <Helmet></Helmet>
                 <main>
                     {children}
                 </main>
@@ -38,7 +36,6 @@ const HomeLayout = ({children}) => (
                     mainStyle={{
                         width: '100%',
                         height: '100%',
-                        background: 'url(...)',
                         backgroundColor: '#192036',
                         color: 'white'
                     }}

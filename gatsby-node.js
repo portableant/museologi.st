@@ -1,5 +1,6 @@
 const _ = require("lodash")
 const fs = require("fs");
+const {paginate} = require("gatsby-awesome-pagination");
 
 // Ensure that the required directories exist
 // exports.onPreBootstrap = ({reporter}) => {
@@ -232,9 +233,29 @@ exports.createPages = ({ actions, graphql }) => {
             createPage: createPage,
             component: blogPostPagedTemplate,
             items: result.data.blogPosts.edges,
-            itemsPerPage: 18,
-            itemsPerFirstPage: 18,
+            itemsPerPage: 12,
+            itemsPerFirstPage: 12,
             pathPrefix: '/blog'
+        })
+
+        const photogrammetryPagedTemplate = require.resolve(`./src/templates/photogrammetry.js`)
+        paginate({
+            createPage: createPage,
+            component: photogrammetryPagedTemplate,
+            items: result.data.photogrammetryPosts.edges,
+            itemsPerPage: 12,
+            itemsPerFirstPage: 12,
+            pathPrefix: '/photogrammetry'
+        })
+
+        const projectsPostPagedTemplate = require.resolve(`./src/templates/projects.js`)
+        paginate({
+            createPage: createPage,
+            component: projectsPostPagedTemplate,
+            items: result.data.projectsPosts.edges,
+            itemsPerPage: 12,
+            itemsPerFirstPage: 12,
+            pathPrefix: '/projects'
         })
     });
 }

@@ -7,10 +7,12 @@
   "license": "MIT",
   "homepage": "https://github.com/portableant/museologi.st#readme",
   "bugs": {
-    "url" : "https://github.com/portableant/museologi.st/issues"
+    "url": "https://github.com/portableant/museologi.st/issues"
   },
   "keywords": [
-    "gatsby", "museums", "archaeology"
+    "gatsby",
+    "museums",
+    "archaeology"
   ],
   "repository": {
     "type": "git",
@@ -65,7 +67,6 @@
     "react-back-to-top": "^1.0.3",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
-    "react-helmet": "^6.1.0",
     "react-leaflet": "^4.1.0",
     "typeface-sorts-mill-goudy": "^1.1.13",
     "vanilla-cookieconsent": "^2.8.6"

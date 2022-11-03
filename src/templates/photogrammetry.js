@@ -4,10 +4,10 @@ import PhotogrammetryLink from "../components/structure/photogrammetry-link";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
 import Seo from "../components/structure/SEO"
+import Pagination from '../components/structure/pagination';
 
-
-const PhotogrammetryPage = ({data: {allMarkdownRemark: {edges},},}) => {
-    const Posts = edges.map(edge => <PhotogrammetryLink key={edge.node.id} post={edge.node}/>)
+const PhotogrammetryPage = (props) => {
+    const Posts = props.data.allMarkdownRemark.edges.map(edge => <PhotogrammetryLink key={edge.node.id} post={edge.node}/>)
     return (
         <Layout>
             <Container>
@@ -20,14 +20,21 @@ const PhotogrammetryPage = ({data: {allMarkdownRemark: {edges},},}) => {
                     {Posts}
                 </Row>
             </Container>
+            <Container fluid className={"mx-auto text-center bg-pastel"}>
+                <Pagination pageContext={props.pageContext} />
+            </Container>
         </Layout>
     );
 }
 export default PhotogrammetryPage
 
 export const pageQuery = graphql`
-    query {
-        allMarkdownRemark(filter: {frontmatter: {section: {eq: "3d"}}}, ) {
+    query($skip: Int!, $limit: Int!) {
+        allMarkdownRemark(
+            filter: {frontmatter: {section: {eq: "3d"}}}
+            limit: $limit
+            skip: $skip
+        ) {
             edges {
                 node {
                     id
@@ -40,25 +47,25 @@ export const pageQuery = graphql`
                                 gatsbyImageData(
                                     placeholder: BLURRED
                                     height: 600
-                                    formats: [AUTO, WEBP, AVIF]
+                                    formats: [AUTO, WEBP]
                                     width: 600
-                                    quality: 90
+                                    quality: 80
                                     transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
                                 )
                             }
                         }
-                        background{
-                            childImageSharp {
-                                gatsbyImageData(
-                                    placeholder: BLURRED
-                                    height: 600
-                                    formats: [AUTO, WEBP, AVIF]
-                                    width: 1200
-                                    quality: 90
-                                    transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
-                                )
-                            }
-                        }
+#                        background{
+#                            childImageSharp {
+#                                gatsbyImageData(
+#                                    placeholder: BLURRED
+#                                    height: 600
+#                                    formats: [AUTO, WEBP]
+#                                    width: 1200
+#                                    quality: 80
+#                                    transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+#                                )
+#                            }
+#                        }
                     }
                 }
             }
