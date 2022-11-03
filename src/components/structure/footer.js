@@ -26,7 +26,7 @@ const Footer = ({aboutLinks}) => {
             <Container>
                 <Row className="pt-3 h-25">
                     <Col md={4}>
-                        <h5>Licensing</h5>
+                        <h3>Licensing</h3>
                         <p className="text-white">
                             Words: <a href={'https://creativecommons.org/licenses/by/4.0/'}>CC-BY</a><br/>
                             Images: <a href={'https://creativecommons.org/licenses/by/4.0/'}>CC-BY</a><br/>
@@ -35,7 +35,7 @@ const Footer = ({aboutLinks}) => {
                         </p>
                     </Col>
                     <Col md={2}>
-                        <h5>About me</h5>
+                        <h3>About me</h3>
                         <ul className="text-white">
                             {aboutLinks.map(link => (
                                 <li key={link.id}>
@@ -47,7 +47,7 @@ const Footer = ({aboutLinks}) => {
                         </ul>
                     </Col>
                     <Col md={6}>
-                        <h5>Follow me</h5>
+                        <h3>Follow me</h3>
                         <a href="src/components/structure/footer" aria-label="My facebook profile"
                            className="text-white mx-2 my-1"><FontAwesomeIcon icon={faFacebook} size="2x"/></a>
                         <a href="src/components/structure/footer" className="text-white mx-2 my-1"
