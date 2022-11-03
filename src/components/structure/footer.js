@@ -24,7 +24,7 @@ const Footer = ({aboutLinks}) => {
     return (
         <footer className={classes}>
             <Container>
-                <Row className="pt-3 h-25">
+                <Row className="pt-3 pt-5 h-25">
                     <Col md={4}>
                         <h3>Licensing</h3>
                         <p className="text-white">

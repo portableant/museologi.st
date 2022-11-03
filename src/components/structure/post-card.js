@@ -4,7 +4,7 @@ import {Link} from "gatsby"
 import {GatsbyImage, getImage} from "gatsby-plugin-image";
 
 const PostCard = ({post}) => (
-    <Col md={4} className="mb-3 aos-init aos-animate" data-aos-duration="600" data-aos="flip-right" data-aos-delay="0">
+    <Col md={4} className="mb-3 aos-init aos-animate" data-aos-duration="700" data-aos="fade-up-right"  data-aos-easing="linear" data-aos-delay="100">
         <Card className="border-0 bg-light">
             <CardImg className="card-img-top rounded-0"
                      as={GatsbyImage} image={getImage(post.frontmatter.featuredImg)} alt={post.frontmatter.title}/>
