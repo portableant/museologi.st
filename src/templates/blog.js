@@ -1,6 +1,6 @@
 import * as React from "react"
 import Layout from "../components/layouts/layout"
-import PostLink from "../components/structure/post-link";
+import PostCard from "../components/structure/post-card";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
 import Pagination from '../components/structure/pagination';
@@ -9,7 +9,7 @@ import Seo from "../components/structure/SEO";
 const BlogPage = (props) => {
     const Posts = props.data.allMarkdownRemark.edges
         .filter(edge => !!edge.node.frontmatter.date)
-        .map(edge => <PostLink key={edge.node.id} post={edge.node}/>)
+        .map(edge => <PostCard key={edge.node.id} post={edge.node}/>)
     return (
         <Layout>
             <Container>

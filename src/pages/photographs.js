@@ -1,6 +1,6 @@
 import * as React from "react"
 import Layout from "../components/layouts/layout"
-import PhotoLink from "../components/structure/photo-link";
+import PostCard from "../components/structure/post-card";
 import {graphql} from "gatsby"
 import {Row, Container} from 'react-bootstrap';
 import Seo from "../components/structure/SEO"
@@ -8,7 +8,7 @@ import Seo from "../components/structure/SEO"
 const PhotographsPage = ({data: {allMarkdownRemark: {edges},},}) => {
     const Posts = edges
         .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
-        .map(edge => <PhotoLink key={edge.node.id} post={edge.node}/>)
+        .map(edge => <PostCard key={edge.node.id} post={edge.node}/>)
     return (
         <Layout>
 

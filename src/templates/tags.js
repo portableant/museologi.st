@@ -3,8 +3,8 @@ import PropTypes from "prop-types"
 import Layout from "../components/layouts/layout";
 // Components
 import {Link, graphql} from "gatsby"
-import PostLink from "../components/structure/post-link";
-import {Container, Row, Button, Col} from "react-bootstrap";
+import PostCard from "../components/structure/post-card";
+import {Container, Row, Col} from "react-bootstrap";
 // Utilities
 import {startCase} from "lodash"
 import Seo from "../components/structure/SEO";
@@ -24,11 +24,13 @@ const Tags = ({pageContext, data}) => {
                 <Row>
                     {edges.map(({node}) => {
                         return (
-                            <PostLink key={node.id} post={node}/>
+                            <PostCard key={node.id} post={node}/>
                         )
                     })}
                 </Row>
-                    <Col md={4}><Button className="my-3 btn-dark"><Link to="/tags">All tags</Link></Button></Col>
+                    <Col md={4}>
+                        <Link className="my-3 btn-dark btn" to="/tags">All tags</Link>
+                    </Col>
                 </Row>
             </Container>
         </Layout>

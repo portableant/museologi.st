@@ -1,13 +1,13 @@
 import * as React from "react"
 import Layout from "../components/layouts/layout"
-import PhotogrammetryLink from "../components/structure/photogrammetry-link";
+import PostCard from "../components/structure/post-card";
 import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
 import Seo from "../components/structure/SEO"
 import Pagination from '../components/structure/pagination';
 
 const PhotogrammetryPage = (props) => {
-    const Posts = props.data.allMarkdownRemark.edges.map(edge => <PhotogrammetryLink key={edge.node.id} post={edge.node}/>)
+    const Posts = props.data.allMarkdownRemark.edges.map(edge => <PostCard key={edge.node.id} post={edge.node}/>)
     return (
         <Layout>
             <Container>
@@ -54,18 +54,6 @@ export const pageQuery = graphql`
                                 )
                             }
                         }
-#                        background{
-#                            childImageSharp {
-#                                gatsbyImageData(
-#                                    placeholder: BLURRED
-#                                    height: 600
-#                                    formats: [AUTO, WEBP]
-#                                    width: 1200
-#                                    quality: 80
-#                                    transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
-#                                )
-#                            }
-#                        }
                     }
                 }
             }
