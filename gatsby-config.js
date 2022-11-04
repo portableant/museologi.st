@@ -73,6 +73,15 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: "gatsby-plugin-react-svg",
+            options: {
+                rule: {
+                    include: /images\/.*\.svg/,
+                    omitKeys: ['xmlnsDc', 'xmlnsCc', 'xmlnsRdf', 'xmlnsSvg', 'xmlnsSodipodi', 'xmlnsInkscape']
+                }
+            }
+        },
+        {
             resolve: `gatsby-plugin-scroll-indicator`,
             options: {
                 // Configure color of the scroll indicator
