@@ -15,9 +15,10 @@ import PlyrAudio from "../components/elements/plyr-audio";
 import Tags from '../components/elements/tag';
 import Map from "../components/elements/map";
 import Seo from "../components/structure/SEO";
+import {formatReadingTime} from "../utils/helpers";
 
 export default function ProjectsPageTemplate({data: {markdownRemark}}) {
-    const {frontmatter, html} = markdownRemark;
+    const {frontmatter, html, timeToRead} = markdownRemark;
     const isSSR = typeof window === "undefined";
 
     return (
@@ -31,7 +32,7 @@ export default function ProjectsPageTemplate({data: {markdownRemark}}) {
                         {frontmatter.date && <h2 className="text-primary small">{frontmatter.date}</h2>}
                         {frontmatter.role && <Badge className="bg-dark p-2 my-1 mx-1">Role(s): {frontmatter.role}</Badge>}
                         {frontmatter.institution && <Badge className="bg-dark p-2 my-1 mx-1">{frontmatter.institution}</Badge>}
-
+                        <h3 className="text-primary lead small my-1">{`${formatReadingTime(timeToRead)}`}</h3>
                     </div>
                     <div className="post-body bg-white text-black p-4" dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
@@ -65,6 +66,11 @@ export const pageQuery = graphql`
     query ($id: String!) {
         markdownRemark(id: { eq: $id }) {
             html
+            id
+            timeToRead
+            wordCount {
+                words
+            }
             frontmatter {
                 date(formatString: "MMMM DD, YYYY")
                 section
