@@ -15,6 +15,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons'
 
 import Icon from "../../images/orcid.svg";
+import SketchfabIcon from "../../images/sketchfab-logo-white.svg";
 
 // See https://stackoverflow.com/a/37073268 as to how to add multiple classes
 import * as containerStyles from "../../styles/footer-style.module.css";
@@ -70,6 +71,9 @@ const Footer = ({aboutLinks}) => {
                                className="text-white mx-2 my-1"
                                aria-label="My Google Scholar account profile"><FontAwesomeIcon icon={faGoogle}
                                                                                                size="2x"/></a>
+                            <a href="https://sketchfab.com/danielpett" className="text-white mx-2 my-1"
+                               aria-label="My ORCID account profile"><SketchfabIcon  className="svg-inline--fa fa-facebook fa-w-16 fa-2x" style={{ height:32, width: 32 }}/>
+                            </a>
                         </Col>
                     </Row>
                 </Container>
