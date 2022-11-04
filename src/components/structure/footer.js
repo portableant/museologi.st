@@ -72,7 +72,7 @@ const Footer = ({aboutLinks}) => {
                                aria-label="My Google Scholar account profile"><FontAwesomeIcon icon={faGoogle}
                                                                                                size="2x"/></a>
                             <a href="https://sketchfab.com/danielpett" className="text-white mx-2 my-1"
-                               aria-label="My ORCID account profile"><SketchfabIcon  className="svg-inline--fa fa-facebook fa-w-16 fa-2x" style={{ height:32, width: 32 }}/>
+                               aria-label="My Sketchfab account profile"><SketchfabIcon  className="svg-inline--fa fa-facebook fa-w-16 fa-2x" style={{ height:32, width: 32 }}/>
                             </a>
                         </Col>
                     </Row>
