@@ -27,7 +27,10 @@ export default PhotographsPage
 
 export const pageQuery = graphql`
     query {
-        allMarkdownRemark(filter: {frontmatter: {section: {eq: "image"}}}, sort: { order: DESC, fields: [frontmatter___date] }) {
+        allMarkdownRemark(
+            filter: {frontmatter: {section: {eq: "image"}}}
+            sort: {frontmatter: {date: DESC}}
+        ) {
             edges {
                 node {
                     id
@@ -43,7 +46,8 @@ export const pageQuery = graphql`
                                     formats: [AUTO, WEBP]
                                     width: 600
                                     quality: 80
-                                    transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+                                    transformOptions: {grayscale: false, fit: COVER, cropFocus:
+                                    CENTER}
                                 )
                             }
                         }

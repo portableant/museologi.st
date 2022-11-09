@@ -1,13 +1,12 @@
 import React from "react"
 import PropTypes from "prop-types"
-import {StaticQuery, graphql} from "gatsby"
+import {useStaticQuery, graphql} from "gatsby"
 import Footer from "../structure/footer"
 import BackToTop from "react-back-to-top";
 import CookieConsent from '../services/cookieconsent';
 
-const HomeLayout = ({children}) => (
-    <StaticQuery
-        query={graphql`
+export default function HomeLayout({children}) {
+    const data = useStaticQuery(graphql`
       query SiteTitleQuery {
         site {
           siteMetadata {
@@ -25,8 +24,8 @@ const HomeLayout = ({children}) => (
           }
         }
       }
-    `}
-        render={data => (
+    `)
+        return (
             <>
                 <main>
                     {children}
@@ -51,13 +50,11 @@ const HomeLayout = ({children}) => (
                     visiblePercent={50}
                 />
                 <CookieConsent/>
-            </>
-        )}
-    />
-)
+            </>)
+
+}
 
 HomeLayout.propTypes = {
     children: PropTypes.node.isRequired,
 }
 
-export default HomeLayout

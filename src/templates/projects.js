@@ -33,18 +33,16 @@ export default ProjectsPage
 export const pageQuery = graphql`
     query($skip: Int!, $limit: Int!) {
         allMarkdownRemark(
-            filter: {
-                    frontmatter: {section: {eq: "projects"}}}, 
-                    sort: { order: ASC,
-                    fields: [frontmatter___title] },
-                    limit: $limit
-                    skip: $skip
+            filter: {frontmatter: {section: {eq: "projects"}}}
+            sort: {frontmatter: {title: ASC}}
+            limit: $limit
+            skip: $skip
         ) {
             edges {
                 node {
                     id
                     frontmatter {
-                        github_repo{
+                        github_repo {
                             name
                             url
                         }
@@ -61,7 +59,8 @@ export const pageQuery = graphql`
                                     formats: [AUTO, WEBP]
                                     width: 600
                                     quality: 80
-                                    transformOptions: { grayscale: false,fit: COVER, cropFocus: CENTER }
+                                    transformOptions: {grayscale: false, fit: COVER, cropFocus:
+                                    CENTER}
                                 )
                             }
                         }

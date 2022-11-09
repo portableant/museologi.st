@@ -1,15 +1,15 @@
 import React from "react"
 import PropTypes from "prop-types"
-import {StaticQuery, graphql} from "gatsby"
+import {useStaticQuery, graphql} from "gatsby"
 import NavBar from "../structure/nav";
 import Footer from "../structure/footer"
 import BackToTop from 'react-back-to-top';
 import CookieConsent from '../services/cookieconsent';
 import Effects from "../structure/effects";
-const Layout = ({children}) => (
-    <StaticQuery
-        query={graphql`
-      query SiteTitleQuery {
+
+export default function Layout({children}) {
+    const data = useStaticQuery(graphql`
+        query SiteTitleQuery {
         site {
           siteMetadata {
             title
@@ -26,8 +26,8 @@ const Layout = ({children}) => (
           }
         }
       }
-    `}
-        render={data => (
+    `)
+        return (
             <>
                 <NavBar menuLinks={data.site.siteMetadata.menuLinks} siteTitle={data.site.siteMetadata.title}/>
                 <main>
@@ -55,12 +55,12 @@ const Layout = ({children}) => (
                 <CookieConsent/>
                 <Effects/>
             </>
-        )}
-    />
-)
+        )
+
+}
+
 
 Layout.propTypes = {
     children: PropTypes.node.isRequired,
 }
 
-export default Layout

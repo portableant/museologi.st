@@ -30,18 +30,17 @@ export default BlogPage
 
 export const pageQuery = graphql`
     query($skip: Int!, $limit: Int!) {
-        allMarkdownRemark(filter: {frontmatter: {
-            section: {eq: "blog"}}
-            }, 
-            sort: { order: DESC, fields: [frontmatter___date] },
+        allMarkdownRemark(
+            filter: {frontmatter: {section: {eq: "blog"}}}
+            sort: {frontmatter: {date: DESC}}
             limit: $limit
             skip: $skip
-            ) {
+        ) {
             edges {
                 node {
                     id
                     frontmatter {
-                        github_repo{
+                        github_repo {
                             name
                             url
                         }
@@ -57,7 +56,8 @@ export const pageQuery = graphql`
                                     formats: [AUTO, WEBP]
                                     width: 600
                                     quality: 80
-                                    transformOptions: { grayscale: false,fit: COVER, cropFocus: CENTER }
+                                    transformOptions: {grayscale: false, fit: COVER, cropFocus:
+                                    CENTER}
                                 )
                             }
                         }

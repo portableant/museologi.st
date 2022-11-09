@@ -5,4 +5,4 @@ to add more stuff.
 
 ## Architecture
 
-Built on Gatsby 4@latest
+Built on Gatsby 5@latest
