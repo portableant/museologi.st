@@ -65,7 +65,7 @@
     "prismjs": "^1.29.0",
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
-    "react-back-to-top": "^1.0.3",
+    "react-back-to-top": "github:lyhmyd1211/react-Back-To-Top",
     "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.1.0",
