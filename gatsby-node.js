@@ -48,8 +48,8 @@ exports.onCreateNode = ({node, getNode, actions}) => {
     }
 };
 
-exports.createPages = ({ actions, graphql }) => {
-    const { createPage } = actions
+exports.createPages = ({actions, graphql}) => {
+    const {createPage} = actions
 
     const blogPostTemplate = require.resolve(`./src/templates/blog-page.js`)
     const projectsTemplate = require.resolve(`./src/templates/projects-page.js`)
@@ -59,7 +59,7 @@ exports.createPages = ({ actions, graphql }) => {
      {
       blogPosts: allMarkdownRemark(
         filter: {frontmatter: {section: {eq: "blog"}}}
-        sort: {order: DESC, fields: [frontmatter___date]}
+        sort: {frontmatter: {date: DESC}}
         limit: 1000
       ) {
         edges {
@@ -75,10 +75,10 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
-      },
+      }
       projectsPosts: allMarkdownRemark(
         filter: {frontmatter: {section: {eq: "projects"}}}
-        sort: {order: DESC, fields: [frontmatter___date]}
+        sort: {frontmatter: {date: DESC}}
         limit: 1000
       ) {
         edges {
@@ -94,10 +94,10 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
-      },
+      }
       photogrammetryPosts: allMarkdownRemark(
         filter: {frontmatter: {section: {eq: "3d"}}}
-        sort: {order: DESC, fields: [frontmatter___date]}
+        sort: {frontmatter: {date: DESC}}
         limit: 1000
       ) {
         edges {
@@ -113,10 +113,10 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
-      },
+      }
       photographyPosts: allMarkdownRemark(
         filter: {frontmatter: {section: {eq: "image"}}}
-        sort: {order: DESC, fields: [frontmatter___date]}
+        sort: {frontmatter: {date: DESC}}
         limit: 1000
       ) {
         edges {
@@ -132,10 +132,10 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
-      },
+      }
       aboutPosts: allMarkdownRemark(
         filter: {frontmatter: {section: {eq: "about-me"}}}
-        sort: {order: DESC, fields: [frontmatter___date]}
+        sort: {frontmatter: {date: DESC}}
         limit: 1000
       ) {
         edges {
@@ -151,18 +151,19 @@ exports.createPages = ({ actions, graphql }) => {
             }
           }
         }
-      },
+      }
       tagsGroup: allMarkdownRemark(limit: 2000) {
-        group(field: frontmatter___tags) {
+        group(field: {frontmatter: {tags: SELECT}}) {
           fieldValue
         }
       }
     }
+
   `).then(result => {
         if (result.errors) {
             return Promise.reject(result.errors)
         }
-        result.data.blogPosts.edges.forEach(({ node }) => {
+        result.data.blogPosts.edges.forEach(({node}) => {
             createPage({
                 path: node.frontmatter.slug,
                 component: blogPostTemplate,
@@ -172,7 +173,7 @@ exports.createPages = ({ actions, graphql }) => {
                 },
             });
         });
-        result.data.projectsPosts.edges.forEach(({ node }) => {
+        result.data.projectsPosts.edges.forEach(({node}) => {
             createPage({
                 path: node.frontmatter.slug,
                 component: projectsTemplate,
@@ -182,7 +183,7 @@ exports.createPages = ({ actions, graphql }) => {
                 },
             });
         });
-        result.data.photogrammetryPosts.edges.forEach(({ node }) => {
+        result.data.photogrammetryPosts.edges.forEach(({node}) => {
             createPage({
                 path: node.frontmatter.slug,
                 component: photogrammetryTemplate,
@@ -192,7 +193,7 @@ exports.createPages = ({ actions, graphql }) => {
                 },
             });
         });
-        result.data.photographyPosts.edges.forEach(({ node }) => {
+        result.data.photographyPosts.edges.forEach(({node}) => {
             createPage({
                 path: node.frontmatter.slug,
                 component: photographyTemplate,
@@ -202,7 +203,7 @@ exports.createPages = ({ actions, graphql }) => {
                 },
             });
         });
-        result.data.aboutPosts.edges.forEach(({ node }) => {
+        result.data.aboutPosts.edges.forEach(({node}) => {
             createPage({
                 path: node.frontmatter.slug,
                 component: blogPostTemplate,
@@ -226,7 +227,7 @@ exports.createPages = ({ actions, graphql }) => {
             })
         });
 
-        const { paginate } = require('gatsby-awesome-pagination')
+        const {paginate} = require('gatsby-awesome-pagination')
 
         const blogPostPagedTemplate = require.resolve(`./src/templates/blog.js`)
         paginate({
@@ -260,8 +261,8 @@ exports.createPages = ({ actions, graphql }) => {
     });
 }
 
-exports.createSchemaCustomization = ({ actions }) => {
-    const { createTypes } = actions
+exports.createSchemaCustomization = ({actions}) => {
+    const {createTypes} = actions
 
     createTypes(`
     type MarkdownRemark implements Node {
@@ -275,7 +276,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `)
 }
-exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
+exports.onCreateWebpackConfig = ({stage, loaders, actions}) => {
     if (stage === "build-html") {
         actions.setWebpackConfig({
             module: {
