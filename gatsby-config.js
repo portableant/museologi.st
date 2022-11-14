@@ -73,6 +73,13 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: "gatsby-plugin-robots-txt",
+            options: {
+                policy: [{userAgent: '*', allow: '/'}],
+                output: "/robots.txt",
+            }
+        },
+        {
             resolve: "gatsby-plugin-react-svg",
             options: {
                 rule: {
