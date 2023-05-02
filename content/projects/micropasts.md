@@ -5,7 +5,7 @@ description: "A project to crowdsource archaeological research"
 institution: The British Museum
 featuredImg: ../images/projects/micropasts.png
 background: ../images/projects/micropasts/micro.jpg
-project_website: https://crowdsourced.micropasts.org
+project_website: https://micropasts.org
 date: 2014-10-29T22:51:56+01:00
 year: "2013 - 2022"
 geo_lat: 51.519400
@@ -55,7 +55,11 @@ tags:
   - museums
   - heritage
   - foss
-  - ahrc
+  - AHRC
+  - gatsby
+  - pybossa
+  - R
+  - Python
 publications:
   - "Bonacchi, C, Bevan, A., Keinan, A., Pett, D.E.J. & Wexler, J. (2019) ’Participation in heritage crowdsourcing’ in Museum Management and Curatorship Volume 34 DOI: 10.1080/09647775.2018.1559080"
   - "Bonacchi, C., Pett, D.E.J., Bevan, A. & Keinan-Schoonbaert, A. (2015) ‘Experiments in Crowd-funding Community Archaeology’ in Journal of Community Archaeology Volume 2. DOI: 10.1179/2051819615Z.00000000041"

@@ -29,7 +29,7 @@ const Tags = ({pageContext, data}) => {
                     })}
                 </Row>
                     <Col md={4}>
-                        <Link className="my-3 btn-dark btn" to="/tags">All tags</Link>
+                        <Link className="my-3 btn-dark btn text-white" to="/tags">All tags</Link>
                     </Col>
                 </Row>
             </Container>
