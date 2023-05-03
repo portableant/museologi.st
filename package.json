@@ -68,7 +68,7 @@
     "plyr-react": "^5.2.0",
     "prismjs": "^1.29.0",
     "prop-types": "^15.8.1",
-    "puppeteer": "^20.0.0",
+    "puppeteer": "^19.2.2",
     "react": "^18.1.0",
     "react-back-to-top": "github:lyhmyd1211/react-Back-To-Top",
     "react-bootstrap": "^2.7.4",
