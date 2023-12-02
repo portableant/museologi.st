@@ -1,0 +1,42 @@
+[
+  {
+    "name": "The British Museum",
+    "logo": "../images/logos/British_Museum_logo.png"
+  },
+  {
+    "name": "The Fitzwilliam Museum",
+    "logo": "../images/logos/fitzwilliam.png"
+  },
+  {
+    "name": "The University of Cambridge",
+    "logo": "../images/logos/cambridge_university.png"
+  },
+  {
+    "name": "Dresdner Kleinwort Wasserstein",
+    "logo": "../images/logos/Dresdner-kleinwort.png"
+  },
+  {
+    "name": "Historic England",
+    "logo": "../images/logos/Historic_England_logo.png"
+  },
+  {
+    "name": "British Telecom",
+    "logo": "../images/logos/british-telecom.png"
+  },
+  {
+    "name": "Open University",
+    "logo": "../images/logos/The_Open_University_logo.png"
+  },
+  {
+    "name": "St Edmund's College, Cambridge",
+    "logo": "../images/logos/St_Edmund's_College_crest.png"
+  },
+  {
+    "name": "The University of Stirling",
+    "logo": "../images/logos/stirling.png"
+  },
+  {
+    "name": "The Institute of Archaeology",
+    "logo": "../images/logos/ioa.png"
+  }
+]
