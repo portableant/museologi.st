@@ -1,11 +1,12 @@
 ---
-title: How to reset a passwords on OSX
+title: How to reset a forgotten password on OSX
 section: blog
-description: "How to reset a password on OSX"
+description: "How to reset a forgotten password on OSX"
 slug: /blog/reset-password-osx
 date: 2022-11-03T22:51:56+01:00
-featuredImg: ../images/blog/2022/2022-11-03-reset-password.jpg
-background: ../images/blog/2022/2022-11-03-reset-password.jpg
+last_modified_at: 2022-11-03T22:51:56+01:00
+featuredImg: ../images/2022/password.jpg
+background: ../images/2022/password.jpg
 tags: 
   - osx
   - mac
@@ -14,7 +15,8 @@ tags:
   - tech
 ---
 My mother recently changed hard ware and a spare imac 2013 was up for grabs, trouble
-was no one could remember the password to get in. No problem!
+was no one could remember the password to get in. Changing the password from another machine wasn't an option, 
+password hints proved to be useless. So terminal is my friend.
 
 To reset on OSX do the following:
 

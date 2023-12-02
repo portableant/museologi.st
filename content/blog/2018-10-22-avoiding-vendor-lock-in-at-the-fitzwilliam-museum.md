@@ -2,7 +2,7 @@
 title: Avoiding vendor lock-in at the Fitzwilliam Museum
 description: A post about avoiding vendor lock-in at the Fitzwilliam Museum
 date: 2018-10-22T20:02:23+01:00
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-02T12:18:52
 author: Daniel Pett
 featuredImg: ../images/backgrounds/ice-cream.jpg
 background: ../images/backgrounds/ice-cream.jpg
@@ -23,7 +23,7 @@ As most people know, money is extremely tight in our field, and the combined fee
 
 Soon after joining the Fitzwilliam, I set up a Slack channel, as one does, following good experience of using it at the British Museum with team Digital before it all went wrong for that business unit. We merrily started using it, then I got the jitters about how I would fund this tool alongside all the other things (which quite frankly are more important at the moment &#8211; network, storage, equipment, etc). So what alternatives are out there? Well quite a few that you can self-host.
 
-As everyone says, who remembers it, Slack is just ICQ with a nice coat on. I therefore looked at a few of these (for example [Mattermost](https://mattermost.com/)) and gave them a spin on a VM that we set up and finally plumped for [RocketChat](https://rocket.chat/) (which also has an app if you like that sort of thing). This package is pretty easy to set up on Ubuntu, and has auto-updating SNAPs. Maintenance of this has been a couple of minutes a month! We've tied this into our LDAP for the museum and restricted access to the groups we need, and will probably also hide it behind our RAVEN authentication if need be and a Caddy version can be found for the plugin (or we'll proxy behind Apache 2).
+As everyone says, who remembers it, Slack is just IRC with a nice coat on. I therefore looked at a few of these (for example [Mattermost](https://mattermost.com/)) and gave them a spin on a VM that we set up and finally plumped for [RocketChat](https://rocket.chat/) (which also has an app if you like that sort of thing). This package is pretty easy to set up on Ubuntu, and has auto-updating SNAPs. Maintenance of this has been a couple of minutes a month! We've tied this into our LDAP for the museum and restricted access to the groups we need, and will probably also hide it behind our RAVEN authentication if need be and a Caddy version can be found for the plugin (or we'll proxy behind Apache 2).
 
 ![RocketChat at the Fitz](../images/2018/10/Screen-Shot-2018-10-22-at-20.58.44.png)
 

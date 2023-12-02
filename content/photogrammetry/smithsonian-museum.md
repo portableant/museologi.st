@@ -2,8 +2,8 @@
 title: The Smithsonian Museums
 description: 3D scans of the Smithsonian Museums collection
 section: 3d
-date:
-last_modified_at: 2023-12-02T08:34:10
+date: 2019-10-30
+last_modified_at: 2023-12-02T12:18:52
 featuredImg: ../images/backgrounds/si.jpg
 background: ../images/backgrounds/si.jpg
 geo_lat: 38.8895

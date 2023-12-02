@@ -18,11 +18,11 @@ const IndexPage = () => {
             <HeroTop />
 
             <Container fluid={true} className={'bg-pastel py-3'}>
-                <h2 className="display-6 text-center fw-bold text-dark">Latest Projects</h2>
+                <h2 className="display-6 text-center fw-bold text-dark visually-hidden-focusable">Latest Projects</h2>
                 <LatestProjects />
             </Container>
             <Container fluid={true} className={'bg-pastel py-3'}>
-                <h2 className="display-6 text-center fw-bold text-dark">Latest Blog Posts</h2>
+                <h2 className="display-6 text-center fw-bold text-dark visually-hidden-focusable">Latest Blog Posts</h2>
                 <BlogFrontPage />
             </Container>
 
