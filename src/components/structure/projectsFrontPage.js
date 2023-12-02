@@ -1,7 +1,7 @@
 import React from 'react';
 import {graphql, useStaticQuery} from 'gatsby';
 import PostCardFront from "./post-card-front";
-import {Container} from 'react-bootstrap';
+import {Container, Row} from 'react-bootstrap';
 
 const query = graphql`
     {
@@ -48,10 +48,11 @@ const LatestProjects = () => {
     const posts = data.allMarkdownRemark.edges;
     return (
         <Container className={'py-2 d-flex my-4'} >
+            <Row>
                     {posts.map(({node}) => (
-
                         <PostCardFront key={node.id} post={node}/>
                     ))}
+            </Row>
         </Container>
     );
 };

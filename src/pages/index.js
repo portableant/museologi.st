@@ -1,6 +1,6 @@
 import * as React from "react"
 import HomeLayout from "../components/layouts/homeLayout";
-import {Container} from "react-bootstrap";
+import {Container, Row} from "react-bootstrap";
 import Seo from "../components/structure/SEO";
 import BlogFrontPage from"../components/structure/blogFrontPage";
 import Logos from "../components/structure/logos";
@@ -19,11 +19,11 @@ const IndexPage = () => {
 
             <Container fluid={true} className={'bg-pastel py-3'}>
                 <h2 className="display-6 text-center fw-bold text-dark visually-hidden-focusable">Latest Projects</h2>
-                <LatestProjects />
+                    <LatestProjects />
             </Container>
             <Container fluid={true} className={'bg-pastel py-3'}>
-                <h2 className="display-6 text-center fw-bold text-dark visually-hidden-focusable">Latest Blog Posts</h2>
-                <BlogFrontPage />
+                    <h2 className="display-6 text-center fw-bold text-dark visually-hidden-focusable">Latest Blog Posts</h2>
+                    <BlogFrontPage />
             </Container>
 
             <Logos />
