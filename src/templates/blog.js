@@ -68,6 +68,6 @@ export const pageQuery = graphql`
     }
 `
 
-export const Head = () => (
-    <Seo title={"Blog and news"} description={"A sporadically populated blog; news, stories, tips"} />
+export const Head = (props) => (
+    <Seo title={"Blog and news page " + props.pageContext.humanPageNumber} description={"A sporadically populated blog; news, stories, tips"} />
 )

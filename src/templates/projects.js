@@ -70,6 +70,6 @@ export const pageQuery = graphql`
         }
     }
 `
-export const Head = () => (
-    <Seo title={"Projects I have worked on"} description={"An overview of projects I have worked on in museums and heritage"}/>
+export const Head = (props) => (
+    <Seo title={"Projects I have worked on, page " + props.pageContext.humanPageNumber} description={"An overview of projects I have worked on in museums and heritage"}/>
 )

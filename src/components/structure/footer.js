@@ -6,7 +6,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {
     faFacebook,
     faGithub,
-    faTwitter,
+    faXTwitter,
     faInstagram,
     faLinkedin,
     faGoogle
@@ -55,7 +55,7 @@ const Footer = ({aboutLinks}) => {
                             <a href="https://instagram.com/danielejpett" className="text-white"
                                aria-label="My Instagram profile"><FontAwesomeIcon icon={faInstagram} size="2x" className="m-2" /></a>
                             <a href="https://twitter.com/dejpett" className="text-white"
-                               aria-label="My twitter profile"><FontAwesomeIcon icon={faTwitter} size="2x" className="m-2"/></a>
+                               aria-label="My twitter profile"><FontAwesomeIcon icon={faXTwitter} size="2x" className="m-2"/></a>
                             <a href="https://github.com/portableant" className="text-white"
                                aria-label="My GitHub account profile"><FontAwesomeIcon icon={faGithub} size="2x" className="m-2" /></a>
                             <a href="https://www.linkedin.com/in/danielpett/" className="text-white"

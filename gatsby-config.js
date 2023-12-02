@@ -151,7 +151,6 @@ module.exports = {
                 "icon": "src/images/icon.png"
             }
         },
-        "gatsby-plugin-twitter",
         "gatsby-plugin-mdx",
         "gatsby-plugin-sharp",
         "gatsby-transformer-sharp",
@@ -294,6 +293,14 @@ module.exports = {
                     },
                 ],
             },
+        },
+        `gatsby-transformer-json`,
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                path: `${__dirname}/src/json`,
+            },
+            __key: 'logos'
         },
         {
             resolve: 'gatsby-source-filesystem',

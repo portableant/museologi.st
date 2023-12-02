@@ -6,7 +6,7 @@ import {GatsbyImage, getImage} from "gatsby-plugin-image";
 const PostCard = ({post}) => (
     <Col md={4} className="mb-3">
         <Card className="border-0 bg-light">
-            <CardImg className="card-img-top rounded-0"
+            <CardImg className="card-img-top rounded-3"
                      as={GatsbyImage} image={getImage(post.frontmatter.featuredImg)} alt={post.frontmatter.title}/>
             <Card.Body className="bg-white border-0 rounded-0">
                 <div >

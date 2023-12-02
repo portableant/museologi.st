@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import {useStaticQuery, graphql} from "gatsby"
+import NavBar from "../structure/nav";
 import Footer from "../structure/footer"
 import BackToTop from "react-back-to-top";
 import CookieConsent from '../services/cookieconsent';
@@ -27,6 +28,8 @@ export default function HomeLayout({children}) {
     `)
         return (
             <>
+                <NavBar menuLinks={data.site.siteMetadata.menuLinks} siteTitle={data.site.siteMetadata.title}/>
+
                 <main>
                     {children}
                 </main>
