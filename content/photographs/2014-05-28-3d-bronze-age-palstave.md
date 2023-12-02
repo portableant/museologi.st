@@ -6,7 +6,7 @@ author: Daniel Pett
 slug: /blog/3d-bronze-age-palstave/
 tags:
   - meandering
-  - 3d printing
+  - 3D printing
   - museums
   - british museum
   - ahrc

@@ -2,6 +2,8 @@
 title: Project Nineveh
 description: 3D scans of the Nineveh objects in the British Museum
 section: 3d
+date:
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/backgrounds/the_siege_of_lachish.jpg
 background: ../images/backgrounds/the_siege_of_lachish.jpg
 geo_lat: 51.519400
@@ -38,7 +40,7 @@ tags:
   - museums
   - british museum
   - guerrilla
-  - 3d
+  - 3D
   - photogrammetry
 ---
 This collection of 3D scans consists of the reliefs held within the British Museum's Assyrian galleries on the first floor.

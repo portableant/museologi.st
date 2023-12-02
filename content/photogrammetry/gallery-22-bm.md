@@ -7,6 +7,8 @@ background: ../images/backgrounds/columns-lights.jpg
 slug: /photogrammetry/gallery-22-bm
 geo_lat: 51.519400
 geo_lon: -0.126924
+date:
+last_modified_at: 2023-12-02T08:34:10
 github_repos:
   -
     url: https://github.com/BritishMuseumDH/apothesisHomer
@@ -24,7 +26,7 @@ tags:
   - museums
   - british museum 
   - guerrilla
-  - 3d
+  - 3D
   - photogrammetry
 ---
 

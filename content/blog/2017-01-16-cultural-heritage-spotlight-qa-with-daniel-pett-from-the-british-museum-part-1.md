@@ -2,14 +2,14 @@
 title: 'Cultural Heritage Spotlight: Q&A with Daniel Pett from the British Museum (Part 1)'
 description: A Sketchfab sourced blog post about 3D
 date: 2017-01-16T07:04:46+01:00
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-02T08:34:09
 author: Daniel Pett
 slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-1/
 geo_lat: 51.519418
 geo_lon: -0.126973
 tags:
   - techie stuff
-  - 3d
+  - 3D
   - museums
   - archaeology
   - scanning

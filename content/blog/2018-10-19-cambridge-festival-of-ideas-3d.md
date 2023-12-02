@@ -2,14 +2,14 @@
 title: 'Cambridge Festival of Ideas'
 description: 'A post about the Cambridge Festival of Ideas'
 date: 2018-10-19T07:18:53+01:00
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-02T08:34:10
 author: Daniel Pett
 section: blog
 slug: /blog/cambridge-festival-of-ideas-3d/
 featuredImg: ../images/2018/10/dots.jpg
 background: ../images/2018/10/dots.jpg
 tags:
-  - 3d
+  - 3D
   - archaeology
   - classics
   - photogrammetry

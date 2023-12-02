@@ -1,6 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 title: ReACH - V&A 3D
 description: A collaborative project to develop new 3D guidance led by the V&A
 institution: The V&A 
@@ -16,7 +17,7 @@ collaborators:
   - Jevgenija Ravcova
   - Brendan Cormier
 tags:
-  - 3d
+  - 3D
   - digital
   - photography
   - photogrammetry

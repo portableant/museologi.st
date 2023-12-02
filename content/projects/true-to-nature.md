@@ -1,6 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 title: True to Nature digital element
 description: "A digital element for the True to Nature exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum

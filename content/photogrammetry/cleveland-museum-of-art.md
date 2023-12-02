@@ -1,6 +1,8 @@
 ---
 section: 3d
 title: The Cleveland Museum of Art
+date: 2017-04-01T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 description: 3D scans of the Cleveland Museum of Art's Collection
 featuredImg: ../images/backgrounds/cleveland.jpg
 background: ../images/backgrounds/cleveland.jpg

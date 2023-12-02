@@ -13,7 +13,7 @@ funders:
   - Cambridge University Industry Pump Priming Fund
 grant_amount: £18,000
 tags:
-  - 3d
+  - 3D
   - museums
   - creative economy
   - ahrc
@@ -27,6 +27,7 @@ partners:
 start: 2019-01-01
 end: 2019-12-31
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 status: active
 project_website: https://do-not-touch.fitzmuseum.cam.ac.uk
 documents:

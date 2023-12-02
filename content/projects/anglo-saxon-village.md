@@ -1,7 +1,8 @@
 ---
 title: PASt explorers 
 description: PASt explorers was the Portable Antiquities Scheme's children's project from 2005-2015.
-date: 2004-01-01T00:00:00+01:00
+date: 2005-01-01T00:00:00+01:00
+last_modified_at: 2023-12-02T08:34:10
 section: projects
 institution: The Portable Antiquities Scheme
 role: Project Lead

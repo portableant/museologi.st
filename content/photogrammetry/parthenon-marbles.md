@@ -2,6 +2,8 @@
 title: The Parthenon Marbles
 description: 3D scans of the Parthenon Marbles in the British Museum
 section: 3d
+date:
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/backgrounds/parthenon.jpg
 background: ../images/backgrounds/parthenon.jpg
 geo_lat: 51.519400
@@ -21,7 +23,7 @@ tags:
   - museums
   - british museum
   - guerrilla
-  - 3d
+  - 3D
   - photogrammetry
   - greece
   - parthenon

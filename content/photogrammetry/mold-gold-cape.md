@@ -2,6 +2,8 @@
 section: 3d
 title: The Mold gold cape
 description: 3D scans of the Mold gold cape
+date:
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/backgrounds/cape-mold.jpg
 background: ../images/backgrounds/cape-mold.jpg
 geo_lat: 51.519400
@@ -19,11 +21,11 @@ tags:
   - museums
   - british museum
   - guerrilla
-  - 3d
+  - 3D
   - photogrammetry
-  - 3d printing
-  - 3d scanning
-  - 3d modelling
+  - 3D printing
+  - 3D scanning
+  - 3D modelling
 ---
 A low resolution, first iteration of modeling the famous Mold Gold Cape. This is very rough internally and around the top edges. It will improve as more effective masking is done and some more photos are added. The cape is too fragile to remove from the internal supporting structure.
 

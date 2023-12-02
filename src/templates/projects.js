@@ -46,7 +46,7 @@ export const pageQuery = graphql`
                             name
                             url
                         }
-                        date(formatString: "MMMM DD, YYYY")
+                        date(formatString: "YYYY")
                         slug
                         title
                         institution

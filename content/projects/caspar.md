@@ -4,6 +4,7 @@ description: The Centre for Audio-Visual Study and Practice in Archaeology (CASP
 section: projects
 slug: /projects/caspar
 date: 2010-10-01
+last_modified_at: 2023-12-02T08:34:10
 tags:
  - audio-visual
  - archaeology

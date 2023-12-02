@@ -9,7 +9,7 @@ background: ../images/backgrounds/night.jpg
 slug: /photogrammetry/egyptian-galleries-bm
 geo_lat: 51.519400
 geo_lon: -0.126924
-updated: 2019-11-11
+last_modified_at: 2023-12-02T08:34:10
 github_repo:
   -
     url: https://github.com/portableant/rosettaStone
@@ -55,7 +55,7 @@ tags:
   - archaeology
   - museums
   - photogrammetry
-  - 3d
+  - 3D
   - vr
 ---
 

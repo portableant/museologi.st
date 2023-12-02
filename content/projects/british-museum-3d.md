@@ -1,6 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 title: Innovating with 3D technologies at the British Museum
 description: An overview of the work we did at the British Museum to innovate with 3D technologies 
 institution: The British Museum
@@ -26,14 +27,14 @@ collaborators:
   - Anna Garnett
   - Florence Dassonville
 tags:
-  - 3d 
+  - 3D 
   - museums 
   - ahrc 
   - models 
   - scanning 
   - archaeology 
   - microPasts 
-  - 3d printing
+  - 3D printing
 github_repo: 
   - url: https://github.com/britishmuseumdh
     name: Main British Museum Digital Humanities Github profile

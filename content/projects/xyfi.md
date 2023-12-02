@@ -17,7 +17,7 @@ funders:
   - Google
   - Asahi Shimbun Foundation
 tags:
-  - 3d
+  - 3D
   - BYOD
   - google
   - philanthropy
@@ -38,6 +38,7 @@ GitHub_repo:
   - url: https://github.com/googlecreativelab/xyfi
     name: XYFI code 
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 slug: /projects/xyfi
 project_website: https://github.com/googlecreativelab/xyfi
 images:

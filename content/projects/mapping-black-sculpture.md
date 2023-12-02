@@ -3,6 +3,7 @@ title: Mapping Black Sculpture
 description: A project to map the locations of black sculpture in the UK
 slug: /projects/mapping-black-sculpture
 date: 2022-06-20T00:00:00.01Z
+last_modified_at: 2023-12-02T08:34:10
 section: projects
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2022/09/81054a89307570df8d056cae72911e95043b8344.jpg

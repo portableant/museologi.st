@@ -6,6 +6,7 @@ GitHub_repo:
   - url: https://github.com/FitzwilliamMuseum/fitz-flutter-app
     name: Flutter App source code
 date: 2022-03-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 zenodo_doi: 10.5281/zenodo.6471508
 slug: /projects/flutter-app-development
 section: projects

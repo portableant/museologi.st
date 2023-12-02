@@ -2,15 +2,16 @@
 title: The Smithsonian Museums
 description: 3D scans of the Smithsonian Museums collection
 section: 3d
+date:
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/backgrounds/si.jpg
 background: ../images/backgrounds/si.jpg
 geo_lat: 38.8895
 geo_lon: -77.026
-updated: 2019-11-11
 slug: /photogrammetry/smithsonian-museum
 tags:
   - museums
-  - 3d
+  - 3D
   - photogrammetry
   - guerrilla
   - smithsonian

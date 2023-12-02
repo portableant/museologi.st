@@ -5,6 +5,7 @@ section: 3d
 featuredImg: ../images/backgrounds/louvre.jpg
 background: ../images/backgrounds/louvre.jpg
 date: 2018-04-26
+last_modified_at: 2023-12-02T08:34:10
 geo_lat: 24.534291
 geo_lon: 54.398329
 slug: /photogrammetry/louvre-abu-dhabi
@@ -22,7 +23,7 @@ tags:
   - abu dhabi
   - victoria and albert
   - VAM
-  - 3d
+  - 3D
   - scanning
 ---
 

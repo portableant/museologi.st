@@ -18,6 +18,7 @@ tags:
 partners:
   - Tessitura
 date: 2019-10-30T08:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 slug: /projects/crm-and-ticketing
 project_website: https://tickets.museums.cam.ac.uk
 github_repo: 

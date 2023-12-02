@@ -2,7 +2,7 @@
 title: 'Cultural Heritage Spotlight: Q&A with Daniel Pett from the British Museum (Part 2)'
 description: Part 2 of a Q&A with Daniel Pett from the British Museum
 date: 2017-02-15T07:06:34+01:00
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-02T08:34:09
 slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-2/
 featuredImg: ../images/enlightenment-gallery-british-museum.jpg
 background: ../images/backgrounds/enlightenment-gallery-british-museum.jpg
@@ -11,7 +11,7 @@ geo_lat: 51.519418
 geo_lon: -0.126973
 tags:
   - british museum
-  - 3d
+  - 3D
   - museums
 ---
 

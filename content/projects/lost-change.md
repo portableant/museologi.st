@@ -15,6 +15,7 @@ slug: /projects/lost-change
 status: inactive
 background: ../images/projects/lost-change/lost.jpg 
 date: 2014-02-06T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 project_website: http://tracemedia.co.uk/lost-change/
 tags:
   - ahrc
@@ -32,7 +33,7 @@ The distribution of coins is biased by a number of factors (a project funded by 
 * Soil type and land use
 * Whether there is an active community of metal detector users within the vicinity
 
-![A screenshot of the interface](http://britishmuseumblog.files.wordpress.com/2014/02/544x306.jpg)
+![A screenshot of the interface](../images/2014/544x306.jpg)
 
 The tool is straightforward to use. The left hand pane holds details for the place of discovery; the right hand side holds 
 details for the place of issue, the mint. These panes work in tandem, with data dynamically updating in each, depending on 

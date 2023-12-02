@@ -1,6 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 title: Reinventing the Fitzwilliam Museum collections - rescuing a hacked project
 description: A project to rescue a hacked project and create a new collections website for the Fitzwilliam Museum
 institution: The Fitzwilliam Museum

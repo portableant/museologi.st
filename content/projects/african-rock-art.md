@@ -1,6 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 title: African Rock Art - digital archive
 description: The African Rock Art project, funded by Arcadia, aims to create a digital archive of rock art in Africa, and to make this available to the public.
 institution: The British Museum

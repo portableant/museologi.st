@@ -17,6 +17,7 @@ funder:
   - AHIF Cambridge University
 grant_amount: £5,000
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 project_website: https://creative-economy.fitzmuseum.cam.ac.uk
 documents: 
   - title: "Phish and ChYpPS Final Report"

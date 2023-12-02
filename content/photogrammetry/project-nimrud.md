@@ -2,6 +2,8 @@
 title: Project Nimrud
 description: 3D scans of the Nimrud objects in the British Museum
 section: 3d
+date:
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/backgrounds/nimrud.jpg
 background: ../images/backgrounds/assyrianFrieze.jpg
 geo_lat: 51.519400
@@ -23,7 +25,7 @@ tags:
   - museums
   - british museum
   - guerrilla
-  - 3d
+  - 3D
   - photogrammetry
   - nimrud
   - iraq

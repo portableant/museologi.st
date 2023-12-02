@@ -1,5 +1,7 @@
 ---
 title: The Fitzwilliam Museum Classical Busts
+date: 2021-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 description: 3D scans of the Fitzwilliam Museum's Classical Busts
 section: 3d
 featuredImg: ../images/backgrounds/antinous.jpg
@@ -14,7 +16,7 @@ GitHub_repo:
     url: https://github.com/FitzwilliamMuseum/alexanderTheGreat
     name: Alexander the Great
 tags: 
-  - 3d
+  - 3D
   - museums
   - archaeology
   - classics

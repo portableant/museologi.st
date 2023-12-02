@@ -1,6 +1,8 @@
 ---
 section: 3d
 title: The Museum of Classical Archaeology
+date:
+last_modified_at: 2023-12-02T08:34:10
 description: 3D scans of the Museum of Classical Archaeology
 featuredImg: ../images/backgrounds/classical.jpg
 background: ../images/backgrounds/classical.jpg
@@ -11,7 +13,7 @@ geo_lat: 52.200785
 geo_lon: 0.110219
 tags:
   - museums
-  - 3d
+  - 3D
   - photogrammetry
   - cambridge
   - england

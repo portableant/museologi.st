@@ -1,5 +1,6 @@
 ---
 section: 3d
+last_modified_at: 2023-12-02T08:34:10
 title: The Amaravati gallery
 description: 3D scans of the Amaravati gallery at the British Museum
 featuredImg: ../images/2018/DVB-u6-WkAARuJN.jpg

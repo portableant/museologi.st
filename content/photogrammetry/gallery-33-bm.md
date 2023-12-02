@@ -1,6 +1,8 @@
 ---
 title: Gallery 33, British Museum
 section: 3d
+date:
+last_modified_at: 2023-12-02T08:34:10
 description: 3D scans of Gallery 33, British Museum
 featuredImg: ../images/backgrounds/g33.jpg
 background: ../images/backgrounds/g33.jpg
@@ -22,7 +24,7 @@ tags:
   - museums
   - british museum
   - guerrilla
-  - 3d
+  - 3D
   - photogrammetry
   - india
   - buddhism

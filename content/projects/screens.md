@@ -15,6 +15,7 @@ tags:
   - displays
   - low budget
 date: 2019-10-4T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 slug: /projects/raspberry-pi-screenly
 status: active
 ---

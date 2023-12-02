@@ -1,6 +1,7 @@
 ---
 section: projects
 date: 2019-10-06T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 title: Beyond the Label - enhancing labels in the gallery
 description: A project to enhance labels in the gallery with QR codes and a mobile app
 institution: The Fitzwilliam Museum
@@ -16,8 +17,8 @@ tags:
   - access
   - museums
   - creative economy
-  - nfc
-  - qr
+  - NFC
+  - QR
   - last minute digital
 collaborators:
   - George Doji
@@ -32,7 +33,7 @@ zenodo_doi: 10.5281/zenodo.3476037
 images:
   - image: ../images/2019/10/IMG_20191008_094547-2.jpg
     caption: A label with a QR code for Heneage Lloyd and sisters
-  - image: ../images/2019/10/beyondLabel.jpg
+  - image: ../images/beyond.jpg
     caption: The refurbished roof of Gallery 3
   - image: ../images/projects/beyond/gainsborough.jpg
     caption: Installation of label by the Gainsborough pieces

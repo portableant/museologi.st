@@ -1,6 +1,8 @@
 ---
 section: 3d
 title: The Jericho Skull
+date:
+last_modified_at: 2023-12-02T08:34:10
 description: 3D scans of the Jericho Skull
 background: ../images/backgrounds/jericho.jpg
 featuredImg: ../images/backgrounds/jericho.jpg
@@ -18,7 +20,7 @@ tags:
   - archaeology
   - museums
   - british museum
-  - 3d
+  - 3D
   - photogrammetry
   - jericho
   - human remains

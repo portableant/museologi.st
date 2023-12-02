@@ -4,6 +4,7 @@ title: The Creative Economy Fellowships - #CEEF3D
 description: A project to support the development of the Creative Economy in the East of England
 institution: The Fitzwilliam Museum
 role: Principal Investigator
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/2021/IMG_20191022_152807.jpeg
 background: ../images/2019/ceef/IMG_d6dic4.jpg
 funders:
@@ -11,7 +12,7 @@ funders:
 grant_number: AH/S012583/1
 grant_amount: £201,557
 tags:
-  - 3d
+  - 3D
   - museums
   - creative economy
   - ahrc

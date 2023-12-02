@@ -2,6 +2,8 @@
 section: 3d
 title: Kyoto scans
 description: 3D scans of objects from Kyoto
+date:
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/backgrounds/kyoto.jpg
 background: ../images/backgrounds/kyoto.jpg
 geo_lat: 35.017693
@@ -12,7 +14,7 @@ GitHub_repo:
     url: https://github.com/portableant/buddhistPillar
     name: Buddhist pillar from Kyoto
 tags:
-  - 3d
+  - 3D
   - archaeology
   - japan
   - buddhism

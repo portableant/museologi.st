@@ -34,6 +34,7 @@ github_repo:
 zenodo_doi: 10.5281/zenodo.2598492
 status: active
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 awards:
   - Vice-Chancellor's Award (Cambridge University 2019)
 images: 

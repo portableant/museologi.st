@@ -7,6 +7,7 @@ featuredImg: ../images/projects/micropasts.png
 background: ../images/projects/micropasts/micro.jpg
 project_website: https://micropasts.org
 date: 2014-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 year: "2013 - 2022"
 geo_lat: 51.519400
 geo_lon: -0.126924
@@ -48,7 +49,7 @@ github_repo:
     name: GitHub profile
 tags:
   - citizen science
-  - 3d
+  - 3D
   - crowdsourcing
   - crowdfunding
   - archaeology

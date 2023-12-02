@@ -1,6 +1,8 @@
 ---
 title: Gallery 70, British Museum
 section: 3d
+date:
+last_modified_at: 2023-12-02T08:34:10
 description: 3D scans of Gallery 70, British Museum
 featuredImg: ../images/backgrounds/hound.jpg
 background: ../images/backgrounds/hound.jpg
@@ -30,7 +32,7 @@ tags:
   - museums
   - british museum
   - guerrilla
-  - 3d
+  - 3D
   - photogrammetry
 ---
 

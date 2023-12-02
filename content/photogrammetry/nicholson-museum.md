@@ -2,6 +2,8 @@
 section: 3d
 title: The Nicholson Museum
 description: 3D scans of the Nicholson Museum collection in Sydney
+date:
+last_modified_at: 2023-12-02T08:34:10
 featuredImg: ../images/backgrounds/nicholson.jpg
 background: ../images/backgrounds/nicholson.jpg
 geo_lat: -33.886335
@@ -9,7 +11,7 @@ geo_lon: 151.188722
 slug: /photogrammetry/nicholson-museum
 tags:
   - museums
-  - 3d
+  - 3D
   - photogrammetry
   - sydney
   - australia

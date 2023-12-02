@@ -8,6 +8,7 @@ role: Principal Agitator
 slug: /projects/guerrilla-photogrammetry
 status: active
 date: 2019-10-29T22:51:56+01:00
+last_modified_at: 2023-12-02T08:34:10
 project_website: https://sketchfab.com/danielpett
 institution: Personal project
 news: 
@@ -18,13 +19,13 @@ news:
     medium: Metodhology Blogpost by Nathan Fair 
     url: https://metodhology.anu.edu.au/index.php/content/3dmodelling/
 tags:
-  - 3d
+  - 3D
   - photogrammetry
-  - 3d scanning
-  - 3d printing
-  - 3d modelling
-  - 3d animation
-  - 3d reconstruction
+  - 3D scanning
+  - 3D printing
+  - 3D modelling
+  - 3D animation
+  - 3D reconstruction
   - museums
   - digital humanities
 ---
