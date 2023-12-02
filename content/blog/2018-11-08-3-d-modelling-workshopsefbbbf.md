@@ -2,6 +2,7 @@
 title: 3-D Modelling Workshops
 description: A post about 3-D Modelling Workshops
 date: 2018-11-08T17:25:31+01:00
+last_modified_at: 2023-12-02T00:18:21
 section: blog
 slug: /blog/3-d-modelling-workshops/
 featuredImg: ../images/2018/11/IMG_20181129_154927-PANO.jpg

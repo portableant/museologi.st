@@ -2,6 +2,7 @@
 title: "Archiving twitter via open source software"
 description: "A post about archiving twitter via open source software"
 date: 2011-05-12T15:04:00+01:00
+last_modified_at: 2023-12-02T00:18:21
 author: Daniel Pett
 featuredImg: ../images/british-museum.jpg
 background: ../images/british-museum.jpg

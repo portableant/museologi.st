@@ -2,6 +2,7 @@
 title: Portable Antiquities Scheme site wins an award
 description: A post about the PAS site winning an award
 date: 2011-04-12T19:19:09+01:00
+last_modified_at: 2023-12-02T00:18:21
 section: blog
 featuredImg: ../images/2011/04/5609998467_00350d0b49_b.jpg
 background: ../images/2011/04/5609998467_00350d0b49_b.jpg

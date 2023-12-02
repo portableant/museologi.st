@@ -2,6 +2,7 @@
 title: '#ACRNCASPAR'
 description: 'A post about the ACRNCASPAR workshop'
 date: 2011-05-17T17:54:45+01:00
+last_modified_at: 2023-12-02T00:18:21
 section: blog
 slug: /blog/acrncaspar-workshop-on-archaeologists-the-digital-towards-strategies-of-engagement/
 featuredImg: ../images/2011/05/caspar.jpg

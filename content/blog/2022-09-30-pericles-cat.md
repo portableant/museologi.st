@@ -3,6 +3,7 @@ title: Our beloved Pericles cat
 description: 'A post about our mighty Pericles cat'
 slug: /blog/pericles-cat
 date: 2022-09-30
+last_modified_at: 2023-12-02T00:18:21
 section: blog
 featuredImg: ../images/2022/09/IMG_20191225_094128.jpg
 background: ../images/2022/09/IMG_0088.jpg

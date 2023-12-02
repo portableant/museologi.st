@@ -2,6 +2,7 @@
 title: 'Cultural Heritage Spotlight: Q&A with Daniel Pett from the British Museum (Part 3)'
 description: Part 3 of a Q&A with Daniel Pett from the British Museum
 date: 2017-02-22T07:08:36+01:00
+last_modified_at: 2023-12-02T00:18:21
 slug: /blog/cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-3/
 featuredImg: ../images/facade-bm.jpg
 background: ../images/backgrounds/facade-bm.jpg

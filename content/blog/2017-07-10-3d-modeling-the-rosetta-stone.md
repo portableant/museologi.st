@@ -2,6 +2,7 @@
 title: 3D modeling the Rosetta Stone
 description: A post about 3D modeling the Rosetta Stone
 date: 2017-07-10T07:20:12+01:00
+last_modified_at: 2023-12-02T00:18:21
 author: Daniel Pett
 slug: /blog/3d-modeling-the-rosetta-stone/
 background: ../images/backgrounds/19894774_10155296696156071_1048584219763234466_n-1-1170x450.jpg

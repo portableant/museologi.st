@@ -2,6 +2,7 @@
 title: "Scuba diving, Sharm el Sheikh"
 description: "A short post about scuba diving in Sharm el Sheikh"
 date: 2011-04-10T23:50:18+01:00
+last_modified_at: 2023-12-02T00:18:21
 section: blog
 slug: /blog/scuba-diving-sharm-el-sheikh/
 featuredImg: ../images/2011/04/5610015807_8622c1d042_b.jpg

@@ -2,6 +2,7 @@
 title: A day in the life of a lot of archaeologists
 description: A post about the day of archaeology
 date: 2011-07-27T11:09:21+01:00
+last_modified_at: 2023-12-02T00:18:21
 section: blog
 slug: /blog/a-day-in-the-life-of-a-lot-of-archaeologists/
 featuredImg: ../images/2011/05/dayofarchaeology.jpg

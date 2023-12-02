@@ -3,6 +3,7 @@ title: Middling Culture workshop
 description: 'A post about the Middling Culture workshop'
 slug: /blog/middling-culture-national-gallery-x
 date: 2022-09-08
+last_modified_at: 2023-12-02T00:18:21
 section: blog
 featuredImg: ../images/2022/09/natgx.jpg
 background: ../images/2022/09/lantern.jpg
