@@ -11,7 +11,6 @@ const PhotographsPage = ({data: {allMarkdownRemark: {edges},},}) => {
         .map(edge => <PostCard key={edge.node.id} post={edge.node}/>)
     return (
         <Layout>
-
             <Container>
                 <Row>
                     <h1 className={"ml-4 mt-4"}>Photographs</h1>
