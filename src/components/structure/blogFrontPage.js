@@ -46,7 +46,6 @@ const query = graphql`
 const LatestPosts = () => {
     const data = useStaticQuery(query);
     const posts = data.allMarkdownRemark.edges;
-    console.log(posts)
     return (
         <Container className={'py-2 d-flex my-4'} >
             <Row>
