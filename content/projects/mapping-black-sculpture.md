@@ -8,6 +8,7 @@ section: projects
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2022/09/81054a89307570df8d056cae72911e95043b8344.jpg
 background: ../images/2022/09/IMG_20191219_114201.jpg
+project_website: https://mapping-sculpture.fitzmuseum.cam.ac.uk
 tags:
   - omeka S
   - decolonisation
@@ -35,5 +36,8 @@ enabled data collection
 
 ![A screenshot from Omeka S](../images/2022/09/mappingSculpture.jpg)
 
-There's not much I can say about this project, as it's still in development, but it could end up being a 
-very crucial piece of scholarship. 
+There's not much I can say about this project, as the content was in development when I left. Once the Omeka S database was 
+assembled, the plan was to use the API in the same way as we did for the [Hayley Papers project](https://amor.fitzmuseum.cam.ac.uk) and
+build a front end with some great UX and UI work.
+
+It could end up being a very crucial piece of scholarship. 
