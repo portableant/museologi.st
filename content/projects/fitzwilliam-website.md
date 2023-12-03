@@ -26,13 +26,10 @@ documents:
   - location: /pdf/ux.pdf
     title: Fitzwilliam Museum UX tender brief
     type: pdf
-  - location: /pdf/projectGANTT.pdf
-    title: Fitzwilliam Museum delivery GANTT
-    type: pdf
   - location: /pdf/uxReportOneFurther.pdf
     title: One Further UX Report
     type: pdf
-  - location: /pdf/oneFurtherTreeJack.pdf
+  - location: /pdf/oneFurtherTreejack.pdf
     title: One Further Treejack report
     type: pdf
 tags:
