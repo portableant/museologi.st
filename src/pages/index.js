@@ -1,6 +1,6 @@
 import * as React from "react"
 import HomeLayout from "../components/layouts/homeLayout";
-import {Container, Row} from "react-bootstrap";
+import {Container} from "react-bootstrap";
 import Seo from "../components/structure/SEO";
 import BlogFrontPage from"../components/structure/blogFrontPage";
 import Logos from "../components/structure/logos";
