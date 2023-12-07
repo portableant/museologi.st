@@ -2,9 +2,9 @@
 section: blog
 title: Leaving the Fitzwilliam Museum
 description: A post about leaving the Fitzwilliam Museum
-slug: /blog/leaving-fitzwilliam-museum
+slug: /blog/leaving-fitzwilliam-museum/
 date: 2022-09-02
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-07T22:33:56
 featuredImg: ../images/2022/09/Screenshot_2022-09-02-17-00-48-27_8a5f4726f7453c77b8d93615cedb556d.jpg
 background: ../images/2022/09/IMG_20190306_142327.jpg
 geo_lat: 52.200205

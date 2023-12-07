@@ -1,12 +1,12 @@
 ---
 section: 3d
 title: The Jericho Skull
-date:
-last_modified_at: 2023-12-02T08:34:10
+date: 2017-07-01
+last_modified_at: 2023-12-07T22:33:56
 description: 3D scans of the Jericho Skull
 background: ../images/backgrounds/jericho.jpg
 featuredImg: ../images/backgrounds/jericho.jpg
-slug: /photogrammetry/jericho-skull
+slug: /photogrammetry/jericho-skull/
 geo_lat: 51.519400
 geo_lon: -0.126924
 github_repos:

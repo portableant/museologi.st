@@ -5,7 +5,7 @@ description: A project to promote a network for linked open data from various mu
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2006/11/2403395424_1545285f23_b.jpg
 background: ../images/2019/IMG_20191017_155845.jpg
-slug: /projects/data-islands
+slug: /projects/data-islands/
 funders:
   - AHRC
 grant_number: AH/S012478/1
@@ -45,7 +45,7 @@ project_website: https://data-islands.fitzmuseum.cam.ac.uk
 start: 2019-02-01
 end: 2020-01-31
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 status: active
 images:
     - image: ../images/2020/03/signpost.jpeg

@@ -4,9 +4,9 @@ description: An overview of my involvement in the Fitzwilliam Museum Being-an-Is
 section: projects
 featuredImg: ../images/2022/islander/dbp_9287-9_tm_1500_small.jpeg
 background: ../images/2022/islander/GR_2_1891_1_201603_mfj22_dc1.jpg
-slug: /projects/being-an-islander
+slug: /projects/being-an-islander/
 date: 2022-10-24T00:00:00+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 institution:  The Fitzwilliam Museum
 collaborators:
   - Anastasia Christophilopolou

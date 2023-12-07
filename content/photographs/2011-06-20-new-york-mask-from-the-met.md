@@ -2,6 +2,7 @@
 title: 'New York - mask from the Met'
 description: 'A photograph of a mask from the Metropolitan Museum of Art in New York'
 date: 2011-06-20T05:03:15+01:00
+last_modified_at: 2023-12-07T22:33:57
 section: image
 featuredImg: ../images/2011/06/5851709860_5f163abece_b.jpeg
 featuredImgAlt: 'New York - Peruvian gold mask from the Met'

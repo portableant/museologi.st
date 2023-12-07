@@ -3,10 +3,10 @@ section: projects
 title: "Artec Leo  - 3D Scanning at The Fitzwilliam Museum"
 description: How the Fitzwilliam Museum made use of Artec Leo scanners.
 date: 2020-01-20T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 institution: The Fitzwilliam Museum
 role: Project Lead
-slug: /projects/artec-leo
+slug: /projects/artec-leo/
 featuredImg: ../images/2019/artec/artec.jpg
 background: ../images/2019/artecLeoScreens.jpg
 tags:

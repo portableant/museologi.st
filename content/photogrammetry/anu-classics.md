@@ -8,9 +8,9 @@ country: Australia
 city: Canberra
 geo_lat: -35.277779
 geo_lon: 149.118388
-slug: /photogrammetry/anu
+slug: /photogrammetry/anu/
 date: 2019-04-01
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:56
 tags:
   - ANU 
   - canberra

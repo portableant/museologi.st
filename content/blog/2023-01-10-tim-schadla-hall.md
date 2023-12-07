@@ -1,10 +1,10 @@
 ---
 title: Tim Schadla-Hall
 date: 2023-01-10T22:51:56+01:00
-last_modified_at: 2023-12-02T12:18:52
+last_modified_at: 2023-12-07T22:33:56
 description: "Tim Schadla-Hall"
 section: blog
-slug: /blog/tim-schadla-hall
+slug: /blog/tim-schadla-hall/
 featuredImg: ../images/2023/01/IMG_20220216_003135_224.jpg
 background: ../images/2023/01/IMG_20220216_003135_224.jpg
 tags:

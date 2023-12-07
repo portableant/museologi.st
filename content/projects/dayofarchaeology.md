@@ -45,8 +45,8 @@ deposited_archive:
 start: 2011-07-01
 end: 2017-07-31
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
-slug: /projects/day-of-archaeology
+last_modified_at: 2023-12-07T22:33:57
+slug: /projects/day-of-archaeology/
 status: inactive
 project_website: https://dayofarchaeology.com
 publications:

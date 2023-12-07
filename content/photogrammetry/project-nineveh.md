@@ -1,14 +1,14 @@
 ---
 title: Project Nineveh
 description: 3D scans of the Nineveh objects in the British Museum
-section: 3d
-date:
-last_modified_at: 2023-12-02T08:34:10
+section: 3D
+date: 2018-01-01
+last_modified_at: 2023-12-07T22:33:57
 featuredImg: ../images/backgrounds/the_siege_of_lachish.jpg
 background: ../images/backgrounds/the_siege_of_lachish.jpg
 geo_lat: 51.519400
 geo_lon: -0.126924
-slug: /photogrammetry/project-nineveh
+slug: /photogrammetry/project-nineveh/
 github_repo:
   -
     url: https://github.com/ProjectNineveh/panel13

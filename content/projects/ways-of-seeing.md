@@ -1,12 +1,12 @@
 ---
 date: 2022-09-20T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 title: Ways of Seeing
 description: "A digital element for the Ways of Seeing exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2020/cupid.jpg
 background: ../images/2020/cupid.jpg
-slug: /projects/ways-of-seeing
+slug: /projects/ways-of-seeing/
 section: projects
 publications:
   - Cooper, D. & Noble, K. (2020) "Schoolchildren, science and smartphones shine new light on a Florentine masterpiece" Apollo (online publication only April 2020)

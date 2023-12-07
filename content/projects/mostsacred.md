@@ -20,12 +20,12 @@ collaborators:
 partners:
   - Manchester University
   - MicroPasts
-slug: /projects/most-sacred-things
+slug: /projects/most-sacred-things/
 status: active
 background: ../images/projects/hayley/despot.jpg
 featuredImg: ../images/projects/Hayley-mezzotint-after-Romney.jpg
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 github_repo: 
   - url: https://github.com/FitzwilliamMuseum/amor-fitz-frontend
     name: AMOR Frontend

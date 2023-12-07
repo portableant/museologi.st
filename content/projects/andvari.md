@@ -2,10 +2,10 @@
 title: Andvari
 section: projects
 date: 2013-10-01
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 featuredImg: ../images/2013/11/app_175_thumbnail_1426776058.jpg
 background: ../images/2013/11/project_andvari_logo-for-wordpress-1.jpg
-slug: /projects/andvari
+slug: /projects/andvari/
 description: Andvari is an NEH funded project to create a digital archive of the ancient world. 
 tags:
   - andvari

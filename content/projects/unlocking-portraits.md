@@ -23,11 +23,11 @@ tags:
   - IIIF
   - directUs
   - graphQL
-slug: /projects/unlocking-the-portrait-miniature
+slug: /projects/unlocking-the-portrait-miniature/
 background: ../images/2022/unlocking.jpg
 featuredImg: ../images/2022/unlocking.jpg
 date: 2022-07-01T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 github_repo:
   - url: https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures
     name: Main site source code

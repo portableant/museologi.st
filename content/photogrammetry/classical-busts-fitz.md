@@ -1,12 +1,12 @@
 ---
 title: The Fitzwilliam Museum Classical Busts
 date: 2021-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:56
 description: 3D scans of the Fitzwilliam Museum's Classical Busts
 section: 3d
 featuredImg: ../images/backgrounds/antinous.jpg
 background: ../images/backgrounds/antinous.jpg
-slug: /photogrammetry/classical-busts-fitz
+slug: /photogrammetry/classical-busts-fitz/
 city: Cambridge
 country: England
 geo_lat: 52.200205

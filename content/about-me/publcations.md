@@ -3,7 +3,8 @@ title: Publications
 description: A list of publications by Daniel Pett
 section: about-me
 date: 2022-11-02
-slug: /publications
+last_modified_at: 2023-12-07T22:33:56
+slug: /publications/
 featuredImg: ../images/img.png
 tags:
   - publications

@@ -1,12 +1,12 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 title: Innovating with 3D technologies at the British Museum
 description: An overview of the work we did at the British Museum to innovate with 3D technologies 
 institution: The British Museum
 project_website: https://sketchfab.com/britishmuseum
-slug: /projects/3d-british-museum
+slug: /projects/3d-british-museum/
 featuredImg: ../images/2018/DMPpcReXcAAYEJc.jpg
 background: ../images/backgrounds/19894774_10155296696156071_1048584219763234466_n-1-1170x450.jpg
 geo_lat: 51.519400

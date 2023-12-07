@@ -2,13 +2,13 @@
 title: The Maya lintels
 description: 3D scans of the Maya lintels in the British Museum
 section: 3d
-date:
-last_modified_at: 2023-12-02T08:34:10
+date: 2017-09-02
+last_modified_at: 2023-12-07T22:33:56
 featuredImg: ../images/backgrounds/mexico.jpg
 background: ../images/backgrounds/mexico.jpg
 geo_lat: 51.519400
 geo_lon: -0.126924
-slug: /photogrammetry/mexico-gallery-bm
+slug: /photogrammetry/mexico-gallery-bm/
 tags:
   - archaeology
   - museums

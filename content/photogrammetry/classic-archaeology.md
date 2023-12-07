@@ -2,11 +2,11 @@
 section: 3d
 title: The Museum of Classical Archaeology
 date:
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:56
 description: 3D scans of the Museum of Classical Archaeology
 featuredImg: ../images/backgrounds/classical.jpg
 background: ../images/backgrounds/classical.jpg
-slug: /photogrammetry/classic-archaeology
+slug: /photogrammetry/classic-archaeology/
 city: Cambridge
 country: England
 geo_lat: 52.200785

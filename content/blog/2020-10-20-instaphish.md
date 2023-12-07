@@ -2,9 +2,9 @@
 title: "InstaPhish: Do you crave that blue tick?"
 description: "A post about InstaPhish"
 date: 2020-10-20T17:25:31+01:00
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-07T22:33:56
 section: blog
-slug: /blog/instaphish
+slug: /blog/instaphish/
 featuredImg: ../images/2020/10/featured-image.jpg
 background: ../images/2020/10/featured-image.jpg
 tags:

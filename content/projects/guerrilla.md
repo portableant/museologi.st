@@ -5,10 +5,10 @@ description: A personal project to use guerrilla photogrammetry to create 3D mod
 featuredImg: ../images/blob.jpeg
 background: ../images/blob.jpeg
 role: Principal Agitator
-slug: /projects/guerrilla-photogrammetry
+slug: /projects/guerrilla-photogrammetry/
 status: active
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 project_website: https://sketchfab.com/danielpett
 institution: Personal project
 news: 

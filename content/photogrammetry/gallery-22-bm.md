@@ -4,11 +4,11 @@ section: 3d
 description: 3D scans of Gallery 22, British Museum
 featuredImg: ../images/backgrounds/columns-lights.jpg
 background: ../images/backgrounds/columns-lights.jpg
-slug: /photogrammetry/gallery-22-bm
+slug: /photogrammetry/gallery-22-bm/
 geo_lat: 51.519400
 geo_lon: -0.126924
 date:
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:56
 github_repos:
   -
     url: https://github.com/BritishMuseumDH/apothesisHomer

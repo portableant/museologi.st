@@ -2,6 +2,7 @@
 title: "England vs Sri Lanka, Lord's 2011"
 description: "A photograph of the England vs Sri Lanka cricket match at Lord's in 2011"
 date: 2011-06-07T22:52:28+01:00
+last_modified_at: 2023-12-07T22:33:57
 section: image
 slug: /photographs/england-vs-sri-lanka-lords-2011/
 geo_lat: 51.52883731

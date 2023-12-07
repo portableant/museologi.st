@@ -5,13 +5,13 @@ description: 3D scans of the Victoria and Albert Museum collection
 geo_lat: 51.496793
 geo_lon: -0.172159
 date:
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 featuredImg: ../images/backgrounds/vam.jpg
 background: ../images/backgrounds/vam.jpg
-slug: /photogrammetry/victoria-and-albert
+slug: /photogrammetry/victoria-and-albert/
 tags:
   - museums
-   - 3D 
+  - 3D 
   - photogrammetry
 ---
 

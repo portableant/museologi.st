@@ -1,11 +1,11 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 title: Coping with the Pandemic - IT scramble
 description: "A digital archive of the work of Magdalene Odundo in Cambridge"
 institution: The Fitzwilliam Museum
-slug: /projects/pandemic
+slug: /projects/pandemic/
 featuredImg: ../images/2020/03/IMG_20200318_000102_952.jpg
 background: ../images/2020/02/3sfgmx.jpg
 role: Head of Digital and IT

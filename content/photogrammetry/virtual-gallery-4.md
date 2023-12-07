@@ -6,10 +6,10 @@ collection_id: fe1114a036824f86adbe596215675d56
 type: collection
 featuredImg: ../images/backgrounds/night.jpg
 background: ../images/backgrounds/night.jpg
-slug: /photogrammetry/egyptian-galleries-bm
+slug: /photogrammetry/egyptian-galleries-bm/
 geo_lat: 51.519400
 geo_lon: -0.126924
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 github_repo:
   -
     url: https://github.com/portableant/rosettaStone
@@ -56,7 +56,7 @@ tags:
   - museums
   - photogrammetry
   - 3D
-  - vr
+  - VR
 ---
 
 This collection of 3D scans was created for the British Museum's Egyptian galleries.

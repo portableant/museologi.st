@@ -2,11 +2,11 @@
 title: PASt explorers 
 description: PASt explorers was the Portable Antiquities Scheme's children's project from 2005-2015.
 date: 2005-01-01T00:00:00+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 section: projects
 institution: The Portable Antiquities Scheme
 role: Project Lead
-slug: /projects/anglo-saxon-village
+slug: /projects/anglo-saxon-village/
 featuredImg: ../images/2005/10/858394380_d3a370c466_o.jpg
 background: ../images/2005/10/858394380_d3a370c466_o.jpg
 geo_lat: 51.519400

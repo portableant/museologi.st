@@ -20,10 +20,10 @@ collaborators:
   - Kevin Leahy
 featuredImg: ../images/projects/staffshoard/3950750826_6795620682_o.jpg
 background: ../images/projects/staffshoard/3919854587_3ee6d458c1_k.jpg
-slug: /projects/the-staffordshire-hoard
+slug: /projects/the-staffordshire-hoard/
 status: inactive
 date: 2009-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 github_repo: 
   - url: https://github.com/portableant/staffordshire-hoard
     name: Scraped code from textpattern

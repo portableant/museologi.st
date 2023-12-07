@@ -4,9 +4,9 @@ description: An overview of the IPERION 3D conference
 section: projects
 featuredImg: ../images/2017/11/IMG_-5spq1c.jpg
 background: ../images/2017/11/IMG_20171109_072823.jpg
-slug: /projects/iperion-3d
+slug: /projects/iperion-3d/
 date: 2017-11-10T00:00:00+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 institution:  The British Museum
 geo_lat: 51.519400
 geo_lon: -0.126924

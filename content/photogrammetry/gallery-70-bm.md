@@ -2,11 +2,11 @@
 title: Gallery 70, British Museum
 section: 3d
 date:
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:56
 description: 3D scans of Gallery 70, British Museum
 featuredImg: ../images/backgrounds/hound.jpg
 background: ../images/backgrounds/hound.jpg
-slug: /photogrammetry/gallery-70-bm
+slug: /photogrammetry/gallery-70-bm/
 geo_lat: 51.519400
 geo_lon: -0.126924
 github_repo:

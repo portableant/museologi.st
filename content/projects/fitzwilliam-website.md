@@ -1,12 +1,12 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 title: Rebuilding the Fitzwilliam Website
 description: A project to rebuild the Fitzwilliam Museum's website
 institution: The Fitzwilliam Museum
 project_website: https://fitzmuseum.cam.ac.uk
-slug: /projects/fitzwilliam-website
+slug: /projects/fitzwilliam-website/
 featuredImg: ../images/2022/website/thumbnail.jpg
 background: ../images/2022/website/september2022.jpg
 start: 2019-09-21

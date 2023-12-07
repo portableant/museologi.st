@@ -1,12 +1,12 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 title: British Museum audio guide API and take away pages
 description: A project to create an API for the British Museum audio guide and to create take away pages for the audio guide
 institution: The British Museum
 role: API Developer
-slug: /projects/british-museum-audio-guide
+slug: /projects/british-museum-audio-guide/
 featuredImg: ../images/2017/myVisitMuseum.png
 background: ../images/2015/audioGuideQueue.jpg
 geo_lat: 51.519400

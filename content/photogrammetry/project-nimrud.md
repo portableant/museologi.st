@@ -2,13 +2,13 @@
 title: Project Nimrud
 description: 3D scans of the Nimrud objects in the British Museum
 section: 3d
-date:
-last_modified_at: 2023-12-02T08:34:10
+date: 2018-01-01
+last_modified_at: 2023-12-07T22:33:57
 featuredImg: ../images/backgrounds/nimrud.jpg
 background: ../images/backgrounds/assyrianFrieze.jpg
 geo_lat: 51.519400
 geo_lon: -0.126924
-slug: /photogrammetry/project-nimrud
+slug: /photogrammetry/project-nimrud/
 github_repos:
   -
     url: https://github.com/ProjectNimrud/panel23RoomB

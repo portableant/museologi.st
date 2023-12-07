@@ -2,11 +2,11 @@
 title: Lewis Chessmen, British Museum
 section: 3d
 date:
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:56
 description: 3D scans of the Lewis Chessmen
 featuredImg: ../images/backgrounds/lewis.jpg
 background: ../images/backgrounds/lewis.jpg
-slug: /photogrammetry/lewis-chessmen
+slug: /photogrammetry/lewis-chessmen/
 geo_lat: 51.519400
 geo_lon: -0.126924
 tags: 

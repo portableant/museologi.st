@@ -1,12 +1,12 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 title: True to Nature digital element
 description: "A digital element for the True to Nature exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum
 project_website: https://fitzmuseum.cam.ac.uk/visit-us/exhibitions/true-to-nature-open-air-painting-in-europe-1780-1870
-slug: /projects/true-to-nature
+slug: /projects/true-to-nature/
 featuredImg: ../images/2022/PD_222_1961.jpg
 background: ../images/2022/large_pd_11_1997_201701_adn21_dc2.jpg
 collaborators:

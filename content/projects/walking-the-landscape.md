@@ -18,12 +18,12 @@ collaborators:
 partners:
   - Cambridge Digital Humanities
   - Museum of Archaeology and Anthropology, Cambridge
-slug: /projects/walking-the-landscape
+slug: /projects/walking-the-landscape/
 status: active
 background: ../images/2022/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.jpg
 featuredImg: ../images/2022/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.jpg
 date: 2022-06-01T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 github_repo: 
   - url: https://github.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh
     name: Jekyll website

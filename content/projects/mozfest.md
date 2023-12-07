@@ -2,7 +2,7 @@
 section: projects
 title: "Mozfest: Arts and Culture"
 description: An overview of my involvement in Mozfest
-slug: /projects/mozfest
+slug: /projects/mozfest/
 featuredImg: ../images/projects/mozfest.png
 status: active
 collaborators:
@@ -20,7 +20,7 @@ collaborators:
   - Elisabeth Galvin
 background: ../images/backgrounds/mozfest.jpg
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 project_website: https://www.mozillafestival.org/en/
 institution: Mozilla
 tags: 

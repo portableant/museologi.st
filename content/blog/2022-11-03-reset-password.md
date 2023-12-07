@@ -2,9 +2,9 @@
 title: How to reset a forgotten password on OSX
 section: blog
 description: "How to reset a forgotten password on OSX"
-slug: /blog/reset-password-osx
+slug: /blog/reset-password-osx/
 date: 2022-11-03T22:51:56+01:00
-last_modified_at: 2022-11-03T22:51:56+01:00
+last_modified_at: 2023-12-07T22:33:56
 featuredImg: ../images/2022/password.jpg
 background: ../images/2022/password.jpg
 tags: 

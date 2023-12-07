@@ -1,12 +1,12 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 title: Feast and Fast Digital
 description: A project to create a digital resource and interactives for Fitzwilliam Museum's Feast and Fast
 institution: The Fitzwilliam Museum
 project_website: https://feast-and-fast.fitzmuseum.cam.ac.uk
-slug: /projects/feast-and-fast
+slug: /projects/feast-and-fast/
 featuredImg: ../images/2020/03/baroque.jpg
 background: ../images/2019/baroque.jpg  
 role: Website development, Coordinate digital content in creative zone.

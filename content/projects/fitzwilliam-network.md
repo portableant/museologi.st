@@ -1,11 +1,11 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T23:03:22
+last_modified_at: 2023-12-07T22:33:57
 title: Fitzwilliam Museum networking upgrade
 description: A project to upgrade the Fitzwilliam Museum's network infrastructure
 institution: The Fitzwilliam Museum
-slug: /projects/network-upgrade-against-inertia
+slug: /projects/network-upgrade-against-inertia/
 featuredImg: ../images/fitzGBN.jpg
 background: ../images/gbn.jpg
 role: Museum project leader

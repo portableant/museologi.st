@@ -1,6 +1,6 @@
 ---
 section: 3d
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:56
 title: The Amaravati gallery
 description: 3D scans of the Amaravati gallery at the British Museum
 featuredImg: ../images/2018/DVB-u6-WkAARuJN.jpg
@@ -14,7 +14,7 @@ images:
     caption: Up a ladder
 geo_lat: 51.519400
 geo_lon: -0.126924
-slug: /photogrammetry/amaravati-scans
+slug: /photogrammetry/amaravati-scans/
 github_repo:
   -
     url: https://github.com/BritishMuseumDH/amaravatiGuardianLion

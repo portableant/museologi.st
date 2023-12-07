@@ -2,6 +2,7 @@
 title: Starlight tunnel
 description: A photograph of a starlight tunnel in the NGA
 date: 2013-11-13T09:15:28+01:00
+last_modified_at: 2023-12-07T22:33:57
 author: Daniel Pett
 section: image
 slug: /photographs/starlight-tunnel/

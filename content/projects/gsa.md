@@ -23,8 +23,8 @@ partners:
   - Google
   - Extended Content Solutions
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
-slug: /projects/google-search-appliance
+last_modified_at: 2023-12-07T22:33:57
+slug: /projects/google-search-appliance/
 background: ../images/projects/gsa/gsa.jpg
 status: inactive
 cost: £470,000

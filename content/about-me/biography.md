@@ -4,7 +4,8 @@ description: A biographical page about Daniel Pett
 subtitle: Biography
 section: about-me
 date: 2023-05-02
-slug: /biography
+last_modified_at: 2023-12-07T22:33:56
+slug: /biography/
 featuredImg: ../images/photo.jpg 
 tags:
   - biography

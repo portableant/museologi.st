@@ -7,7 +7,7 @@ featuredImg: ../images/projects/micropasts.png
 background: ../images/projects/micropasts/micro.jpg
 project_website: https://micropasts.org
 date: 2014-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 year: "2013 - 2022"
 geo_lat: 51.519400
 geo_lon: -0.126924
@@ -43,7 +43,7 @@ partners:
 grant_amount: £394,395
 role: Co-Investigator
 status: active
-slug: /projects/micropasts-crowd-powered
+slug: /projects/micropasts-crowd-powered/
 github_repo: 
   - url: https://github.com/micropasts
     name: GitHub profile

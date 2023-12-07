@@ -27,14 +27,14 @@ project_website: https://egyptiancoffins.org
 partners:
   - The Egyptian Museum Cairo
   - ThinkSee3D
-slug: /projects/egyptian-coffins-project
+slug: /projects/egyptian-coffins-project/
 github_repo: 
   - url: https://github.com/fitzwilliammuseum/egyptiancoffins
     name: Source code for the website
 zenodo_doi: 10.5281/zenodo.2598492
 status: active
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 awards:
   - Vice-Chancellor's Award (Cambridge University 2019)
 images: 

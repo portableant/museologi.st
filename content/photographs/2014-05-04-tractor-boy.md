@@ -2,6 +2,7 @@
 title: Tractor boy
 description: A photograph of Massimo on a tractor
 date: 2014-05-04T17:58:33+01:00
+last_modified_at: 2023-12-07T22:33:57
 author: Daniel Pett
 section: image
 slug: /photographs/tractor-boy/

@@ -14,10 +14,10 @@ collaborators:
   - Simon Lewis
   - Claire Harris
 role: Co-Investigator
-slug: /projects/mapping-palaeolithic-britain
+slug: /projects/mapping-palaeolithic-britain/
 status: inactive
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-07T22:33:57
 project_website: https://www.qmul.ac.uk/geog/research/research-projects/mappingpalaeolithicbritain
 tags:
   - palaeolithic

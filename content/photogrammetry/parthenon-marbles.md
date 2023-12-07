@@ -2,13 +2,13 @@
 title: The Parthenon Marbles
 description: 3D scans of the Parthenon Marbles in the British Museum
 section: 3d
-date:
-last_modified_at: 2023-12-02T08:34:10
+date: 2019-01-10
+last_modified_at: 2023-12-07T22:33:57
 featuredImg: ../images/backgrounds/parthenon.jpg
 background: ../images/backgrounds/parthenon.jpg
 geo_lat: 51.519400
 geo_lon: -0.126924
-slug: /photogrammetry/parthenon-marbles
+slug: /photogrammetry/parthenon-marbles/
 github_repo:
   -
     url: https://github.com/parthenon3D/BlockXXXVISouthFrieze

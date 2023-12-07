@@ -2,13 +2,13 @@
 section: 3d
 title: The Mold gold cape
 description: 3D scans of the Mold gold cape
-date:
-last_modified_at: 2023-12-02T08:34:10
+date: 2017-07-29
+last_modified_at: 2023-12-07T22:33:56
 featuredImg: ../images/backgrounds/cape-mold.jpg
 background: ../images/backgrounds/cape-mold.jpg
 geo_lat: 51.519400
 geo_lon: -0.126924
-slug: /photogrammetry/mold-gold-cape
+slug: /photogrammetry/mold-gold-cape/
 github_repo:
   -
     url: https://github.com/BritishMuseumDH/moldGoldCape
