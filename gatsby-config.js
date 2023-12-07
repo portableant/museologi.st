@@ -117,30 +117,63 @@ module.exports = {
             resolve: "gatsby-plugin-sitemap",
             options: {
                 query: `
-        {
-          allSitePage {
-            nodes {
-              path
-            }
-          }
-         
+           {
+  site {
+    siteMetadata {
+      siteUrl
+    }
+  }
+  allSitePage {
+  nodes {
+        path
         }
+    }
+  allMarkdownRemark {
+    nodes {
+        frontmatter {
+          last_modified_at
+          slug
+      }
+    }
+  }
+}
       `,
-                resolveSiteUrl: () => siteUrl,
                 resolvePages: ({
-                                   allSitePage: {nodes: allPages},
-                               }) => {
+                                   allSitePage: { nodes: allPages },
+                                   allMarkdownRemark: {nodes: allPosts},
+                }) => {
 
-                    return allPages.map(page => {
-                        return {...page}
-                    })
-                },
-                serialize: ({path}) => {
-                    return {
+                    const pathToDateMap = {};
+
+                    allPosts.map(post => {
+                        pathToDateMap[post.frontmatter.slug] = { date: post.frontmatter.last_modified_at};
+                    });
+
+                    const pages = allPages.map(page => {
+                        return {...page, ...pathToDateMap [page.path] };
+                    });
+
+                    return pages;
+            }
+                ,
+                serialize: ({ path, date }) => {
+                    console.log
+                    let entry = {
                         url: path,
+                        changefreq: 'daily',
+                        priority: 0.5
+                    };
+                    if (date) {
+                        entry.lastmod = date;
+                        entry.priority = 0.7;
+                    } else {
+                        const w3cDate = new Date();
+                        entry.lastmod = w3cDate.toISOString().replace(/T.*$/, '');
                     }
-                },
-            },
+                    return entry;
+                }
+        },
+            createLinkInHead: true,
         },
         "gatsby-transformer-sharp",
         "gatsby-plugin-sharp",
