@@ -3,6 +3,8 @@ section: projects
 title: Lost Change - visualising numismatics from the Portable Antiquities Scheme
 description: A project to visualise the Portable Antiquities Scheme database
 institution: The British Museum
+geo_lat: 51.519400
+geo_lon: -0.126924
 featuredImg: ../images/projects/lostChangeThumb.jpg
 funders:
   - AHRC
@@ -15,7 +17,7 @@ slug: /projects/lost-change/
 status: inactive
 background: ../images/projects/lost-change/lost.jpg 
 date: 2014-02-06T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 project_website: http://tracemedia.co.uk/lost-change/
 tags:
   - ahrc

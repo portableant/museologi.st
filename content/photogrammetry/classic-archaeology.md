@@ -1,8 +1,8 @@
 ---
 section: 3d
 title: The Museum of Classical Archaeology
-date:
-last_modified_at: 2023-12-07T22:33:56
+date: 2018-05-30
+last_modified_at: 2023-12-09T23:48:21
 description: 3D scans of the Museum of Classical Archaeology
 featuredImg: ../images/backgrounds/classical.jpg
 background: ../images/backgrounds/classical.jpg

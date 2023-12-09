@@ -3,6 +3,8 @@ section: projects
 title: Fitzwilliam Museum CRM and Ticketing - Tessitura
 description: A project to create a CRM and ticketing system for the Fitzwilliam Museum
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 featuredImg: ../images/projects/tessitura.jpg
 background: ../images/2021/25th_november_131_2000x1000.jpg
 role: Technology Project Lead
@@ -18,7 +20,7 @@ tags:
 partners:
   - Tessitura
 date: 2019-10-30T08:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 slug: /projects/crm-and-ticketing/
 project_website: https://tickets.museums.cam.ac.uk
 github_repo: 

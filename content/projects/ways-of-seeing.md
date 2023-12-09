@@ -1,9 +1,11 @@
 ---
 date: 2022-09-20T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:22
 title: Ways of Seeing
 description: "A digital element for the Ways of Seeing exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 featuredImg: ../images/2020/cupid.jpg
 background: ../images/2020/cupid.jpg
 slug: /projects/ways-of-seeing/

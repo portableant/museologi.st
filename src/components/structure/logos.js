@@ -33,7 +33,7 @@ const LogoComponent = () => (
                 childImageSharp {
                   gatsbyImageData(
                     placeholder: NONE
-                    formats: [WEBP]
+                    formats: [AUTO,WEBP]
                     transformOptions: {cropFocus: CENTER, fit: CONTAIN}
                     height: 100
                     sizes: ""

@@ -9,7 +9,8 @@ background: ../images/backgrounds/night.jpg
 slug: /photogrammetry/egyptian-galleries-bm/
 geo_lat: 51.519400
 geo_lon: -0.126924
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
+date: 2017-02-09
 github_repo:
   -
     url: https://github.com/portableant/rosettaStone

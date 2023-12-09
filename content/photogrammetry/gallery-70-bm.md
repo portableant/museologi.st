@@ -1,8 +1,8 @@
 ---
 title: Gallery 70, British Museum
 section: 3d
-date:
-last_modified_at: 2023-12-07T22:33:56
+date: 2016-04-30
+last_modified_at: 2023-12-09T23:48:21
 description: 3D scans of Gallery 70, British Museum
 featuredImg: ../images/backgrounds/hound.jpg
 background: ../images/backgrounds/hound.jpg

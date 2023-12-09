@@ -2,15 +2,15 @@
 section: projects
 title: "MicroPasts: crowdfuelled archaeological research"
 description: "A project to crowdsource archaeological research"
-institution: The British Museum
+institution: The British Museum/ Institute of Archaeology, UCL
+geo_lat: 51.519400
+geo_lon: -0.126924
 featuredImg: ../images/projects/micropasts.png
 background: ../images/projects/micropasts/micro.jpg
 project_website: https://micropasts.org
 date: 2014-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 year: "2013 - 2022"
-geo_lat: 51.519400
-geo_lon: -0.126924
 funders:
   - AHRC
 collaborators:

@@ -1,10 +1,12 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:22
 title: Magdalene Odundo in Cambridge - a digital archive
 description: "A digital archive of the work of Magdalene Odundo in Cambridge"
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 project_website: https://fitzmuseum.cam.ac.uk/visit-us/exhibitions/magdalene-odundo-in-cambridge/
 slug: /projects/odundo/
 featuredImg: ../images/2022/gal_26_odundo_016_202110_mfj22_mas.jpg

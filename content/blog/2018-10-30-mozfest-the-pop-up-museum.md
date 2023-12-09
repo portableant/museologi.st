@@ -2,7 +2,7 @@
 title: '#Mozfest: the pop up museum'
 description: 'A post about #Mozfest: the pop up museum'
 date: 2018-10-30T12:25:59+01:00
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-09T23:48:21
 author: Daniel Pett
 slug: /blog/mozfest-the-pop-up-museum/
 featuredImg: ../images/2018/10/44701677975_69ceeaa570_k.jpg
@@ -11,6 +11,9 @@ section: blog
 tags:
   - mozfest
   - museums
+  - pop-up
+  - openGLAM
+  - 3D
 geo_lat: 51.501738
 geo_lon: 0.005528
 ---

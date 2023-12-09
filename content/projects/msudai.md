@@ -2,7 +2,7 @@
 title: Institute on Digital Archaeology Method & Practice - MSUDAI
 description: A project to develop a digital archaeology institute
 date: 2016-08-16T22:51:56+01:00
-last_modified_at: 2023-12-02T08:34:10
+last_modified_at: 2023-12-09T23:48:21
 author: Daniel Pett
 section: projects
 featuredImg: ../images/2015/msudai.jpg
@@ -18,6 +18,8 @@ images:
 role: Faculty
 institution: Michigan State University
 project_website: http://digitalarchaeology.msu.edu/
+geo_lat: 42.7325
+geo_lon: -84.5555
 collaborators:
   - Ethan Watrall
   - Lynne Goldstein

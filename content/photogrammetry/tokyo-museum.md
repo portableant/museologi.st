@@ -2,8 +2,8 @@
 title: The Tokyo National Museum
 description: 3D scans of the Tokyo National Museum collection
 section: 3d
-date:
-last_modified_at: 2023-12-07T22:33:57
+date: 2018-09-09
+last_modified_at: 2023-12-09T23:48:21
 featuredImg: ../images/backgrounds/tokyo.jpg
 background: ../images/backgrounds/tokyo.jpg
 geo_lat: 35.718452

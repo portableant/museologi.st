@@ -3,6 +3,8 @@ section: projects
 title: Mapping Palaeolithic Britain
 description: A project to map the locations of Palaeolithic sites in the UK
 institution: The British Museum
+geo_lat: 51.519400
+geo_lon: -0.126924
 featuredImg: ../images/projects/palaeolithic-handaxes.jpg
 background: ../images/projects/palaeolithic-handaxes.jpg
 funders:
@@ -17,7 +19,7 @@ role: Co-Investigator
 slug: /projects/mapping-palaeolithic-britain/
 status: inactive
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 project_website: https://www.qmul.ac.uk/geog/research/research-projects/mappingpalaeolithicbritain
 tags:
   - palaeolithic

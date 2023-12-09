@@ -4,6 +4,8 @@ slug: /projects/do-not-touch/
 title: Do Not Touch
 description: A project to interrogate 3d technologies and Do Not Touch mentality in museums
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 featuredImg: ../images/projects/touch.jpg
 background: ../images/2019/IMG_20181203_114202.jpg
 GitHub_repo:
@@ -27,7 +29,7 @@ partners:
 start: 2019-01-01
 end: 2019-12-31
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 status: active
 project_website: https://do-not-touch.fitzmuseum.cam.ac.uk
 documents:

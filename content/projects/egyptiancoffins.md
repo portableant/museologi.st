@@ -3,6 +3,8 @@ section: projects
 title: The Egyptian Coffins Project
 description: A project to create a digital catalogue of the Egyptian coffins in the Fitzwilliam Museum
 institution: The Fitzwilliam Museum
+geo_lat: 30.047433
+geo_lon: 31.233637
 featuredImg: ../images/IMG_20190618_181525_223.jpg
 background: ../images/projects/coffins/nesp.jpg
 funders:
@@ -34,7 +36,7 @@ github_repo:
 zenodo_doi: 10.5281/zenodo.2598492
 status: active
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 awards:
   - Vice-Chancellor's Award (Cambridge University 2019)
 images: 

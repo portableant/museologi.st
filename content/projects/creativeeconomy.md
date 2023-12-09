@@ -3,8 +3,10 @@ section: projects
 title: The Creative Economy Fellowships - #CEEF3D
 description: A project to support the development of the Creative Economy in the East of England
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 role: Principal Investigator
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 featuredImg: ../images/2021/IMG_20191022_152807.jpeg
 background: ../images/2019/ceef/IMG_d6dic4.jpg
 funders:

@@ -4,7 +4,7 @@ description: The Centre for Audio-Visual Study and Practice in Archaeology (CASP
 section: projects
 slug: /projects/caspar/
 date: 2010-10-01
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 tags:
  - audio-visual
  - archaeology
@@ -36,6 +36,8 @@ publications:
  - "Daniel Pett (2011) Review Article, Public Archaeology, 10:2, 119-127, DOI: 10.1179/175355311X13086617126648"
 project_website: https://web.archive.org/web/20140915031143/http://digitalengagementinarchaeology.wordpress.com/
 institution: University College London
+geo_lat: 51.524559
+geo_lon: -0.134040
 ---
 A decade ago, a group of fabulous people got together to run a small research and advisory committee to create 
 Centre for Audio-Visual Study and Practice in Archaeology (CASPAR). The Centre was directed by the 

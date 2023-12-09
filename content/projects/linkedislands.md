@@ -3,6 +3,8 @@ section: projects
 title: Linking Islands of Data
 description: A project to promote a network for linked open data from various museums
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 featuredImg: ../images/2006/11/2403395424_1545285f23_b.jpg
 background: ../images/2019/IMG_20191017_155845.jpg
 slug: /projects/data-islands/
@@ -45,7 +47,7 @@ project_website: https://data-islands.fitzmuseum.cam.ac.uk
 start: 2019-02-01
 end: 2020-01-31
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 status: active
 images:
     - image: ../images/2020/03/signpost.jpeg

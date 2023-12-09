@@ -2,11 +2,13 @@
 title: "Yahoo! Openhack EU (Bucharest)"
 description: "A post about the Yahoo! Openhack EU event in Bucharest"
 date: 2011-05-18T14:57:55+01:00
-last_modified_at: 2023-12-02T00:18:21
+last_modified_at: 2023-12-09T23:48:21
 section: blog
 slug: /blog/yahoo-openhack-eu-bucharest/
 featuredImg: ../images/2011/05/5733486080_bd932962b0_b.jpg
 background: ../images/2011/05/5733486080_bd932962b0_b.jpg
+geo_lat: 44.437711
+geo_lon: 26.094922
 tags:
   - hackday
   - yahoo

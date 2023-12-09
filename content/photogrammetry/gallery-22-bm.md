@@ -7,8 +7,8 @@ background: ../images/backgrounds/columns-lights.jpg
 slug: /photogrammetry/gallery-22-bm/
 geo_lat: 51.519400
 geo_lon: -0.126924
-date:
-last_modified_at: 2023-12-07T22:33:56
+date: 2016-04-30
+last_modified_at: 2023-12-09T23:48:21
 github_repos:
   -
     url: https://github.com/BritishMuseumDH/apothesisHomer

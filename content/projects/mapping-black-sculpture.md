@@ -3,12 +3,14 @@ title: Mapping Black Sculpture
 description: A project to map the locations of black sculpture in the UK
 slug: /projects/mapping-black-sculpture/
 date: 2022-06-20T00:00:00.01Z
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 section: projects
 institution: The Fitzwilliam Museum
 featuredImg: ../images/2022/09/81054a89307570df8d056cae72911e95043b8344.jpg
 background: ../images/2022/09/IMG_20191219_114201.jpg
-project_website: https://mapping-sculpture.fitzmuseum.cam.ac.uk
+project_website: https://mapping-sculpture.fitzmuseum.cam.ac.uk/
+geo_lat: 52.199722
+geo_lon: 0.119167
 tags:
   - omeka S
   - decolonisation

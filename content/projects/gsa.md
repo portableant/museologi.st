@@ -3,6 +3,8 @@ section: projects
 title: Google Search Appliance - British Museum Knowledge Search
 description: Implementation of the Google Search Appliance for the British Museum Knowledge Search project
 institution: The British Museum
+geo_lat: 51.519400
+geo_lon: -0.126924
 featuredImg: ../images/projects/gsa.jpg
 role: Project Lead
 geo_lat: 51.519400
@@ -23,7 +25,7 @@ partners:
   - Google
   - Extended Content Solutions
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:21
 slug: /projects/google-search-appliance/
 background: ../images/projects/gsa/gsa.jpg
 status: inactive

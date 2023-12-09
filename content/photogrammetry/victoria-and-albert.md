@@ -4,8 +4,8 @@ title: The Victoria and Albert Museum
 description: 3D scans of the Victoria and Albert Museum collection
 geo_lat: 51.496793
 geo_lon: -0.172159
-date:
-last_modified_at: 2023-12-07T22:33:57
+date: 2019-10-03
+last_modified_at: 2023-12-09T23:48:21
 featuredImg: ../images/backgrounds/vam.jpg
 background: ../images/backgrounds/vam.jpg
 slug: /photogrammetry/victoria-and-albert/

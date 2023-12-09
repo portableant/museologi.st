@@ -3,6 +3,8 @@ section: projects
 title: Unlocking the Portrait Miniature
 description: A project to unlock the portrait miniature in national and regional collections
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 project_website: https://unlocking-miniatures.fitzmuseum.cam.ac.uk/
 funders:
   - Cambridge University
@@ -27,7 +29,7 @@ slug: /projects/unlocking-the-portrait-miniature/
 background: ../images/2022/unlocking.jpg
 featuredImg: ../images/2022/unlocking.jpg
 date: 2022-07-01T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:22
 github_repo:
   - url: https://github.com/FitzwilliamMuseum/fitz-unlocking-miniatures
     name: Main site source code

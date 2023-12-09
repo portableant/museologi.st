@@ -3,6 +3,8 @@ section: projects
 title: Raspberry Pi x Screenly
 description: "A Raspberry Pi based digital signage solution"
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 featuredImg: ../images/2019/screenly.jpg
 background: ../images/2019/10/pi.jpg
 cost: £845
@@ -15,7 +17,7 @@ tags:
   - displays
   - low budget
 date: 2019-10-4T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:22
 slug: /projects/raspberry-pi-screenly/
 status: active
 ---

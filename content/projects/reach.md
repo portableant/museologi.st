@@ -1,10 +1,12 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:22
 title: ReACH - V&A 3D
 description: A collaborative project to develop new 3D guidance led by the V&A
-institution: The V&A 
+institution: 'The V&A'
+geo_lat: 24.453873
+geo_lon: 54.377354
 slug: /projects/reach/
 featuredImg: ../images/2019/04/DbqKrZFX0AIlSo9.jpg
 background: ../images/2020/03/IMG_20191001_151042.jpg

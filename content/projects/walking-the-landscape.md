@@ -3,6 +3,8 @@ section: projects
 title: Walking the Landscape - exploring Constable
 description: "A digital element for the Constable exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum
+geo_lat: 52.199722
+geo_lon: 0.119167
 project_website: https://walking-the-landscape.fitzmuseum.cam.ac.uk
 funders:
   - Cambridge University 
@@ -23,7 +25,7 @@ status: active
 background: ../images/2022/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.jpg
 featuredImg: ../images/2022/PR-FITZWILLIAM-P-00232-01954-00005-C-000-00001_crop.jpg
 date: 2022-06-01T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2023-12-09T23:48:22
 github_repo: 
   - url: https://github.com/FitzwilliamMuseum/walking-the-landscape-fitz-cdh
     name: Jekyll website
