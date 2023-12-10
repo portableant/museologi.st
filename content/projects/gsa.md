@@ -7,8 +7,6 @@ geo_lat: 51.519400
 geo_lon: -0.126924
 featuredImg: ../images/projects/gsa.jpg
 role: Project Lead
-geo_lat: 51.519400
-geo_lon: -0.126924
 tags:
   - museums
   - creative economy 
