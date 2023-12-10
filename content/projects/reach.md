@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-09T23:48:22
+last_modified_at: 2023-12-10T20:48:11
 title: ReACH - V&A 3D
 description: A collaborative project to develop new 3D guidance led by the V&A
 institution: 'The V&A'
@@ -29,8 +29,6 @@ tags:
   - documentation
   - consultancy
 project_website: https://www.vam.ac.uk/research/projects/reach-reproduction-of-art-and-cultural-heritage
-geo_lat: 24.453873
-geo_lon: 54.377354
 ---
 Just after I left the British Museum, I was asked to consult on technical documentation for the Peri Foundation funded 
 ReACH project (Reproduction of Art and Cultural Heritage) and to attend a worksop in Abu Dhabi to discuss 3D imaging technologies 
