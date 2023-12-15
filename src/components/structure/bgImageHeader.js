@@ -51,7 +51,7 @@ export default function HeroTop() {
                     />
                     <Col className="text-center" style={headingStyles}>
                         <h1 className="display-1 text-white fw-bolder">Museologi.st</h1>
-                        <h2 className="display-6 text-white fw-bold">Archaeologist | Technologist</h2>
+                        <h2 className="display-6 text-white fw-bold">Archaeologist Technologist</h2>
                     </Col>
                 </Row>
 
