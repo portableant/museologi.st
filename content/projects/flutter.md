@@ -2,8 +2,8 @@
 title: "Experiments with Flutter mobile app development"
 description: "A project to develop a mobile app for the Fitzwilliam Museum"
 institution: Fitzwilliam Museum
-geo_lat: 52.199722
-gei_lon: 0.119167
+geo_lat: 52.199444
+geo_lon: 0.119167
 GitHub_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-flutter-app
     name: Flutter App source code
@@ -18,7 +18,7 @@ tags:
   - mobile
   - dart
   - android 12
-  - ios
+  - IOS
   - museums
   - creative economy
 featuredImg: ../images/2022/flutter/splashscreen.png

@@ -44,7 +44,7 @@
     "gatsby-plugin-image": "^3.12.3",
     "gatsby-plugin-manifest": "^5.12.3",
     "gatsby-plugin-mdx": "^5.12.3",
-    "gatsby-plugin-react-svg": "github:tsamantanis/gatsby-plugin-react-svg",
+    "gatsby-plugin-react-svg": "^3.3.0",
     "gatsby-plugin-robots-txt": "^1.8.0",
     "gatsby-plugin-scroll-indicator": "^1.0.1",
     "gatsby-plugin-sharp": "^5.12.3",

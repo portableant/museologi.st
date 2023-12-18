@@ -76,7 +76,7 @@ figcaption {
 
     padding: 10px;
 }
-.post-body li {
+.post-body, #project li {
     list-style: square;
 }
 nav.pagination {

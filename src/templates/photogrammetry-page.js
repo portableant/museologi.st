@@ -25,7 +25,7 @@ export default function PhotogrammetryPageTemplate({data: {markdownRemark}}) {
                 </Row>
 
             </Container>
-            <Container fluid className="bg-pastel post-body">
+            <Container fluid className="bg-pastel">
                 <Container>
                     <FairData zenodo_doi={frontmatter.zenodo_doi} github_repo={frontmatter.github_repo}
                               project_website={frontmatter.project_website}

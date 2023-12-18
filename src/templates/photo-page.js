@@ -19,7 +19,7 @@ export default function PhotographsPageTemplate({data: {markdownRemark}}) {
                         <h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1>
                         <h2 className="text-black lead">{frontmatter.date}</h2>
                     </div>
-                    <div className="post-body bg-white text-black p-4 text-center">
+                    <div className="bg-white text-black p-4 text-center">
                         <GatsbyImage className="mx-auto" image={ getImage(frontmatter.featuredImg) } alt={frontmatter.featuredImgAlt}/>
                     </div>
                 </Row>

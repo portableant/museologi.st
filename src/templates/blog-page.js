@@ -9,19 +9,22 @@ import Seo from "../components/structure/SEO";
 import {formatReadingTime} from "../utils/helpers";
 
 export default function BlogPageTemplate({data: {markdownRemark}}) {
+
     const {frontmatter, timeToRead, html} = markdownRemark;
+
     const isSSR = typeof window === "undefined";
+
     return (
         <Layout>
             <HeaderImage backgroundImage={frontmatter.background}/>
             <Container>
                 <Row className={"post-body"}>
                     <div className="px-4">
-                        <h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1>
+                        <header><h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1></header>
                         <h2 className="text-primary small">{frontmatter.date}</h2>
                         <h3 className="text-primary lead small">{`${formatReadingTime(timeToRead)}`}</h3>
                     </div>
-                    <div className="post-body bg-white text-black p-4"
+                    <div className="bg-white text-black p-4"
                          dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
             </Container>
@@ -31,6 +34,7 @@ export default function BlogPageTemplate({data: {markdownRemark}}) {
             )}
         </Layout>
     );
+
 }
 
 

@@ -2,6 +2,7 @@ import React from 'react'
 import PropType from "prop-types";
 import {Link} from "gatsby";
 import {Container} from "react-bootstrap";
+import Button from "react-bootstrap/Button";
 
 export default function Pagination(props) {
 
@@ -9,21 +10,23 @@ export default function Pagination(props) {
     const {pageNumber, numberOfPages, humanPageNumber, previousPagePath, nextPagePath} = pageContext;
     return (
             <Container>
-                <nav className="pagination py-2">
+                <nav className="pagination py-2" role="navigation" aria-label="Pagination Navigation">
                     {humanPageNumber > 1 ? (
-                            <Link
+                            <Button variant={'dark'}><Link
                                 title="Go to previous page"
-                                to={previousPagePath}>
+                                to={previousPagePath}
+                                aria-label="Go to previous page">
                                 ← Previous
-                            </Link>) :
+                            </Link></Button>) :
                         <span/>}
-                    <strong>Page {pageNumber + 1} of {numberOfPages}</strong>
+                    <span className={'fw-bolder'}>Page {pageNumber + 1} of {numberOfPages}</span>
                     {humanPageNumber < numberOfPages ? (
-                            <Link
+                            <Button variant={'dark'}><Link
                                 title="Go to next page"
+                                aria-label="Go to next page"
                                 to={nextPagePath}>
                                 Next →
-                            </Link>) :
+                            </Link></Button>) :
                         <span/>}
                 </nav>
             </Container>

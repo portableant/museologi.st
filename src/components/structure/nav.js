@@ -10,7 +10,7 @@ const NavBar = ({siteTitle, menuLinks}) => (
     }}
     >
 
-        <nav className="navbar navbar-expand-lg navbar-dark fixed-top" style={{
+        <nav role="navigation" aria-label="Site Navigation" className="navbar navbar-expand-lg navbar-dark fixed-top" style={{
             background: "#192036",
             marginBottom: "1.45rem",
         }}>

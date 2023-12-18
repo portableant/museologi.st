@@ -39,7 +39,7 @@ export default function ProjectsPageTemplate({data: {markdownRemark}}) {
             </Container>
             <Vimeo vimeo={frontmatter.vimeo}/>
             <PlyrAudio audio={frontmatter.audio}/>
-            <Container fluid className="bg-pastel post-body">
+            <Container fluid className="bg-pastel" id={"project"}>
                 <Container>
                     <FairData zenodo_doi={frontmatter.zenodo_doi} github_repo={frontmatter.github_repo} project_website={frontmatter.project_website} deposited_archive={frontmatter.deposited_archive}/>
                     <People collaborators={frontmatter.collaborators} partners={frontmatter.partners}/>
