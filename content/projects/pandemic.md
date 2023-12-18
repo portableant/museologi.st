@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-10T20:48:11
+last_modified_at: 2023-12-18T23:13:04
 title: Coping with the Pandemic - IT scramble
 description: "A digital archive of the work of Magdalene Odundo in Cambridge"
 institution: The Fitzwilliam Museum
@@ -21,7 +21,6 @@ tags:
   - digital divide
   - leadership
 ---
-
 A week before first the first lockdown was implemented, I had suspicions that we would be working from
 home for a long period of time. I walked into the IT office, ignored the mess that was always there and said to 
 George that we needed everyone ready for VPN use immediately and that we should run IT skills drop ins that week. 
