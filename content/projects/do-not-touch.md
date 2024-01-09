@@ -8,7 +8,7 @@ geo_lat: 52.199722
 geo_lon: 0.119167
 featuredImg: ../images/projects/touch.jpg
 background: ../images/2019/IMG_20181203_114202.jpg
-GitHub_repo:
+github_repo:
   - url: https://github.com/FitzwilliamMuseum/fitz-do-not-touch
     name: Source code for the website
 funders:

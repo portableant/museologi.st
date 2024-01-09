@@ -130,7 +130,6 @@ export const pageQuery = graphql`
                 type
                 grant_number
                 grant_amount
-                funder
                 funders
                 tags
                 deposited_archive{

@@ -14,7 +14,7 @@ background: ../images/2022/large_pd_11_1997_201701_adn21_dc2.jpg
 collaborators:
   - Rebecca Virag
   - Rainer Simon (Peripleo mapping)
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/fitzwilliamMuseum/peripleo
     name: Peripleo map
 tags:

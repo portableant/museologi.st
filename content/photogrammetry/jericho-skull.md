@@ -9,7 +9,7 @@ featuredImg: ../images/backgrounds/jericho.jpg
 slug: /photogrammetry/jericho-skull/
 geo_lat: 51.519400
 geo_lon: -0.126924
-github_repos:
+github_repo:
   -
     url: https://github.com/BritishMuseumDH/jerichoSkull
     name: CC BY-NC-SA

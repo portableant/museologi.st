@@ -9,7 +9,7 @@ background: ../images/backgrounds/assyrianFrieze.jpg
 geo_lat: 51.519400
 geo_lon: -0.126924
 slug: /photogrammetry/project-nimrud/
-github_repos:
+github_repo:
   -
     url: https://github.com/ProjectNimrud/panel23RoomB
     name: 23 room B, NW Palace of Nimrud

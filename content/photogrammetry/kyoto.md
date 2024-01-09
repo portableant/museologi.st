@@ -9,7 +9,7 @@ background: ../images/backgrounds/kyoto.jpg
 geo_lat: 35.017693
 geo_lon: 135.763898
 slug: /photogrammetry/kyoto/
-GitHub_repo:
+github_repo:
   - 
     url: https://github.com/portableant/buddhistPillar
     name: Buddhist pillar from Kyoto

@@ -9,7 +9,7 @@ last_modified_at: 2023-12-07T22:33:56
 geo_lat: 24.534291
 geo_lon: 54.398329
 slug: /photogrammetry/louvre-abu-dhabi/
-github_repos:
+github_repo:
   -
     url: https://github.com/portableant/lancerAbuDhabiLouvre
     name: CC-BY-NC

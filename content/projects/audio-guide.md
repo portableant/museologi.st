@@ -14,7 +14,7 @@ geo_lon: -0.126924
 start: 2015-09-21
 end: 2015-10-07
 status: active
-GitHub_repo: 
+github_repo: 
   - 
     url: https://github.com/portableant/multimediaApi
     name: Source code for the API

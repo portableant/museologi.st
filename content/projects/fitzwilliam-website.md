@@ -14,7 +14,7 @@ background: ../images/2022/website/september2022.jpg
 start: 2019-09-21
 end: 2019-10-07
 status: active
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-main-website
     name: Website source code
   - url: https://github.com/FitzwilliamMuseum/fitz-collection-online

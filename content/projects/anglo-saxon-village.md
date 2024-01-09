@@ -26,7 +26,7 @@ collaborators:
   - Michael Lewis 
   - DCMS
   - "Museum, Libraries and Archives Council"
-GitHub_repo:
+github_repo:
   - url: https://github.com/portableant/anglo-saxon-village
     name: Source code for the Anglo-Saxon Village
 ---

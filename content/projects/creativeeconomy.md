@@ -31,7 +31,7 @@ collaborators:
 partners:
   - ThinkSee3D
   - Museum in a Box (MiAB) 
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows
     name: Website source code
 start: 2019-01-01

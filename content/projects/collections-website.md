@@ -13,7 +13,7 @@ featuredImg: ../images/large_PD_8_1979_1_201709.jpg
 background: ../images/large_PD_8_1979_1_201709.jpg
 role: Project Lead
 status: active
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-collection-online
     name: Source code for the website and API
   - url: https://github.com/FitzwilliamMuseum/fitz-twitter-art-bot

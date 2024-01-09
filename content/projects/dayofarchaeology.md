@@ -31,7 +31,7 @@ partners:
   - LP Archaeology
   - Council for British Archaeology
   - The Archaeology Data Service
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/portableant/dayofarchaeology-1
     name: Day of Archaeology website archive
   - url: https://github.com/benmarwick/dayofarchaeology

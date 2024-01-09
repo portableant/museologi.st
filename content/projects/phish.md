@@ -15,7 +15,7 @@ collaborators:
 status: active
 featuredImg: ../images/2019/IMG_20190905_150938.jpg
 background: ../images/2019/IMG_20190905_150938.jpg
-funder:
+funders:
   - AHIF Cambridge University
 grant_amount: £5,000
 date: 2019-10-29T22:51:56+01:00

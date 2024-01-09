@@ -4,7 +4,7 @@ description: "A project to develop a mobile app for the Fitzwilliam Museum"
 institution: Fitzwilliam Museum
 geo_lat: 52.199444
 geo_lon: 0.119167
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-flutter-app
     name: Flutter App source code
 date: 2022-03-29T22:51:56+01:00

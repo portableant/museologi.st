@@ -12,7 +12,7 @@ slug: /projects/feast-and-fast/
 featuredImg: ../images/2020/03/baroque.jpg
 background: ../images/2019/baroque.jpg  
 role: Website development, Coordinate digital content in creative zone.
-gitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/feast-and-fast
     name: Website source code
 zenodo_doi: 10.5281/zenodo.6459621

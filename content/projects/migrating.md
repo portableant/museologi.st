@@ -22,7 +22,7 @@ tags:
 collaborators:
  - George Doji
  - Olivia Warren
-GitHub_repo: 
+github_repo: 
  - url: https://github.com/FitzwilliamMuseum/fitz-jeykll-template
    name: Template Jekyll code
 ---

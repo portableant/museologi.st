@@ -34,7 +34,7 @@ collaborators:
   - Imma Ramos
 partners:
   - Google Creative Lab
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/googlecreativelab/xyfi
     name: XYFI code 
 date: 2019-10-29T22:51:56+01:00

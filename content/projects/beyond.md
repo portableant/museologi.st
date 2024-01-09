@@ -10,7 +10,7 @@ slug: /projects/beyond-the-label/
 featuredImg: ../images/projects/beyond.png
 background: ../images/2019/10/beyondLabel.jpg
 role: Project lead
-funder:
+funders:
   - The Fitzwilliam Museum
 cost: £2.75
 tags:
