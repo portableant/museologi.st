@@ -1,7 +1,7 @@
 ---
 title: The Fitzwilliam Museum Classical Busts
 date: 2021-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:56
+last_modified_at: 2024-02-03T00:08:48
 description: 3D scans of the Fitzwilliam Museum's Classical Busts
 section: 3d
 featuredImg: ../images/backgrounds/antinous.jpg
@@ -11,7 +11,7 @@ city: Cambridge
 country: England
 geo_lat: 52.200205
 geo_lon: 0.119892
-GitHub_repo:
+github_repo:
   - 
     url: https://github.com/FitzwilliamMuseum/alexanderTheGreat
     name: Alexander the Great

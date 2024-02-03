@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-09T23:48:21
+last_modified_at: 2024-02-03T00:08:48
 title: Feast and Fast Digital
 description: A project to create a digital resource and interactives for Fitzwilliam Museum's Feast and Fast
 institution: The Fitzwilliam Museum
@@ -12,7 +12,7 @@ slug: /projects/feast-and-fast/
 featuredImg: ../images/2020/03/baroque.jpg
 background: ../images/2019/baroque.jpg  
 role: Website development, Coordinate digital content in creative zone.
-gitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/feast-and-fast
     name: Website source code
 zenodo_doi: 10.5281/zenodo.6459621

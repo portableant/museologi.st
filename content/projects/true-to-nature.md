@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-09T23:48:22
+last_modified_at: 2024-02-03T00:08:48
 title: True to Nature digital element
 description: "A digital element for the True to Nature exhibition at the Fitzwilliam Museum"
 institution: The Fitzwilliam Museum
@@ -14,7 +14,7 @@ background: ../images/2022/large_pd_11_1997_201701_adn21_dc2.jpg
 collaborators:
   - Rebecca Virag
   - Rainer Simon (Peripleo mapping)
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/fitzwilliamMuseum/peripleo
     name: Peripleo map
 tags:

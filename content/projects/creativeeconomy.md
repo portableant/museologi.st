@@ -6,7 +6,7 @@ institution: The Fitzwilliam Museum
 geo_lat: 52.199722
 geo_lon: 0.119167
 role: Principal Investigator
-last_modified_at: 2023-12-09T23:48:21
+last_modified_at: 2024-02-03T00:08:48
 featuredImg: ../images/2021/IMG_20191022_152807.jpeg
 background: ../images/2019/ceef/IMG_d6dic4.jpg
 funders:
@@ -31,7 +31,7 @@ collaborators:
 partners:
   - ThinkSee3D
   - Museum in a Box (MiAB) 
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/ahrc-creative-economy-fellows
     name: Website source code
 start: 2019-01-01

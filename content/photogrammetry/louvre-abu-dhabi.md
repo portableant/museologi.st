@@ -5,11 +5,11 @@ section: 3d
 featuredImg: ../images/backgrounds/louvre.jpg
 background: ../images/backgrounds/louvre.jpg
 date: 2018-04-26
-last_modified_at: 2023-12-07T22:33:56
+last_modified_at: 2024-02-03T00:08:48
 geo_lat: 24.534291
 geo_lon: 54.398329
 slug: /photogrammetry/louvre-abu-dhabi/
-github_repos:
+github_repo:
   -
     url: https://github.com/portableant/lancerAbuDhabiLouvre
     name: CC-BY-NC

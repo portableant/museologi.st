@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-09T23:48:21
+last_modified_at: 2024-02-03T00:08:48
 title: Migrating Fitz digital legacy
 description: Migrating Fitz digital legacy
 institution: The Fitzwilliam Museum
@@ -22,7 +22,7 @@ tags:
 collaborators:
  - George Doji
  - Olivia Warren
-GitHub_repo: 
+github_repo: 
  - url: https://github.com/FitzwilliamMuseum/fitz-jeykll-template
    name: Template Jekyll code
 ---

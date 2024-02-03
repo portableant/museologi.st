@@ -2,14 +2,14 @@
 section: 3d
 title: The Jericho Skull
 date: 2017-07-01
-last_modified_at: 2023-12-07T22:33:56
+last_modified_at: 2024-02-03T00:08:48
 description: 3D scans of the Jericho Skull
 background: ../images/backgrounds/jericho.jpg
 featuredImg: ../images/backgrounds/jericho.jpg
 slug: /photogrammetry/jericho-skull/
 geo_lat: 51.519400
 geo_lon: -0.126924
-github_repos:
+github_repo:
   -
     url: https://github.com/BritishMuseumDH/jerichoSkull
     name: CC BY-NC-SA

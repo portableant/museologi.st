@@ -5,8 +5,6 @@ description: An AHIF funded project with Addenbrooke's Hospital to create a digi
 institution: The Fitzwilliam Museum
 geo_lat: 52.199722
 geo_lon: 0.119167
-funders:
-  - Arts and Humanities Impact Fund, Cambridge University
 slug: /projects/phish-and-chypps/
 collaborators:
   - Joanne Vine (Fitzwilliam Museum)
@@ -15,11 +13,12 @@ collaborators:
 status: active
 featuredImg: ../images/2019/IMG_20190905_150938.jpg
 background: ../images/2019/IMG_20190905_150938.jpg
-funder:
+funders:
   - AHIF Cambridge University
+  - Arts and Humanities Impact Fund, Cambridge University
 grant_amount: £5,000
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-09T23:48:22
+last_modified_at: 2024-02-03T00:08:48
 project_website: https://creative-economy.fitzmuseum.cam.ac.uk
 documents: 
   - title: "Phish and ChYpPS Final Report"

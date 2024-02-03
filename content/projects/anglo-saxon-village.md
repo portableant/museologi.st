@@ -2,7 +2,7 @@
 title: PASt explorers 
 description: PASt explorers was the Portable Antiquities Scheme's children's project from 2005-2015.
 date: 2005-01-01T00:00:00+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2024-02-03T00:08:48
 section: projects
 institution: The Portable Antiquities Scheme
 role: Project Lead
@@ -26,7 +26,7 @@ collaborators:
   - Michael Lewis 
   - DCMS
   - "Museum, Libraries and Archives Council"
-GitHub_repo:
+github_repo:
   - url: https://github.com/portableant/anglo-saxon-village
     name: Source code for the Anglo-Saxon Village
 ---

@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-09T23:48:21
+last_modified_at: 2024-02-03T00:08:48
 title: Rebuilding the Fitzwilliam Website
 description: A project to rebuild the Fitzwilliam Museum's website
 institution: The Fitzwilliam Museum
@@ -14,7 +14,7 @@ background: ../images/2022/website/september2022.jpg
 start: 2019-09-21
 end: 2019-10-07
 status: active
-GitHub_repo: 
+github_repo: 
   - url: https://github.com/FitzwilliamMuseum/fitz-main-website
     name: Website source code
   - url: https://github.com/FitzwilliamMuseum/fitz-collection-online

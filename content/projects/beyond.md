@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-06T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2024-02-03T00:08:48
 title: Beyond the Label - enhancing labels in the gallery
 description: A project to enhance labels in the gallery with QR codes and a mobile app
 institution: The Fitzwilliam Museum
@@ -10,7 +10,7 @@ slug: /projects/beyond-the-label/
 featuredImg: ../images/projects/beyond.png
 background: ../images/2019/10/beyondLabel.jpg
 role: Project lead
-funder:
+funders:
   - The Fitzwilliam Museum
 cost: £2.75
 tags:

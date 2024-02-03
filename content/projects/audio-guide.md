@@ -1,7 +1,7 @@
 ---
 section: projects
 date: 2019-10-29T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:57
+last_modified_at: 2024-02-03T00:08:48
 title: British Museum audio guide API and take away pages
 description: A project to create an API for the British Museum audio guide and to create take away pages for the audio guide
 institution: The British Museum
@@ -14,7 +14,7 @@ geo_lon: -0.126924
 start: 2015-09-21
 end: 2015-10-07
 status: active
-GitHub_repo: 
+github_repo: 
   - 
     url: https://github.com/portableant/multimediaApi
     name: Source code for the API

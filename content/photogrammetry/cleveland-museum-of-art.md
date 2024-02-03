@@ -2,7 +2,7 @@
 section: 3d
 title: The Cleveland Museum of Art
 date: 2017-04-01T22:51:56+01:00
-last_modified_at: 2023-12-07T22:33:56
+last_modified_at: 2024-02-03T00:08:48
 description: 3D scans of the Cleveland Museum of Art's Collection
 featuredImg: ../images/backgrounds/cleveland.jpg
 background: ../images/backgrounds/cleveland.jpg
@@ -17,7 +17,7 @@ tags:
   - sketchfab
   - museums
   - archaeology 
-GitHub_repo:
+github_repo:
   -
     url: https://github.com/portableant/clevelandBuddha
     name: The head of a Buddha

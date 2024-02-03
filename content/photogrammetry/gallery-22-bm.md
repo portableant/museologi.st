@@ -8,8 +8,8 @@ slug: /photogrammetry/gallery-22-bm/
 geo_lat: 51.519400
 geo_lon: -0.126924
 date: 2016-04-30
-last_modified_at: 2023-12-09T23:48:21
-github_repos:
+last_modified_at: 2024-02-03T00:08:48
+github_repo:
   -
     url: https://github.com/BritishMuseumDH/apothesisHomer
     name: The Apothesis of Homer
