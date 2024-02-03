@@ -23,6 +23,8 @@ jobs:
 
       - name: Set up Gatsby
         run: |
+          npm install -D @playwright/test@latest
+          npx playwright install
           npm install
 
       - name: Build Gatsby site
