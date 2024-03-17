@@ -4,8 +4,8 @@ description: 3D scans from the Met, New York City
 section: 3d
 featuredImg: ../images/backgrounds/the-met-nyc-dendur.JPG
 background: ../images/backgrounds/the-met-nyc-dendur.JPG
-date: 2023-01-28
-last_modified_at: 2024-03-17T23:04:20
+date: 2024-01-28
+last_modified_at: 2024-03-17T23:21:06
 geo_lat: 40.779437
 geo_lon: -73.963244
 slug: /photogrammetry/the-met-nyc/
