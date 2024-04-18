@@ -24,6 +24,7 @@ jobs:
       - name: Set up Gatsby
         run: |
           npm install -D @playwright/test@latest
+          npm install husky
           npx playwright install
           npm install
 
