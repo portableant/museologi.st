@@ -55,6 +55,10 @@ npm run deploy
 ```
 This aliases to `gh-pages -d public` and will deploy the site to the `gh-pages` branch of the repository.
 
+### :mechanical_arm: Automation via actions
+
+This site is automatically built and deployed using GitHub actions. The workflow is in `.github/workflows/deploy-on-commit.yml` and 
+is triggered on push to the `main` branch.
 
 ## License
 
