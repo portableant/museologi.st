@@ -15,7 +15,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout repository
@@ -25,7 +25,7 @@ jobs:
         run: |
           npm install -D @playwright/test@latest
           npx playwright install
-          npm install
+          npm install --verbose
 
       - name: Build Gatsby site
         run: |
