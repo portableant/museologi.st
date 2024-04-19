@@ -1,0 +1,5 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# @portableant will be the default owner for everything in the repo.
+*       @portableant
