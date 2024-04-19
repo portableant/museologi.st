@@ -3,8 +3,7 @@
 This is a personal website created using [GatsbyJS](https://www.gatsbyjs.com) (current) and React. I have a blog that is updated very sporadically,
 and a portfolio on research and work projects.
 
-It is a pretty simple system,
-powered off markdown files, pulling remote images occasionally and using a few plugins to render maps and 
+It is a pretty simple system, powered off markdown files, pulling remote images occasionally and using a few plugins to render maps and 
 iframed content.
 
 I use:
@@ -58,9 +57,25 @@ This aliases to `gh-pages -d public` and will deploy the site to the `gh-pages` 
 ### :mechanical_arm: Automation via actions
 
 This site is automatically built and deployed using GitHub actions. The workflow is in `.github/workflows/deploy-on-commit.yml` and 
-is triggered on push to the `main` branch.
+is triggered on push to the `main` branch. Recently this started to fail with this error, which I found hard to track down: 
+
+```ERR! npm ERR! command sh -c husky install```
+
+I have added an extra step to install husky and correct permissions.
+
+```yaml
+      - name: Set up Gatsby
+        run: |
+          npm install husky -g
+          npx husky install
+          chmod +x .husky/*
+          npm install -D @playwright/test@latest
+          npx playwright install
+          npm install --verbose
+```
 
 ## License
 
 The code for this site is licensed under the MIT license, which you can find in the LICENSE file.
-The content for this site is CC0 licensed, unless otherwise stated (some images will have stronger licenses, but I will try to make this clear in the post itself).
+The content for this site is CC0 licensed, unless otherwise stated (some images will have stronger licenses, but I will 
+try to make this clear in the post itself).
