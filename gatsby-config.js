@@ -46,6 +46,11 @@ module.exports = {
                 name: 'Publications',
                 link: '/publications/',
                 id: 3
+            },
+            {
+                name: 'Grants awarded',
+                link: '/grants/',
+                id: 3
             }
         ],
         serviceLinks: [
