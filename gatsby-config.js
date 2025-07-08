@@ -29,6 +29,11 @@ module.exports = {
                 name: '3D Research',
                 link: '/photogrammetry/',
                 id: 3
+            },
+            {
+                name: 'Talks',
+                link: '/talks/',
+                id: 4
             }
         ],
         aboutLinks: [
@@ -107,7 +112,7 @@ module.exports = {
                 // Height of the scroll indicator
                 height: "6px",
                 // Configure paths where the scroll indicator will appear
-                paths: ["/projects/**", "/blog/**"],
+                paths: ["/projects/**", "/blog/**", "talks/**", "/photogrammetry/**", "/photographs/**", "/biography/**", "/publications/**", "/grants/**"],
                 // Configure the z-index of the indicator element
                 zIndex: `9999`,
             },
@@ -368,6 +373,14 @@ module.exports = {
                 path: `${__dirname}/content/projects`,
             },
             __key: "projects"
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `talks`,
+                path: `${__dirname}/content/talks`,
+            },
+            __key: "talks"
         },
         {
             resolve: `gatsby-source-filesystem`,

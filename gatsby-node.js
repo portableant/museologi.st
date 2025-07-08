@@ -55,6 +55,8 @@ exports.createPages = ({actions, graphql}) => {
     const projectsTemplate = require.resolve(`./src/templates/projects-page.js`)
     const photographyTemplate = require.resolve(`./src/templates/photo-page.js`)
     const photogrammetryTemplate = require.resolve(`./src/templates/photogrammetry-page.js`)
+    const talksTemplate = require.resolve(`./src/templates/talks-page.js`)
+
     return graphql(`
      {
       blogPosts: allMarkdownRemark(
@@ -152,6 +154,26 @@ exports.createPages = ({actions, graphql}) => {
           }
         }
       }
+
+      talksPosts: allMarkdownRemark(
+      filter: {frontmatter: {section: {eq: "talks"}}}
+      sort: {frontmatter: {date: DESC}}
+      limit: 1000
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              section
+              date
+              slug
+              background {
+                id
+              }
+            }
+          }
+        }
+      }
       tagsGroup: allMarkdownRemark(limit: 2000) {
         group(field: {frontmatter: {tags: SELECT}}) {
           fieldValue
@@ -203,6 +225,16 @@ exports.createPages = ({actions, graphql}) => {
                 },
             });
         });
+        result.data.talksPosts.edges.forEach(({node}) => {
+            createPage({
+                path: node.frontmatter.slug,
+                component: talksTemplate,
+                context: {
+                    slug: node.frontmatter.slug,
+                    id: node.id
+                },
+            });
+        });
         result.data.aboutPosts.edges.forEach(({node}) => {
             createPage({
                 path: node.frontmatter.slug,
@@ -238,7 +270,15 @@ exports.createPages = ({actions, graphql}) => {
             itemsPerFirstPage: 12,
             pathPrefix: '/blog'
         })
-
+        const talksPostPagedTemplate = require.resolve(`./src/templates/talk.js`)
+        paginate({
+            createPage: createPage,
+            component: talksPostPagedTemplate,
+            items: result.data.talksPosts.edges,
+            itemsPerPage: 12,
+            itemsPerFirstPage: 12,
+            pathPrefix: '/talks'
+        })
         const photogrammetryPagedTemplate = require.resolve(`./src/templates/photogrammetry.js`)
         paginate({
             createPage: createPage,
