@@ -32,6 +32,7 @@ export default function TalksPageTemplate({data: {markdownRemark}}) {
                          dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
             </Container>
+             {!isSSR && frontmatter.manifests && (
             <Container >
                 <h2 className="text-black fw-bold mt-4">IIIF Demo</h2>
             {frontmatter.manifests && frontmatter.manifests.map((manifest, idx) => (
@@ -41,6 +42,7 @@ export default function TalksPageTemplate({data: {markdownRemark}}) {
                     </div>
                 ))}
             </Container>
+            )}
             <Tags tags={frontmatter.tags} />
             {!isSSR && frontmatter.geo_lat && (
                 <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
