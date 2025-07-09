@@ -7,6 +7,10 @@ description: This page covers all the links I talked about in my HE conference p
 slug: /talks/he-links/
 featuredImg: ../images/2025/IMG20230727152121.jpg
 background: ../images/2025/IMG20230727152121.jpg
+manifests:
+  - https://manifests.museologi.st/IMG_20250528_143442062.json
+  - https://manifests.museologi.st/raf_106g_uk_915_rp_3203.json
+  - https://manifests.museologi.st/RAF_2_BR11_14_V_0026.json
 tags:
   - digital transformation
   - museums

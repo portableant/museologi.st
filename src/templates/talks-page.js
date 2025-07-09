@@ -8,6 +8,8 @@ import Tags from "../components/elements/tag";
 import Seo from "../components/structure/SEO";
 import {formatReadingTime} from "../utils/helpers";
 
+import ClientOnlyCloverViewer from "../components/ClientOnlyCloverViewer"; // Import the client-only component
+
 export default function TalksPageTemplate({data: {markdownRemark}}) {
 
     const {frontmatter, timeToRead, html} = markdownRemark;
@@ -17,6 +19,8 @@ export default function TalksPageTemplate({data: {markdownRemark}}) {
     return (
         <Layout>
             <HeaderImage backgroundImage={frontmatter.background}/>
+
+         
             <Container>
                 <Row className={"post-body"}>
                     <div className="px-4">
@@ -28,11 +32,23 @@ export default function TalksPageTemplate({data: {markdownRemark}}) {
                          dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
             </Container>
+            <Container >
+                <h2 className="text-black fw-bold mt-4">IIIF Demo</h2>
+            {frontmatter.manifests && frontmatter.manifests.map((manifest, idx) => (
+                    <div key={idx} className="my-4" id={`iiif-viewer-${idx}`}> {/* Use a unique ID */}
+                        {/* Use the client-only wrapper component here */}
+                        <ClientOnlyCloverViewer manifestId={manifest} />
+                    </div>
+                ))}
+            </Container>
             <Tags tags={frontmatter.tags} />
             {!isSSR && frontmatter.geo_lat && (
                 <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
             )}
+            
         </Layout>
+     
+
     );
 
 }
@@ -56,6 +72,7 @@ export const pageQuery = graphql`
                 tags
                 geo_lat
                 geo_lon
+                manifests
                 featuredImg{
                     childImageSharp {
                         gatsbyImageData(
