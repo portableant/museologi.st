@@ -7,7 +7,7 @@ const Logos = ({logos}) => {
     return (
         <Container fluid className={"bg-white my-3 py-3"}>
             <Col md={10} className="mx-auto pt-2 my-4">
-                <h3 className={"display-5 text-center fw-bold text-dark visually-hidden"}>Work, affiliations and collaborations</h3>
+                <h3 className={"display-5 text-center fw-bold text-dark"}>Work, affiliations and collaborations</h3>
                 <Row className="justify-content-center mb-2">
                     {logos.nodes.map((item, i) => (
                         <Col md={2} sm={2} className="col-md-2 text-center mx-4 my-4" key={i}>

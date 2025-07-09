@@ -38,5 +38,9 @@
   {
     "name": "The Institute of Archaeology",
     "logo": "../images/logos/ioa.png"
+  },
+  {
+    "name": "Westminster School",
+    "logo": "../images/logos/westminster-school.png"
   }
 ]
