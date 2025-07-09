@@ -11,6 +11,7 @@ manifests:
   - https://manifests.museologi.st/IMG_20250528_143442062.json
   - https://manifests.museologi.st/raf_106g_uk_915_rp_3203.json
   - https://manifests.museologi.st/RAF_2_BR11_14_V_0026.json
+  - https://manifests.museologi.st/dragon.json
 tags:
   - digital transformation
   - museums
