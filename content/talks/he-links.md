@@ -113,7 +113,7 @@ The International Image Interoperability Framework (IIIF, pronounced "triple-I-F
 * [Clover IIIF viewer](https://samvera-labs.github.io/clover-iiif/) used below for demos
 * [Immarkus](https://immarkus.xmarkus.org/) for image annotations
 * [Cantaloupe](https://cantaloupe-project.github.io) for serving images (Uni of Illinois) in IIIF format
-
+* [Manifests for demos below and demo via Universal Viewer](https://manifests.museologi.st/) - 16 files from various sources
 
 ## Linked Data
 
