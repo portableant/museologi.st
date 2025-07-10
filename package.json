@@ -97,6 +97,11 @@
       "svg-react-loader": {
         "loader-utils": "^1.4.2"
       }
+    },
+    "gatsby-remark-images-remote": {
+      "@jimp/core": {
+        "phin": "3.7.1"
+      }
     }
   }
 }
