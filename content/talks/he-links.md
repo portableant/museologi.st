@@ -20,7 +20,7 @@ tags:
   - digital heritage
   - digital archaeology
 ---
-This collates all the projects, links and talks that were covered in my talk on the 9th July for Historic England's staff conference.
+This collates all the projects, links and talks that were covered in [my talk on the 10th July](https://westminsterschool-my.sharepoint.com/:p:/g/personal/dan_pett_westminster_org_uk/EVUJGfkD89NFgGWYlcVxPTkBMJZUASEs85DYcwhZtGAL7w?e=y7JMqF) for Historic England's staff conference.
 
 Nearly all the resources on this page are open source, reproducible and very low budget. If you want to learn more, please just ask!
 
@@ -104,12 +104,16 @@ The Portable Antiquities Scheme (PAS) is a groundbreaking initiative in England 
 
 The International Image Interoperability Framework (IIIF, pronounced "triple-I-F") is a set of open standards that enables museums, libraries, archives, and other cultural heritage organizations to publish and share high-quality digital images and their associated metadata on the web. It provides a standardized way for image repositories to expose their content, allowing for rich, interactive viewing experiences and enabling researchers and the public to compare, annotate, and reuse images across different institutions, regardless of where the images are hosted. In essence, IIIF makes digital images on the web as interoperable and reusable as text.
 
-* [Cantaloupe](https://cantaloupe-project.github.io) for serving images (Uni of Illinois)
 * [Liiive.now](https://liiive.now) for image annotation
 * [Mirador](https://projectmirador.org)
 * [Universal Viewer](https://universalviewer.io)
 * [IIIF documentation](https://iiif.io)
 * [Animal crossing Getty experiment](https://experiments.getty.edu/ac-art-generator/)
+* [Digitrati manifest editor](https://manifest-editor.digirati.services)
+* [Clover IIIF viewer](https://samvera-labs.github.io/clover-iiif/) used below for demos
+* [Immarkus](https://immarkus.xmarkus.org/) for image annotations
+* [Cantaloupe](https://cantaloupe-project.github.io) for serving images (Uni of Illinois) in IIIF format
+
 
 ## Linked Data
 
