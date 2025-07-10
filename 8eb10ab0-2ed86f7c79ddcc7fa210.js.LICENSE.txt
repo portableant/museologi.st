@@ -1,0 +1,9 @@
+//! Built on 2024-04-01
+
+//! Git commit: v4.1.1-0-f90d9814
+
+//! License: http://openseadragon.github.io/license/
+
+//! http://openseadragon.github.io
+
+//! openseadragon 4.1.1
