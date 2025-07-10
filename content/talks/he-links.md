@@ -24,7 +24,7 @@ This collates all the projects, links and talks that were covered in [my talk on
 
 Nearly all the resources on this page are open source, reproducible and very low budget. If you want to learn more, please just ask!
 
-Most of my work can be found in my [publications](/publications/) list. 
+Most documentation of my work can be found in my [publications](/publications/) list. 
 
 ## Citizen Science
 

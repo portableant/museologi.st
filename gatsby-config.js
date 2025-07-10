@@ -112,7 +112,7 @@ module.exports = {
                 // Height of the scroll indicator
                 height: "6px",
                 // Configure paths where the scroll indicator will appear
-                paths: ["/projects/**", "/blog/**", "talks/**", "/photogrammetry/**", "/photographs/**", "/biography/**", "/publications/**", "/grants/**"],
+                //paths: ["/projects/**", "/blog/**", "talks/**", "/photogrammetry/**", "/photographs/**", "/biography/**", "/publications/**", "/grants/**"],
                 // Configure the z-index of the indicator element
                 zIndex: `9999`,
             },
