@@ -33,7 +33,7 @@ export default function TalksPageTemplate({data: {markdownRemark}}) {
                 </Row>
             </Container>
              {!isSSR  && frontmatter.manifests && (
-            <Container >
+            <Container className="bg-pastel p-4 mb-4">
                 <h2 className="text-black fw-bold mt-4">IIIF Demo</h2>
             {frontmatter.manifests && frontmatter.manifests.map((manifest, idx) => (
                     <div key={idx} className="my-4" id={`iiif-viewer-${idx}`}> {/* Use a unique ID */}

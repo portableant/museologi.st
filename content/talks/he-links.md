@@ -76,6 +76,7 @@ The Portable Antiquities Scheme (PAS) is a groundbreaking initiative in England 
 * [Unlocking the Portrait Miniature](https://unlocking-miniatures.fitzmuseum.cam.ac.uk/)
 * [A museum of relationships](https://amor.fitzmuseum.cam.ac.uk)
 * [Directus content management](https://getdirectus.com)
+* [Museum in a box](https://museuminabox.org/)
 
 ## Heritage at Risk demo
 
