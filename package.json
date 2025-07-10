@@ -83,6 +83,7 @@
     "word-wrap": "^1.2.5"
   },
   "devDependencies": {
+    "@babel/helpers": "^7.27.6",
     "@babel/runtime": ">=7.26.10",
     "axios": ">=1.8.2",
     "base-x": ">=3.0.11",
