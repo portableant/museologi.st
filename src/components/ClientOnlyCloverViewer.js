@@ -1,28 +1,40 @@
 // src/components/ClientOnlyCloverViewer.js
 import React, { useState, useEffect } from 'react';
-import Viewer from "@samvera/clover-iiif/viewer";
-// Optional: import primitives if you want to display manifest metadata
-// import { Label, Summary } from "@samvera/clover-iiif/primitives";
 
 const ClientOnlyCloverViewer = ({ manifestId }) => {
-  const [isClient, setIsClient] = useState(false);
-
-  console.log('ClientOnlyIIIFViewer rendered'); // See if component is rendering at all
+  const [Viewer, setViewer] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    console.log('useEffect triggered');
-    setIsClient(true);
-    console.log('isClient set to true');
+    // Dynamically import the Viewer component only on the client-side
+    import('@samvera/clover-iiif/viewer')
+      .then(mod => {
+        setViewer(() => mod.default); // Set the Viewer component
+        setIsLoading(false); // No longer loading
+      })
+      .catch(err => {
+        console.error("Failed to load Clover IIIF Viewer:", err);
+        setIsLoading(false); // Stop loading even if there's an error
+      });
   }, []);
 
-  if (!isClient) {
-    console.log('Rendering loading state');
-    return <div style={{ height: '300px', backgroundColor: '#f0f0f0', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-             Loading IIIF Viewer...
-           </div>;
+  if (isLoading) {
+    return (
+      <div style={{ height: '300px', backgroundColor: '#f0f0f0', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+        Loading IIIF Viewer...
+      </div>
+    );
   }
 
-  console.log('Attempting to render actual Viewer with manifest:', manifestId);
+  if (!Viewer) {
+    return (
+      <div style={{ height: '300px', backgroundColor: '#f0f0f0', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'red' }}>
+        Error loading IIIF Viewer.
+      </div>
+    );
+  }
+
+  // Render the Viewer component once it's loaded
   return <Viewer iiifContent={manifestId} />;
 };
 

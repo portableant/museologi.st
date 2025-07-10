@@ -32,12 +32,11 @@ export default function TalksPageTemplate({data: {markdownRemark}}) {
                          dangerouslySetInnerHTML={{__html: html}}/>
                 </Row>
             </Container>
-             {!isSSR && frontmatter.manifests && (
+             {!isSSR  && frontmatter.manifests && (
             <Container >
                 <h2 className="text-black fw-bold mt-4">IIIF Demo</h2>
             {frontmatter.manifests && frontmatter.manifests.map((manifest, idx) => (
                     <div key={idx} className="my-4" id={`iiif-viewer-${idx}`}> {/* Use a unique ID */}
-                        {/* Use the client-only wrapper component here */}
                         <ClientOnlyCloverViewer manifestId={manifest} />
                     </div>
                 ))}
