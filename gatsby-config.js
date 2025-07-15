@@ -34,6 +34,11 @@ module.exports = {
                 name: 'Talks',
                 link: '/talks/',
                 id: 4
+            },
+            {
+                name: 'Papers',
+                link: '/papers/',
+                id: 5
             }
         ],
         aboutLinks: [
@@ -381,6 +386,14 @@ module.exports = {
                 path: `${__dirname}/content/talks`,
             },
             __key: "talks"
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `papers`,
+                path: `${__dirname}/content/writing`,
+            },
+            __key: "papers"
         },
         {
             resolve: `gatsby-source-filesystem`,
