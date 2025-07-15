@@ -1,46 +1,23 @@
 ---
 title: "Transcending and expanding the walls of the museum: digital pivot, digital by default, digital transformation"
 section: papers
-date: 2022-04-07
+date: 2021-03-17
 slug: /papers/transcending
 keywords: Creative industries, 3D printing, museology, egyptology,archaeology
-citation: ""
+citation: "Pett, D. (2022) Transcending the walls of the museum. A digital revolution? in Oxford Handbook of Museums (Stevenson, A. (ed)) Oxford University Press"
 authors:
   - Daniel Pett (Historic England)
-featuredImg: ../images/2021/IMG_20191022_152807.jpeg
-background: ../images/2019/ceef/IMG_d6dic4.jpg
+featuredImg: ../images/img.png
+background: ../images/img.png
 ---
 
-**Transcending and expanding the walls of the museum: digital pivot, digital by default, digital transformation.**
-
-**Author:**
-
-Daniel Pett
-
-
-**Audit:**
-
-Date completed January 2021
-
-Date submitted: March 7 2021
-
-Date updated: March 17 2021 (Added affiliation for Stirling University and updated text layout)
-
-**Version:**
-
-1.0
-
-**Word count:**
-
-8500
-
-**Abstract**
+## Abstract - this is a preprint version
 
 This paper will discuss how digital technology, methods, theory and practice could transcend the physical limitations of museum and archaeological spaces. The museum digital experience is founded on its collections and subsequently the physical location, staff and brand - this paper will consider how the digital realm can bring to life the collections and narratives for audiences on and off site. It will not be exhaustive, the panoply of digital experiences is beyond the space and scope of this handbook and without doubt, important aspects will be overlooked.
 
 It will discuss how low-cost, reproducible technology could be used to enable multi-vocality, democratic co-creative tools and platforms, immersive experiences and new ways of working which can transcend the digital divide. Within this volume, this paper will undoubtedly become the most dated of those included due to the rate of technological change and the pace platform attrition and churn.
 
-1. **Introduction**
+### 1. Introduction
 
 At the time of writing, the world is going through a large period of uncertainty, the impact of the global Covid-19 pandemic has changed the way that museums interface with digital activities. Have all been successful, no. Plus ça change, plus c'est la même chose. Writing this paper without access to a physical library has made this paper, a digital focused paper, drawn mainly from digital sources (mostly openly available), and this is indicative of how the Galleries, Libraries, Archives and Museums sector will move forward - digitally driven.
 
@@ -62,13 +39,13 @@ However, are institutions actually stuck in a cycle of lessons that have not bee
 
 However, it is what museums do with these data that tells the narrative of the institution, the collection, the people and the communities that they serve. Ultimately, digital engagement, methods, and practice in this time of global unrest are very much tied to ‘emotional labour’ (Frost 2020); uncertainty about where we are going, what the future holds and how we can harness these tools, deal with the disruptive nature of these technologies, discover and resource capacity for delivery, increase the availability of skills and move away from reactionary delivery.
 
-**1.1 The information superhighway?**
+#### 1.1 The information superhighway?
 
 Regularly in print, I have returned to a paper written by Tim Schadla-Hall in 1996 where he asked a timeless question: *“how ready is our collections information for the information superhighway? I suspect the answer is that a lot of it is not ready for the mud track or even the occasionally trodden grassy path!”* Whether this statement still stands true, is something that many will return to regularly. To be fit for purpose and to provide your digital fundations, collections information needs cleaning, standardisation, disambiguating, updating and tending to maintain its usefulness to audiences, funders, participants and the machine led computer world that is burgeoning in Artificial Intelligence (Museums Association 2020).
 
 Feedback mechanisms with researchers, the public and machines aid this process and we now have powerful tools from citizen science to assist with this process. A quarter of a century after he committed these words to the written page, all is not bleak. In 2018, the Department of Digital, Culture, Media and Sport in the *‘Culture is Digital’* report (DCMS 2018) published a figure that 61% of the UK’s cultural institutions had digitised and documented up to 50% of their collections - but to what degree of granular precision? Did all records meet minimum documentation standards (Spectrum 5 in the UK); how many games of smoke and mirrors have been deployed to weave this figure?
 
-**1.2 The digital divide/digital poverty line**
+#### 1.2 The digital divide/digital poverty line
 
 The issue of the ‘digital divide’ or ‘digital poverty’ (Frost 2020; Mihelj 2019; Office for National Statistics 2019, Malde et al 2018), is becoming apparent at scale within the museum sector (globally), and has accelerated during the pandemic; with many differing, but interlinked facets - literacy, access, connectivity, skills and investment. Those without access to the Internet are now disadvantaged to varying degrees - simple things like booking tickets, doctor’s appointments and application processes are accelerating towards the digital experience.
 
@@ -86,7 +63,7 @@ Addressing these issues can be difficult for institutions on a budget, or where 
 
 When planning these interventions, at the back of the mind is that burning question - ‘is a digital solution actually needed to convey meaning or enhance the experience?’ Quite often it may not be - a simple example of analogue Augmented Reality can illustrate this from the Heiden Tor (Heathen’s Gate) at the Petronell-Carnuntum archaeological park where an etched glass panel[[1]](#footnote-0) is used to enrich the view of the ruined Roman construction.
 
-**2. Digital foundations**
+### 2. Digital foundations**
 
 In many institutions, technologists are now a fixture of the available human resource within Museums, but they are often working in small teams or alone, with very few institutions able to afford multi-disciplinary teams to enable digital content to be produced at scale. Institutions are grappling with how to resource digital functions, where to situate them and how they fit with the mission of the organisations (James & Price 2018).
 
@@ -102,7 +79,7 @@ Many factors can influence the formation of digital capability within cultural i
 8. ***External relationships*** - for example, does your institution have a development/fundraising agreement in place that precludes using certain competitors technology. Would Samsung want you to implement hardware from Sony in a venue they sponsor?
 9. ***Branding and identity*** - has your institution got a strong visual appeal and a logo that commands attention? Can it provide an instantly recognisable presence, which makes it easy to transfer from print to digital?
 
-**2.1 Digital transformation: where are we going?**
+#### 2.1 Digital transformation: where are we going?
 
 The seven digital pivots defined by Deloitte (Gurumurphy & Schatsky 2019) within their digital maturity model can be seen in many institutional and funding body digital strategies, with perhaps pillars 6 & 7 being the ones of most importance at this time - a unified customer experience, coupled with business model adaptability. Multiple toolkits and evaluation frameworks are available for use within digital projects, for example the ‘Balanced Value Impact Model’ (Tanner 2012)
 
@@ -127,7 +104,7 @@ We now have a panoply of interventions being offered over the video conferencing
 
 As we see organisations turn to these media, the grounding question must be asked: what sets out ‘your’ experience as being truly unique? Institutions had varied outputs, delivered experiences that missed the point, had expectations of higher engagement, whilst some sat back and bided their time to deliver new digital foundations and subsequently quality programming. Often, one will see a cultural institution building a new digital product and hoping that the audience will come in droves, however a famous quote *“build it and they will come, it’s not a strategy, it’s a prayer”* Blank (2006:7) sums up many of these endeavours. Thorough audience research and careful platform choice or reliance on a digital ‘venue’ becomes key to your venture. Build where your audience is, build where your audience wants to be, build where your audience might go next and build novel but meaningful experiences that draw your visitor in.
 
-**3. Building the digital museum**
+### 3. Building the digital museum 
 
 An institution that will successfully navigate the digital swamp needs several tools in place to function effectively. For the sake of this article, let us imagine that your institution is a venue that charges for admission (see for discussion on the (de)merits of charging). An non-exhaustive overview of what might be considered fundamental building blocks of an expanded digital presence for a museum, or memory institution to prepare its offer to go beyond the walls of the estate are laid out in table 2. This table attempts to align the facet and reasoning to the R factors mentioned above.
 
@@ -149,37 +126,37 @@ An institution that will successfully navigate the digital swamp needs several t
 | Partnerships | Seeking partnerships in the digital arena can aid your mission. Google Arts and Culture, Smartify or others may offer a platform that can boost global audience engagement dramatically. | Reach  Revenue  Resonance  Relevance  Relationships |
 | Social media | Social media is now driving a high proportion of digital engagement across the world. These media could be the simplest way for an institution to engage with its audience at scale, and cheaply. | Reach  Revenue (maybe)  Resonance  Relevance  Relationships |
 
-**3.1 Digital Maturity and the institution**
+#### 3.1 Digital Maturity and the institution
 
 A simple and novel categorisation model for museums in the digital age could be generated, along the lines of digital maturity (James & Price 2018; Forrester Research 2017) or the technology adoption lifecycle model (Meade & Rabelo 2004). For this chapter, organisations could be labelled as one that treads water, one that exists within homeostasis, one this is aspirational, one that is participatory and driven by co-operative practice and finally the technophilic trend setter.
 
-**3.2 The treading-water institution**
+#### 3.2 The treading-water institution
 
 Worldwide, many institutions have few staff to run their activities and their facilities and these may struggle to produce a digital experience for their visitors and research audience. They may have a website, a social media profile and a simple catalogue online, or they may struggle to have just one of these and functions are fulfilled by the curator, who is also the manager, the janitor, the docent, the cleaner, the receptionist...
 
-**3.3 The homeostatic institution**
+ #### 3.3 The homeostatic institution
 
 An institution that inhabits the digital world in homeostasis is probably one of the most commonly found worldwide. The base digital presence for a museum has been achieved and is rarely upgraded until systems break and their digital budget is enough to maintain their presence and new interventions are infrequent. They may have digital artefacts that are aging rapidly deployed around the museum estate, for example screens and kiosks with aging technology.
 
-**3.4 The digital aspirational institution**
+#### 3.4 The digital aspirational institution
 
 These institutions have grasped the fact they can build a fully fledged website quickly and cheaply using free tools such as site builders (for example SquareSpace, Wix) or open source content management systems (for example Wordpress or Drupal) and generate a social media presence on all the major platforms (Twitter, Instagram, Tik-Tok, Facebook) with relatively little fiscal investment. Digital strategy will be formed to develop new digital experiences regularly and funding is sought out to enrich their digital landscape and the digitally enabled team will be small and multi functional.
 
-**3.5 The participatory, co-operative powered institution**
+#### 3.5 The participatory, co-operative powered institution
 
 Cultural heritage institutions should be based around participatory, two way dialogue based experiences and digital media (Simon 2010) with the opportunity for visitors, staff and participants to create meaningful interactions with legacies. To achieve this, institutional mindset needs to be challenged and acceptance of risk to be normalised. The opportunities for digital participatory experiences are wide ranging - they can be massive impact, highly commercialised such as the mega installations of TeamLab (Demetriou 2019) or the world travelling immersive Van Gogh or Olafur Eliasson at the Tate (Searle 2019). These institutions will often have a strong digital vision and strategy and have embraced social media, may have experimented with user generated content and possibly used citizen science to enrich their collections.
 
-**3.6 The Technophilic institution**
+#### 3.6 The Technophilic institution
 
 This type of institution is the rare beast, infrequently found and setting the pace for others to follow. During the author’s career, several institutions have stood out in this category at different periods, often with the same people behind them - for example Seb Chan’s work at the Powerhouse Museum in Sydney, and at the Cooper Hewitt Museum in New York. These institutions will often have well staffed digitally enabled teams, with reasonable budget allocations coupled with a development team that actively seeks out sponsorship and partnership in the technology sector.
 
-**4. Low cost, high return? What could you create?**
+### 4. Low cost, high return? What could you create?
 
 As discussed earlier in this paper, constraints on cultural and memory institutions when producing digital meaningful experiences are manifold. However, this does not mean that high quality implementation levels are beyond the reach of the well funded!
 
 There is a wide array of technological solutions that can be accessed by all museums if they are willing to use open source software or cheap subscription services, to experiment and to iterate in what they do. Below, a selection of digital offsite interventions are discussed at a relatively shallow level due to constraints of this chapter - but with a caveat. In this fast paced technological world, these services may disappear rapidly. Technology giants like Google have a poor track record for maintaining access to free services; for example their recent foray into the world of 3D viewers is due to close in June 2021 with the shuttering of their Poly service (Matney 2021).
 
-**4.1 Institutional website**
+#### 4.1 Institutional website
 
 Institutional websites are often seen as the flagship service to represent the brand of an institution and present memory institutions with a conundrum. Sometimes a divide is readily apparent on what the website is for - a marketing tool to sell the visitor experience, with the academic, research side a second class digital element. As mentioned above, the memory institution’s heart is centred on its collections, and they should use these as the focal point for building content and digital programmes around.
 
@@ -189,11 +166,11 @@ Tools you can use for this range from enterprise level software (favoured by IT 
 
 Other methods can involve custom builds powered by ‘headless’ CMS or Applications Programing Interface (API) driven web architecture, however a museum or cultural institution could easily run a free static HTML built website off of Github’s pages architecture using Jekyll, Gatsby, Hugo or other systems; see for example the Egyptian Coffins website (Pitkin et al 2019a & 2019b). Museum websites should communicate the fundamental answers to these timeless questions - what do they hold, when are they open, what events are on and what do they stand for. Long form narrative, activities, video and enriched media can only come when you have the foundational assets and sign posts in place to build the veneer on top.
 
-**4.2 Collections tools**
+#### 4.2 Collections tools
 
 A good selection of commercial collections tools can be found on the Collections Trust website (Collections Trust nd) which comply with the Spectrum 5 standard (Collections Trust 2020), but these software vendors may be beyond the financial capabilities of organisations. Alternatives can be found by using fully supported, open source projects that might suit your use case to document and disseminate your collection - they can sometimes serve as a back of house system and to use a phrase that has withered, an Online Public Access Catalogue (OPAC). Examples include Omeka in either format (classic or S) that they provide (<https://omeka.org/>), Collective Access (<https://www.collectiveaccess.org/>) or the Arches system (<https://www.archesproject.org/>). These collections tools should provide the canvas or the foundation upon which the museum’s narrative and digital experiences can be built.
 
-**4.3 Social media outputs**
+#### 4.3 Social media outputs
 
 The array of social media outputs can challenge institutions with small and large skill sets and workforce and it is bewildering to see how fast the rate of change has been in this area. Returning to a paper written nearly a decade ago by the author (Pett 2012), platforms mentioned have disappeared, services have transformed and the social media following of many institutions has grown exponentially (for example the British Museum has grown by nearly 1.5 million people.)
 
@@ -205,7 +182,7 @@ Different models of engagement can be taken up by museums which range from broad
 
 Creative output requires time, and often the producers of these social interventions have extra tasks within their job description and are asking other colleagues with similar working life strains to assist them. With a small to medium team, a museum would do wisely to consider the platforms it wishes to engage with, whether it can produce the type of content expected, with the frequency that begets followers and of a quality that the institution can be proud of. Should museums be using Tik-Tok for instance (Gat 2019), considering its record of censorship, data mining and irreverent outlook - some have, for example the Uffizzi (Marshall 2020) and possibly divided audience skew towards *Generation Z*.
 
-**4.4 Multimedia outputs: 360, 3D, Gigapixel, Scientific imaging, podcasts, video**
+#### 4.4 Multimedia outputs: 360, 3D, Gigapixel, Scientific imaging, podcasts, video 
 
 Institutions have a huge array of opportunities within the digital content production realm. A panoply of visual delights can be created quickly and cost effectively, and with little technological barrier for onboarding and subsequent production. The use of imaging technologies provides a lens for public and academic audiences/participants to interact with the programming and visual riches of memory institutions. This cornucopia of digital visualisations brings with it Intellectual Property RIghts/ Licensing and Copyright implications which often leaves curators and consumers of cultural works angry and indignant (not to mention morally and ethically challenged when it comes to First Nation data). A good primer for learning more about this can be seen within the Display at Your Own Risk project (Wallace & Deazley 2016) and it’s huge accompanying publication which discusses so many of these issues.
 
@@ -213,7 +190,7 @@ This gamut of techniques and technologies available to us can either reduce or i
 
 Within this type of digital output, institutions can shoot/record, edit and produce high quality audio visual products for their audiences. Quality of production does not have to be perfect, high quality content can sometimes overcome the shaking lens of the live broadcast, deal with the slightly muffled sound and the confidence levels of the contributors. Practise will rapidly improve the quality of outputs, and the rough and ready nature of video production can sometimes pull in big audience figures on Youtube - take for example the early outputs of Internet sensations such as Mr. Beast[[9]](#footnote-8) (55 million subscribers) or Unspeakable[[10]](#footnote-9) (10.8 million subscribers).
 
-**4.5 Citizen Science**
+#### 4.5 Citizen Science
 
 Cultural institutions are severely stretched, and as the effects of the pandemic are felt and the world’s economy takes time to recover, workforces may shrink. Citizen science provides an opportunity to harness help from beyond the museum’s enclosures - remote volunteering in the time of restricted physical contact, which can be retained once measures are rolled back.
 
@@ -221,7 +198,7 @@ They also provide a platform for participatory practice, for serendipitous inter
 
 A variety of platforms and projects are available to cultural institutions to produce task based projects quickly and easily. The best known platform, Zooniverse (Oxford University and the Adler Planetarium) has realised over 550 million classifications from 2.2 million volunteers (February 2021), a massive figure demonstrating cultural heritage engagement. Other platforms such as the *‘Libary of Congress: By the People’*[[11]](#footnote-10) (Ferriter et al 2019), the Smithsonian’s Transcription Center[[12]](#footnote-11) (Ferriter 2016), UCL & British Museum’s MicroPasts[[13]](#footnote-12) (Bonacchi 2019), British Library’s LibCrowds[[14]](#footnote-13) (Ridge et al 2020) and UCL’s Transcribe Bentham (Causer & Terras 2014) for example, have not had the same volume of users, but have also produced similar high quality research data sets, with projects ranging from transcription, image annotation, 3d modelling, remote sensing, morphological analyses to machine learning.
 
-**4.6 Partnerships**
+#### 4.6 Partnerships
 
 The use of partnerships in the museum world is again indicative of the digital divide and institutional privilege and the tensions that this brings. Digital activity carries a cachet that sponsors and philanthropists might see as a propaganda vehicle for their efforts; therefore tensions sometimes arise between projects one might be able to do cheaply with open source and the high profile, branded digital outcome. Partnerships can extend into academia, for example the National Museum of Australia and the British Library working with the Australian National University Centre for DIgital Humanities’s students on placements to assist with the production of digital technologies, content and experiences (Ho 2020, Nurmikko-Fuller 2020, Nurmikko-Fuller & Grant 2019).
 
@@ -231,7 +208,7 @@ and VR escape rooms in various venues globally[[15]](#footnote-14). The recent e
 
 Ubisoft have also provided large philanthropic donations to cultural heritage, notably donating half a million euros to the restoration of Notre-Dame cathedral following the catastrophic fire in 2019 (Vincent 2019). Museums with fundraising or development arms can chase these deals, but they will be beyond the reach of many small memory institutions - reinforcing the divide, and sometimes increasing this to a chasm.
 
-**4. 7 Don’t be evil.**
+#### 4.7 Don’t be evil.
 
 In 2011, Google created a programme for engagement with cultural heritage (Wikipedia contributors: 2021), initially entitled the ‘Google Cultural Institute’ and now relabelled as Google Arts and Culture (GAC). In some ways, like Europeana, GAC is an aggregator of cultural content on a grand scale, but without the former’s open endpoints for retrieval of information and with a less transparent agenda for cultural service. GAC could be seen as a cultural walled garden - open access focused museums have placed their resources into Google’s system, providing them with a large data bank of information that can be mined, refined and exploited by Google. GAC has been surveyed for its western cultural biases (Kizhner et al 2021) and is frequently criticised on social media by exponents of open access in the cultural sector, for example:
 
@@ -241,7 +218,7 @@ The mechanisms for joining and disseminating information on GAC provide another 
 
 As the rise in ill feeling towards technology has shown in the last few years, mistrust and disillusionment may see a shift away from collaboration with the tech sector for those museums that aim to exude neutrality, focus on civil enrichment, climate issues and ethical standpoints.
 
-**5. Conclusion**
+### 5. Conclusion**
 
 Institutional privilege manifests itself in many ways; not **all** memory institutions and museums **can**, **could** or **should** engage in all these digital methods of engagement. If a platform is not performing for your institution, do not be afraid to sunset that service (taking backup copies) and communicate that decision clearly to your audience(s).
 
@@ -251,7 +228,7 @@ Think of Matthew’s parable (7:24 - 27) of the ‘Wise and Foolish builders’;
 
 Attack all your digital projects with this simple question - ‘Why are we doing this?’ - and evaluate, iterate and sustain your digital presence and plan for obsolescence. To make your institution ready for digital evolution, invest in staff training and skills acquisition so that the workforce can harness the tools of the moment. Give them space to imagine what they could achieve, but realise the pace of change is faster than the governance models you might want to implement.
 
-**References**
+## References
 
 * Ackoff, R. L. (1989) ‘From data to wisdom.’ Journal of Applied Systems Analysis, 16, 3–9.
 * Arts Council England (2018) ‘National Portfolio: FAQs’ Available at: <https://www.artscouncil.org.uk/national-portfolio-2018-22-faqs>
@@ -345,3 +322,11 @@ Attack all your digital projects with this simple question - ‘Why are we doing
 13. <https://crowdsourced.micropasts.org> [↑](#footnote-ref-12)
 14. <https://libcrowds.com> [↑](#footnote-ref-13)
 15. <https://www.ubisoftescapegames.com/the-dagger-of-time/> [↑](#footnote-ref-14)
+
+### Audit
+
+Date completed January 2021
+
+Date submitted: March 7 2021
+
+Date updated: March 17 2021 (Added affiliation for Stirling University and updated text layout)
