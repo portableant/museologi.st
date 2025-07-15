@@ -14,7 +14,7 @@ const PapersPage = (props) => {
         <Layout>
             <Container>
                 <Row>
-                    <h1 className="ml-4 mt-4">A list of talks</h1>
+                    <h1 className="ml-4 mt-4">A list of papers - often collaborative</h1>
                     <Row>
                         {Posts}
                     </Row>
