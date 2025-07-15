@@ -4,7 +4,7 @@ section: papers
 date: 2022-04-07
 slug: /papers/transcending
 keywords: Creative industries, 3D printing, museology, egyptology,archaeology
-citation: "
+citation: ""
 authors:
   - Daniel Pett (Historic England)
 featuredImg: ../images/2021/IMG_20191022_152807.jpeg
@@ -16,13 +16,7 @@ background: ../images/2019/ceef/IMG_d6dic4.jpg
 **Author:**
 
 Daniel Pett
-**Affiliations:**St Edmund’s College, University of Cambridge
 
-The Fitzwilliam Museum / History of Art, University of Cambridge
-
-Hon Lecturer, Institute of Archaeology, University College London
-
-Hon Professor, Heritage, University of Stirling
 
 **Audit:**
 
