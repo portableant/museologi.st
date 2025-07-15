@@ -1,7 +1,7 @@
 ---
 title: "Fad Touch: Creative Economy Engagement"
 section: papers
-date: 2019-10-11
+date: 2022-04-07
 slug: /papers/fad-touch
 keywords: Creative industries, 3D printing, museology, egyptology,archaeology
 citation: "Pett, D., Cooper, C., Glen, A.L., Pitkin, M. & Wexler, J, (2022) Fad Touch in Visual Heritage: Digital Reproduction and Contextualisation in Heritage Science (Chapman, H., Ch`'ng, E, Gaffney, V. & Wilson A. Eds) Springer Visual Heritage Review DOI: 10.1007/978-3-030-77028-0_21"
@@ -15,7 +15,7 @@ featuredImg: ../images/2021/IMG_20191022_152807.jpeg
 background: ../images/2019/ceef/IMG_d6dic4.jpg
 --- 
 
-### Abstract
+### Abstract - this is a preprint version
 
 The purpose of this paper is to discuss the outcomes of the Fitzwilliam Museum’s Arts and Humanities Research Council funded (AHRC) Creative Economy Engagement Fellowships, a practise driven research and development programme and knowledge transfer activity. These four short term posts (6 months in length) aimed to provide the opportunity for Early Career Researchers (ECRs) to work with small/medium enterprises (SMEs) as creative industry partners to explore the interface between 3D printing and associated educational technologies and museological practices, and the public engagement programmes of the University of Cambridge’s (UCAM) principal art museum. The overall shape of this research activity was developed as a rapid response to an internal funding call at UCAM. It was designed by the Principal Investigator (Daniel Pett) and the Museum’s Research Facilitator (Dr Joanne Vine) to approach 4 areas of interest for the museum. These were:
 
@@ -25,6 +25,8 @@ The purpose of this paper is to discuss the outcomes of the Fitzwilliam Museum�
 * and finally how these methods could be reproduced and employed by peer institutions.
 
 Each fellow was recruited to work on a specific project, developed in conjunction with the Museum’s staff and the creative industry partner. This novel approach had not been implemented before in the UCAM museums and provided significant individual contributions to original research (Egyptological studies), major exhibitions (Feast and Fast (F&F)), prototypes for the Being an Islander (BAI) exhibition (now delayed by Covid 19), and a large-scale conference in 2019 held at the Judge Business School.
+
+![The outputs of the Creative Economy Fellowships](../images/papers/meshed-outputs.jpg)
 
 #### Introduction
 
@@ -75,7 +77,8 @@ Low level responses were elicited from the sample, for example "that is nice" an
 
 The print of the ‘Honours for Antiochus’ was placed away from any interpretation of the artefact below the object, out of the sightline of the majority of visitors, but ideal for children and those in a wheelchair.
 
-Figure 1: Left: 3D print of a section of the ‘Honours for Antiochus’ Right: 3D print of a section of the ancient Egyptian shrine built by King Thutmosis III at El Kab (E.40.1902). Produced by ThinkSee3D. Photo: Daniel Pett
+![Figure 1: 3D print of a section of the ‘Honours for Antiochus](../images/papers/honours-3d.jpg) 
+![3D print of a section of the ancient Egyptian shrine built by King Thutmosis III at El Kab (E.40.1902). Produced by ThinkSee3D. Photo: Daniel Pett](../images/papers/heb-3d.jpg)
 
 The print from the Egyptian shrine built by King Thutmosis III at El Kab was placed much closer to the intended view of the artefact, but below the object, so a cursory glance could miss the intervention easily. The artefact itself is on a thoroughfare so many visitors do not stop to engage. In both instances the prints were deliberately deployed by FM curatorial and interpretation staff without full explanation about what they are or why they were placed there. The process brought out the need for advocacy and the need to demonstrate the additional value of these interventions.
 
@@ -107,7 +110,8 @@ As part of an institution-wide effort to remedy statistics like this, the FM Egy
 
 This is done through unexpected interventions – namely the appearance of ‘Pop-Ups’ in locations where people would not normally expect to have a cultural encounter, for example in a pub, supermarket, shopping centre and food bank. This concept has its origins in an outreach project initiated at the Museum of Applied Arts and Sciences (MAAS) in Sydney, Australia in 2012 as part of the exhibition Faith, fashion, fusion: Muslim women’s style in Australia. Exhibition curators, Jones and Pitkin, travelled into the heart of Sydney’s Muslim community (approximately 1 hour from Sydney’s Central Business District) with real objects from the collection, activities and giveaways in order to broaden their reach with their research and strengthen community relationships.
 
-Figure 2: The FM Egyptian Coffin Project’s ‘Pop-Up’ in The Wheatsheaf Inn, Wisbech Photo: Melanie Pitkin
+
+![Figure 2: The FM Egyptian Coffin Project’s ‘Pop-Up’ in The Wheatsheaf Inn, Wisbech Photo: Melanie Pitkin](../images/papers/popup-wetherspoon.jpg)
 
 With the support of the Arts and Humanities Impact Fund (AHIF, UCAM) and the Global Challenges Research Fund (GCRF, UCAM), we were able to pilot this concept in two regions: the Fenland town of Wisbech in Cambridgeshire and also in Cairo and Damietta, Egypt.
 Wisbech was selected owing to its geographically-isolated location and reported status as one of the most deprived towns in the whole of the United Kingdom (National Conversation 2017). About one-third of residents are non-native English speakers from Eastern Europe; there is a high rate of unemployment and many of those with jobs are on the basic minimum wage. According to the 2011 census, 35.1% of Wisbech residents are without qualifications and 19.1% are estimated to have skills at entry level or below for literacy (Cambridgeshire County Council 2016). Compare this to the gilded academic status of Cambridge!
@@ -131,7 +135,9 @@ Thus, our ‘Pop-Up’ offered the following experiences:
 The opportunity to work with creative industry partner TS3D therefore opened up a new world of possibilities for our ‘Pop-Up’ project, particularly in terms of the ability to offer more tactile and visually arresting experiences. From the outset of the project, for example, we envisaged producing some type of interactive experience where visitors could actively assemble and disassemble a coffin, or parts of a coffin, in order to better understand wood construction and joinery. It would also serve as a visual aid to help illustrate the types of technical terms we might use when explaining how a coffin is made (for example, dowels and mortise and tenon joints) and help to give participants a sense of accomplishment through successfully putting it back together.
 Since the element of portability was important for our project, we selected a small rectangular box coffin from the Museum’s collection believed to have been made for a dog called Heb (figure 3: left). Given that TS3D specialise in 3D printing, it seemed instinctive for us to first consider recreating the dog coffin in the form of a 3D print.
 
-Figure 3: Left - Ancient Egyptian box coffin believed to be for a dog from Beni Hasan, Egypt, Dynasty 12, c. 1970-1830 BC. E.47.1902. Right: Dr Geoffrey Killen, expert in ancient Egyptian carpentry, assembling the 1:1 scale craft replica of the dog box coffin. Photo: Melanie Pitkin
+![Figure 3: Ancient Egyptian box coffin believed to be for a dog from Beni Hasan, Egypt, Dynasty 12, c. 1970-1830 BC. E.47.1902.](../images/papers/original-dog-coffin.jpg)
+![Right: Dr Geoffrey Killen, expert in ancient Egyptian carpentry, assembling the 1:1 scale craft replica of the dog box coffin. Photo: Melanie Pitkin](../images/papers/geoff-coffin.jpg)
+
 The production costs of a 1:1 scale coffin made in durable materials for repeat handling, such as gypsum, were instantly an issue. To be affordable, our 3D print would need to be made considerably smaller, raising questions around the importance of authenticity and the multi-sensory experience in 3D printing. According to a 2017 study (Wilson et al 2017) on visitor attitudes to touchable 3D printed replicas in museum exhibitions, for example, “many interviewees” stated that:
 
 > “…the more authentic and realistic looking that the 3D prints were, the better”.
@@ -145,9 +151,16 @@ Although authenticity and process was important for us, we wanted to know if thi
 
 We conducted observations with 30 participants, tracking their engagement with the different components of the ‘Pop-Up’ to see where people spent the most time. Considering the role our facilitation played in this process, and the nature of the hands-on activities, it is perhaps not surprising that participants spent most time talking to subject specialists followed by the painting activity. Another later addition to our evaluation, prompted by the diverse social chats we had with many participants, was a wellbeing study where we invited people to share how they felt both before and after their encounter with the ‘Pop-Up’ Museum. In almost all cases, participants reported feeling an elevated sense of happiness and inspiration after engaging with us.
 
-In turn, what became the main focus of our collaboration with TS3D was the production of a digital 3D animation (https://vimeo.com/356279697) recreated from its CT scans of a 21st Dynasty coffin box belonging to a high official named Nespawershefyt (figure 4).
+In turn, what became the main focus of our collaboration with TS3D was the production of a digital 3D animation recreated from its CT scans of a 21st Dynasty coffin box belonging to a high official named Nespawershefyt (figure 4).
 
-Figure 4: Screenshot from the 3D digital animation derived from CT scans of Nespawershefyt’s inner coffin box produced by ThinkSee3D/Daniel Pett.
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1.5rem;">
+    <div class="embed-responsive embed-responsive-16by9" style="max-width: 640px; width: 100%;">
+        <iframe src="https://player.vimeo.com/video/356279697" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+
+![Figure 4: Screenshot from the 3D digital animation derived from CT scans of Nespawershefyt’s inner coffin box produced by ThinkSee3D/Daniel Pett.](../images/papers/screenshot.jpg)
 
 This animation takes people beyond the surface of the coffin’s decoration to better understand what lies beneath using CT scan technology – for example, the number of pieces of wood used in its construction, how they are joined together and how we can identify reused pieces of wood from other objects, including other coffins. Visitors ‘fly-through’ the coffin to see how it was assembled with narrated commentary and subtitles (in English and Arabic - which were produced by our Arabic speaking associates). People also have the ability to extend this experience beyond the ‘Pop-Up’ Museum by accessing the animation via the Fitzwilliam Egyptian Coffins online resource on any Internet enabled device. This digital resource has since been used within the Museum’s GCRF funded work with the Egyptian Museum Cairo and its ‘Pop-Up’ work with the Wisbech Museum and beyond. The bilingualism and visual nature of this resource provides an ideal teaching aid, supplementing the other digital content (Pitkin et al 2019) presented on the dedicated coffins website.
 
@@ -163,7 +176,8 @@ To this end, we created and tested a prototype of a subscription box service for
 
 The project was broadly divided into two tasks: producing the physical boxes, and producing their intellectual content. Developing a complete prototype box involved the design and/or procurement of: postal packaging, branded mailer sleeves, printed ‘menus’ (displaying the copyright information for each museum object), and collections of 3D printed objects/postcards with NFC stickers attached. Developing the intellectual content of the boxes meant meeting with collections staff to identify suitable objects; researching objects’ background; writing copy for the recordings; acquiring voice actors, and recording appropriate material. Once this was acquired, each NFC sticker was encoded with the appropriate audio file, using the MiaB content management system.
 
-Figure 5: Left - Linocut swan beaks, adapted from the Wisbech Swan Register Centre - Prototypes of mailer sleeves, and a Museum In A Box (left). Photographs: Susannah Bangham.
+![Figure 5: Linocut swan beaks, adapted from the Wisbech Swan Register Centre ](../images/papers/swan-linocut.jpg)
+![Figure 5: Prototypes of mailer sleeves, and a Museum In A Box (left). Photographs: Susannah Bangham.](../images/papers/swan-miab.jpg)
 
 In order to produce 3D models, each fellow was given facilitated training in photogrammetry and the basics of Agisoft’s MetaShape. A long photogrammetry session took place during the official preparatory FM exhibition photography for a mock-Baroque feast. Building the models in the software was the project of several months: the complicated nature of the subjects meant that we needed to fine-tune the models multiple times before they could be viable prints; for example, the lobster used in the feast had trailing tendrils, thin and translucent sections and hard to capture areas.
 
@@ -172,12 +186,16 @@ Outsourcing the design of the sleeves was important not only in aesthetic terms,
 To produce the box’s content and to identify suitable models and research outputs to inform the design of our first collection, we worked closely with Dr. Victoria Avery, co-curator of the F&F exhibition. Once the boxes were complete, they were sent to each member of our test group through Royal Mail. Each member returned the enclosed feedback form, with questions designed to assess their experience of ‘unboxing’. Because sending each member a MiaB would have been prohibitive both in cost and inventory terms, instead these individuals were invited to the FM for a recorded assessment of their reaction to using their collection on a MiaB.
 
 The most successful outcome was the design with the mailer sleeves which attracted widespread commendation, and each arrived at its destination more or less intact (some minor scuffs to the vellum notwithstanding). Positive feedback from the test subjects included ‘beautiful, enticing, neat’; ‘easy access, quality wrapped, pretty’; and ‘elegant, trim’. All subjects confirmed that the mailers fit through their post box; ‘a very good size of parcel’. One of the project’s aims was to assess reaction to a number of different delivery styles for the copy: male/female voices, curatorial/‘lay’ delivery, educational/humorous. Thanks in large part to the skill of the voice actors recruited, these categories were represented in the final product.
+
 There were a number of production and supply delays throughout the process, for example after the artists had completed custom-printed sleeves for the mailer boxes, the company who supplied the boxes withdrew the product from sale. This necessitated the commission of custom boxes in that size, but cardboard is not an exact science, and the final mailer boxes were both over-budget and imperfectly dimensioned. While we had success with MOO in the production of attractive and expediently delivered printed media, this was not the case for the 3D printed objects.
+
 Initial plans to utilise UCAM Dyson Lab 3D printers were not possible due to purchasing, access and logistical reasons; we could not use TS3D due to procurement problems, and therefore we used a USA based print-on-demand company Shapeways. The 3D printed lobsters we ended up with were of excellent quality; however, our original models for a partridge pie did not pass the company’s strict quality standards (due to the thinness of featured sections). Without time to remodel, we were forced to forego this element of the box. Ultimately, these delays meant that a number of our original test subjects were unable to participate in assessment within the new timeframe.
+
 The test study’s participants had mixed reactions to being asked to assess the objects without any further context. Some found the initial engagement ‘intriguing’ and ‘inviting’; others commented that they were disappointed, claiming that ‘at the moment, it seems very detached’. There was also some confusion regarding the second stage of evaluation; some subjects felt that future recipients would need ‘a little more briefing as to how they were supposed to use the objects’. This could be simply rectified by producing a simple document for inclusion in the box, explaining the process (or indeed streamlining the process altogether). To demonstrate the success of this project, the exhibition team installed 3 boxes within F&F for the duration of the exhibition (26 November 2019 - 26 April 2020) (figure 6).
+
 The ‘Wisbech Swan’ design caught the eye of the curators: and shop staff alike; their work was hung in the ‘creative zone’ of the exhibition space above the installation of the boxes. The artists were also commissioned to produce a limited run of art prints, cushions, and scarves for sale in the museum shop during the exhibition. The project has thus increased their visibility, profit and platform within the Cambridge community and beyond (the exhibition was predicted to attract 80-90,000 visitors, but realised 61,254 over two segments interrupted by Covid 19).
 
-Figure 6: The installation of Museum in a Box stations and the artist’s prints. Photo: Daniel Pett
+![Figure 6: The installation of Museum in a Box stations and the artist’s prints. Photo: Daniel Pett](../images/2019/IMG_20200203_161803.jpg)
 
 Through the installation of these commissioned pieces, the creative industry partners (the artists, and MiaB) gained an unexpected larger shop window showcasing the outputs of digital humanities research projects within the museum and potentially reach many thousands of visitors.
 
@@ -190,7 +208,9 @@ The final strand for the original project plan was the creation of boxes which s
 This project has demonstrated that there may be viability for a museum subscription box. The materials here are cost-effective, and readily available online or through local producers. Content concepts are, indeed, almost limitless. Although somewhat time-consuming to design and assemble, such boxes could form part of any major exhibition’s promotional materials. Aside from such pragmatic concerns, the outcomes of this small pilot study have also demonstrated the possibility of engaging wider audiences, in particular those who might be remote from the museum. The major sticking point in this process is the availability and cost of MiaB hardware; although they come at a reasonable price (£249 at time of writing - https://shop.museuminabox.org/collections/frontpage) it is not a figure that many can afford.
 
 ### Acknowledgements
+
 The CEEF 3D team would like to acknowledge the roles played by many colleagues throughout this project; Dr Joanne Vine, Clare Cambridge, Will Wilson, Colin Yaxley, Dom Hill, Julia Wilson, Tom O’Hanlon, James Andrews, Helena Rodwell, Julie Dawson, Kerry Wallis, Liz Irvine, Helen Strudwick, Vicky Avery, Anastasia Christophilopoulou, David Evans, Andrew Bowker, and Georgina Doji.
+
 They would also like to thank Cambridge Art Makers, the AHRC, UKRI GCRF, AHIF, CHRG, Sabah Abd el-Raziq and colleagues at the Egyptian Museum Cairo, Sara Hany Abed, Geoffrey Killen, Gavin Toomey, Patricia Wheatley, Hannah Platts, Julianne Piggott, Richard Rex, Katharine Fry, Philo Van Kemenade and the Mozfest Arts and Culture team, our partners Steve Dey (TS3D), George Oates and Charles Killick (MiaB) and Eugene Ch’ng for his patience with us as we meandered towards finishing this article.
 
 ### Bibliography
