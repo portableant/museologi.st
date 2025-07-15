@@ -2,7 +2,7 @@
 title: Setting up a IIIF system
 date: 2025-07-14
 last_modified_at: 2025-07-14
-description: "Tim Schadla-Hall"
+description: "Instructions on how to set up IIIF services on AWS using Cantaloupe, Directus and S3"
 section: blog
 slug: /blog/iiif-directus-cantaloupe/
 featuredImg: ../images/2025/07/default-2.jpg
