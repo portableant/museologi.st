@@ -65,5 +65,5 @@ export const pageQuery = graphql`
 `
 
 export const Head = (props) => (
-    <Seo title={"Recent talks" + props.pageContext.humanPageNumber} description={"A sporadically populated talks list"} />
+    <Seo title={"Recent talks " + props.pageContext.humanPageNumber} description={"A sporadically populated talks list"} />
 )
