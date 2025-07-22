@@ -7,11 +7,11 @@ keywords: numismatics,archaeology,coins,museology
 citation: "DEJ Pett (2010) Distributing the Wealth: Digital knowledge transfer for Numismatics in Cook, B. (ed) The British Museum and the future of Numismatics, 71-80"
 authors:
   - Daniel Pett (The British Museum)
-featuredImg: ../images/2021/IMG_20191022_152807.jpeg
-background: ../images/2019/ceef/IMG_d6dic4.jpg
+featuredImg: ../images/papers/wealth/4771892790_484bc02279_w.jpg
+background: ../images/papers/wealth/4771254827_0194bb005a_k.jpg
 --- 
 
-In the last decade, significant progress has been made in making collections of numismatic data—specifically focused on individual records of stray coin finds, rather than hoards or banknotes—available online for study by both academic and lay communities. The following section aims to demonstrate how these resources can be leveraged to increase the visibility and accessibility of numismatic knowledge. This discussion does not cover the world of commercial dealerships or individual collectors' online presence, which primarily serve as sources for current valuation information. Instead, it expands upon the paper presented at the Department of Coins and Medals’ 150th anniversary conference.
+In the last decade, significant progress has been made in making collections of numismatic data—specifically focused on individual records of stray coin finds, rather than hoards or banknotes—available online for study by both academic and lay communities. The following section aims to demonstrate how these resources can be leveraged to increase the visibility and accessibility of numismatic knowledge. This discussion does not cover 202the world of commercial dealerships or individual collectors' online presence, which primarily serve as sources for current valuation information. Instead, it expands upon the paper presented at the Department of Coins and Medals’ 150th anniversary conference.
 
 ## Institutional repositories of numismatic material  
 
@@ -56,9 +56,9 @@ This table highlights how the Scheme’s data complements the Early Medieval Coi
 
 **Table 2: The volume of coins by broad period recorded by the Portable Antiquities Scheme**
 
-**Plate 1: A GIS plot of all Roman coins in Wales, demonstrating the overlap of PAS and IARCW**
+![Plate 1: A GIS plot of all Roman coins in Wales, demonstrating the overlap of PAS and IARCW](../images/papers/wealth/plate1Map.png)
 
-**Plate 2: A plot of all coins recorded by the Scheme 1997–2010; individual period maps can be obtained from the PAS website**
+![Plate 2: A plot of all coins recorded by the Scheme 1997–2010; individual period maps can be obtained from the PAS website](../images/papers/wealth/plate2Map.png)
 
 It is straightforward to demonstrate the reach of the Scheme’s recording efforts, as illustrated by a GIS plot of all coins recorded, categorized by period (see Plate 2). Even without detailed statistical analysis, a broad overview reveals certain biases within the data: notable clusters appear around Finds Liaison Officer bases, and patterns are influenced by topography (such as mountains, fens, and roads), land access restrictions (for example, the south-west shows fewer records due to the extent of Duchy of Cornwall land where detecting is prohibited), and geological features. These biases are currently being investigated in detail by Katherine Robbins through an AHRC-funded collaborative PhD between Southampton University and the British Museum, with results anticipated in the near future.
 
@@ -81,14 +81,68 @@ Recent years have seen a rapid increase in numismatic research utilizing the Sch
 A notable completed AHRC-funded project that leveraged Scheme and EMC data is the ‘Viking and Anglo-Saxon Landscape and Economy’ (VASLE) at York University, which integrated coin finds with other artefact classes.<sup>[^19]</sup> One of the most rewarding outcomes of the Scheme’s engagement with young people and communities is the increased uptake of archaeological degrees and the choice to base undergraduate dissertations on numismatic data. For example, Dominic Coyne, who participated in the British Museum’s Young Graduates for Museums and Galleries training programme (run by the Department of Coins and Medals),<sup>[^20]</sup> is now studying at Durham University, focusing his thesis on coin finds of the House of Constantine (AD 306–64) in east Yorkshire and their implications for the economic history of the period.
 
 To enable these research projects to be as comprehensive as possible, the database must capture a rich array of data. It goes beyond traditional numismatic or collections databases by gathering a wide variety of additional information. Every numismatic record produced by the Scheme—whether entered by professionals or the public—is tailored to the coin's period, with relevant fields displayed as needed. For example, the Reece period is shown for Roman coins but not for medieval coins, and a Celtic Coin Index number appears only on Iron Age records. Each record also includes geo-spatial data, allowing coins to be mapped horizontally and, using satellite data, to obtain digital elevation. Plate 3 demonstrates a verified coin record that meets the rigorous standards set by the author, Sam Moorhead (National Finds Adviser for Roman and Iron Age coins), and John Naylor (National Finds Adviser for medieval coins).
+```mermaid
+%%{init: {"bar": {"labelPosition": "above"}}}%%
+graph TD
+    A[Year] --> B[1998]
+    A --> C[1999]
+    A --> D[2000]
+    A --> E[2001]
+    A --> F[2002]
+    A --> G[2003]
+    A --> H[2004]
+    A --> I[2005]
+    A --> J[2006]
+    A --> K[2007]
+    A --> L[2008]
+    A --> M[2009]
 
-**Table 3 Proportion of single finds of gold coins reported to the PAS, the EMC or as Treasure, compared with those identified from other sources**
+    subgraph Stacked Bar Chart
+        B[1998]: 
+            PAS etc: 7
+            Other sources: 2
+        C[1999]: 
+            PAS etc: 3
+            Other sources: 2
+        D[2000]: 
+            PAS etc: 5
+            Other sources: 1
+        E[2001]: 
+            PAS etc: 7
+            Other sources: 0
+        F[2002]: 
+            PAS etc: 2
+            Other sources: 2
+        G[2003]: 
+            PAS etc: 6
+            Other sources: 1
+        H[2004]: 
+            PAS etc: 7
+            Other sources: 3
+        I[2005]: 
+            PAS etc: 8
+            Other sources: 5
+        J[2006]: 
+            PAS etc: 9
+            Other sources: 7
+        K[2007]: 
+            PAS etc: 12
+            Other sources: 5
+        L[2008]: 
+            PAS etc: 5
+            Other sources: 3
+        M[2009]: 
+            PAS etc: 6
+            Other sources: 1
+    end
+```
+**Table 3 Proportion of single finds of gold coins reported to the PAS, the EMC or as Treasure, compared with those identified from other sources** 
 
-**Plate 3: DENO-651C91 A struck gold aureus of Carausius (286–93)**
+![Plate 3: DENO-651C91 A struck gold aureus of Carausius (286–93)](../images/papers/wealth/denoCoin.png)
 
 Every image uploaded to the Scheme’s database is now available in a high-resolution zoom-and-pan interface. This uses the Zoomify technology, enhanced with a custom script developed specifically for this project—similar to the implementation at the National Gallery. These high-resolution images enable detailed examination; for example, Plate 4 displays an aureus of Tiberius from Suffolk (SF-9E7B96).<sup>[^21]</sup>
 
-Plate 4 High resolution image of an aureus of Tiberius
+![Plate 4 High resolution image of an aureus of Tiberius](../images/papers/wealth/zoomify.png)
 
 ## Numismatic guides – a learning aid
 
@@ -126,7 +180,7 @@ graph TD
     B --> E(Mint)
     B --> F(Reece period)
 ```
-**Figure 1 Structured numismatic dropdown model**
+### Figure 1 Structured numismatic dropdown model
 
 ## Leverage social media for gains
 
@@ -156,17 +210,17 @@ For example, both sites reference Rome using the same authoritative URL: [http:/
 
 ## Touching upon linked numismatic data
 
-Earlier in this paper, the concept of linked data was introduced without the reader being apprised of the fact. The coin guides that the Scheme operates make tentative steps towards the consumption of linked data originating from Wikipedia. By using Wikipedia as a form of CMS, the Scheme has saved many hours rewriting biographical abstracts for issuers and been able to retrieve factual information from a variety of sources. This has been implemented by simply utilising the same name as
-used in the 'page slug' on Wikipedia, and then querying a web service called dbPedia (a database extract of the contents of Wikipedia). This returns an XML response that can be parsed
-and redisplayed on the Scheme’s biographical pages and therefore enriches the user experience. Plate 5 provides the example of an end result for Æthelred the Unready.
+Earlier in this paper, the concept of linked data was introduced without the reader being apprised of the fact. The coin guides that the Scheme operates make tentative steps towards the consumption of linked data originating from Wikipedia. By using Wikipedia as a form of CMS, the Scheme has saved many hours rewriting biographical abstracts for issuers and been able to retrieve factual information from a variety of sources. This has been implemented by simply utilising the same name as used in the 'page slug' on Wikipedia, and then querying a web service called dbPedia (a database extract of the contents of Wikipedia). This returns an XML response that can be parsed and redisplayed on the Scheme’s biographical pages and therefore enriches the user experience. Plate 5 provides the example of an end result for Æthelred the Unready.
 
 ## Building your own collection of data
 
-This explosion in data visibility, and the ubiquitous idea of easy access, brings with it a few problems for many numismatists. Many are just interested in one period of coinage and would like to query multiple datasets through one interface. This is an issue that surfaces regularly in the Museum sector, with Europeana and Culture Grid being examples of multiple repositories being searchable via a unified interface. This has been met with varying degrees of enthusiasm, but it should be seen as a step in the right direction. There are indeed ways for individuals to create their own archives. The advent of Open Source technology has led to an explosion of ‘Content Management Systems’ (CMS), freely available and customisable on the internet. It is now possible for institutions and individuals (researchers or collectors) to create their own repository of coin data, using the same toolset that is the underpinning of Europeana – the Open Archives Initiative. Prior to producing this paper, the author created an example application using Omeka, a CMS produced by the Centre for History and New Media at George Mason University.[^39] This powerful software has been created to allow ‘scholars, museums, libraries, archives, and enthusiasts’ to share their collections easily via a free and open source software package (FOSS) and achieve high-quality results. The author installed this software on the Portable Antiquities Scheme server and by using a plug-in for harvesting OAI data feeds, data from the Portable Antiquities Scheme, the Celtic Coin Index and the Hunterian Museum were integrated in a
-matter of hours. The software has much potential for the numismatic community, with the ability to customise user interfaces easily and also the facility to upload data from omnipresent numismatic spreadsheets.
+This explosion in data visibility, and the ubiquitous idea of easy access, brings with it a few problems for many numismatists. Many are just interested in one period of coinage and would like to query multiple datasets through one interface. This is an issue that surfaces regularly in the Museum sector, with Europeana and Culture Grid being examples of multiple repositories being searchable via a unified interface. This has been met with varying degrees of enthusiasm, but it should be seen as a step in the right direction. There are indeed ways for individuals to create their own archives.  
 
+The advent of Open Source technology has led to an explosion of ‘Content Management Systems’ (CMS), freely available and customisable on the internet. It is now possible for institutions and individuals (researchers or collectors) to create their own repository of coin data, using the same toolset that is the underpinning of Europeana – the Open Archives Initiative. Prior to producing this paper, the author created an example application using Omeka, a CMS produced by the Centre for History and New Media at George Mason University.[^39] 
 
-**Plate 5 Æthelred the Unready’s biographical page on the Portable Antiquities Scheme’s website**
+This powerful software has been created to allow ‘scholars, museums, libraries, archives, and enthusiasts’ to share their collections easily via a free and open source software package (FOSS) and achieve high-quality results. The author installed this software on the Portable Antiquities Scheme server and by using a plug-in for harvesting OAI data feeds, data from the Portable Antiquities Scheme, the Celtic Coin Index and the Hunterian Museum were integrated in a matter of hours. The software has much potential for the numismatic community, with the ability to customise user interfaces easily and also the facility to upload data from omnipresent numismatic spreadsheets.
+
+![Plate 5 Æthelred the Unready’s biographical page on the Portable Antiquities Scheme’s website](../images/papers/wealth/coinScreenshot.png)
 
 | Guide                | Google | Bing | Yahoo |
 |----------------------|--------|------|-------|
@@ -177,7 +231,7 @@ matter of hours. The software has much potential for the numismatic community, w
 | Post Medieval coins  | 1      | -    | -     |
 | Byzantine coins      | 1      | -    | -     |
 
-**Table 4 Position of the coin guides on Google.co.uk as at 25/2/2011**
+### Table 4 Position of the coin guides on Google.co.uk as at 25/2/2011
 
 | Search Phrase                | Page Views | Time Spent                |
 |------------------------------|------------|---------------------------|
@@ -190,7 +244,7 @@ matter of hours. The software has much potential for the numismatic community, w
 | Site: finds.org.uk           | 192        | 1 hour 15 mins            |
 | Early medieval coin guide    | —          | —                         |
 
-**Table 5 Long length visits for numismatic material on finds.org.uk**
+### Table 5 Long length visits for numismatic material on finds.org.uk
 
 ## Measuring impact
 
@@ -232,12 +286,11 @@ Continued progress in this field depends on sustained project development, ongoi
 | Viking and Anglo-Saxon Landscape and Economy  | VASLE        | Research project integrating coin and artefact finds |
 | Extensible Markup Language           | XML          | Standard for encoding documents in a machine-readable format |
 
-
 ## Notes
 
-[^1] http://www.britishmuseum.org/explore/young_explorers/discover/videos/a_brief_history_of_money.aspx  
-[^2] http://www.wildwinds.com/  
-[^3] The Numidat database only has 200 records in the online version. Offline, 20,000 are available (pers. comm. David Wigg-Wolf, February 2011)    
+[^1] [British Museum Young Explorers - Brief History of Money (404)](http://www.britishmuseum.org/explore/young_explorers/discover/videos/a_brief_history_of_money.aspx)  
+[^2] [Wildwinds Coin Website](http://www.wildwinds.com/)  
+[^3] The Numidat database only has 200 records in the online version. Offline, 20,000 are available (pers. comm. David Wigg-Wolf, February 2011)  
 [^4] This figure is from a pers. comm. Sebastian Heath, February 2011   
 [^5] PAS incorporates the CCI and IARCW data, this figure is excluding the totals for these resources  
 [^6] The figure for the EMC data is for single coin finds (pers. comm. John Naylor, February 2011).    
@@ -246,36 +299,36 @@ Continued progress in this field depends on sustained project development, ongoi
 [^9] The majority of the data the Scheme collects is rural, but some of the incorporated data (IARWC and CCI) comes from urban excavation.
 [^10] Daubney 2009.
 [^11] Daubeney 2010.
-[^12] For Dandolo, see [WMID-249932](http://www.finds.org.uk/database/artefacts/record/id/262227) and for Foscari see [WMID-9A8817](http://www.finds.org.uk/database/artefacts/record/id/425736).
-[^13] Moorhead 2010.
-[^14] Bland & Loriot 2010, 31, fig. 22, reproduced above.
-[^15] [WAW-4497B5](http://www.finds.org.uk/database/artefacts/record/id/428960).
-[^16] See Leins and Kelleher in this volume.
+[^12] For Dandolo, see [WMID-249932](http://www.finds.org.uk/database/artefacts/record/id/262227) and for Foscari see [WMID-9A8817](http://www.finds.org.uk/database/artefacts/record/id/425736)  
+[^13] Moorhead 2010  
+[^14] Bland & Loriot 2010, 31, fig. 22, reproduced above  
+[^15] [WAW-4497B5](http://www.finds.org.uk/database/artefacts/record/id/428960)  
+[^16] See Leins and Kelleher in this volume  
 [^17] A book of Walton’s PhD research is to be published late 2011.
-[^18] http://finds.org.uk/research/projects
+[^18] [List of research projects on PAS](http://finds.org.uk/research/projects)
 [^19] Naylor & Richards 2007.
-[^20] http://www.britishmuseum.org/learning/schools_and_teachers/young_graduates.aspx.
-[^21] http://www.finds.org.uk/database/artefacts/record/id/148551
+[^20] [Young Grads programme - British Museum](http://www.britishmuseum.org/learning/schools_and_teachers/young_graduates.aspx)  
+[^21] [SF-9E7B96](http://www.finds.org.uk/database/artefacts/record/id/148551)
 [^22] Pett 2009.
-[^23] For example, see Bolsover Castle – http://www.english-heritage.org.uk/daysout/properties/bolsover-castle/
-[^24] http://twitter.com/#!/portableant/status/40192330879213568 – a Faustina I denarius.
-[^25] http://www.facebook.com/PortableAntiquitiesScheme/posts/101644986582084 – Civil War denarius of Vindex.  
-[^26] http://www.wittylama.com/2010/03/the-british-museum-and-me/  
+[^23] For example, see [Bolsover Castle](https://www.english-heritage.org.uk/visit/places/bolsover-castle/)  
+[^24] [a Faustina I denarius](http://twitter.com/#!/portableant/status/40192330879213568)  
+[^25] [Civil War denarius of Vindex](http://www.facebook.com/PortableAntiquitiesScheme/posts/101644986582084)  
+[^26] [The British Museum and Me](http://www.wittylama.com/2010/03/the-british-museum-and-me/)  
 [^27] Bland, Booth & Moorhead 2010.  
-[^28] http://stats.grok.se/en/201007/Frome_Hoard.  
-[^29] http://stats.grok.se/en/201007/Hoxne_Hoard – Wikipedia stats for Hoxne.  
-[^30] http://en.wikipedia.org/wiki/Talk:Crosby_Garrett_Helmet – refer to section under picture.  
-[^31] http://commons.wikimedia.org/wiki/Category:Portable_Antiquities_Scheme.  
+[^28] [Wikipedia Frome Hoard statistics](http://stats.grok.se/en/201007/Frome_Hoard)  
+[^29] [Wikipedia stats for Hoxne](http://stats.grok.se/en/201007/Hoxne_Hoard)  
+[^30] [Wikipedia Crosby Garrett Helmet talk](http://en.wikipedia.org/wiki/Talk:Crosby_Garrett_Helmet) – refer to section under picture.  
+[^31] [Wikicommons PAS images](http://commons.wikimedia.org/wiki/Category:Portable_Antiquities_Scheme)    
 [^32] Radio episodes: 25 (gold coin of Croesus); 31 (coin of Lysimachus with head of Alexander); 42 (gold coin of Kumaragupta I); 46 (gold coins of Abd al-Malik); 56 (Vale of York hoard); 80 (pieces of
-Eight); 95 (Suffragette defaced penny).  
+Eight); 95 (Suffragette defaced penny)  
 ^[33] Heath 2010.  
-[^34] Pers. comm. Heath, February 2011.  
+[^34] Pers. comm. Heath, February 2011  
 [^35] OAI-PMH: Open Archives Initiative develops protocols for disseminating disparate resources efficiently. It is a model used by MLA sponsored Culture Grid and the European Union funded project Europeana.  
 [^36] Blackburn 2005.  
 [^37] [http://www.geonames.org/](http://www.geonames.org/)  
 [^38] [http://nomisma.org/](http://nomisma.org/)  
 [^39] http://7pillarsofwisdom.co.uk/omeka - now obsolete  
 [^40] The Celtic Coin Index is also run from the Scheme’s domain, and ranks higher.  
-[^41] Following Google’s search index reorganisation, these figures might change. For more information on the changes, see: http://googleblog.blogspot.com/2011/02/finding-more-high-quality-sites-in.html.  
+[^41] Following Google’s search index reorganisation, these figures might change. [For more information on the changes](http://googleblog.blogspot.com/2011/02/finding-more-high-quality-sites-in.html)  
 [^42] Shiels 2010  
-[^43] Chan 2008 
+[^43] Chan 2008  

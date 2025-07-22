@@ -219,7 +219,10 @@ module.exports = {
                         options: {
                             classMap: {
                                 "table": "table"
-                            }
+                            },
+                            footnotes: true,
+                            // GitHub Flavored Markdown mode (default: true)
+                            gfm: true
                         }
                     },
                     {
