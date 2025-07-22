@@ -256,46 +256,46 @@ Continued progress in this field depends on sustained project development, ongoi
 
 ## Notes
 
-[^1] [British Museum Young Explorers - Brief History of Money (404)](http://www.britishmuseum.org/explore/young_explorers/discover/videos/a_brief_history_of_money.aspx)  
-[^2] [Wildwinds Coin Website](http://www.wildwinds.com/)  
-[^3] The Numidat database only has 200 records in the online version. Offline, 20,000 are available (pers. comm. David Wigg-Wolf, February 2011)  
-[^4] This figure is from a pers. comm. Sebastian Heath, February 2011   
-[^5] PAS incorporates the CCI and IARCW data, this figure is excluding the totals for these resources  
-[^6] The figure for the EMC data is for single coin finds (pers. comm. John Naylor, February 2011).    
-[^7] This figure includes the imported date from the Oxford university Celtic Coin Index, 37,925 coins.    
-[^8] This figure includes the imported data from Cardiff university’sIron Age and Roman coins of Wales project, 52,666 coins  
-[^9] The majority of the data the Scheme collects is rural, but some of the incorporated data (IARWC and CCI) comes from urban excavation.
-[^10] Daubney 2009  
-[^11] Daubney 2010  
-[^12] For Dandolo, see [WMID-249932](http://www.finds.org.uk/database/artefacts/record/id/262227) and for Foscari see [WMID-9A8817](http://www.finds.org.uk/database/artefacts/record/id/425736)  
-[^13] Moorhead 2010  
-[^14] Bland & Loriot 2010, 31, fig. 22, reproduced above  
-[^15] [WAW-4497B5](http://www.finds.org.uk/database/artefacts/record/id/428960)  
-[^16] See Leins and Kelleher in this volume  
-[^17] A book of Walton’s PhD research is to be published late 2011  
-[^18] [List of research projects on PAS](http://finds.org.uk/research/projects)
-[^19] Naylor & Richards 2007.
-[^20] [Young Grads programme - British Museum](http://www.britishmuseum.org/learning/schools_and_teachers/young_graduates.aspx)  
-[^21] [SF-9E7B96](http://www.finds.org.uk/database/artefacts/record/id/148551)
-[^22] Pett 2009.
-[^23] For example, see [Bolsover Castle](https://www.english-heritage.org.uk/visit/places/bolsover-castle/)  
-[^24] [a Faustina I denarius](http://twitter.com/#!/portableant/status/40192330879213568)  
-[^25] [Civil War denarius of Vindex](http://www.facebook.com/PortableAntiquitiesScheme/posts/101644986582084)  
-[^26] [The British Museum and Me](http://www.wittylama.com/2010/03/the-british-museum-and-me/)  
-[^27] Bland, Booth & Moorhead 2010.  
-[^28] [Wikipedia Frome Hoard statistics](http://stats.grok.se/en/201007/Frome_Hoard)  
-[^29] [Wikipedia stats for Hoxne](http://stats.grok.se/en/201007/Hoxne_Hoard)  
-[^30] [Wikipedia Crosby Garrett Helmet talk](http://en.wikipedia.org/wiki/Talk:Crosby_Garrett_Helmet) – refer to section under picture.  
-[^31] [Wikicommons PAS images](http://commons.wikimedia.org/wiki/Category:Portable_Antiquities_Scheme)  
-[^32] A History of the World in 100 objects: [Episode 25 gold coin of Croesus](https://open.spotify.com/episode/78PYDT1hvDbi2YaO9lfcVr?si=NdUUtROEQUOa-IXG6Oj3UQ); [Episode 31 coin of Lysimachus with head of Alexander](https://open.spotify.com/episode/4IX2jUptWvREYvH5Fqd0vT?si=rTc8vZPdR3CcNpFhSUivlA); [Episode 42 gold coin of Kumaragupta I](https://open.spotify.com/episode/3fEkQG6jQupN2RqOlCgJpE?si=UViNKYsHRr6HyVzYMeK1yg); [Episode 46 gold coins of Abd al-](https://open.spotify.com/episode/23fdVo61B19wGyxVq0WhWZ?si=tuZBG8SnT7y8nhZdX-C4vg); [Episode 56 Vale of York hoard](https://open.spotify.com/episode/3C34xppJO0KfXgnn6VKujy?si=sAHqqNUBRGKvgvf8QDKEgg); [Episode 80 pieces of Eight](https://open.spotify.com/episode/6mA0ojJgXAZ9UJOxxdzpYP?si=PlO02NH9QRaHBF3Da0uXqA); [Episode 95 Suffragette defaced penny](https://open.spotify.com/episode/2D22PRwFjugGymvbVuM70L?si=hbdGK8KySFygl5Xd4MmL4Q)    
-[^33] Heath 2010.  
-[^34] Pers. comm. Heath, February 2011  
-[^35] OAI-PMH: Open Archives Initiative develops protocols for disseminating disparate resources efficiently. It is a model used by MLA sponsored Culture Grid and the European Union funded project Europeana.  
-[^36] Blackburn 2005.  
-[^37] [http://www.geonames.org/](http://www.geonames.org/)  
-[^38] [http://nomisma.org/](http://nomisma.org/)  
-[^39] http://7pillarsofwisdom.co.uk/omeka - now obsolete  
-[^40] The Celtic Coin Index is also run from the Scheme’s domain, and ranks higher.  
-[^41] Following Google’s search index reorganisation, these figures might change. [For more information on the changes](http://googleblog.blogspot.com/2011/02/finding-more-high-quality-sites-in.html)  
-[^42] Shiels 2010  
-[^43] Chan 2008  
+[^1]: [British Museum Young Explorers - Brief History of Money (404)](http://www.britishmuseum.org/explore/young_explorers/discover/videos/a_brief_history_of_money.aspx)  
+[^2]: [Wildwinds Coin Website](http://www.wildwinds.com/)  
+[^3]: The Numidat database only has 200 records in the online version. Offline, 20,000 are available (pers. comm. David Wigg-Wolf, February 2011)  
+[^4]: This figure is from a pers. comm. Sebastian Heath, February 2011   
+[^5]: PAS incorporates the CCI and IARCW data, this figure is excluding the totals for these resources  
+[^6]: The figure for the EMC data is for single coin finds (pers. comm. John Naylor, February 2011).    
+[^7]: This figure includes the imported date from the Oxford university Celtic Coin Index, 37,925 coins.    
+[^8]: This figure includes the imported data from Cardiff university’sIron Age and Roman coins of Wales project, 52,666 coins  
+[^9]: The majority of the data the Scheme collects is rural, but some of the incorporated data (IARWC and CCI) comes from urban excavation.
+[^10]: Daubney 2009  
+[^11]: Daubney 2010  
+[^12]: For Dandolo, see [WMID-249932](http://www.finds.org.uk/database/artefacts/record/id/262227) and for Foscari see [WMID-9A8817](http://www.finds.org.uk/database/artefacts/record/id/425736)  
+[^13]: Moorhead 2010  
+[^14]: Bland & Loriot 2010, 31, fig. 22, reproduced above  
+[^15]: [WAW-4497B5](http://www.finds.org.uk/database/artefacts/record/id/428960)  
+[^16]: See Leins and Kelleher in this volume  
+[^17]: A book of Walton’s PhD research is to be published late 2011  
+[^18]: [List of research projects on PAS](http://finds.org.uk/research/projects)
+[^19]: Naylor & Richards 2007.
+[^20]: [Young Grads programme - British Museum](http://www.britishmuseum.org/learning/schools_and_teachers/young_graduates.aspx)  
+[^21]: [SF-9E7B96](http://www.finds.org.uk/database/artefacts/record/id/148551)
+[^22]: Pett 2009.
+[^23]: For example, see [Bolsover Castle](https://www.english-heritage.org.uk/visit/places/bolsover-castle/)  
+[^24]: [a Faustina I denarius](http://twitter.com/#!/portableant/status/40192330879213568)  
+[^25]: [Civil War denarius of Vindex](http://www.facebook.com/PortableAntiquitiesScheme/posts/101644986582084)  
+[^26]: [The British Museum and Me](http://www.wittylama.com/2010/03/the-british-museum-and-me/)  
+[^27]: Bland, Booth & Moorhead 2010.  
+[^28]: [Wikipedia Frome Hoard statistics](http://stats.grok.se/en/201007/Frome_Hoard)  
+[^29]: [Wikipedia stats for Hoxne](http://stats.grok.se/en/201007/Hoxne_Hoard)  
+[^30]: [Wikipedia Crosby Garrett Helmet talk](http://en.wikipedia.org/wiki/Talk:Crosby_Garrett_Helmet) – refer to section under picture.  
+[^31]: [Wikicommons PAS images](http://commons.wikimedia.org/wiki/Category:Portable_Antiquities_Scheme)  
+[^32]: A History of the World in 100 objects: [Episode 25 gold coin of Croesus](https://open.spotify.com/episode/78PYDT1hvDbi2YaO9lfcVr?si=NdUUtROEQUOa-IXG6Oj3UQ); [Episode 31 coin of Lysimachus with head of Alexander](https://open.spotify.com/episode/4IX2jUptWvREYvH5Fqd0vT?si=rTc8vZPdR3CcNpFhSUivlA); [Episode 42 gold coin of Kumaragupta I](https://open.spotify.com/episode/3fEkQG6jQupN2RqOlCgJpE?si=UViNKYsHRr6HyVzYMeK1yg); [Episode 46 gold coins of Abd al-](https://open.spotify.com/episode/23fdVo61B19wGyxVq0WhWZ?si=tuZBG8SnT7y8nhZdX-C4vg); [Episode 56 Vale of York hoard](https://open.spotify.com/episode/3C34xppJO0KfXgnn6VKujy?si=sAHqqNUBRGKvgvf8QDKEgg); [Episode 80 pieces of Eight](https://open.spotify.com/episode/6mA0ojJgXAZ9UJOxxdzpYP?si=PlO02NH9QRaHBF3Da0uXqA); [Episode 95 Suffragette defaced penny](https://open.spotify.com/episode/2D22PRwFjugGymvbVuM70L?si=hbdGK8KySFygl5Xd4MmL4Q)    
+[^33]: Heath 2010.  
+[^34]: Pers. comm. Heath, February 2011  
+[^35]: OAI-PMH: Open Archives Initiative develops protocols for disseminating disparate resources efficiently. It is a model used by MLA sponsored Culture Grid and the European Union funded project Europeana.  
+[^36]: Blackburn 2005.  
+[^37]: [http://www.geonames.org/](http://www.geonames.org/)  
+[^38]: [http://nomisma.org/](http://nomisma.org/)  
+[^39]: http://7pillarsofwisdom.co.uk/omeka - now obsolete  
+[^40]: The Celtic Coin Index is also run from the Scheme’s domain, and ranks higher.  
+[^41]: Following Google’s search index reorganisation, these figures might change. [For more information on the changes](http://googleblog.blogspot.com/2011/02/finding-more-high-quality-sites-in.html)  
+[^42]: Shiels 2010  
+[^43]: Chan 2008  
