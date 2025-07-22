@@ -81,61 +81,29 @@ Recent years have seen a rapid increase in numismatic research utilizing the Sch
 A notable completed AHRC-funded project that leveraged Scheme and EMC data is the ‘Viking and Anglo-Saxon Landscape and Economy’ (VASLE) at York University, which integrated coin finds with other artefact classes.<sup>[^19]</sup> One of the most rewarding outcomes of the Scheme’s engagement with young people and communities is the increased uptake of archaeological degrees and the choice to base undergraduate dissertations on numismatic data. For example, Dominic Coyne, who participated in the British Museum’s Young Graduates for Museums and Galleries training programme (run by the Department of Coins and Medals),<sup>[^20]</sup> is now studying at Durham University, focusing his thesis on coin finds of the House of Constantine (AD 306–64) in east Yorkshire and their implications for the economic history of the period.
 
 To enable these research projects to be as comprehensive as possible, the database must capture a rich array of data. It goes beyond traditional numismatic or collections databases by gathering a wide variety of additional information. Every numismatic record produced by the Scheme—whether entered by professionals or the public—is tailored to the coin's period, with relevant fields displayed as needed. For example, the Reece period is shown for Roman coins but not for medieval coins, and a Celtic Coin Index number appears only on Iron Age records. Each record also includes geo-spatial data, allowing coins to be mapped horizontally and, using satellite data, to obtain digital elevation. Plate 3 demonstrates a verified coin record that meets the rigorous standards set by the author, Sam Moorhead (National Finds Adviser for Roman and Iron Age coins), and John Naylor (National Finds Adviser for medieval coins).
-```mermaid
-%%{init: {"bar": {"labelPosition": "above"}}}%%
-graph TD
-    A[Year] --> B[1998]
-    A --> C[1999]
-    A --> D[2000]
-    A --> E[2001]
-    A --> F[2002]
-    A --> G[2003]
-    A --> H[2004]
-    A --> I[2005]
-    A --> J[2006]
-    A --> K[2007]
-    A --> L[2008]
-    A --> M[2009]
 
-    subgraph Stacked Bar Chart
-        B[1998]: 
-            PAS etc: 7
-            Other sources: 2
-        C[1999]: 
-            PAS etc: 3
-            Other sources: 2
-        D[2000]: 
-            PAS etc: 5
-            Other sources: 1
-        E[2001]: 
-            PAS etc: 7
-            Other sources: 0
-        F[2002]: 
-            PAS etc: 2
-            Other sources: 2
-        G[2003]: 
-            PAS etc: 6
-            Other sources: 1
-        H[2004]: 
-            PAS etc: 7
-            Other sources: 3
-        I[2005]: 
-            PAS etc: 8
-            Other sources: 5
-        J[2006]: 
-            PAS etc: 9
-            Other sources: 7
-        K[2007]: 
-            PAS etc: 12
-            Other sources: 5
-        L[2008]: 
-            PAS etc: 5
-            Other sources: 3
-        M[2009]: 
-            PAS etc: 6
-            Other sources: 1
-    end
+```mermaid
+    xychart-beta
+        title "Sources Over Years"
+    x-axis ["1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009"]
+    y-axis "Count"
+    bar [7, 3, 5, 7, 2, 6, 7, 8, 9, 12, 5, 6] 
+    bar [2, 2, 1, 0, 2, 1, 3, 5, 7, 5, 3, 1]
 ```
+| Year | PAS etc | Other sources |
+| :--- | :------ | :------------ |
+| 1998 | 7       | 2             |
+| 1999 | 3       | 2             |
+| 2000 | 5       | 1             |
+| 2001 | 7       | 0             |
+| 2002 | 2       | 2             |
+| 2003 | 6       | 1             |
+| 2004 | 7       | 3             |
+| 2005 | 8       | 5             |
+| 2006 | 9       | 7             |
+| 2007 | 12      | 5             |
+| 2008 | 5       | 3             |
+| 2009 | 6       | 1             |
 **Table 3 Proportion of single finds of gold coins reported to the PAS, the EMC or as Treasure, compared with those identified from other sources** 
 
 ![Plate 3: DENO-651C91 A struck gold aureus of Carausius (286–93)](../images/papers/wealth/denoCoin.png)
