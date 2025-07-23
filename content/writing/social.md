@@ -461,6 +461,7 @@ The author would like to thank Ian Richardson, Lena Zimmer, Ruth Levis, Katharin
 [^33]: A "like" is a user interaction, where one shows appreciation for a web page, an object or event
 [^34]: A "follower" on Twitter is basically a subscriber to a list of comments, much like deciding to listen to a radio station. One can turn off at will.
 [^35]: For example the Parthenon marbles restitution, Cyrus Cylinder to Iran and Benin Bronzes arguments
+[^36]: [British Museum Facebook Profile](https://www.facebook.com/britishmuseum?sk=info) (accessed September 20 2011)
 [^37]: For example Twitter campaigns for #askacurator or #craftdebate
 [^38]: Software available at: [yourTwapperKeeper](http://your.twapperkeeper.com/) (accessed September 20 2011)
 [^39]: [Grayson Perry competition](http://www.britishmuseum.org/whats_on/exhibitions/grayson_perry/competition.aspx) (accessed September 20 2011)
