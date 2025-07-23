@@ -9,6 +9,13 @@ authors:
   - Daniel Pett (Historic England)
 featuredImg: ../images/img.png
 background: ../images/img.png
+tags:
+  - digital transformation
+  - museums
+  - archaeology
+  - digital humanities
+  - digital heritage
+  - digital archaeology
 ---
 
 ## Abstract - this is a preprint version

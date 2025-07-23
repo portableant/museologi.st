@@ -13,6 +13,16 @@ authors:
   - Dr Jennifer Wexler (The British Museum)
 featuredImg: ../images/2021/IMG_20191022_152807.jpeg
 background: ../images/2019/ceef/IMG_d6dic4.jpg
+tags:
+  - digital transformation
+  - museums
+  - archaeology
+  - digital humanities
+  - digital heritage
+  - digital archaeology
+  - 3D
+  - tactile
+  - computing
 --- 
 
 ### Abstract - this is a preprint version

@@ -1,5 +1,5 @@
 ---
-title: "Distributing the Wealth Digital Knowledge Transfer for Numismatics"
+title: "Distributing the Wealth: Digital Knowledge Transfer for Numismatics"
 section: papers
 date: 2010-03-20
 slug: /papers/distributing-the-wealth
@@ -9,6 +9,12 @@ authors:
   - Daniel Pett (The British Museum)
 featuredImg: ../images/papers/wealth/4771892790_484bc02279_w.jpg
 background: ../images/papers/wealth/4771254827_0194bb005a_k.jpg
+tags:
+  - museums
+  - archaeology
+  - digital humanities
+  - heritage
+  - numismatics
 --- 
 
 In the last decade, significant progress has been made in making collections of numismatic data—specifically focused on individual records of stray coin finds, rather than hoards or banknotes—available online for study by both academic and lay communities. The following section aims to demonstrate how these resources can be leveraged to increase the visibility and accessibility of numismatic knowledge. This discussion does not cover 202the world of commercial dealerships or individual collectors' online presence, which primarily serve as sources for current valuation information. Instead, it expands upon the paper presented at the Department of Coins and Medals’ 150th anniversary conference.
