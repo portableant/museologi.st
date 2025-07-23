@@ -451,7 +451,7 @@ The author would like to thank Ian Richardson, Lena Zimmer, Ruth Levis, Katharin
 [^23]: [Portable Antiquities Scheme](https://finds.org.uk)
 [^24]: API – Application Programming Interface: a method for interacting with software
 [^25]: Flickr is one of the few social media sites that charges for access (where primary focus is not music). Many social web platforms subject users to unobtrusive advertising to maintain a revenue stream. Museums can of course use the advertising to promote themselves: Facebook and Google ads for example.
-[^26]: Originally published at [staffordshirehoard.org.uk](http://www.staffordshirehoard.org.uk) and now at [https://finds.org.uk/staffshoard](http://finds.org.uk/staffshoard) as the Staffordshire Hoard partnership replaced the old site with a magazine style format.
+[^26]: Originally published at [staffordshirehoard.org.uk](http://www.staffordshirehoard.org.uk) and now at [https://staffordshire-hoard.museologi.st](https://staffordshire-hoard.museologi.st) as the Staffordshire Hoard partnership replaced the old site with a magazine style format.
 [^27]: For information on mobile based projects worldwide see [wiki.museummobile.info](http://wiki.museummobile.info/) (accessed September 9 2011)
 [^28]: [A history of the world](http://www.bbc.co.uk/ahistoryoftheworld/objects/iTEvLsbQRxilYjAO5TZ3mA) (accessed September 9 2011)
 [^29]: [Akan Drum exhibit](http://www.britishmuseum.org/whats_on/archive_exhibitions/akan_drum.aspx) (accessed September 9 2011)
