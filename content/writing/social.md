@@ -425,6 +425,58 @@ Questions remain about exactly what audience museums are gathering via social me
 
 The author would like to thank Ian Richardson, Lena Zimmer, Ruth Levis, Katharine Kelland, and Matthew Cock (British Museum), and the peer reviewers Tyler Bell (Factual Inc.), Chiara Bonacchi, and Andy Bevan (University College London) for their comments on this article.
 
+## Footnotes 
+
+[^1]: See [Four Pillars of Enterprise Application Architecture](http://confusedofcalcutta.com/category/four-pillars-of-enterprise-application-architecture/) (accessed September 6, 2011).
+[^2]: Population figures were obtained from the [ONS Mid-2010 Population Estimates](http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--england-and-wales--scotland-and-northern-ireland/mid-2010-population-estimates/rft---mid-2010-population-estimates.zip) (accessed September 6, 2011).
+[^3]: For more details on the concept of Nintendo Wii Mii avatars, see the [Wikipedia article on Mii](http://en.wikipedia.org/wiki/Mii) (accessed September 27, 2011).
+[^4]: [British Archaeology mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=britarch)
+[^5]: [Museums Computer Group mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=mcg)
+[^6]: Friends Reunited and MySpace's troubles are well documented as they have declined (see Garrahan 2009, Arrington 2011).
+[^7]: The CASPAR workshop back channel was documented via [Storify](http://storify.com/jessogden/acrncaspar)
+[^8]: Twitter launched publicly in August 2006 and is still searching for viable monetisation strategies to survive; it is limited in its scope for advertising when compared to Google or Facebook.
+[^9]: Image by Annie Mole, Creative Commons licensed. [View on Flickr](http://www.flickr.com/photos/anniemole/5573997732/sizes/z/in/photostream/) (accessed September 7, 2011).
+[^10]: [Twitter Blog: One Hundred Million Voices](http://blog.twitter.com/2011/09/one-hundred-million-voices.html). Author's emphasis in bold.
+[^11]: Author's emphasis in bold
+[^12]: The British Museum has a web presence, with around 10 constituent parts that get returned overall annually. Online visit figure obtained from Google Analytics September 11 2011.
+[^13]: 20 % of the BM website visits are for use of the collection online section (Ghey 2011: 68)  
+[^14]: In the BM strategy document, page 3, this has been expanded to: A space 'not only for the learned and curious' but also 'for the benefit of the general public' – a centre of research and inquiry at all levels.
+[^15]: [Hajj Stories](http://www.britishmuseum.org/whats_on/exhibitions/hajj/hajj_stories.aspx) (accessed October 3 2011)
+[^16]: Winner of the 2011 Art Fund Prize for Museums (Brown 2011, Prudames 2011)
+[^17]: [History Hack Day](http://historyhackday.org/)
+[^18]: [HOTW Mobile](http://hotw.cgb.im/mobile)
+[^19]: [Category Wikipedia:GLAM/BM](http://en.wikipedia.org/wiki/Wikipedia:GLAM/BM) (accessed September 27, 2011)
+[^20]: [Hoxne hoard](http://en.wikipedia.org/wiki/Hoxne_hoard) – view the edit history, with particular reference to June's edits
+[^21]: [Frome Hoard](http://en.wikipedia.org/wiki/Frome_Hoard)
+[^22]: [Staffordshire hoard](http://en.wikipedia.org/wiki/Staffordshire_hoard)
+[^23]: [Portable Antiquities Scheme](https://finds.org.uk)
+[^24]: API – Application Programming Interface: a method for interacting with software
+[^25]: Flickr is one of the few social media sites that charges for access (where primary focus is not music). Many social web platforms subject users to unobtrusive advertising to maintain a revenue stream. Museums can of course use the advertising to promote themselves: Facebook and Google ads for example.
+[^26]: Originally published at [staffordshirehoard.org.uk](http://www.staffordshirehoard.org.uk) and now at [https://finds.org.uk/staffshoard](http://finds.org.uk/staffshoard) as the Staffordshire Hoard partnership replaced the old site with a magazine style format.
+[^27]: For information on mobile based projects worldwide see [wiki.museummobile.info](http://wiki.museummobile.info/) (accessed September 9 2011)
+[^28]: [A history of the world](http://www.bbc.co.uk/ahistoryoftheworld/objects/iTEvLsbQRxilYjAO5TZ3mA) (accessed September 9 2011)
+[^29]: [Akan Drum exhibit](http://www.britishmuseum.org/whats_on/archive_exhibitions/akan_drum.aspx) (accessed September 9 2011)
+[^30]: [Akan Drum playlist](http://www.britishmuseum.org/whats_on/all_current_exhibitions/akan_drum/akan_drum_playlist.aspx) (accessed September 9 2011)
+[^31]: They do produce an intended (narrow) audience, cost and use limitation: those without access to the correct hardware and software are excluded from interacting with them and overseas visitors can incur high costs for roaming bandwidth usage (let alone language specific delivery.) Not everyone knows how these codes can be utilised.
+[^32]: [Vimeo page](https://vimeo.com/25782400) (accessed September 20 2011)
+[^33]: A "like" is a user interaction, where one shows appreciation for a web page, an object or event
+[^34]: A "follower" on Twitter is basically a subscriber to a list of comments, much like deciding to listen to a radio station. One can turn off at will.
+[^35]: For example the Parthenon marbles restitution, Cyrus Cylinder to Iran and Benin Bronzes arguments
+[^37]: For example Twitter campaigns for #askacurator or #craftdebate
+[^38]: Software available at: [yourTwapperKeeper](http://your.twapperkeeper.com/) (accessed September 20 2011)
+[^39]: [Grayson Perry competition](http://www.britishmuseum.org/whats_on/exhibitions/grayson_perry/competition.aspx) (accessed September 20 2011)
+[^40]: See Bonacchi et al in this volume
+[^41]: [Young Explorers](http://www.britishmuseum.org/explore/young_explorers/discover/videos/brief_history_of_time_telling.aspx) (accessed September 20 2011)
+[^42]: [British Museum Blog](http://blog.britishmuseum.org) (accessed September 2 2011)
+[^43]: [Portable Antiquities Scheme Blogs](http://finds.org.uk/blogs) (accessed September 1 2011)
+[^44]: For example, see Shawn Graham’s analysis of the digital media project [Day of Archaeology](http://electricarchaeologist.wordpress.com/2011/08/03/day-of-archaeology-shape-of-the-twittersphere/)
+[^45]: [Museum of London App](http://www.museumoflondon.org.uk/Resources/app/you-are-here-app/index)(accessed September 1 2011)
+[^46]: [History Pin Partners](http://www.historypin.com/community-partners-lams/) (accessed September 20 2011)
+[^47]: [History Pin Brooklyn Museum](http://www.historypin.com/profile/view/Brooklyn%20Museum) (accessed September 20 2011)
+[^48]: [Brooklyn Museum foursquare](http://www.brooklynmuseum.org/community/foursquare/) (accessed September 20 2011)
+[^49]: [Brooklyn Museum 1st Fans](http://www.brooklynmuseum.org/support/1stfans) (accessed September 20 2011)
+[^50]: [Tweet and Grow](http://www.kew.org/visit-kew-gardens/summer/tweet-and-grow/index.htm) (accessed September 8 2011)
+
 ## Bibliography
 
 Arrington, M. 2011. "Amazingly, MySpace's Decline Is Accelerating" [online] 23 March. Available at:  
@@ -616,55 +668,3 @@ Watters, A. 2011 "How recent changes to Twitter's terms of service might hurt ac
 Wyatt, L. 2010 "The British Museum and me" [online] Available at:  
 [http://www.wittylama.com/2010/03/the-british-museum-and-me/](http://www.wittylama.com/2010/03/the-british-museum-and-me/) (accessed 7 June 2011)
 
-## Footnotes 
-
-[^1]: See [Four Pillars of Enterprise Application Architecture](http://confusedofcalcutta.com/category/four-pillars-of-enterprise-application-architecture/) (accessed September 6, 2011).
-[^2]: Population figures were obtained from the [ONS Mid-2010 Population Estimates](http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--england-and-wales--scotland-and-northern-ireland/mid-2010-population-estimates/rft---mid-2010-population-estimates.zip) (accessed September 6, 2011).
-[^3]: For more details on the concept of Nintendo Wii Mii avatars, see the [Wikipedia article on Mii](http://en.wikipedia.org/wiki/Mii) (accessed September 27, 2011).
-[^4]: [British Archaeology mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=britarch)
-[^5]: [Museums Computer Group mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=mcg)
-[^6]: Friends Reunited and MySpace's troubles are well documented as they have declined (see Garrahan 2009, Arrington 2011).
-[^7]: The CASPAR workshop back channel was documented via [Storify](http://storify.com/jessogden/acrncaspar)
-[^8]: Twitter launched publicly in August 2006 and is still searching for viable monetisation strategies to survive; it is limited in its scope for advertising when compared to Google or Facebook.
-[^9]: Image by Annie Mole, Creative Commons licensed. [View on Flickr](http://www.flickr.com/photos/anniemole/5573997732/sizes/z/in/photostream/) (accessed September 7, 2011).
-[^10]: [Twitter Blog: One Hundred Million Voices](http://blog.twitter.com/2011/09/one-hundred-million-voices.html). Author's emphasis in bold.
-[^11]: Author's emphasis in bold
-[^12]: The British Museum has a web presence, with around 10 constituent parts that get returned overall annually. Online visit figure obtained from Google Analytics September 11 2011.
-[^13]: 20 % of the BM website visits are for use of the collection online section (Ghey 2011: 68)  
-[^14]: In the BM strategy document, page 3, this has been expanded to: A space 'not only for the learned and
-curious' but also 'for the benefit of the general public' – a centre of research and inquiry at all levels.
-[^15]: [Hajj Stories](http://www.britishmuseum.org/whats_on/exhibitions/hajj/hajj_stories.aspx) (accessed October 3 2011)
-[^16]: Winner of the 2011 Art Fund Prize for Museums (Brown 2011, Prudames 2011)
-[^17]: [History Hack Day](http://historyhackday.org/)
-[^18]: [HOTW Mobile](http://hotw.cgb.im/mobile)
-[^19]: [Category Wikipedia:GLAM/BM](http://en.wikipedia.org/wiki/Wikipedia:GLAM/BM) (accessed September 27, 2011)
-[^20]: [Hoxne hoard](http://en.wikipedia.org/wiki/Hoxne_hoard) – view the edit history, with particular reference to June's edits
-[^21]: [Frome Hoard](http://en.wikipedia.org/wiki/Frome_Hoard)
-[^22]: [Staffordshire hoard](http://en.wikipedia.org/wiki/Staffordshire_hoard)
-[^23]: [Portable Antiquities Scheme](https://finds.org.uk)
-[^24]: API – Application Programming Interface: a method for interacting with software
-[^25]: Flickr is one of the few social media sites that charges for access (where primary focus is not music). Many social web platforms subject users to unobtrusive advertising to maintain a revenue stream. Museums can of course use the advertising to promote themselves: Facebook and Google ads for example.
-[^26]: Originally published at [staffordshirehoard.org.uk](http://www.staffordshirehoard.org.uk) and now at [https://finds.org.uk/staffshoard](http://finds.org.uk/staffshoard) as the Staffordshire Hoard partnership replaced the old site with a magazine style format.
-[^27]: For information on mobile based projects worldwide see [wiki.museummobile.info](http://wiki.museummobile.info/) (accessed September 9 2011)
-[^28]: [A history of the world](http://www.bbc.co.uk/ahistoryoftheworld/objects/iTEvLsbQRxilYjAO5TZ3mA) (accessed September 9 2011)
-[^29]: [Akan Drum exhibit](http://www.britishmuseum.org/whats_on/archive_exhibitions/akan_drum.aspx) (accessed September 9 2011)
-[^30]: [Akan Drum playlist](http://www.britishmuseum.org/whats_on/all_current_exhibitions/akan_drum/akan_drum_playlist.aspx) (accessed September 9 2011)
-[^31]: They do produce an intended (narrow) audience, cost and use limitation: those without access to the correct hardware and software are excluded from interacting with them and overseas visitors can incur high costs for roaming bandwidth usage (let alone language specific delivery.) Not everyone knows how these codes can be utilised.
-[^32]: [Vimeo page](https://vimeo.com/25782400) (accessed September 20 2011)
-[^33]: A "like" is a user interaction, where one shows appreciation for a web page, an object or event
-[^34]: A "follower" on Twitter is basically a subscriber to a list of comments, much like deciding to listen to a radio station. One can turn off at will.
-[^35]: For example the Parthenon marbles restitution, Cyrus Cylinder to Iran and Benin Bronzes arguments
-[^37]: For example Twitter campaigns for #askacurator or #craftdebate
-[^38]: Software available at: [yourTwapperKeeper](http://your.twapperkeeper.com/) (accessed September 20 2011)
-[^39]: [Grayson Perry competition](http://www.britishmuseum.org/whats_on/exhibitions/grayson_perry/competition.aspx) (accessed September 20 2011)
-[^40]: See Bonacchi et al in this volume
-[^41]: [Young Explorers](http://www.britishmuseum.org/explore/young_explorers/discover/videos/brief_history_of_time_telling.aspx) (accessed September 20 2011)
-[^42]: [British Museum Blog](http://blog.britishmuseum.org) (accessed September 2 2011)
-[^43]: [Portable Antiquities Scheme Blogs](http://finds.org.uk/blogs) (accessed September 1 2011)
-[^44]: For example, see Shawn Graham’s analysis of the digital media project [Day of Archaeology](http://electricarchaeologist.wordpress.com/2011/08/03/day-of-archaeology-shape-of-the-twittersphere/)
-[^45]: [Museum of London App](http://www.museumoflondon.org.uk/Resources/app/you-are-here-app/index)(accessed September 1 2011)
-[^46]: [History Pin Partners](http://www.historypin.com/community-partners-lams/) (accessed September 20 2011)
-[^47]: [History Pin Brooklyn Museum](http://www.historypin.com/profile/view/Brooklyn%20Museum) (accessed September 20 2011)
-[^48]: [Brooklyn Museum foursquare](http://www.brooklynmuseum.org/community/foursquare/) (accessed September 20 2011)
-[^49]: [Brooklyn Museum 1st Fans](http://www.brooklynmuseum.org/support/1stfans) (accessed September 20 2011)
-[^50]: [Tweet and Grow](http://www.kew.org/visit-kew-gardens/summer/tweet-and-grow/index.htm) (accessed September 8 2011)es have 
