@@ -111,9 +111,9 @@ The best platforms adapt and integrate well with the rest of the web ecosystem: 
 
 This statement could apply equally well to the Facebook age: the richer experience offered by online platforms that allow for text, images, sound and even video chat has now started to impact on social interactions offline. People now have a wide circle of online friends and this may in many cases eventually enable them to meet in the offline world. Likewise, social media allows for long distance friendships to be maintained, or in the case of institutions, they can sustain a relationship with people who may have been only briefly interested in a particular collection or have visited one time in their life but now have an opportunity to keep up with events.
 
-Social media now percolates to all societal levels; it allows for conference participation via back channels (see Ross et al. 2011 for discussion about relative merits of this concept), it enables companies to “search for their brand on Facebook” or use Google voice search (see figure 3 for an example); it enables unverified information to enter into journalistic output, with articles based entirely around Twitter[^8] comment. Mainstream television programmes can now display a hash tag without any explanation due to the ubiquitous nature of social media. For example the recent “Arab Spring” revolt was reported worldwide with a heavy reliance on social media (for reporting and also for co-ordination and audio-visual capture of action (Howard 2011)), as were the August riots (Halliday 2011) in the United Kingdom; so much so, Government agencies mooted that social media usage should be restricted (Rainey 2011)
+Social media now percolates to all societal levels; it allows for conference participation via back channels (see Ross et al. 2011 for discussion about relative merits of this concept), it enables companies to “search for their brand on Facebook” or use Google voice search (see figure 3 for an example); it enables unverified information to enter into journalistic output, with articles based entirely around Twitter[^8] comment. Mainstream television programmes can now display a hash tag without any explanation due to the ubiquitous nature of social media. For example the recent “Arab Spring” revolt was reported worldwide with a heavy reliance on social media (for reporting and also for co-ordination and audio-visual capture of action (Howard 2011)), as were the August riots (Halliday 2011) in the United Kingdom; so much so, Government agencies mooted that social media usage should be restricted (Rainey 2011). The image[^9] below of one of Google's advertising campaigns shows how social media is becoming pervasive.
 
-![Figure 3: One of Google's social web adverts at Piccadilly Circus[^9]](../images/papers/socmedia/figure3.png)
+![Figure 3: One of Google's social web adverts at Piccadilly Circus](../images/papers/socmedia/figure3.png)
 
 ## 3. The Facebook phenomenon
 
@@ -152,7 +152,7 @@ During the judging for the Art Fund 2011 award, Michael Portillo commented:
 
 > "Above all, we felt that this project, which showed a truly pioneering use of digital media, has led the way for museums tointeract with their audiences in new and different ways. Without changing the core of the British Museum's purpose, people have and are continuing to engage with objects in an innovative way as a consequence of this project." (Brown 2011)
 
-The series also inspired third party developers to build related content, with the History Hack Day 2011 17 winner producing a mobile phone based application[^18]  that allowed the user to interact with the entire series in the space of around only 12 hours.
+The series also inspired third party developers to build related content, with the History Hack Day 2011[^17] winner producing a mobile phone based application[^18]  that allowed the user to interact with the entire series in the space of around only 12 hours.
 
 #### Wikipedia
 
@@ -198,7 +198,7 @@ volleyball team uniform (Eleftheriou-Smith 2011)). The SDDC has also experimente
 
 The BM's Facebook page (see figure 5) has been in operation since April 2009 and is used as a discursive interface for the Museum's activities. At the time of writing (September 5th 2011), the profile has attracted 137,776 likes and has had 6,178 check-ins. The information page provides clear links to the Museum's other social personas for other audiences (of which it has several, just as many individuals also project multiple distinct identities on the web; DiMicco & Millen 2007). All of the BM's activities online and via the creative departments are aided by the strong brand awareness and high visibility in the world's press (see Bonacchi, Furneaux and Pett for further discussion of the importance of brand in this volume.) This is of course something that many organisations can only aspire to, and the authors appreciate their privileged position. All of the above concepts are tied to specific benchmarks which help to determine whether the mediums chosen are worthwhile; for example on Facebook a target of 200,000 'likes'[^33] has already been reached, and for Twitter, the target of 100,000 _followers_[^34] should be realised by March 2012.
 
-The BM has many areas of contention that can spark intense online debate; issues such as  repatriation[^35] of objects or human remains and therefore the institution’s Facebook presence offers a clear statement of expectation and rules of engagement for host and participants:
+The BM has many areas of contention that can spark intense online debate; issues such as  repatriation[^35] of objects or human remains and therefore the institution’s Facebook[^36] presence offers a clear statement of expectation and rules of engagement for host and participants:
 
 > This page is an open forum where anyone is welcome to contribute. Discussion is encouraged, but please be aware that any offensive, defamatory, obscene or harassing comments or personal attacks of any kind will be removed. Spamming, repeat submissions of the same (or very similar) contributions or content that is off-topic may also be removed.  
 
@@ -622,6 +622,6 @@ Ward, W.J. 2011 "How Quickly Has Social Media Grown And How Large Is The Global 
 
 Warry, E. 2011 "Classroom CSI: developing a video conferencing model for investigating British Archaeology in Schools." Unpublished Master's thesis.
 
-Watters, A. 2011 "How recent changes to Twitter's terms of service might hurt academic research" [Available via](http://www.readwriteweb.com/archives/how_recent_changes_to_twitters_terms_of_service_mi.php) (accessed 1 June 2011)
+Watters, A. 2011 "How recent changes to Twitter's terms of service might hurt academic research" [Available via](https://readwrite.com/how_recent_changes_to_twitters_terms_of_service_mi/) (accessed 1 June 2011)
 
 Wyatt, L. 2010 "The British Museum and me" [Available via](http://www.wittylama.com/2010/03/the-british-museum-and-me/) (accessed 7 June 2011)
