@@ -41,7 +41,7 @@ The report identifies five main online interaction categories:
 4. Share
 5. Create.
 
-These 5 factors indicate the importance of museums and cultural institutions being active on social media platforms and making them a key marketing channel. These factors also nicely align with the _'4 pillars of enterprise'_ that Rangaswami discusses (figure 1).
+These 5 factors indicate the importance of museums and cultural institutions being active on social media platforms and making them a key marketing channel. These factors also nicely align with the _'4 pillars of enterprise'_ that Rangaswami[^1] discusses (figure 1).
 
 | ACE Report Criteria | Rangaswami's Pillars of Enterprise  |
 |---------------------|-------------------------------------|
@@ -64,7 +64,7 @@ Institutions need to choose carefully which aspects of such digital media to whi
 
 ## 2. Platforms for engagement: choice abounds
 
-In the last few years, an explosion of social media platforms has led to a huge array of options for anyone wishing to create an online persona, whether the latter is an ‘avatar’ (i.e. an incarnation of a person as they perceive themselves or wish to be perceived by others, for example someone’s Wii Mii3 avatar) - or as an accurate representation of the user and generate their own content. Social media is about creating references to self: or “Me media” as Cassidy (2006) styles it.
+In the last few years, an explosion of social media platforms has led to a huge array of options for anyone wishing to create an online persona, whether the latter is an ‘avatar’ (i.e. an incarnation of a person as they perceive themselves or wish to be perceived by others, for example someone’s Wii Mii[^3] avatar) - or as an accurate representation of the user and generate their own content. Social media is about creating references to self: or “Me media” as Cassidy (2006) styles it.
 
 This projected persona can heavily influence the interactions and engagements that users have with one another and with various services (for example see Tringham and Morgan’s Second Life recreation of Çatalhöyük, Morgan 2009: 479-481 or DiMicco & Millen 2007’s work on identity projection and interaction via Facebook’s). Each social media platform attempts to produce a unique selling point (USP), whether this involves an emphasis on geographic (Location Based Service - LBS), visual (for example photo and video sharing), prose based (blogs) or micro update services. A limited selection of the wide range of platforms available for social media participation is displayed in figure 2.
 
