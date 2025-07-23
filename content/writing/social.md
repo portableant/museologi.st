@@ -82,7 +82,7 @@ Breen, in essence, has captured a more general trend of the web as it has moved 
 | Micro updates                    | Twitter                                                                                      |
 | Location based                   | Foursquare, Gowalla, Google Latitude, Facebook Places, Geocaching, Historypin                |
 | Photo sharing                    | Flickr, Picasa                                                                               |
-| Multipurpose/community sites     | Facebook, Google+, Ning, Buddypress, Orkut, Friends Reunited, MySpace, Lanyrd, Yammer, Naseeb, Muxlim, Muslimbook |
+| Multipurpose/community sites     | Facebook, Google+, Ning, Buddypress, Orkut, Friends Reunited[^6], MySpace, Lanyrd, Yammer, Naseeb, Muxlim, Muslimbook |
 | Video sharing                    | YouTube, Vimeo                                                                               |
 | Link shortening                  | Bitly, TinyURL, Goo.gl                                                                       |
 | Mobile phone applications        | Tweet and Grow, Streetmuseum, Historypin                                                     |
