@@ -267,11 +267,11 @@ As with all professional activity, the development of a clear strategy is impera
 
 Strategy documents for museums and archaeological institutions and organisations are few and far between; probably due to the youthfulness of the medium and the fact that good strategy has yet to be defined! A few reasonable pieces published specifically for museums do exist (for example Stewart 2010, Smithsonian 2009) and more generally, social media policy draws inspiration from Sir Gus O'Donnell's exhortations (pride, passion, pace and professionalism: Civil Service 2009b) to the civil service to:
 
-a. Be credible: Be accurate, fair, thorough and transparent.
-b. Be consistent: Encourage constructive criticism and deliberation. Be cordial, honest and professional at all times.
-c. Be responsive: When you gain insight, share it where appropriate.
-d. Be integrated: Wherever possible, align online participation with other offline communications.
-e.Be a civil servant: Remember that you are an ambassador for your organisation. Wherever possible, disclose your position as a representative of your department or agency.
+- Be credible: Be accurate, fair, thorough and transparent.
+- Be consistent: Encourage constructive criticism and deliberation. Be cordial, honest and professional at all times.
+- Be responsive: When you gain insight, share it where appropriate.
+-  Be integrated: Wherever possible, align online participation with other offline communications.
+- Be a civil servant: Remember that you are an ambassador for your organisation. Wherever possible, disclose your position as a representative of your department or agency.
 
 This is sage advice for all professional engagement online, but in reality it is impossible to actually control social media output by institutional employees and general encouragement to behave with common sense is a much better tactic to adopt than outright regulation.
 
@@ -644,7 +644,7 @@ curious' but also 'for the benefit of the general public' – a centre of resear
 [^23]: [Portable Antiquities Scheme](https://finds.org.uk)
 [^24]: API – Application Programming Interface: a method for interacting with software
 [^25]: Flickr is one of the few social media sites that charges for access (where primary focus is not music). Many social web platforms subject users to unobtrusive advertising to maintain a revenue stream. Museums can of course use the advertising to promote themselves: Facebook and Google ads for example.
-[^26]: Originally published at [staffordshirehoard.org.uk](http://www.staffordshirehoard.org.uk) and now at [finds.org.uk/staffshoard](http://finds.org.uk/staffshoard) as the Staffordshire Hoard partnership replaced the old site with a magazine style format.
+[^26]: Originally published at [staffordshirehoard.org.uk](http://www.staffordshirehoard.org.uk) and now at [https://finds.org.uk/staffshoard](http://finds.org.uk/staffshoard) as the Staffordshire Hoard partnership replaced the old site with a magazine style format.
 [^27]: For information on mobile based projects worldwide see [wiki.museummobile.info](http://wiki.museummobile.info/) (accessed September 9 2011)
 [^28]: [A history of the world](http://www.bbc.co.uk/ahistoryoftheworld/objects/iTEvLsbQRxilYjAO5TZ3mA) (accessed September 9 2011)
 [^29]: [Akan Drum exhibit](http://www.britishmuseum.org/whats_on/archive_exhibitions/akan_drum.aspx) (accessed September 9 2011)
@@ -653,6 +653,7 @@ curious' but also 'for the benefit of the general public' – a centre of resear
 [^32]: [Vimeo page](https://vimeo.com/25782400) (accessed September 20 2011)
 [^33]: A "like" is a user interaction, where one shows appreciation for a web page, an object or event
 [^34]: A "follower" on Twitter is basically a subscriber to a list of comments, much like deciding to listen to a radio station. One can turn off at will.
+[^35]: For example the Parthenon marbles restitution, Cyrus Cylinder to Iran and Benin Bronzes arguments
 [^37]: For example Twitter campaigns for #askacurator or #craftdebate
 [^38]: Software available at: [yourTwapperKeeper](http://your.twapperkeeper.com/) (accessed September 20 2011)
 [^39]: [Grayson Perry competition](http://www.britishmuseum.org/whats_on/exhibitions/grayson_perry/competition.aspx) (accessed September 20 2011)
@@ -660,6 +661,7 @@ curious' but also 'for the benefit of the general public' – a centre of resear
 [^41]: [Young Explorers](http://www.britishmuseum.org/explore/young_explorers/discover/videos/brief_history_of_time_telling.aspx) (accessed September 20 2011)
 [^42]: [British Museum Blog](http://blog.britishmuseum.org) (accessed September 2 2011)
 [^43]: [Portable Antiquities Scheme Blogs](http://finds.org.uk/blogs) (accessed September 1 2011)
+[^44]: For example, see Shawn Graham’s analysis of the digital media project [Day of Archaeology](http://electricarchaeologist.wordpress.com/2011/08/03/day-of-archaeology-shape-of-the-twittersphere/)
 [^45]: [Museum of London App](http://www.museumoflondon.org.uk/Resources/app/you-are-here-app/index)(accessed September 1 2011)
 [^46]: [History Pin Partners](http://www.historypin.com/community-partners-lams/) (accessed September 20 2011)
 [^47]: [History Pin Brooklyn Museum](http://www.historypin.com/profile/view/Brooklyn%20Museum) (accessed September 20 2011)
