@@ -52,9 +52,9 @@ These 5 factors indicate the importance of museums and cultural institutions bei
 
 Figure 1: Synergy between Rangaswami's '4 pillars of enterprise' and the ACE criteria.
 
-The report seeks to demonstrates that Internet users are creative and want to engage with the online resource that they are interacting with (however if the 90-9-1 (also known as ‘participation inequality’) rule is applied, then the potential creative audience is relatively small - circa 10%, the tip of the pyramid, see Nielsen 2006, Wallis 2010:27.) 
+The report seeks to demonstrates that Internet users are creative and want to engage with the online resource that they are interacting with (however if the 90-9-1 (also known as ‘participation inequality’) rule is applied, then the potential creative audience is relatively small - circa 10%, the tip of the pyramid, see Nielsen 2006, Wallis 2010:27.)
 
-Another finding from the ACE et al. report is that: 
+Another finding from the ACE et al. report is that:
 
 >“Those engaged in arts and culture online are also engaged on arts and culture offline. There is great potential for cross-promoting and cross-fertilising audiences” (Ibid: 17)
 
@@ -501,7 +501,7 @@ British Museum 2011 "2010 - 2011 Review" [Available via](http://www.britishmuseu
 
 Brown, M. 2011 "British Museum wins Art Fund prize" [Available via](http://www.guardian.co.uk/culture/2011/jun/15/british-museum-wins-arts-fund-prize) (accessed on September 5 2011)
 
-Cassidy J, 2006 "Me media" [online] [Available via](http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy) (accessed on September 6 2011)
+Cassidy J, 2006 "Me media" n[Available via](http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy) (accessed on September 6 2011)
 
 Civil Service, 2009a "Principles for participation online" [Available via](http://www.civilservice.gov.uk/about/resources/participation-online.aspx) (accessed on September 1 2011)
 
@@ -519,47 +519,39 @@ El Dahshan, M 2011 "Facebook has little to fear from Muslim social networking si
 
 Eleftheriou-Smith, L. 2011, "Betfair puts QR codes on beach volleyball bum" [Available via](http://www.marketingmagazine.co.uk/news/1084029/Betfair-puts-QR-codes-beach-volleyball-bums/) (accessed September 6 2011)
 
-Ellison, N. B., Steinfield, C., & Lampe, C. 2007 "The benefits of Facebook "friends:" Social capital and college students' use of online social network sites." Journal of Computer-Mediated Communication, 12(4), article 1. line] Available at:  
-[http://jcmc.indiana.edu/vol12/issue4/ellison.html](http://jcmc.indiana.edu/vol12/issue4/ellison.html) (accessed September 2 2011)
+Ellison, N. B., Steinfield, C., & Lampe, C. 2007 "The benefits of Facebook "friends:" Social capital and college students' use of online social network sites." Journal of Computer-Mediated Communication, 12(4), article 1. [Available via](http://jcmc.indiana.edu/vol12/issue4/ellison.html) (accessed September 2 2011)
 
-Finnis, J., Chan, S. and Clements, R. 2011a. "How to Evaluate Online Success? A New Piece of Action Research." In: Trant, J. & Bearman, D. (eds.) 2011 "Museums and the Web 2011: Proceedings" Toronto: Archives & Museum Informatics [online] Available at:  
-[http://conference.archimuse.com/mw2011/papers/how_to_evaluate_online_success_a_new_piece_of_](http://conference.archimuse.com/mw2011/papers/how_to_evaluate_online_success_a_new_piece_of_) (accessed 9 June 2011)
+Finnis, J., Chan, S. and Clements, R. 2011a. "How to Evaluate Online Success? A New Piece of Action Research." In: Trant, J. & Bearman, D. (eds.) 2011 "Museums and the Web 2011: Proceedings" Toronto: Archives & Museum Informatics [Available via](http://conference.archimuse.com/mw2011/papers/how_to_evaluate_online_success_a_new_piece_of_) (accessed 9 June 2011)
 
 Finnis, J., Chan, S. & Clements, R. 2011b. "Let's get real: How to evaluate online success" Brighton: Culture24
 
 Fiske, A. P. 1991. "Structures of Social Life: The Four Elementary Forms of Human Relations." New York: The Free Press.
 
-Fishkin, R. 2011 "Tracking the KPIs of Social Media" [online]  
-[http://www.seomoz.org/blog/tracking-the-roi-of-social-media](http://www.seomoz.org/blog/tracking-the-roi-of-social-media) (accessed September 8 2011)
+Fishkin, R. 2011 "Tracking the KPIs of Social Media" [Available via](http://www.seomoz.org/blog/tracking-the-roi-of-social-media) (accessed September 8 2011)
 
 Gardner, A. 2012 "Strategy Games and Engagement Strategies" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
 
-Garrahan M., 2009. The rise and fall of MySpace [online] 4 December. Available at:  
-[http://www.ft.com/cms/s/2/fd9ffd9c-dee5-11de-adff-00144feab49a.html#axzz1TK1iZYYR](http://www.ft.com/cms/s/2/fd9ffd9c-dee5-11de-adff-00144feab49a.html#axzz1TK1iZYYR) (accessed July 26 2011)
+Garrahan M., 2009. The rise and fall of MySpace 4 December. [Available via](http://www.ft.com/cms/s/2/fd9ffd9c-dee5-11de-adff-00144feab49a.html#axzz1TK1iZYYR) (accessed July 26 2011)
 
 Ghey, E. 2011 "Collections online at the British Museum" in Cook, B. (ed.) 2011 "The British Museum and the future of UK numismatics" pp. 68-70 London: British Museum Press
 
-Gibbins, W. 2011 "Local authorities should realise the potential in social media" [online] Available at:   [http://www.guardian.co.uk/guardian-professional/2011/mar/03/engagement-hr](http://www.guardian.co.uk/guardian-professional/2011/mar/03/engagement-hr) (accessed on September 6 2011)
+Gibbins, W. 2011 "Local authorities should realise the potential in social media" [Available via](http://www.guardian.co.uk/guardian-professional/2011/mar/03/engagement-hr) (accessed on September 6 2011)
 
 Goskar, T 2012 "Wessex archaeology and the web" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
 
-Halliday J, 2011 "London riots: how Blackberry Messenger played a key role" [online] Available at:   [http://www.guardian.co.uk/media/2011/aug/08/london-riots-facebook-twitter-blackberry](http://www.guardian.co.uk/media/2011/aug/08/london-riots-facebook-twitter-blackberry) (accessed on September 5 2011)
+Halliday J, 2011 "London riots: how Blackberry Messenger played a key role" [Available via](http://www.guardian.co.uk/media/2011/aug/08/london-riots-facebook-twitter-blackberry) (accessed on September 5 2011)
 
-Higgins C., 2009. "Museums' future lies on the internet, say Serota and MacGregor" [online] July 8. Available at:  [http://www.guardian.co.uk/artanddesign/2009/jul/08/museums-future-lies-online](http://www.guardian.co.uk/artanddesign/2009/jul/08/museums-future-lies-online) (accessed 25 July 2011)
+Higgins C., 2009. "Museums' future lies on the internet, say Serota and MacGregor" [Available via](http://www.guardian.co.uk/artanddesign/2009/jul/08/museums-future-lies-online) (accessed 25 July 2011)
 
-Howard, P.N. 2011 "Digital media and the Arab Spring" [online] Available at:  
-[http://blogs.reuters.com/great-debate/2011/02/16/digital-media-and-the-arab-spring/](http://blogs.reuters.com/great-debate/2011/02/16/digital-media-and-the-arab-spring/) (accessed on September 5 2011)
+Howard, P.N. 2011 "Digital media and the Arab Spring" [Available via](http://blogs.reuters.com/great-debate/2011/02/16/digital-media-and-the-arab-spring/) (accessed on September 5 2011)
 
-Imagemakers 2011 "Digital Participation and Learning: 22 Case Studies" [online] Available at:  
-[http://www.hlf.org.uk/aboutus/howwework/Documents/Digital_report_Sept2011.pdf](http://www.hlf.org.uk/aboutus/howwework/Documents/Digital_report_Sept2011.pdf) (accessed September 8 2011)
+Imagemakers 2011 "Digital Participation and Learning: 22 Case Studies" [Available via](http://www.hlf.org.uk/aboutus/howwework/Documents/Digital_report_Sept2011.pdf) (accessed September 8 2011)
 
 Jeater, M & Lee, V. 2012 "Smartphones and site interpretation: the Museum of London's Streetmuseum™ applications" in Bonacchi C. (ed.), 2012. Archaeologists and the Digital. Towards Strategies of Engagement. London: Archetype Publications
 
-Joyce, R.A & Tringham, R.E. 2007 "Feminist Adventures in Hypertext" in "Journal of Archaeological Method and Theory" Volume 14. Number 3 pp 328 - 358 London: Springer [online] Available at:  
-[http://www.jstor.org/stable/25702347](http://www.jstor.org/stable/25702347) (accessed September 2 2011) DOI 10.1007/s10816-007-9036-2
+Joyce, R.A & Tringham, R.E. 2007 "Feminist Adventures in Hypertext" in "Journal of Archaeological Method and Theory" Volume 14. Number 3 pp 328 - 358 London: Springer [Available via](http://www.jstor.org/stable/25702347) (accessed September 2 2011) DOI 10.1007/s10816-007-9036-2
 
-Kaplan, A.M. & Haenlein, M. (2010). "Users of the world, unite! The challenges and opportunities of Social Media". Business Horizons 53 (1): 59–68. [online] Available at:  
-[http://www.sciencedirect.com/science/article/pii/S0007681309001232](http://www.sciencedirect.com/science/article/pii/S0007681309001232) (accessed on September 5 2011)
+Kaplan, A.M. & Haenlein, M. (2010). "Users of the world, unite! The challenges and opportunities of Social Media". Business Horizons 53 (1): 59–68. [Available via](http://www.sciencedirect.com/science/article/pii/S0007681309001232) (accessed on September 5 2011)
 
 Kennedy, M. 2011 "British Museum remains UK's top attraction for fourth year running" [Available via](http://www.guardian.co.uk/culture/2011/jun/28/british-museum-top-attraction) (accessed September 7 2011)
 
