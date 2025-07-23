@@ -27,37 +27,12 @@ This paper will demonstrate how social media can be used and implemented within 
 
 The use of social media in the digital arena now permeates our life with many of us participating via a  variety of methods and devices (the mobile device now becoming especially ubiquitous and presenting its own particular challenges). Individuals and institutions thereby have taken on a wide variety of overlapping and/or conflicting identities on each. This dialogue mechanism allows for a multi-vocal engagement between institutions and consumers, via community engagement and democratised access to information.
 
-These services can range from high profile platforms (for example Facebook and Twitter) to meet-up 
-groups, forums and knowledge banks and online games which will be discussed below. Social media 
-tools are just one of the many methods used within the ‘marketing mix’ to engage with museum, arts, 
-cultural and archaeological audiences; but for the purposes of this paper, it will be the only medium 
-discussed. Digital media now provide a way to interact and engage in dialogue with a new audience, 
-for example a younger or worldwide audience could now be courted by a local museum, where 
-previously this may have been beyond their means. It is a mechanism for broadcasting cultural 
-propaganda, to influence target audiences and create new relationships. However these channels of 
-communication are two-way and not just unidirectional broadcasting mechanisms (as many marketing 
-tools are traditionally). 
+These services can range from high profile platforms (for example Facebook and Twitter) to meet-up groups, forums and knowledge banks and online games which will be discussed below. Social media tools are just one of the many methods used within the ‘marketing mix’ to engage with museum, arts, cultural and archaeological audiences; but for the purposes of this paper, it will be the only medium discussed. Digital media now provide a way to interact and engage in dialogue with a new audience, for example a younger or worldwide audience could now be courted by a local museum, where previously this may have been beyond their means. It is a mechanism for broadcasting cultural propaganda, to influence target audiences and create new relationships. However these channels of communication are two-way and not just unidirectional broadcasting mechanisms (as many marketing tools are traditionally). 
 
-Social media are ultimately about engagement, dialogue and the creation of 
-social capital. They are extensions of the news generated in the traditional hard copy, allowing 
-anyone to break stories, become a valued influence and create a wider network of interested people.
-Marketing via social media has thus expanded into a new realm: that of community-building and direct 
-interaction and all of this can be achieved relatively cheaply and with low numbers of dedicated
-personnel services can range from high profile platforms (for example Facebook and Twitter) to meet-up
-groups, forums and knowledge banks and online games which will be discussed below. Social media
-tools are just one of the many methods used within the 'marketing mix' to engage with museum, arts,
-cultural and archaeological audiences; but for the purposes of this paper, it will be the only medium
-discussed. Digital media now provide a way to interact and engage in dialogue with a new audience,
-for example a younger or worldwide audience could now be courted by a local museum, where
-previously this may have been beyond their means.
+Social media are ultimately about engagement, dialogue and the creation of social capital. They are extensions of the news generated in the traditional hard copy, allowing anyone to break stories, become a valued influence and create a wider network of interested people. Marketing via social media has thus expanded into a new realm: that of community-building and direct interaction and all of this can be achieved relatively cheaply and with low numbers of dedicated personnel services can range from high profile platforms (for example Facebook and Twitter) to meet-up groups, forums and knowledge banks and online games which will be discussed below. Social media tools are just one of the many methods used within the 'marketing mix' to engage with museum, arts, cultural and archaeological audiences; but for the purposes of this paper, it will be the only medium discussed. Digital media now provide a way to interact and engage in dialogue with a new audience,
+for example a younger or worldwide audience could now be courted by a local museum, where previously this may have been beyond their means.
 
-The recent publication of national reports on digital markets in various sectors of UK life demonstrates 
-the importance of taking this market seriously. For example, the Arts Council England, MLA and Arts 
-& Business (ACE et al. from here on) research document “Digital audiences: engagement with arts 
-and culture online” (2010:4,18) suggests that 53% of the online population (currently 18 million fixed 
-broadband lines exist at the end of 2010 (Ofcom 2011)) have used the Internet to engage with arts 
-and culture in the past 12 months (with an increase to 62% for those in the 16 - 34 year old age 
-bracket).
+The recent publication of national reports on digital markets in various sectors of UK life demonstrates the importance of taking this market seriously. For example, the Arts Council England, MLA and Arts & Business (ACE et al. from here on) research document “Digital audiences: engagement with arts and culture online” (2010:4,18) suggests that 53% of the online population (currently 18 million fixed broadband lines exist at the end of 2010 (Ofcom 2011)) have used the Internet to engage with arts and culture in the past 12 months (with an increase to 62% for those in the 16 - 34 year old age bracket).
 
 The report identifies five main online interaction categories:
 
@@ -67,9 +42,7 @@ The report identifies five main online interaction categories:
 4. Share
 5. Create.
 
-These 5 factors indicate the importance of museums and cultural institutions being active on social
-media platforms and making them a key marketing channel. These factors also nicely align with the _'4
-pillars of enterprise'_ that Rangaswami discusses (figure 1).
+These 5 factors indicate the importance of museums and cultural institutions being active on social media platforms and making them a key marketing channel. These factors also nicely align with the _'4 pillars of enterprise'_ that Rangaswami discusses (figure 1).
 
 | ACE Report Criteria | Rangaswami's Pillars of Enterprise  |
 |---------------------|-------------------------------------|
@@ -80,10 +53,7 @@ pillars of enterprise'_ that Rangaswami discusses (figure 1).
 
 Figure 1: Synergy between Rangaswami's '4 pillars of enterprise' and the ACE criteria.
 
-The report seeks to demonstrates that Internet users are creative and want to engage with the online 
-resource that they are interacting with (however if the 90-9-1 (also known as ‘participation inequality’) 
-rule is applied, then the potential creative audience is relatively small - circa 10%, the tip of the 
-pyramid, see Nielsen 2006, Wallis 2010:27.) 
+The report seeks to demonstrates that Internet users are creative and want to engage with the online resource that they are interacting with (however if the 90-9-1 (also known as ‘participation inequality’) rule is applied, then the potential creative audience is relatively small - circa 10%, the tip of the pyramid, see Nielsen 2006, Wallis 2010:27.) 
 
 Another finding from the ACE et al. report is that: 
 
@@ -107,180 +77,87 @@ Social media and the Internet allow everyone to have a voice (Kilbitsch 2007) an
 
 Breen, in essence, has captured a more general trend of the web as it has moved from one-way didacticism towards engaged learning and a culture of dialogue, and sociability.
 
-| Service type | Examples |
-| :--- | :--- |
-| Micro updates | Twitter |
-| Location based | Foursquare, GoWalla, Google Latitude, Facebook places, Geocaching, History Pin |
-| Photo sharing | Flickr, Picasa |
-| Multipurpose or community sites | Facebook, Google+, Ning, Buddypress, Orkut, Friends Reunited, MySpace, Lanryd, Yammer, Naseeb, Muxlim, Muslimbook |
-| Video sharing | YouTube, Vimeo |
-| Link shortening | bitly, tinyurl, Goo.gl |
-| Mobile phone based applications | Tweet and Grow, Street Museum, History Pin |
-| Social gaming | X-box, Second Life, Civilization, World of Warcraft |
-| Video conferencing and communications | Skype |
-| Discussion lists and fora | JISGMAIL, phpBB, Vanillla |
-| Interactive glyphs or barcodes | Quick Response (QR), Augmented Reality |
-| Messaging services | Yahoo!, Google, BlackBerry messenger |
-| Link sharing | Delicious, StumbleUpon, Digg, reddit |
-| Archiving tools | Storify[^7], Twapperkeeper, Thinkupapp |
-| Match making | Match, Mysinglefriend |
-| Review | TripAdvisor, Yelp |
-| Monitoring tools | Klout, TweetLevel, Peerindex |
-| Code repository software | GitHub |
-| Music | Spotify, Last FM |
-| Sports | Adidas miCoach, Nike Running |
+| Service Type                     | Examples                                                                                      |
+| :------------------------------- | :------------------------------------------------------------------------------------------- |
+| Micro updates                    | Twitter                                                                                      |
+| Location based                   | Foursquare, Gowalla, Google Latitude, Facebook Places, Geocaching, Historypin                |
+| Photo sharing                    | Flickr, Picasa                                                                               |
+| Multipurpose/community sites     | Facebook, Google+, Ning, Buddypress, Orkut, Friends Reunited, MySpace, Lanyrd, Yammer, Naseeb, Muxlim, Muslimbook |
+| Video sharing                    | YouTube, Vimeo                                                                               |
+| Link shortening                  | Bitly, TinyURL, Goo.gl                                                                       |
+| Mobile phone applications        | Tweet and Grow, Streetmuseum, Historypin                                                     |
+| Social gaming                    | Xbox, Second Life, Civilization, World of Warcraft                                           |
+| Video conferencing/communications| Skype                                                                                        |
+| Discussion lists/fora            | JISCMail, phpBB, Vanilla                                                                     |
+| Interactive glyphs/barcodes      | Quick Response (QR), Augmented Reality (AR)                                                  |
+| Messaging services               | Yahoo!, Google, BlackBerry Messenger                                                         |
+| Link sharing                     | Delicious, StumbleUpon, Digg, Reddit                                                         |
+| Archiving tools                  | Storify[^7], Twapperkeeper, ThinkUp                                                          |
+| Match making                     | Match, MySingleFriend                                                                        |
+| Review                           | TripAdvisor, Yelp                                                                            |
+| Monitoring tools                 | Klout, TweetLevel, PeerIndex                                                                 |
+| Code repository software         | GitHub                                                                                       |
+| Music                            | Spotify, Last.fm                                                                             |
+| Sports                           | Adidas miCoach, Nike Running                                                                 |
 
-Figure 2: A list of social media tools by type defined by the author (not comprehensive and
-sustainability of many of these is questionable.)
+Figure 2: A list of social media tools by type defined by the author (not comprehensive and sustainability of many of these is questionable.)
 
-Bevan (in this volume) refers to Fiske’s (1991) models of social agency and suggests that many social 
-media platforms deliberately espouse a logic of ‘community sharing’, and it is true that, for example, 
-Twitter and Facebook invite their users to share ‘status updates’ (see Richardson, this volume). More 
-generally, of the platforms available to marketing professionals, it is indeed those focused on 
-engagement through content or in community sharing of content that are perhaps the most important 
-for museums to consider, such as YouTube and Flickr, location-based interaction services such as 
-Foursquare, Gowalla and Facebook check-ins and the most widely used platforms of Facebook and 
-Twitter. 
+Bevan (in this volume) refers to Fiske’s (1991) models of social agency and suggests that many social media platforms deliberately espouse a logic of ‘community sharing’, and it is true that, for example, Twitter and Facebook invite their users to share ‘status updates’ (see Richardson, this volume). More generally, of the platforms available to marketing professionals, it is indeed those focused on engagement through content or in community sharing of content that are perhaps the most important for museums to consider, such as YouTube and Flickr, location-based interaction services such as Foursquare, Gowalla and Facebook check-ins and the most widely used platforms of Facebook and Twitter. 
 
-The nascent Google+ platform has the potential to become Facebook’s main competitor, but 
-given that other Google offerings such as Wave, TV and Buzz (see Bisson & Branscombe 2011) have 
-seen little enthusiasm from the social media aware online demographic and were soon withdrawn 
-from service, it is probably too early to predict how Google+ will fare. What is clear is that Darwinian 
-principles (O’Brien 1996) apply to social media networks, with end users choosing the platform(s) that 
-are fit for their purposes and augment their experiences elsewhere (Rangaswami 2008). 
+The nascent Google+ platform has the potential to become Facebook’s main competitor, but given that other Google offerings such as Wave, TV and Buzz (see Bisson & Branscombe 2011) have seen little enthusiasm from the social media aware online demographic and were soon withdrawn from service, it is probably too early to predict how Google+ will fare. What is clear is that Darwinian principles (O’Brien 1996) apply to social media networks, with end users choosing the platform(s) that are fit for their purposes and augment their experiences elsewhere (Rangaswami 2008). 
 
-The best platforms adapt and integrate well with the rest of the web ecosystem: for example the combination of 
-Flickr’s interface with Twitter to allow users to share recent photo uploads, or Facebook’s growth to 
-enable photographic content to be posted (Cassidy 2006). Klebe Treviño et al (2000:166) note
-“individuals are more likely to choose rich media (e.g. face-to-face meetings) and they are less likely 
-to choose lean media (e.g. letters, fax) when message equivocality is high.”
+The best platforms adapt and integrate well with the rest of the web ecosystem: for example the combination of Flickr’s interface with Twitter to allow users to share recent photo uploads, or Facebook’s growth to enable photographic content to be posted (Cassidy 2006). Klebe Treviño et al (2000:166) note:
 
-This statement could apply equally well to the Facebook age: the richer experience offered by online 
-platforms that allow for text, images, sound and even video chat has now started to impact on social 
-interactions offline. People now have a wide circle of online friends and this may in many cases
-eventually enable them to meet in the offline world. Likewise, social media allows for long distance 
-friendships to be maintained, or in the case of institutions, they can sustain a relationship with people 
-who may have been only briefly interested in a particular collection or have visited one time in their life 
-but now have an opportunity to keep up with events.
+> individuals are more likely to choose rich media (e.g. face-to-face meetings) and they are less likely to choose lean media (e.g. letters, fax) when message equivocality is high.
 
-Social media now percolates to all societal levels; it allows for conference participation via backchannels (see Ross et al. 2011 for discussion about relative merits of this concept), it enables 
-companies to “search for their brand on Facebook” or use Google voice search (see figure 3 for an 
-example); it enables unverified information to enter into journalistic output, with articles based entirely 
-around Twitter[^8] comment. Mainstream television programmes can now display a hash tag without any 
-explanation due to the ubiquitous nature of social media. For example the recent “Arab Spring” revolt 
-was reported worldwide with a heavy reliance on social media (for reporting and also for co-ordination 
-and audio-visual capture of action (Howard 2011)), as were the August riots (Halliday 2011) in the United Kingdom; so much so, Government agencies mooted that social media usage should be 
-restricted (Rainey 2011)
+This statement could apply equally well to the Facebook age: the richer experience offered by online platforms that allow for text, images, sound and even video chat has now started to impact on social interactions offline. People now have a wide circle of online friends and this may in many cases eventually enable them to meet in the offline world. Likewise, social media allows for long distance friendships to be maintained, or in the case of institutions, they can sustain a relationship with people who may have been only briefly interested in a particular collection or have visited one time in their life but now have an opportunity to keep up with events.
+
+Social media now percolates to all societal levels; it allows for conference participation via back channels (see Ross et al. 2011 for discussion about relative merits of this concept), it enables companies to “search for their brand on Facebook” or use Google voice search (see figure 3 for an example); it enables unverified information to enter into journalistic output, with articles based entirely around Twitter[^8] comment. Mainstream television programmes can now display a hash tag without any explanation due to the ubiquitous nature of social media. For example the recent “Arab Spring” revolt was reported worldwide with a heavy reliance on social media (for reporting and also for co-ordination and audio-visual capture of action (Howard 2011)), as were the August riots (Halliday 2011) in the United Kingdom; so much so, Government agencies mooted that social media usage should be restricted (Rainey 2011)
 
 ![Figure 3: One of Google's social web adverts at Piccadilly Circus[^9]](../images/papers/socmedia/figure3.png)
 
 ## 3. The Facebook phenomenon
 
-Facebook has undoubtedly transformed the social media, with museums now sometimes even using 
-it as a replacement for a separate online presence of their own. Reams of analysis can be found on 
-the social media powerhouse that is Facebook, but simple quantitative results demonstrate how game 
-changing this platform has been (the following data is from Ward 2011), For example, Facebook’s 
-registered user base would equal the population of the world’s 3rd largest country (640 million users), 
-the site receives 310 million visits daily and in an average 20 minute period in 2010, 5.9 million wall 
-posts, 10.2 million comments were made and 2.7 million photos were posted. In contrast, if we 
-consider other platforms for a moment, 49% of registered Twitter users never check their timeline 
-(although Twitter claim to have 100 million active users10), Wikipedia article volume has grown by 
-21% from 2010 – 2011 and Flickr now hosts over 6 billion images, with 3500 new ones added each 
+Facebook has undoubtedly transformed the social media, with museums now sometimes even using it as a replacement for a separate online presence of their own. Reams of analysis can be found on the social media powerhouse that is Facebook, but simple quantitative results demonstrate how game changing this platform has been (the following data is from Ward 2011), For example, Facebook’s registered user base would equal the population of the world’s 3rd largest country (640 million users), the site receives 310 million visits daily and in an average 20 minute period in 2010, 5.9 million wall posts, 10.2 million comments were made and 2.7 million photos were posted. In contrast, if we consider other platforms for a moment, 49% of registered Twitter users never check their timeline (although Twitter claim to have 100 million active users10), Wikipedia article volume has grown by 21% from 2010 – 2011 and Flickr now hosts over 6 billion images, with 3500 new ones added each 
 second (Ward 2011).
 
-However, Facebook still has potential to grow further if developing nations expand their Internet 
-capacity, relax online censorship and the platform proves useful to these communities. For example, 
-the Muslim community has very successful social networking platforms that are already established, 
-but perhaps do not have the foundations to prevent Facebook’s inexorable growth (El Dahshan 2011). 
-Earlier in this paper, reference was made to the research document issued by the Arts Council et al. 
-(2011) and specific emphasis is placed upon the value of Facebook to the arts community: “Social 
-media - and in particular Facebook11 - has become a major tool for discovering as well as sharing 
-information about arts and culture, second only to organic search through Google and other search 
-engines.” (Ibid. 2010:6)
+However, Facebook still has potential to grow further if developing nations expand their Internet capacity, relax online censorship and the platform proves useful to these communities. For example, the Muslim community has very successful social networking platforms that are already established, but perhaps do not have the foundations to prevent Facebook’s inexorable growth (El Dahshan 2011). 
+
+Earlier in this paper, reference was made to the research document issued by the Arts Council et al. (2011) and specific emphasis is placed upon the value of Facebook to the arts community: “Social media - and in particular Facebook11 - has become a major tool for discovering as well as sharing information about arts and culture, second only to organic search through Google and other search engines.” (Ibid. 2010:6)
 
 ### 4. Why and how does the British Museum use social media?
 
-The BM aims to be: “A museum of the world for the world” (British Museum 2008:3), and by utilising 
-social media tools and platforms, it can attempt to meet this mission statement. The BM is currently 
-the United Kingdom’s most visited visitor attraction (Kennedy 2011) with 5.8 million visitors and a 
-comparable number of online visits (5.866 million unique visitors to just the main website in the 
-calendar year for 201012). This similarity in scale of online visits and physical footfall perhaps points to 
-the intimate connection of these two activities, as discussed in a different context by Ellison et al. 
-(2007). 
+The BM aims to be: “A museum of the world for the world” (British Museum 2008:3), and by utilising  social media tools and platforms, it can attempt to meet this mission statement. The BM is currently the United Kingdom’s most visited visitor attraction (Kennedy 2011) with 5.8 million visitors and a comparable number of online visits (5.866 million unique visitors to just the main website in the calendar year for 2010[^12]). This similarity in scale of online visits and physical footfall perhaps points to the intimate connection of these two activities, as discussed in a different context by Ellison et al. (2007). 
 
-The centrepiece of the BM’s website is its collection[^13], with an emphasis on making it more 
-accessible to the public, documenting its physical conservation and present the ongoing research 
-conducted with it. A project to enable the dissemination of the Collection Online has now seen nearly 
-2 million objects being made available for public consumption worldwide; fulfilling the institutional 
-remit outlined in an Act of Parliament in 1753 that states that the BM collection should be available to 
-“all curious and studious persons.”[^14] 
+The centrepiece of the BM’s website is its collection[^13], with an emphasis on making it more accessible to the public, documenting its physical conservation and present the ongoing research conducted with it. A project to enable the dissemination of the Collection Online has now seen nearly 2 million objects being made available for public consumption worldwide; fulfilling the institutional remit outlined in an Act of Parliament in 1753 that states that the BM collection should be available to _“all curious and studious persons.”_[^14] 
 
 Secondly, the BM wishes to use the online presence to increase revenue via the BM Company, through increased membership of the ‘Friends’ programme and by enhanced ticket sales to exhibitions. The BM’s emphasis on digital engagement is outlined in the same document as follows: 
 
-> “By 2012, the Museum’s physical presence in London will be 
-complemented by a globally accessible media resource, including multimedia products, digitised 
-archives and broadcast programmes which will make the Museum’s world-class collections available 
-to a global audience.” (Ibid: 12, 23) 
+> “By 2012, the Museum’s physical presence in London will be complemented by a globally accessible media resource, including multimedia products, digitised archives and broadcast programmes which will make the Museum’s world-class collections available to a global audience.” (Ibid: 12, 23) 
 
-Over the past forty years, the increasing ease of international travel has meant not only that more 
-visitors from abroad can come to London to use the collection, but that the collection can more easily 
-travel to them, and be put to public use in new local contexts (touring exhibitions, loans, digital 
-reconstructions). 
+Over the past forty years, the increasing ease of international travel has meant not only that more visitors from abroad can come to London to use the collection, but that the collection can more easily travel to them, and be put to public use in new local contexts (touring exhibitions, loans, digital reconstructions). 
 
-As a complement to this however, it has also become increasingly important to 
-engage with an online audience that may not be able to physically visit with the Museum. 
-Social media are just one of the tools used by the BM’s Marketing and Web teams to offer access to 
-digital content, communicate ideas, encourage and facilitate discussion, and market to a world-wide 
-online audience. It is an adjunct to the methods of public engagement already employed (family 
-learning and educational activities, lectures, the Partnership UK programme, exhibitions) and is easy 
-to integrate into existing public programming activities. Recent examples of the Marketing 
-department’s use of social media include the Grayson Perry (see section 10 below) and Hajj 
-exhibitions. For the Hajj exhibition, Web and Marketing have developed a campaign that reaches out 
-to Muslim audiences and provides engaging and informative content for non-Muslims who want to 
-know more about the pilgrimage to Mecca. The web presence for this exhibition allows those who 
-have been on the Hajj to submit their experiences online15 in the form of text, pictures and video; once 
-moderated, these are then displayed on the BM website and a selection may feature in the exhibition 
-multimedia guide and possibly within the exhibition itself. 
+As a complement to this however, it has also become increasingly important to engage with an online audience that may not be able to physically visit with the Museum. Social media are just one of the tools used by the BM’s Marketing and Web teams to offer access to digital content, communicate ideas, encourage and facilitate discussion, and market to a world-wide online audience. It is an adjunct to the methods of public engagement already employed (family learning and educational activities, lectures, the Partnership UK programme, exhibitions) and is easy to integrate into existing public programming activities. Recent examples of the Marketing department’s use of social media include the Grayson Perry (see section 10 below) and Hajj exhibitions. For the Hajj exhibition, Web and Marketing have developed a campaign that reaches out to Muslim audiences and provides engaging and informative content for non-Muslims who want to know more about the pilgrimage to Mecca. The web presence for this exhibition allows those who have been on the Hajj to submit their experiences online15 in the form of text, pictures and video; once moderated, these are then displayed on the BM website and a selection may feature in the exhibition multimedia guide and possibly within the exhibition itself. 
 
 ### 5. Social media experimentation
 
-#### a. A History of the World
+#### A History of the World
 
-Before analysing the BM's social media activities, it is worth considering some of the departmental
-work that feeds into the institution's persona and enlists a variety of crossover audiences. A multi
-department (and indeed multi-institutional) project that led to substantial user generated content
-(UGC) and was deemed to be highly successful[^16], is _'A History of the World'_ (AHOW). It was fronted
-on the radio by the BM Director, Neil MacGregor and backed by a team of curators who researched and synthesised the data. The Art Fund, when short listing the project for their 2011 award, commented that this was a:
+Before analysing the BM's social media activities, it is worth considering some of the departmentalwork that feeds into the institution's persona and enlists a variety of crossover audiences. A multi department (and indeed multi-institutional) project that led to substantial user generated content (UGC) and was deemed to be highly successful[^16], is _'A History of the World'_ (AHOW). It was fronted on the radio by the BM Director, Neil MacGregor and backed by a team of curators who researched and synthesised the data. The Art Fund, when short listing the project for their 2011 award, commented that this was a:
 
 > "Groundbreaking and enormously successful project exploring world history through the British Museum's unparalleled collection" (British Museum 2011: 51).
 
-The online component of this project allowed people to download podcasts of the radio programme, of
-which over 19 million were realised (ibid: 35) and also to upload their own objects to the BBC
-developed series website. The final object in this project, sparked online suggestions for objects that
-represented life in 2010 (Cock 2011), prompting lively and sometimes heated debate. Five objects
-were nominated by the BM for the final object, with the Didier Drogba Chelsea Football Club shirt
-generating the most interest. The online collection of objects nominated by the project's 551
-institutional participants and it was enhanced and complemented by over 4000 objects uploaded by
-the public (0.1% of the overall visits (Ibid.)), and these all had the facility for social interaction via
-commentary or sharing mechanisms.
+The online component of this project allowed people to download podcasts of the radio programme, of which over 19 million were realised (ibid: 35) and also to upload their own objects to the BBC developed series website. The final object in this project, sparked online suggestions for objects that represented life in 2010 (Cock 2011), prompting lively and sometimes heated debate. Five objects were nominated by the BM for the final object, with the Didier Drogba Chelsea Football Club shirt generating the most interest. The online collection of objects nominated by the project's 551 institutional participants and it was enhanced and complemented by over 4000 objects uploaded by the public (0.1% of the overall visits (Ibid.)), and these all had the facility for social interaction via commentary or sharing mechanisms.
 
 During the judging for the Art Fund 2011 award, Michael Portillo commented:
 
-> "Above all, we felt that this project, which showed a truly pioneering use of digital media, has led the way for museums tointeract with their audiences in new and different ways. Without changing the core of the British
-Museum's purpose, people have and are continuing to engage with objects in an innovative way as a
-consequence of this project." (Brown 2011)
+> "Above all, we felt that this project, which showed a truly pioneering use of digital media, has led the way for museums tointeract with their audiences in new and different ways. Without changing the core of the British Museum's purpose, people have and are continuing to engage with objects in an innovative way as a consequence of this project." (Brown 2011)
 
-The series also inspired third party developers to build related content, with the History Hack Day
-2011 17 winner producing a mobile phone based application[^18]  that allowed the user to interact with the
-entire series in the space of around only 12 hours.
+The series also inspired third party developers to build related content, with the History Hack Day 2011 17 winner producing a mobile phone based application[^18]  that allowed the user to interact with the entire series in the space of around only 12 hours.
 
-#### b. Wikipedia
+#### Wikipedia
 
-The BM has also innovated through a project called Wikipedian-in-residence[^19] that was initiated in
-2010 and hosted by the department of Learning, Volunteers and Audiences (LV&A) (Wyatt 2010,
-Cohen 2010, see also Thornton in this volume for further discussion of this platform and its potential
-for archaeological research). This partnership project invited Wikipedia and its immense user base to
-interact with the BM collection and staff, and produce a series of collaborative works including:
+The BM has also innovated through a project called Wikipedian-in-residence[^19] that was initiated in 2010 and hosted by the department of Learning, Volunteers and Audiences (LV&A) (Wyatt 2010, Cohen 2010, see also Thornton in this volume for further discussion of this platform and its potential for archaeological research). This partnership project invited Wikipedia and its immense user base to interact with the BM collection and staff, and produce a series of collaborative works including:
 
 - An object challenge, to enhance one individual object page: the Hoxne Hoard[^20]
 - A series of 5 prizes for the first featured articles to be written
@@ -288,17 +165,11 @@ interact with the BM collection and staff, and produce a series of collaborative
 - A 'backstage pass' day, where the Wikipedia community could see the internal workings of the BM
 - Departmental presentations
 
-Since the conclusion of the project proper, this relationship has been maintained by many of the
-participants, with the department of Portable Antiquities and Treasure (PA&T) providing Creative
-Commons licensed images for the Wikimedia Commons and information for a variety of cases, for
-example the Frome[^21] and Staffordshire[^22] hoards. This project was described by one blogger as:
+Since the conclusion of the project proper, this relationship has been maintained by many of the participants, with the department of Portable Antiquities and Treasure (PA&T) providing Creative Commons licensed images for the Wikimedia Commons and information for a variety of cases, for example the Frome[^21] and Staffordshire[^22] hoards. This project was described by one blogger as:
 
-> "a model for institutions on how to deal with the Internet revolution. It's clever, it costs them nothing, it
-gains the institution respect and traction on the Internet… there is, in truth, no downside" (Pearse 2010).
+> "a model for institutions on how to deal with the Internet revolution. It's clever, it costs them nothing, it gains the institution respect and traction on the Internet… there is, in truth, no downside" (Pearse 2010).
 
-Such a statement captures nicely the kind of social traction that the BM can gain from interacting with
-the Wikipedia community, as the cited articles show (e.g. Wyatt, Cohen) the project was well received
-around the world.
+Such a statement captures nicely the kind of social traction that the BM can gain from interacting with the Wikipedia community, as the cited articles show (e.g. Wyatt, Cohen) the project was well received around the world.
 
 ### 6. Internal social media use for an external audience
 
@@ -312,73 +183,31 @@ A specialised, digitally native department within the BM that is fully immersed 
 
 ### 7. QR code and glyph based technology
 
-Whilst not fully engaging in the use of QR and glyphs within the BM for innovative social media based 
-exercises (a concept that has been applied for different campaigns at museums around the world[^27]), 
-several examples of their use can be found within the BM’s estate. For example, projects have made 
-use of QR code technology for enabling access to enhanced resources, with this year’s outdoor 
-collaboration with Kew Gardens (the Australia Garden on the West lawn of the forecourt) containing 
-labels integrated with QR codes. 
+Whilst not fully engaging in the use of QR and glyphs within the BM for innovative social media based  exercises (a concept that has been applied for different campaigns at museums around the world[^27]), several examples of their use can be found within the BM’s estate. For example, projects have made use of QR code technology for enabling access to enhanced resources, with this year’s outdoor  collaboration with Kew Gardens (the Australia Garden on the West lawn of the forecourt) containing  labels integrated with QR codes. 
 
-These allow anyone equipped with the correct handset and software to interact with information online (see figure 4 for an example of one such label.) Secondly an 
-exhibition on the Akan Dum[^28] held in room 3 in 2010[^29] had a QR code that linked to a mobile site, 
-which allowed people to access enhanced information and download an MP3 track of the drum being 
-played30 from Spotify or iTunes. Whilst not promoting a two-way dialogue, these glyphs can be a 
-doorway to social interaction: a Facebook check-in to a place facilitated by a code is one such use. 
+These allow anyone equipped with the correct handset and software to interact with information online (see figure 4 for an example of one such label.) Secondly an exhibition on the Akan Dum[^28] held in room 3 in 2010[^29] had a QR code that linked to a mobile site,  which allowed people to access enhanced information and download an MP3 track of the drum being played[^30] from Spotify or iTunes. Whilst not promoting a two-way dialogue, these glyphs can be a doorway to social interaction: a Facebook check-in to a place facilitated by a code is one such use. 
 
-Eden (2011) has also conducted experimental work on the QRpedia project within the BM galleries 
-(see also the Derby Museums project), where codes could be placed on labels and scanning would 
-take the consumer directly to the Wikipedia page (he specifically discusses the Rosetta Stone), and 
-this could also be relevant for Museum web pages.
+Eden (2011) has also conducted experimental work on the QRpedia project within the BM galleries (see also the Derby Museums project), where codes could be placed on labels and scanning would take the consumer directly to the Wikipedia page (he specifically discusses the Rosetta Stone), and this could also be relevant for Museum web pages.
 
 ![Figure 4: A QR code in the BM Australia Garden exhibition on the West forecourt, 2011. The QR code on the sign (shown on the right) directs visitors to a mobile webpage via a short URL: [http://bit.ly/lHPhkB](http://bit.ly/lHPhkB), which resolves to [the Australia Trail stop 1 page](http://www.britishmuseum.org/mobile/australia_trail/australia_stop_1.aspx) on the British Museum website. (Photo by author.) This follows best practice for using glyphs and mobile devices.](../images/papers/socmedia/figure4.png)
 
-Prior to these implementations, QR codes[^31] have been utilised elsewhere within the BM. The PA&T
-website produces a glyph via Google Charts for each individual artefact recorded. However, many in
-the marketing (and indeed museum) industry believe that QR codes have had their day and
-technology has moved on (for example towards Near Field Communication (NFC) or Augmented
-Reality (AR) - see Rossoff 2011). However they are seen in very varied locations, most often print
-based but sometimes in innovative locations (for example Betfair's use of QR code on the GB
-volleyball team uniform (Eleftheriou-Smith 2011)). The SDDC has also experimented with the use of
-AR glyphs within exhibition spaces (Mannion, 2011a & 2011b) which has been documented by staff in
-a comprehensive video (appropriately shared on social media platform Vimeo.[^32])
+Prior to these implementations, QR codes[^31] have been utilised elsewhere within the BM. The PA&T website produces a glyph via Google Charts for each individual artefact recorded. However, many in the marketing (and indeed museum) industry believe that QR codes have had their day and
+technology has moved on (for example towards Near Field Communication (NFC) or Augmented Reality (AR) - see Rossoff 2011). However they are seen in very varied locations, most often print based but sometimes in innovative locations (for example Betfair's use of QR code on the GB
+volleyball team uniform (Eleftheriou-Smith 2011)). The SDDC has also experimented with the use of AR glyphs within exhibition spaces (Mannion, 2011a & 2011b) which has been documented by staff in a comprehensive video (appropriately shared on social media platform Vimeo.[^32])
 
 ### 8. The British Museum on Facebook
 
-The BM's Facebook page (see figure 5) has been in operation since April 2009 and is used as a
-discursive interface for the Museum's activities. At the time of writing (September 5th 2011), the
-profile has attracted 137,776 likes and has had 6,178 check-ins. The information page provides clear
-links to the Museum's other social personas for other audiences (of which it has several, just as many
-individuals also project multiple distinct identities on the web; DiMicco & Millen 2007). All of the BM's
-activities online and via the creative departments are aided by the strong brand awareness and high
-visibility in the world's press (see Bonacchi, Furneaux and Pett for further discussion of the
-importance of brand in this volume.) This is of course something that many organisations can only
-aspire to, and the authors appreciate their privileged position. All of the above concepts are tied to
-specific benchmarks which help to determine whether the mediums chosen are worthwhile; for example on Facebook a target of 200,000 'likes'[^33] has already been reached, and for Twitter, the target of 100,000 _followers_[^34] should be realised by March 2012.
+The BM's Facebook page (see figure 5) has been in operation since April 2009 and is used as a discursive interface for the Museum's activities. At the time of writing (September 5th 2011), the profile has attracted 137,776 likes and has had 6,178 check-ins. The information page provides clear links to the Museum's other social personas for other audiences (of which it has several, just as many individuals also project multiple distinct identities on the web; DiMicco & Millen 2007). All of the BM's activities online and via the creative departments are aided by the strong brand awareness and high visibility in the world's press (see Bonacchi, Furneaux and Pett for further discussion of the importance of brand in this volume.) This is of course something that many organisations can only aspire to, and the authors appreciate their privileged position. All of the above concepts are tied to specific benchmarks which help to determine whether the mediums chosen are worthwhile; for example on Facebook a target of 200,000 'likes'[^33] has already been reached, and for Twitter, the target of 100,000 _followers_[^34] should be realised by March 2012.
 
-The BM has many areas of contention that can spark intense online debate; issues such as 
-repatriation[^35] of objects or human remains and therefore the institution’s Facebook presence offers a 
-clear statement of expectation and rules of engagement for host and participants:
+The BM has many areas of contention that can spark intense online debate; issues such as  repatriation[^35] of objects or human remains and therefore the institution’s Facebook presence offers a clear statement of expectation and rules of engagement for host and participants:
 
-> This page is an open forum where anyone is welcome to contribute. Discussion is encouraged, but
-please be aware that any offensive, defamatory, obscene or harassing comments or personal attacks
-of any kind will be removed. Spamming, repeat submissions of the same (or very similar)
-contributions or content that is off-topic may also be removed.  
+> This page is an open forum where anyone is welcome to contribute. Discussion is encouraged, but please be aware that any offensive, defamatory, obscene or harassing comments or personal attacks of any kind will be removed. Spamming, repeat submissions of the same (or very similar) contributions or content that is off-topic may also be removed.  
 
-The marketing department of the BM is responsible for the social media output (in conjunction with
-the department of LV&A) and this platform is primarily used to broadcast information about the
-Museum and partner museums activities worldwide, information on scientific research, excavation
-discoveries and it elicits commentary and 'likes' via inviting people to interact and give examples of
-how certain events are celebrated in their part of the world. Quantitative analysis is conducted on the
-postings via the 'insights' facility; the mean 'likes' for posts is around 147 and the most popular posts
-(usually Egypt related) receive over 85,000 views. Others that rank highly include simple facts about
-the museum, news pieces, behind-the-scenes video posts and links to blog posts. Asking direct
-questions to the BM fan base usually elicits substantial feedback.
+The marketing department of the BM is responsible for the social media output (in conjunction with the department of LV&A) and this platform is primarily used to broadcast information about the Museum and partner museums activities worldwide, information on scientific research, excavation discoveries and it elicits commentary and 'likes' via inviting people to interact and give examples of how certain events are celebrated in their part of the world. Quantitative analysis is conducted on the postings via the 'insights' facility; the mean 'likes' fo posts is around 147 and the most popular posts (usually Egypt related) receive over 85,000 views. Others that rank highly include simple facts about the museum, news pieces, behind-the-scenes video posts and links to blog posts. Asking direct questions to the BM fan base usually elicits substantial feedback.
 
 ![Figure 5: The British Museum's presence on Facebook](../images/papers/socmedia/figure5.png)
 
-The demographic breakdown of users for the page is relatively straightforward to obtain from the
-'Insights' interface (unless people lie about date of birth and gender, which some do because of
-privacy concerns; Ellison et al. 2007) and produces some interesting figures:
+The demographic breakdown of users for the page is relatively straightforward to obtain from the 'Insights' interface (unless people lie about date of birth and gender, which some do because of privacy concerns; Ellison et al. 2007) and produces some interesting figures:
 
 - The largest proportion of fans are from the United Kingdom.
 - The city with the most fans is Madrid, Spain.
@@ -387,16 +216,9 @@ privacy concerns; Ellison et al. 2007) and produces some interesting figures:
 
 ## 9. The British Museum on Twitter
 
-The BM has been active on this platform since January 2009. It currently has 62,604 followers but it
-only follows 439 users, suggesting a low level of interaction or reciprocity, an aspect which is
-discussed further below. The BM account has gathered new followers at a rate of circa 10% per
-month and has seen peaks in interest around certain news updates. The frequency of Twitter status
-updates (see Richardson in this volume for the mechanics of this process, and also for the
-appropriate use of hash tags) varies between 1 - 2 times per day and is carefully managed (unless a
-specific campaign requires more organised question and answer techniques)[^37].
+The BM has been active on this platform since January 2009. It currently has 62,604 followers but it only follows 439 users, suggesting a low level of interaction or reciprocity, an aspect which is discussed further below. The BM account has gathered new followers at a rate of circa 10% per month and has seen peaks in interest around certain news updates. The frequency of Twitter status updates (see Richardson in this volume for the mechanics of this process, and also for the appropriate use of hash tags) varies between 1 - 2 times per day and is carefully managed (unless a specific campaign requires more organised question and answer techniques)[^37].
 
-Social media campaigns are planned to fit in with current events and future exhibitions, notable recent
-examples include (figures obtained from an install of yourTwapperKeeper[^38]):
+Social media campaigns are planned to fit in with current events and future exhibitions, notable recent examples include (figures obtained from an install of yourTwapperKeeper[^38]):
 
 - Main hashtag: #britishmuseum which is used for broadcasting information about the museum
 (854 tweets since 04/11; however tweets mentioning the phrase britishmuseum number
@@ -410,9 +232,7 @@ The BM has several accounts that actively broadcast: the main identity, the BM C
 
 ### 10. The British Museum and video
 
-The BM has a dedicated and specialised broadcast unit, staffed by an ex BBC producer a broadcast 
-assistant and a team of experienced freelance professionals. All of this is in line with MacGregor’s 
-statement (also referenced in Bonacchi et al.) that: 
+The BM has a dedicated and specialised broadcast unit, staffed by an ex BBC producer a broadcast assistant and a team of experienced freelance professionals. All of this is in line with MacGregor’s statement (also referenced in Bonacchi et al.) that: 
 
 > “The future has to be, without question, the museum as a publisher and broadcaster.” (Higgins 2009, MacGregor & Serota 2009) 
 
@@ -476,9 +296,7 @@ This is sage advice for all professional engagement online, but in reality it is
 
 ## 13. Problems with social media
 
-Institutional use of social media is fraught with potential problems. While there have been many 
-successful social media projects, it is important to also outline some of the remaining issues which 
-include:
+Institutional use of social media is fraught with potential problems. While there have been many successful social media projects, it is important to also outline some of the remaining issues which include:
 
 - Copyright
 - Terms of service changes - for example Twitter
@@ -487,7 +305,7 @@ include:
 - Flash-point subjects
 - Bullying and anti-social behaviour, dealing with trolls and vexatious bloggers
 - Lack of expertise in implementing the right social media solution for a particular situation
-- Local authority/ council/ institution blocking of social media (Gibbins 2011)). For example 
+- Local authority/ council/ institution blocking of social media (Gibbins 2011). For example 
 PA&T employees are routinely blocked from using Flickr (pers. comm. Basford 2011 & Darch 
 2010).
 - Maintenance of an archive can be tricky or impossible (see archiving section below)
@@ -503,70 +321,37 @@ of this paper.
 
 ### 14.  Measuring impact and effectiveness
 
-As with all activities, the perceived worth of the engagement will decide whether or not it has
-longevity, Measuring social media output, and indeed input, is now possible via a variety of methods,
-with 'key performance indicators' (KPI) being a frequently used term (Fishkin 2011).
+As with all activities, the perceived worth of the engagement will decide whether or not it has longevity, Measuring social media output, and indeed input, is now possible via a variety of methods,with 'key performance indicators' (KPI) being a frequently used term (Fishkin 2011).
 
 #### a. Analysis
 
-Simple things can be measured on most well-known platforms. For example, URLs that you share 
-should be shortened (for example, when using QR codes or disseminating via Twitter or Facebook) 
-and tracked via the shortener’s (e.g. Bitly) interface. Raw figures can be assessed and patterns 
-established, benchmarks can be compared with peers and resources can be better aligned towards 
-projects that work. 
+Simple things can be measured on most well-known platforms. For example, URLs that you share should be shortened (for example, when using QR codes or disseminating via Twitter or Facebook) and tracked via the shortener’s (e.g. Bitly) interface. Raw figures can be assessed and patterns established, benchmarks can be compared with peers and resources can be better aligned towards projects that work. 
 
-Techniques such as sentiment analysis or natural language processing can be 
-applied to determine how people interact with the social media platform; if a platform looks like it isn’t 
-performing, then maybe your audience aren’t there, the outcomes aren’t positive and you should 
-scale down interaction! Analysis can be as simple as a graph or detailed nodal analysis using 
-sophisticated techniques in software like Gephi[^44]; but without raw data, it is hard to achieve. One 
-example, which is discussed further within Richardson’s paper, is the change in terms and conditions 
-of Twitter’s export api (Watters 2011), where you now have to source data from a third party at 
-considerable cost.
+Techniques such as sentiment analysis or natural language processing can be applied to determine how people interact with the social media platform; if a platform looks like it isn’t performing, then maybe your audience aren’t there, the outcomes aren’t positive and you should scale down interaction! Analysis can be as simple as a graph or detailed nodal analysis using sophisticated techniques in software like Gephi[^44]; but without raw data, it is hard to achieve. One example, which is discussed further within Richardson’s paper, is the change in terms and conditions of Twitter’s export api (Watters 2011), where you now have to source data from a third party at considerable cost.
 
 Figure 6 below, gives some idea of what you might want to measure for 5 key social media platforms.
 
-| Platform | Attachment or affiliation | Engagement & Metrics |
-| :--- | :--- | :--- |
-| Facebook | Fans | Click rate to links<br>Volume of comments<br>Shares<br>Likes<br>Traffic to site\<br>Post views |
-| Twitter | Followers | Retweets (RT)<br>Mentions (@)<br>Direct replies (starting with @)<br>Institution/ brand/ URL mentionsbr>Traffic to site<br>Direct retweets using built in Twitter functions |
-| Flickr | Contacts | Comments<br>Gallery additions<br>Embeds<br>Traffic to site<br>Views |
-| YouTube | Subscribers | Views<br>Embeds<br>Shares<br>Comments<br>Traffic to site |
-| Google Plus | Circles (followers) | Number of circles<br>Mentions (+name)<br>Shares<br/>Institution/ brand/ URL mentions<br>+1<br>Traffic to site |
+| Platform   | Attachment or Affiliation | Engagement & Metrics                                                                                  |
+|:-----------|:-------------------------|:------------------------------------------------------------------------------------------------------|
+| Facebook   | Fans                     | Click rate to links<br>Volume of comments<br>Shares<br>Likes<br>Traffic to site<br>Post views         |
+| Twitter    | Followers                | Retweets (RT)<br>Mentions (@)<br>Direct replies (starting with @)<br>Institution/brand/URL mentions<br>Traffic to site<br>Direct retweets using built-in Twitter functions |
+| Flickr     | Contacts                  | Comments<br>Gallery additions<br>Embeds<br>Traffic to site<br>Views                                   |
+| YouTube    | Subscribers               | Views<br>Embeds<br>Shares<br>Comments<br>Traffic to site                                              |
+| Google Plus| Circles (followers)       | Number of circles<br>Mentions (+name)<br>Shares<br>Institution/brand/URL mentions<br>+1<br>Traffic to site |
 
 Figure 6: Measuring social media impact and engagement
 
-Below, a couple of site metrics for the author’s Twitter identity are shown. Both measures 
-demonstrate how a fallow period of use has affected the social ‘score’ that was being maintained; see 
-figure 8, where the graph shows a downwards trend whilst the author was on leave and didn’t use the 
-platform. 
+Below, a couple of site metrics for the author’s Twitter identity are shown. Both measures demonstrate how a fallow period of use has affected the social ‘score’ that was being maintained; see figure 8, where the graph shows a downwards trend whilst the author was on leave and didn’t use the platform. 
 
-Figure 7 shows how the Twitter user’s profile of tweets can be categorised into distinct topics of 
-conversation. Figure 12 shows the fact that the author’s social ‘clout’ online declined when he was on 
-leave and did not use the platform, while figure 9 shows a so-called Tweetlevel index. There are 
-inherent problems with these different influence measuring tools, to do, for example, with the speed at 
-which the data is refreshed, the degree to which people block access to the third party programmes 
-because of privacy concerns, and the lack of openness of the algorithm involved
+Figure 7 shows how the Twitter user’s profile of tweets can be categorised into distinct topics of conversation. Figure 12 shows the fact that the author’s social ‘clout’ online declined when he was on leave and did not use the platform, while figure 9 shows a so-called Tweetlevel index. There are inherent problems with these different influence measuring tools, to do, for example, with the speed at which the data is refreshed, the degree to which people block access to the third party programmes because of privacy concerns, and the lack of openness of the algorithm involved
 
 ![Figure 7: The author's PeerIndex scores (@portableant on Twitter)](../images/papers/socmedia/figure7.png)
 
-Bevan (this volume), discusses the concept of 'value' and 'authority' and how it can be applied to the 
-museum and archaeological sectors. When people interact with the social media personas of the 
-museum world, are they trying to develop ties with the institution, to assert authority over their peers 
-by having comments replied to as definitive? Do people choose their social relationships carefully to 
-maintain a 'cultured' or 'informed' online presence so that people believe that they are influential? Is 
-reciprocity of interaction carefully gauged in order to make the most impact? For example, does a 
-large national museum respond to all tweets on a subject or just ones that have perceived social 
-standing - e.g. a world famous broadcaster? Institutions can also take steps to reconfirm their 
-authority authenticity and voice within the social media arena in a variety of ways: for example Twitter 
-provides a verification seal for accounts.
+Bevan (this volume), discusses the concept of 'value' and 'authority' and how it can be applied to the museum and archaeological sectors. When people interact with the social media personas of the museum world, are they trying to develop ties with the institution, to assert authority over their peers by having comments replied to as definitive? Do people choose their social relationships carefully to maintain a 'cultured' or 'informed' online presence so that people believe that they are influential? Is reciprocity of interaction carefully gauged in order to make the most impact? For example, does a large national museum respond to all tweets on a subject or just ones that have perceived social standing - e.g. a world famous broadcaster? Institutions can also take steps to reconfirm their authority authenticity and voice within the social media arena in a variety of ways: for example Twitter provides a verification seal for accounts.
 
 #### b. Impact?
 
-The measurement of impact and influence has been developed via specialised software, via the 
-creation of social indices that analyse networks and try to determine user's spheres of influence, their 
-audience numbers and their trust levels. These tools are now being used for academics and museum 
-practitioners to establish whether their engagement is worthwhile. 
+The measurement of impact and influence has been developed via specialised software, via the creation of social indices that analyse networks and try to determine user's spheres of influence, their audience numbers and their trust levels. These tools are now being used for academics and museum practitioners to establish whether their engagement is worthwhile. 
 
 ![Figure 8: The author's Klout score, showing significant decrease after a week on leave!](../images/papers/socmedia/figure8.png)
 
@@ -578,57 +363,24 @@ medium as a means of engagement, awkward questions arise such as the following:
 - Why should a board of trustees or a senior management team allow time to be wasted onthese platforms?
 - Has the chosen social media output made an impact on the desired audience - has it changed their opinion? Taught them something new? Brought them in as new membership?
 
-A recent project to determine how best to measure impact and effectiveness, was presented at the 
-2011 Museums and the Web conference (Finnis et al. 2011a), Philadelphia. This project, led by the 
-Culture24 organisation and 17 partners (with seed money backing from the partners, Department for 
-Culture, Media and Sport (DCMS), Arts Council England and Heritage Lottery Fund) aimed to create 
-an in depth study of social media and web usage across the sector in various countries. Results of 
-this project were published in September 2011 with a conference to explain the findings. The 
-methodology is available. 
+A recent project to determine how best to measure impact and effectiveness, was presented at the 2011 Museums and the Web conference (Finnis et al. 2011a), Philadelphia. This project, led by the Culture24 organisation and 17 partners (with seed money backing from the partners, Department for Culture, Media and Sport (DCMS), Arts Council England and Heritage Lottery Fund) aimed to create an in depth study of social media and web usage across the sector in various countries. Results of this project were published in September 2011 with a conference to explain the findings. The methodology is available. 
 
 The methodology behind this project was relatively simple, and reasonably effective. The project used sector wide Google Analytics data from the institutional website, with all  partners harvesting the same metrics (including mobile device usage) from their reports and collating 
-these via project management software. One of the key aims of this project was to: “Move beyond 
-measuring numbers and begin to measure quality/value of engagement/meaning: not just usage but 
-interaction” (Ibid 2011)
+these via project management software. One of the key aims of this project was to: _“Move beyond measuring numbers and begin to measure quality/value of engagement/meaning: not just usage but interaction”_ (Ibid 2011)
 
-The web metrics were backed with quantitative data from social platforms (see figure 10 above) and 
-institutional surveys to determine similarities between investment in time, people and technologies 
-employed. The eventual outcome of this project has provided an authoritative, common sense based methodology for assessing museum sector web metrics and social engagement (see Finnis et al. 
-2011b)
+The web metrics were backed with quantitative data from social platforms (see figure 10 above) and institutional surveys to determine similarities between investment in time, people and technologies employed. The eventual outcome of this project has provided an authoritative, common sense based methodology for assessing museum sector web metrics and social engagement (see Finnis et al. 2011b)
 
 ### 15. Further Examples of the use of Social Media in the Museums Sector
 
-The previous section reflected on social media use within the British Museum. However the usage of 
-these platforms and tools within the museums sector is richer than simply those tried so far at the BM, 
-with a wide spectrum of applications and uses in evidence. There are myriad opportunities for 
-innovative and original applications to be produced. However, there are very few really successful 
-projects that have penetrated into the online community. The numbers of participants are usually 
-relatively small compared to the figures for Internet usage cited previously. This final section there 
-offers a brief discussion of a selection of the applications, creative integrations and campaigns out 
-there at present, and it attempts to demonstrate how social media and museums are entwined. 
+The previous section reflected on social media use within the British Museum. However the usage of these platforms and tools within the museums sector is richer than simply those tried so far at the BM, with a wide spectrum of applications and uses in evidence. There are myriad opportunities for innovative and original applications to be produced. However, there are very few really successful projects that have penetrated into the online community. The numbers of participants are usually relatively small compared to the figures for Internet usage cited previously. This final section there offers a brief discussion of a selection of the applications, creative integrations and campaigns out there at present, and it attempts to demonstrate how social media and museums are entwined. 
 
 #### a. Location based: Street Museum
 
-Museums and archaeological organisations are now realising the potential for location based 
-services; collections contain objects, pictures and artefacts that can be identified with time and place; 
-something that the public can easily assimilate with. The advent of cheaper GPS chips within mobile 
-smart phones is now enabling social media applications to work outside the confines of desk top 
-computers (Kaplan & Haenlein 2010:57) and: _"Allow us to expand our influence to other things, 
-people, and places"_ Bell (2011)
+Museums and archaeological organisations are now realising the potential for location based services; collections contain objects, pictures and artefacts that can be identified with time and place; something that the public can easily assimilate with. The advent of cheaper GPS chips within mobile smart phones is now enabling social media applications to work outside the confines of desk top computers (Kaplan & Haenlein 2010:57) and: _"Allow us to expand our influence to other things, people, and places"_ Bell (2011)
 
-Earlier in this volume, Jeater discusses the Streetmuseum[^45] mobile smart phone AR application 
-developed by Brothers and Sisters for the Museum of London (MOL), which now has two distinct 
-themes - Londinium or Roman London and the original release (see also Pett 2011a:119 - 120, 2011c 
-and Museum of London: 2011). 
+Earlier in this volume, Jeater discusses the Streetmuseum[^45] mobile smart phone AR application developed by Brothers and Sisters for the Museum of London (MOL), which now has two distinct themes - Londinium or Roman London and the original release (see also Pett 2011a:119 - 120, 2011c and Museum of London: 2011). 
 
-The former is currently only available on the iOS operating system (iPhone), whilst the latter is 
-available on Android and iOS, therefore capturing a wider audience. The Apple iOS system is more 
-aspirational, the operating system is locked to one piece of expensive hardware and hence limits the 
-social demographic able to acquire the application and feel part of the community. However, this 
-application was expensive to produce and could have perhaps saved a physical job from being lost in 
-the recent job cuts that MOL announced. The HLF commissioned a rather lightweight report by 
-Imagemakers (2011:48) which states: “The app has generated an estimated £750,000 worth of PR for 
-the museum and driven an estimated three-fold increase in footfall.”
+The former is currently only available on the iOS operating system (iPhone), whilst the latter is available on Android and iOS, therefore capturing a wider audience. The Apple iOS system is more aspirational, the operating system is locked to one piece of expensive hardware and hence limits the social demographic able to acquire the application and feel part of the community. However, this application was expensive to produce and could have perhaps saved a physical job from being lost in the recent job cuts that MOL announced. The HLF commissioned a rather lightweight report by Imagemakers (2011:48) which states: “The app has generated an estimated £750,000 worth of PR for the museum and driven an estimated three-fold increase in footfall.”
 
 Ergo, this is probably deemed to be a successful project and has recouped the costs.
 
@@ -640,11 +392,8 @@ One museum that has consistently engaged in early adoption of new technology, Br
 
 #### c. Location based: Foursquare
 
-The American museum community has been the market leader when it comes to interaction via the 
-LBS platform Foursquare. The Metropolitan Museum of Art (MET) has worked in partnership with the 
-social platform to develop badges for check-in rewards, as has Brooklyn Museum of Art. These 
-rewards, which come in a variety of forms (for example if you are Mayor - most frequent visitor, checkin special etc) are achieved after 'following' the institution on the Foursquare platform, and then 
-checking in and thereby declaring your presence. 
+The American museum community has been the market leader when it comes to interaction via the LBS platform Foursquare. The Metropolitan Museum of Art (MET) has worked in partnership with the social platform to develop badges for check-in rewards, as has Brooklyn Museum of Art. These 
+rewards, which come in a variety of forms (for example if you are Mayor - most frequent visitor, check in special etc) are achieved after 'following' the institution on the Foursquare platform, and then checking in and thereby declaring your presence. 
 
 The platform's API also allows for innovative reuse of data from their check-in log; for example, Brooklyn built a Foursquare community page[^48]. Examples of museum-based rewards that are currently on offer in New York include:
 
@@ -910,7 +659,7 @@ curious' but also 'for the benefit of the general public' – a centre of resear
 [^16]: Winner of the 2011 Art Fund Prize for Museums (Brown 2011, Prudames 2011)
 [^17]: [History Hack Day](http://historyhackday.org/)
 [^18]: [HOTW Mobile](http://hotw.cgb.im/mobile)
-[^19]: [Wikipedia:GLAM/BM](http://en.wikipedia.org/wiki/Wikipedia:GLAM/BM) (accessed September 27, 2011)
+[^19]: [Category Wikipedia:GLAM/BM](http://en.wikipedia.org/wiki/Wikipedia:GLAM/BM) (accessed September 27, 2011)
 [^20]: [Hoxne hoard](http://en.wikipedia.org/wiki/Hoxne_hoard) – view the edit history, with particular reference to June's edits
 [^21]: [Frome Hoard](http://en.wikipedia.org/wiki/Frome_Hoard)
 [^22]: [Staffordshire hoard](http://en.wikipedia.org/wiki/Staffordshire_hoard)
@@ -923,14 +672,14 @@ curious' but also 'for the benefit of the general public' – a centre of resear
 [^29]: [Akan Drum exhibit](http://www.britishmuseum.org/whats_on/archive_exhibitions/akan_drum.aspx) (accessed September 9 2011)
 [^30]: [Akan Drum playlist](http://www.britishmuseum.org/whats_on/all_current_exhibitions/akan_drum/akan_drum_playlist.aspx) (accessed September 9 2011)
 [^31]: They do produce an intended (narrow) audience, cost and use limitation: those without access to the correct hardware and software are excluded from interacting with them and overseas visitors can incur high costs for roaming bandwidth usage (let alone language specific delivery.) Not everyone knows how these codes can be utilised.
-[^32]: [Vimeo](https://vimeo.com/25782400) (accessed September 20 2011)
+[^32]: [Vimeo page](https://vimeo.com/25782400) (accessed September 20 2011)
 [^33]: A "like" is a user interaction, where one shows appreciation for a web page, an object or event
 [^34]: A "follower" on Twitter is basically a subscriber to a list of comments, much like deciding to listen to a radio station. One can turn off at will.
 [^37]: For example Twitter campaigns for #askacurator or #craftdebate
 [^38]: Software available at: [yourTwapperKeeper](http://your.twapperkeeper.com/) (accessed September 20 2011)
 [^39]: [Grayson Perry competition](http://www.britishmuseum.org/whats_on/exhibitions/grayson_perry/competition.aspx) (accessed September 20 2011)
 [^40]: See Bonacchi et al in this volume
-[^41]: http://www.britishmuseum.org/explore/young_explorers/discover/videos/brief_history_of_time_telling.aspx (accessed September 20 2011)
+[^41]: [Young Explorers](http://www.britishmuseum.org/explore/young_explorers/discover/videos/brief_history_of_time_telling.aspx) (accessed September 20 2011)
 [^42]: [British Museum Blog](http://blog.britishmuseum.org) (accessed September 2 2011)
 [^43]: [Portable Antiquities Scheme Blogs](http://finds.org.uk/blogs) (accessed September 1 2011)
 [^45]: [Museum of London App](http://www.museumoflondon.org.uk/Resources/app/you-are-here-app/index)(accessed September 1 2011)
