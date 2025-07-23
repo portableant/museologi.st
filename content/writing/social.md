@@ -189,7 +189,7 @@ These allow anyone equipped with the correct handset and software to interact wi
 
 Eden (2011) has also conducted experimental work on the QRpedia project within the BM galleries (see also the Derby Museums project), where codes could be placed on labels and scanning would take the consumer directly to the Wikipedia page (he specifically discusses the Rosetta Stone), and this could also be relevant for Museum web pages.
 
-![Figure 4: A QR code in the BM Australia Garden exhibition on the West forecourt, 2011. The QR code on the sign (shown on the right) directs visitors to a mobile webpage via a short URL: [http://bit.ly/lHPhkB](http://bit.ly/lHPhkB), which resolves to [the Australia Trail stop 1 page](http://www.britishmuseum.org/mobile/australia_trail/australia_stop_1.aspx) on the British Museum website. (Photo by author.) This follows best practice for using glyphs and mobile devices.](../images/papers/socmedia/figure4.png)
+![Figure 4: A QR code in the BM Australia Garden exhibition on the West forecourt, 2011. The QR code on the sign (shown on the right) directs visitors to a mobile webpage via a short URL: [http://bit.ly/lHPhkB](http://bit.ly/lHPhkB), which used to resolve to [the Australia Trail stop 1 page](http://www.britishmuseum.org/mobile/australia_trail/australia_stop_1.aspx) on the British Museum website. (Photo by author.) This follows best practice for using glyphs and mobile devices.](../images/papers/socmedia/figure4.png)
 
 Prior to these implementations, QR codes[^31] have been utilised elsewhere within the BM. The PA&T website produces a glyph via Google Charts for each individual artefact recorded. However, many in the marketing (and indeed museum) industry believe that QR codes have had their day and
 technology has moved on (for example towards Near Field Communication (NFC) or Augmented Reality (AR) - see Rossoff 2011). However they are seen in very varied locations, most often print based but sometimes in innovative locations (for example Betfair's use of QR code on the GB
@@ -220,9 +220,7 @@ The BM has been active on this platform since January 2009. It currently has 62,
 
 Social media campaigns are planned to fit in with current events and future exhibitions, notable recent examples include (figures obtained from an install of yourTwapperKeeper[^38]):
 
-- Main hashtag: #britishmuseum which is used for broadcasting information about the museum
-(854 tweets since 04/11; however tweets mentioning the phrase britishmuseum number
-1724 in same period.)
+- Main hashtag: #britishmuseum which is used for broadcasting information about the museum (854 tweets since 04/11; however tweets mentioning the phrase britishmuseum number 1724 in same period.)
 - Stunt bear - #stuntbear: a competition[^39] run around the Grayson Perry exhibition, which solicited entries for 3 teddy bears to stand in for the artist's own teddy bear (Alan Measles) on the back of his motorbike. (60 tweets since 09/11) This competition attracted 300 entries and over 2000 votes for the 12 bears that were shortlisted.
 - Craftdebate - #craftdebate: another social media campaign based around the Grayson Perry exhibition. This featured a live Twitter debate with the artist responding to people's comments and opinions on how art and craft can be seen within the digital age.
 - Afghanistan exhibition (#afghanistanBM) - broadcasting information on the Afghanistan exhibition and seeing how other people have interacted on developed an empathy with the objects/content. (503 tweets since 04/11)
@@ -246,50 +244,33 @@ The BM's web team have maintained a blog[^42] since April 2010 and PA&T has cura
 
 ### 12. Strategies for engagement
 
-As with all professional activity, the development of a clear strategy is imperative. As the saying goes: 
-fail to plan, plan to fail. When attempting to engage an audience via social media for institutional gain 
-it pays to follow a set agenda. The kinds of questions that might be addressed are:
+As with all professional activity, the development of a clear strategy is imperative. As the saying goes: fail to plan, plan to fail. When attempting to engage an audience via social media for institutional gain it pays to follow a set agenda. The kinds of questions that might be addressed are:
 
-- What do we, as an institution, want to achieve by engaging our public/professional or funding 
-audience? What resources will be needed?
+- What do we, as an institution, want to achieve by engaging our public/professional or funding audience? What resources will be needed?
 - Does the knowledge or skill set exist within the institution or can it be learnt?
 - Does a third party need to be engaged or new staff member recruited?
-- Are you going to develop bespoke applications or use existing platforms, and if the latter 
-which platforms?
+- Are you going to develop bespoke applications or use existing platforms, and if the latter which platforms?
 - Can we link our use of various platforms together to produce a holistic social media offering?
-- Does the institution actually allow social media to be used internally? Does it have a social 
-media policy (for example see Civil Service 2009a, Simon 2008, BBC undated)
+- Does the institution actually allow social media to be used internally? Does it have a social media policy (for example see Civil Service 2009a, Simon 2008, BBC undated)
 - What are the institutional benchmarks?
-- What are we going to say and what are we going to participate in? How frequently will the 
-platforms be updated?
-- Will each platform be its own individual silo? Or will the approach be holistic, with cross 
-platform pollination?
-- Is failure an option and if not, why not? Social media are experimental by nature and failure is 
-likely. Orgel’s second rule (evolution is cleverer than you are), should also be applied. 
-Software developers cannot predict how their platform will develop.
+- What are we going to say and what are we going to participate in? How frequently will the platforms be updated?
+- Will each platform be its own individual silo? Or will the approach be holistic, with cross platform pollination?
+- Is failure an option and if not, why not? Social media are experimental by nature and failure is likely. Orgel’s second rule (evolution is cleverer than you are), should also be applied. Software developers cannot predict how their platform will develop.
 - What are the guidelines for creating a dialogue? What is acceptable?
-- Have you staked the claim to your identity - for example used your institution name on social 
-media e.g. facebook.com/britishmuseum, twitter.com/britishmuseum or taken ownership of 
-your venue on Foursquare? 
-- What copyright stance are you going to assume for your social media output? A Creative 
-Commons licence without a non-commercial clause will allow more take up and reuse but 
-does not suit all.
-- Has your legal adviser or team checked “Terms and Conditions” or your policies? Are they 
-enforceable? When one puts something online, control is lost.
+- Have you staked the claim to your identity - for example used your institution name on social media e.g. facebook.com/britishmuseum, twitter.com/britishmuseum or taken ownership of your venue on Foursquare? 
+- What copyright stance are you going to assume for your social media output? A Creative Commons licence without a non-commercial clause will allow more take up and reuse but does not suit all.
+- Has your legal adviser or team checked “Terms and Conditions” or your policies? Are they enforceable? When one puts something online, control is lost.
 - Are you able to deal with privacy of your users?
-- How does your institution feel about the embedded advertising prevalent on many 
-mainstream platforms, can you leverage it to your advantage?
+- How does your institution feel about the embedded advertising prevalent on many mainstream platforms, can you leverage it to your advantage?
 - Will an archive of content be maintained?
 - When do you decide to “turn off” or “retire” a social media channel?
 
 Strategy documents for museums and archaeological institutions and organisations are few and far between; probably due to the youthfulness of the medium and the fact that good strategy has yet to be defined! A few reasonable pieces published specifically for museums do exist (for example Stewart 2010, Smithsonian 2009) and more generally, social media policy draws inspiration from Sir Gus O'Donnell's exhortations (pride, passion, pace and professionalism: Civil Service 2009b) to the civil service to:
 
 a. Be credible: Be accurate, fair, thorough and transparent.
-b. Be consistent: Encourage constructive criticism and deliberation. Be cordial, honest 
-and professional at all times.
+b. Be consistent: Encourage constructive criticism and deliberation. Be cordial, honest and professional at all times.
 c. Be responsive: When you gain insight, share it where appropriate.
-d. Be integrated: Wherever possible, align online participation with other offline 
-communications.
+d. Be integrated: Wherever possible, align online participation with other offline communications.
 e.Be a civil servant: Remember that you are an ambassador for your organisation. Wherever possible, disclose your position as a representative of your department or agency.
 
 This is sage advice for all professional engagement online, but in reality it is impossible to actually control social media output by institutional employees and general encouragement to behave with common sense is a much better tactic to adopt than outright regulation.
@@ -305,13 +286,10 @@ Institutional use of social media is fraught with potential problems. While ther
 - Flash-point subjects
 - Bullying and anti-social behaviour, dealing with trolls and vexatious bloggers
 - Lack of expertise in implementing the right social media solution for a particular situation
-- Local authority/ council/ institution blocking of social media (Gibbins 2011). For example 
-PA&T employees are routinely blocked from using Flickr (pers. comm. Basford 2011 & Darch 
-2010).
+- Local authority/ council/ institution blocking of social media (Gibbins 2011). For example PA&T employees are routinely blocked from using Flickr (pers. comm. Basford 2011 & Darch 2010).
 - Maintenance of an archive can be tricky or impossible (see archiving section below)
 - Choice of software for interactions can be detrimental to the experience
-- Management of poly/single identity can be time consuming if working on a highly interactive 
-topic
+- Management of poly/single identity can be time consuming if working on a highly interactive topic
 - How do you mitigate for staff absence, is the duty devolved elsewhere?
 - Institutional buy-in
 - Encouraging participation versus lurking (the 90% of Nielsen's 2006 model)
