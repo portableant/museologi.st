@@ -1,5 +1,5 @@
 ---
-title: "The Portable Antiquities Schemes Database: its development for research since 1998"
+title: "The Portable Antiquities Scheme's Database: its development for research since 1998"
 section: papers
 date: 2010-04-04
 slug: /papers/portable-antiquities-developmeny
