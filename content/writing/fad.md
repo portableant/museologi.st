@@ -36,7 +36,35 @@ The purpose of this paper is to discuss the outcomes of the Fitzwilliam Museumâ€
 
 Each fellow was recruited to work on a specific project, developed in conjunction with the Museumâ€™s staff and the creative industry partner. This novel approach had not been implemented before in the UCAM museums and provided significant individual contributions to original research (Egyptological studies), major exhibitions (Feast and Fast (F&F)), prototypes for the Being an Islander (BAI) exhibition (now delayed by Covid 19), and a large-scale conference in 2019 held at the Judge Business School.
 
-![The outputs of the Creative Economy Fellowships](../images/papers/meshed-outputs.jpg)
+```mermaid
+flowchart BT
+    A["Do Not Touch"] --> B["CEEF 3D: Funded by the AHRC"]
+    B --> C["ThinkSee3D - TS3D"] & D["Museum in a Box - MiaB"]
+    C --> E["Catriona Cooper"] & F["Melanie Pitkin"]
+    D --> G["Abi Glen"] & H["Jennifer Wexler"]
+    E --> I["Policy and Guidance"] & J["3D Printing"]
+    J --> K["3D Models"]
+    F --> L["Egyptian Coffins"] & M["Pop-up Museum"] & N["Craft pieces"] & O["Animation"]
+    G --> P["Feast and Fast"] & Q["Phish and ChYpPS"] & R["Gallery install"]
+    H --> S["Being an Islander"] & T["MiaB"] & U["Conference"] & V["Mozfest"]
+    I --- J
+    J --- K
+    L --- M
+    M --- N
+    N --- O
+    P --- Q
+    Q --- R
+    S --- T
+    T --- U
+    U --- V
+    E --- F
+    F --- G
+    G --- H
+    C --- D
+    E --- U
+    F --- U
+    G --- U
+```
 
 #### Introduction
 
