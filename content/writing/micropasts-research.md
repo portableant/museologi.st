@@ -51,11 +51,11 @@ Although increasingly popular, however, crowd-sourcing initiatives in archaeolog
 
 The project is conducted as a collaboration between the UCL Institute of Archaeology and the British Museum, with applicability beyond anglophone countries. MicroPasts[^3] aims to address the two key concerns outlined above, by developing and evaluating a novel model that utilises web technologies and crowd-sourcing to support high quality data collection and public engagement with archaeology, history and heritage. The project is conducted as a collaboration between the UCL Institute of Archaeology and the British Museum, with support high quality data collection and public engagement with archaeology, history and heritage. The project is conducted as a collaboration between the UCL Institute of Archaeology and the British Museum, with funding from the AHRC call for ‘Digital Transformations in Community Research Co-Production in the Arts and Humanities’.
 
-This scheme was designed to facilitate research using original digital methods to create enduring resources for academics and communities, building on prior collaborative work by team members at the UCL Centre for Audio-Visual Study and Practice in Archaeology (CASPAR), which examines the interaction between archaeology and visual communication across digital media, broadcasting, and interpretation.
+This scheme was designed to facilitate research using original digital methods to create enduring resources for academics and communities, building on prior collaborative work by team members at the UCL Centre for Audio-Visual Study and Practice in Archaeology (CASPAR)[^4], which examines the interaction between archaeology and visual communication across digital media, broadcasting, and interpretation.
 
-As part of the MicroPasts project, a website was created to enable established offline communities (such as archaeological and historical societies, and groups of metal detectorists) as well as broader online crowds to participate in three main activities: co-producing archaeological and historical open data via crowd-sourcing, designing new research agendas using co-produced data and a community forum, and crowd-funding new collaborations. The MicroPasts forum and crowd-sourcing platform were launched publicly on 16 April 2014, following six months of collaborative development using open source practices.
+As part of the MicroPasts project, a website[^5] was created where communities that are already established offline (e.g. archaeological and historical societies, groups of metal detectorists, etc.) as well as more ubiquitous online ‘crowds’ can participate in one or more of three activities (Fig. 1). These activities consist of co-producing archaeological and historical open data via crowd-sourcing; designing new research agendas using co-produced data and a community forum; and crowd-funding some of these new collaborations that have been dreamt up collectively. The MicroPasts forum and crowd-sourcing platform were launched publicly on the 16th of April 2014, after six months dedicated to developing the core web components through shared coding practices and open source[^6]. 
 
-The forum uses Discourse discussion software, the crowd-sourcing site is built on the PyBossa framework for CrowdCrafting (adapted in partnership with the Open Knowledge Foundation and Citizen Cyberscience Centre), and the crowd-funding platform is based on software from Neighbor.ly and Catarse, initially using PayPal for payments. While the project encourages public participation in crowd-sourcing before moving on to project design and crowd-funding, each activity can also be undertaken independently.
+The forum[^7] has been built using the Discourse discussion software, while the crowd-sourcing site[^8] relies on the PyBossa framework for CrowdCrafting, adapted thanks to a partnership with the Open Knowledge Foundation and the Citizen Cyberscience Centre. Finally, the crowd-funding platform is constructed from software developed by the Neighbor.ly and Catarse initiatives and will (at least initially) use PayPal to process payments. Although our aim is to encourage members of the public to first participate in crowd-sourcing and only subsequently in the design of new projects and in crowd-funding, we are nevertheless also enabling each of these activities to be undertaken independently from one another.
 
 ![Fig. 1: The homepage of the MicroPasts website micropasts.org](../images/papers/micropasts/figure1-micropasts.png)
 
@@ -73,31 +73,36 @@ The second type of crowd-sourcing application involves ‘photo-masking’, wher
 ![Fig. 4: Interface of the photo-masking application.](../images/papers/micropasts/figure4-micropasts.png)
 Fig. 4: Interface of the photo-masking application.
 
-To complement this masking work, MicroPasts has developed a ‘Learning’ page at micropasts.org, offering resources and step-by-step notes on creating 3D models offline with various software. This page provides context for the photo-masking application and helps the public gain new digital skills. Community feedback is encouraged to enrich the ‘Learning’ page and platform, and to comment on the use of source or derived data produced via crowd-sourcing. This feedback offers insights into the lifecycle and public value of open archaeological and historical data. Future plans include supporting contributor-generated 3D models by enabling volunteers to upload their own image sets for artefact modelling, fostering crowd-sourcing activities between volunteer communities and academic institutions, and supporting micro-financed projects through the MicroPasts crowd-funding site.
+To complement this masking work, MicroPasts has developed a ‘Learning’ page at micropasts.org, offering resources and step-by-step notes on creating 3D models offline with various software. This page provides context for the photo-masking application and helps the public gain new digital skills. Community feedback is encouraged to enrich the ‘Learning’ page and platform, and to comment on the use of source or derived data produced via crowd-sourcing.[^9] This feedback offers insights into the lifecycle and public value of open archaeological and historical data. Future plans include supporting contributor-generated 3D models by enabling volunteers to upload their own image sets for artefact modelling, fostering crowd-sourcing activities between volunteer communities and academic institutions, and supporting micro-financed projects through the MicroPasts crowd-funding site.
 
 [Fig. 5: A 3D model of a Bronze Age palstave, shown with both photographic texture and ‘ambient occlusion’ surface](../images/micropasts/figure6-micropast.png).
 
-A final and important component with which the lead author is heavily involved is an evaluation of public participation via the MicroPasts project. This research examines online community development, contributors’ motivations in relation to their cultural interests, socio-demographic characteristics, lifestyles, and ways of contributing to MicroPasts platforms, as well as the value of the model for volunteers, staff, and partner institutions. To investigate these aspects, both quantitative and qualitative approaches are used, combining traditional methods (such as online surveys) with ‘natively digital’ ones (Rogers 2013) that analyze user behaviour, interests, and attitudes from MicroPasts platforms and social media. This strategy involves handling large quantities of information and aims to advance web-based methodologies for research in public archaeology and cultural heritage studies using big data.[^10]
+A final and important component with 
+which the lead author is heavily involved 
+is an evaluation of public participation via 
+the MicroPasts project. In undertaking this 
+research, we will examine the processes of 
+online community development; contributors’ motivations and how these relate to 
+their different cultural interests, socio-demographic characteristics, lifestyles and ways of 
+contributing to the MicroPasts platforms; and 
+the value of the model for volunteers, staff 
+and partnering institutions. To investigate 
+these aspects, we draw on both quantitative 
+and qualitative approaches, combining more 
+traditional methods (e.g. online surveys) with 
+‘natively digital’ ones (Rogers 2013) consisting of the analysis of data relating to user 
+behaviour, interests and attitudes extracted 
+from the MicroPasts platforms and social 
+media. This evaluative strategy entails dealing 
+with very large quantities of information and, 
+as such, it also aims to offer a valid contribution towards advancing web-based methodologies for research in public archaeology and 
+cultural heritage studies that use big data.1[^10]
 
-[Fig. 6: The distribution of tasks per user across the three transcription applications and one
-photo-masking application on the MicroPasts site (available at crowdsourced.micropasts.
-org)](../images/papers/micropasts/figure6-micropasts.png)
+![Fig. 6: The distribution of tasks per user across the three transcription applications and one photo-masking application on the MicroPasts site (available at crowdsourced.micropasts.org)](../images/papers/micropasts/figure6-micropasts.png)
 
-Web-based evaluative tools have been developed together with the engagement platforms so as to ensure that they do not disrupt people’s participation. So far, we have enabled a short survey that appears to users as a pop-out window after they have completed their first crowd-sourcing task. This form has been designed to collect selected information on the social networks via which contributors
-have heard of MicroPasts; these insights are then combined with Google Analytics data and
-membership data for a longitudinal assessment of the dynamics of community formation. A second follow-up survey pops up after the submission of the 25th task and allows an exploration of the motivations for, and value of, participation for different contributors, in association with their use of the MicroPasts sites. The threshold of 25 tasks was decided after assessing possible cut-off points in plots of contributor participation up to 23rd June 2014, across the four crowdsourcing applications (Fig. 6). The chart below shows a ranking of the 454 authenticated members of the
-crowd-sourcing website based on the number of tasks they completed, with the cut-off point
-at task 25 highlighted. Each ‘task’ on the y-axis might be the transcription of a single index
-card or the masking of a single photograph.
+Web-based evaluative tools have been developed together with the engagement platforms so as to ensure that they do not disrupt people’s participation. So far, we have enabled a short survey that appears to users as a pop-out window after they have completed their first crowd-sourcing task. This form has been designed to collect selected information on the social networks via which contributors have heard of MicroPasts; these insights are then combined with Google Analytics data and membership data for a longitudinal assessment of the dynamics of community formation. A second follow-up survey pops up after the submission of the 25th task and allows an exploration of the motivations for, and value of, participation for different contributors, in association with their use of the MicroPasts sites. The threshold of 25 tasks was decided after assessing possible cut-off points in plots of contributor participation up to 23rd June 2014, across the four crowdsourcing applications (Fig. 6). The chart below shows a ranking of the 454 authenticated members of the crowd-sourcing website based on the number of tasks they completed, with the cut-off point at task 25 highlighted. Each ‘task’ on the y-axis might be the transcription of a single index card or the masking of a single photograph.
 
-The rank on the x-axis is the position of a particular online contributor on the MicroPasts
-leaderboard (identified by their user login), with the first-ranked contributor having com-
-pleted the most tasks on the site. Such ‘rank size’ plots (with logarithmic-axes) are similar
-to the ones used in landscape archaeology to understand settlement size hierarchies. In our
-case, this plot exhibits a ‘long-tailed’ distribution in which a handful of particularly active
-contributors are currently doing most of the work on the site, whilst many visitors are only
-trying out one or two tasks each (this being a typical experience amongst crowd-sourcing
-projects). The labels A9, B8 and B16 correspond to physical drawers of index cards in the hard copy archive that were put online as separate applications. A detailed discussion of the methodology and results of the evaluation of the initial phases of the MicroPasts project will be published in due course as the outputs of the research develop further.
+The rank on the x-axis is the position of a particular online contributor on the MicroPasts leaderboard (identified by their user login), with the first-ranked contributor having completed the most tasks on the site. Such ‘rank size’ plots (with logarithmic-axes) are similar to the ones used in landscape archaeology to understand settlement size hierarchies. In our case, this plot exhibits a ‘long-tailed’ distribution in which a handful of particularly active contributors are currently doing most of the work on the site, whilst many visitors are only trying out one or two tasks each (this being a typical experience amongst crowd-sourcing projects). The labels A9, B8 and B16 correspond to physical drawers of index cards in the hard copy archive that were put online as separate applications. A detailed discussion of the methodology and results of the evaluation of the initial phases of the MicroPasts project will be published in due course as the outputs of the research develop further.
 
 ## Acknowledgments
 
