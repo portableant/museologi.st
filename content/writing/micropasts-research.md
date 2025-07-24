@@ -67,7 +67,6 @@ The cards are organised in numbered drawers by object type (e.g. spearhead, axe,
 
 The second type of crowd-sourcing application involves ‘photo-masking’, where volunteers outline artefacts in online photographs. Each artefact has a set of 50+ images taken from all angles, enabling Structure-from-Motion techniques to identify common features and build high quality 3D models (see James and Robson 2012; Green et al. 2014; Bevan et al. 2014). By masking the object in each photo, contributors help exclude backgrounds and improve model accuracy. Multiple contributors per image allow for quality checking, significantly enhancing the resulting 3D models (Fig. 5).
 
-
 ![Fig. 3: The National Bronze Implements Index.](../images/papers/micropasts/figure3-micropasts.png)
 
 ![Fig. 4: Interface of the photo-masking application.](../images/papers/micropasts/figure4-micropasts.png)
@@ -75,28 +74,9 @@ Fig. 4: Interface of the photo-masking application.
 
 To complement this masking work, MicroPasts has developed a ‘Learning’ page at micropasts.org, offering resources and step-by-step notes on creating 3D models offline with various software. This page provides context for the photo-masking application and helps the public gain new digital skills. Community feedback is encouraged to enrich the ‘Learning’ page and platform, and to comment on the use of source or derived data produced via crowd-sourcing.[^9] This feedback offers insights into the lifecycle and public value of open archaeological and historical data. Future plans include supporting contributor-generated 3D models by enabling volunteers to upload their own image sets for artefact modelling, fostering crowd-sourcing activities between volunteer communities and academic institutions, and supporting micro-financed projects through the MicroPasts crowd-funding site.
 
-[Fig. 5: A 3D model of a Bronze Age palstave, shown with both photographic texture and ‘ambient occlusion’ surface](../images/micropasts/figure6-micropast.png).
+![Fig. 5: A 3D model of a Bronze Age palstave, shown with both photographic texture and ‘ambient occlusion’ surface](../images/micropasts/figure6-micropast.png).
 
-A final and important component with 
-which the lead author is heavily involved 
-is an evaluation of public participation via 
-the MicroPasts project. In undertaking this 
-research, we will examine the processes of 
-online community development; contributors’ motivations and how these relate to 
-their different cultural interests, socio-demographic characteristics, lifestyles and ways of 
-contributing to the MicroPasts platforms; and 
-the value of the model for volunteers, staff 
-and partnering institutions. To investigate 
-these aspects, we draw on both quantitative 
-and qualitative approaches, combining more 
-traditional methods (e.g. online surveys) with 
-‘natively digital’ ones (Rogers 2013) consisting of the analysis of data relating to user 
-behaviour, interests and attitudes extracted 
-from the MicroPasts platforms and social 
-media. This evaluative strategy entails dealing 
-with very large quantities of information and, 
-as such, it also aims to offer a valid contribution towards advancing web-based methodologies for research in public archaeology and 
-cultural heritage studies that use big data.1[^10]
+A final and important component with which the lead author is heavily involved is an evaluation of public participation via the MicroPasts project. In undertaking this research, we will examine the processes of online community development; contributors’ motivations and how these relate to their different cultural interests, socio-demographic characteristics, lifestyles and ways of contributing to the MicroPasts platforms; and the value of the model for volunteers, staff and partnering institutions. To investigate these aspects, we draw on both quantitative and qualitative approaches, combining more traditional methods (e.g. online surveys) with ‘natively digital’ ones (Rogers 2013) consisting of the analysis of data relating to user behaviour, interests and attitudes extracted from the MicroPasts platforms and social media. This evaluative strategy entails dealing with very large quantities of information and, as such, it also aims to offer a valid contribution towards advancing web-based methodologies for research in public archaeology and cultural heritage studies that use big data.[^10]
 
 ![Fig. 6: The distribution of tasks per user across the three transcription applications and one photo-masking application on the MicroPasts site (available at crowdsourced.micropasts.org)](../images/papers/micropasts/figure6-micropasts.png)
 
