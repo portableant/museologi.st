@@ -14,75 +14,23 @@ module.exports = {
             twitterCreator: '@dejpett',
         },
         menuLinks: [
-            {
-                name: 'Blog',
-                link: '/blog/',
-                id: 1
-            },
-            {
-                name: 'Projects',
-                link: '/projects/',
-                id: 2
-            },
-            {
-                name: '3D Research',
-                link: '/photogrammetry/',
-                id: 3
-            },
-            {
-                name: 'Talks',
-                link: '/talks/',
-                id: 4
-            },
-            {
-                name: 'Papers',
-                link: '/papers/',
-                id: 5
-            }
+            { name: 'Blog', link: '/blog/', id: 1 },
+            { name: 'Projects', link: '/projects/', id: 2 },
+            { name: '3D Research', link: '/photogrammetry/', id: 3 },
+            { name: 'Talks', link: '/talks/', id: 4 },
+            { name: 'Papers', link: '/papers/', id: 5 }
         ],
         aboutLinks: [
-            {
-                name: 'Biography',
-                link: '/biography/',
-                id: 1
-            },
-            {
-                name: 'Photographs',
-                link: '/photographs/',
-                id: 2
-            },
-            {
-                name: 'Publications',
-                link: '/publications/',
-                id: 3
-            },
-            {
-                name: 'Grants awarded',
-                link: '/grants/',
-                id: 4
-            }
+            { name: 'Biography', link: '/biography/', id: 1 },
+            { name: 'Photographs', link: '/photographs/', id: 2 },
+            { name: 'Publications', link: '/publications/', id: 3 },
+            { name: 'Grants awarded', link: '/grants/', id: 4 }
         ],
         serviceLinks: [
-            {
-                name: '3D Technologies',
-                link: '/consultancy/3d-scanning/',
-                id: 1
-            },
-            {
-                name: 'Consulting & Strategy',
-                link: '/consultancy/strategy/',
-                id: 2
-            },
-            {
-                name: 'Web Development',
-                link: '/consultancy/web-development/',
-                id: 2
-            },
-            {
-                name: 'Academic Research',
-                link: '/consultancy/academic-research/',
-                id: 2
-            },
+            { name: '3D Technologies', link: '/consultancy/3d-scanning/', id: 1 },
+            { name: 'Consulting & Strategy', link: '/consultancy/strategy/', id: 2 },
+            { name: 'Web Development', link: '/consultancy/web-development/', id: 2 },
+            { name: 'Academic Research', link: '/consultancy/academic-research/', id: 2 }
         ]
     },
     plugins: [
@@ -104,7 +52,14 @@ module.exports = {
             options: {
                 rule: {
                     include: /images\/.*\.svg/,
-                    omitKeys: ['xmlnsDc', 'xmlnsCc', 'xmlnsRdf', 'xmlnsSvg', 'xmlnsSodipodi', 'xmlnsInkscape']
+                    omitKeys: [
+                        'xmlnsDc',
+                        'xmlnsCc',
+                        'xmlnsRdf',
+                        'xmlnsSvg',
+                        'xmlnsSodipodi',
+                        'xmlnsInkscape'
+                    ]
                 }
             }
         },
@@ -204,6 +159,24 @@ module.exports = {
             resolve: `gatsby-transformer-remark`,
             options: {
                 plugins: [
+                    {
+                        resolve: `gatsby-remark-embed-video`,
+                        options: {
+                            width: 800,
+                            ratio: 1.77,
+                            height: 400,
+                            related: false,
+                            noIframeBorder: true,
+                            loadingStrategy: 'lazy',
+                            urlOverrides: [
+                                {
+                                    id: 'youtube',
+                                    embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+                                },
+                            ],
+                            containerClass: 'ratio ratio-16x9',
+                        },
+                    },
                     {
                         resolve: `gatsby-remark-mermaid`,
                         options: {
