@@ -105,7 +105,7 @@ As the database matures and more researchers make use of these data, its true me
 
 As the dataset is now rapidly increasing in size, the analysis of de-contextualised find data is now becoming more integral to high level projects. The critical point will be when half a million objects have been recorded and researchers can access a wide variety of information easily for multi-period queries.
 
-## collection comes at a price
+## Data collection comes at a price
 
 Most pertinent is the upward trend in recording of archaeological objects (Figure 1). Since 2003, the Scheme has recorded over quarter of a million objects and made them available freely to audiences across the world. The flow of data into the Scheme’s database is rising rapidly as shown below. There are several noticeable points to consider when viewing these figures:
 
