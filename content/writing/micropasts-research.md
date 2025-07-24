@@ -70,11 +70,10 @@ The second type of crowd-sourcing application involves ‘photo-masking’, wher
 ![Fig. 3: The National Bronze Implements Index.](../images/papers/micropasts/figure3-micropasts.png)
 
 ![Fig. 4: Interface of the photo-masking application.](../images/papers/micropasts/figure4-micropasts.png)
-Fig. 4: Interface of the photo-masking application.
 
 To complement this masking work, MicroPasts has developed a ‘Learning’ page at micropasts.org, offering resources and step-by-step notes on creating 3D models offline with various software. This page provides context for the photo-masking application and helps the public gain new digital skills. Community feedback is encouraged to enrich the ‘Learning’ page and platform, and to comment on the use of source or derived data produced via crowd-sourcing.[^9] This feedback offers insights into the lifecycle and public value of open archaeological and historical data. Future plans include supporting contributor-generated 3D models by enabling volunteers to upload their own image sets for artefact modelling, fostering crowd-sourcing activities between volunteer communities and academic institutions, and supporting micro-financed projects through the MicroPasts crowd-funding site.
 
-![Fig. 5: A 3D model of a Bronze Age palstave, shown with both photographic texture and ‘ambient occlusion’ surface](../images/micropasts/figure6-micropast.png).
+![Fig. 5: A 3D model of a Bronze Age palstave, shown with both photographic texture and ‘ambient occlusion’ surface](../images/papers/micropasts/figure5-micropast.png)
 
 A final and important component with which the lead author is heavily involved is an evaluation of public participation via the MicroPasts project. In undertaking this research, we will examine the processes of online community development; contributors’ motivations and how these relate to their different cultural interests, socio-demographic characteristics, lifestyles and ways of contributing to the MicroPasts platforms; and the value of the model for volunteers, staff and partnering institutions. To investigate these aspects, we draw on both quantitative and qualitative approaches, combining more traditional methods (e.g. online surveys) with ‘natively digital’ ones (Rogers 2013) consisting of the analysis of data relating to user behaviour, interests and attitudes extracted from the MicroPasts platforms and social media. This evaluative strategy entails dealing with very large quantities of information and, as such, it also aims to offer a valid contribution towards advancing web-based methodologies for research in public archaeology and cultural heritage studies that use big data.[^10]
 
@@ -99,8 +98,7 @@ The MicroPasts project has been kindly granted initial funding by the UK Arts an
 [^7]: See the [MicroPasts forum](https://community.micropasts.org)
 [^8]: See the MicroPasts [crowd-sourcing website](https://crowdsourced.micropasts.org)
 [^9]: Our crowd-sourcing applications use digital source data (for example photographs, scanned documents) to allow contributors to complete research tasks such as the development of 3D models, photo-tagging and transcription. This source data will typically be available through a fully open CC0 licence or a CC BY licence, but in some cases might be placed under CC BY-NC or CC BY-ND licences when the institutions owning the archaeological or archival material have asked that commercial use is prohibited without further consultation. All the derived data, produced with the help of volunteers via crowd-sourcing, is licensed under an open CC0 or CC BY licence, depending on case-by-case agreements with our partners.
-[^10] This specific topic is directly relevant to the remit of the UCL Centre for Audio-
-Visual Study and Practice in Archaeology and the Archaeology and Communication Research Network
+[^10] This specific topic is directly relevant to the remit of the UCL Centre for Audio-Visual Study and Practice in Archaeology and the Archaeology and Communication Research Network
 
 ## References
 Beale, N 2012 How community archaeology can make use of open data to achieve further its objectives. World Archaeology 44.4: 612–633. DOI: [10.1080/00438243.2012.743252](http://d.doi.org/10.1080/00438243.2012.743252)
