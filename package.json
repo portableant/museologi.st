@@ -83,7 +83,7 @@
   },
   "devDependencies": {
     "@babel/helpers": "^7.27.6",
-    "axios": ">=1.8.2",
+    "axios": ">=1.11.0",
     "base-x": ">=3.0.11",
     "brace-expansion": ">=1.1.12",
     "dompurify": ">=3.2.4",
