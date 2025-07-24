@@ -1,7 +1,7 @@
 ---
 title: "Discovering Object Stories: Linking Unstructured Museum Data Through Semantic Annotation"
 section: papers
-date: 2022-04-07
+date: 2025-01-24
 slug: /papers/discovering-object-stories
 keywords: archaeology, museums, digital heritage, digital humanities, digital archaeology, linked data
 citation: "Middle, S., Aristeidou, M.,S. (2025). Discovering Object Stories: Linking Unstructured Museum Data Through Semantic Annotation. Journal of Open Humanities Data, 11:5, pp. 1–13. DOI: https://doi.org/10.5334/johd.273"
