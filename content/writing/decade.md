@@ -1,16 +1,16 @@
 ---
 title: "The Portable Antiquities Scheme's Database: its development for research since 1998"
 section: papers
-date: 2010-04-04
+date: 2017-08-04
 slug: /papers/portable-antiquities-development
 keywords: antiquities,archaeology
-citation: "Pett, D.E.J.(2014) The Portable Antiquities Schemes Database: its development for research since 1998 (2010)"
+citation: "Pett, D.E.J.(2007) The Portable Antiquities Schemes Database: its development for research since 1998 - In A decade of discovery: Proceedings of the Portable Antiquities Scheme conference held at the British Museum, 4 April 2007. London: British Museum Press, pp. 1-16."
 authors:
  - Daniel Pett (The British Museum)
 featuredImg: ../images/papers/decade/5468338246_b54cf05b4d_w.jpg
 background: ../images/papers/decade/5200670881_168efebd64_k.jpg
-lat: 51.51897
-lon: -0.1265
+geo_lat: 51.51897
+geo_lon: -0.1265
 tags:
 - digital transformation
 - museums
