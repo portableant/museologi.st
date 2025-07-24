@@ -43,6 +43,6 @@ We heard the excellent Jane Alexander speak about her work, how CMA wanted to cr
 own programmes. We decided to scan a load of objects, process them overnight in our AirBnB in Cleveland after the 
 party and present them the next day in our talk. So we did...
 
-<div class="ratio  ratio-1x1 mb-3">
-    <iframe title="A 3D model"  src="https://sketchfab.com/playlists/embed?collection=ce9a3d1cbd23460e9ad9390aa5b9972e"  allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="ratio ratio-1x1 mb-3">
+    <iframe title="A 3D model"  src="https://sketchfab.com/playlists/embed?collection=ce9a3d1cbd23460e9ad9390aa5b9972e" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
