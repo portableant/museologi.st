@@ -2,7 +2,7 @@
 title: "The Portable Antiquities Scheme's Database: its development for research since 1998"
 section: papers
 date: 2010-04-04
-slug: /papers/portable-antiquities-developmeny
+slug: /papers/portable-antiquities-development
 keywords: antiquities,archaeology
 citation: "Pett, D.E.J.(2014) The Portable Antiquities Schemes Database: its development for research since 1998 (2010)"
 authors:
