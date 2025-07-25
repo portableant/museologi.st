@@ -98,7 +98,7 @@ The MicroPasts project has been kindly granted initial funding by the UK Arts an
 [^7]: See the [MicroPasts forum](https://community.micropasts.org)
 [^8]: See the MicroPasts [crowd-sourcing website](https://crowdsourced.micropasts.org)
 [^9]: Our crowd-sourcing applications use digital source data (for example photographs, scanned documents) to allow contributors to complete research tasks such as the development of 3D models, photo-tagging and transcription. This source data will typically be available through a fully open CC0 licence or a CC BY licence, but in some cases might be placed under CC BY-NC or CC BY-ND licences when the institutions owning the archaeological or archival material have asked that commercial use is prohibited without further consultation. All the derived data, produced with the help of volunteers via crowd-sourcing, is licensed under an open CC0 or CC BY licence, depending on case-by-case agreements with our partners.
-[^10] This specific topic is directly relevant to the remit of the UCL Centre for Audio-Visual Study and Practice in Archaeology and the Archaeology and Communication Research Network
+[^10]: This specific topic is directly relevant to the remit of the UCL Centre for Audio-Visual Study and Practice in Archaeology and the Archaeology and Communication Research Network
 
 ## References
 Beale, N 2012 How community archaeology can make use of open data to achieve further its objectives. World Archaeology 44.4: 612–633. DOI: [10.1080/00438243.2012.743252](http://d.doi.org/10.1080/00438243.2012.743252)
