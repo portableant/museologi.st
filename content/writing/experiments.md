@@ -181,15 +181,15 @@ The MicroPasts project was funded for an initial period of 18 months (1 October 
 
 ## Notes
 
-1. See also, [for example](http://ec.europa.eu/culture/news/2014/20140428-call-crowdfunding_en.htm).
-2. Publications about crowd-funding in the heritage and archaeology domain are virtually non-existent, to our knowledge. The topic is, however, addressed in the unpublished MA dissertation Koivisto (2014).
-3. We introduced a maximum funding goal of £5,000 to contain risks of failures, since a recent report found the average amount raised by donation-based crowd-funding to be £6,102 and £3,766 for reward-based crowd-funding (Baeck et al. 2014, 11).
-4. Recent research has in fact evidenced how almost a third of donors in donation-based crowd-funding have also offered to volunteer on the project[^4] they supported (Baeck et al. 2014).
-5. This is the period from the public launch of the MicroPasts crowd-funding website to the time of writing.
-6. Q.1 Of the projects listed below, what one have you JUST NOW supported with a donation? Answer options: (a) London’s Lost Waterway; (b) Living and dying at Great Missenden Abbey; (c) The origins and Administrations of Anglo-Saxon Wessex; (d) The Archaeologists who Built London. Q2. Could you please say what motivated you to support THAT PARTICULAR project with a donation? Open answer.
-7. Q3. Do you personally know the people who have proposed the project you have supported through the MicroPasts platform (e.g. are you their friend/relative/colleague)? Answer options: (a) Yes; (b) No.
-8. Q4. Where do you live? Answer options: (a) UK; (b) USA; (c) Other [specify]; Please indicate the CITY/PLACE where you live. Open answer.
-9. These subscribers included registered members as well as the anonymous ones who had provided their email addresses via a survey form that popped-up after they had completed one task on crowdsourced.micropasts.org (Bevan et al. 2014; Bonacchi et al. 2015).
+[^1]:See also, [for example](http://ec.europa.eu/culture/news/2014/20140428-call-crowdfunding_en.htm).
+[^2]:Publications about crowd-funding in the heritage and archaeology domain are virtually non-existent, to our knowledge. The topic is, however, addressed in the unpublished MA dissertation Koivisto (2014).
+[^3]We introduced a maximum funding goal of £5,000 to contain risks of failures, since a recent report found the average amount raised by donation-based crowd-funding to be £6,102 and £3,766 for reward-based crowd-funding (Baeck et al. 2014, 11).
+[^4]:Recent research has in fact evidenced how almost a third of donors in donation-based crowd-funding have also offered to volunteer on the project they supported (Baeck et al. 2014).
+[^5]:This is the period from the public launch of the MicroPasts crowd-funding website to the time of writing.
+[^6]:Q.1 Of the projects listed below, what one have you JUST NOW supported with a donation? Answer options: (a) London’s Lost Waterway; (b) Living and dying at Great Missenden Abbey; (c) The origins and Administrations of Anglo-Saxon Wessex; (d) The Archaeologists who Built London. Q2. Could you please say what motivated you to support THAT PARTICULAR project with a donation? Open answer.
+[^7]:Q3. Do you personally know the people who have proposed the project you have supported through the MicroPasts platform (e.g. are you their friend/relative/colleague)? Answer options: (a) Yes; (b) No.
+[^8]:Q4. Where do you live? Answer options: (a) UK; (b) USA; (c) Other [specify]; Please indicate the CITY/PLACE where you live. Open answer.
+[^9]:These subscribers included registered members as well as the anonymous ones who had provided their email addresses via a survey form that popped-up after they had completed one task on crowdsourced.micropasts.org (Bevan et al. 2014; Bonacchi et al. 2015).
 
 ## References
 
