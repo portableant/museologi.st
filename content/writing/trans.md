@@ -3,7 +3,12 @@ title: "Transcending and expanding the walls of the museum: digital pivot, digit
 section: papers
 date: 2021-03-17
 slug: /papers/transcending
-keywords: Creative industries, 3D printing, museology, egyptology,archaeology
+keywords: 
+  - Creative industries
+  - 3D printing
+  - museology
+  - egyptology
+  - archaeology
 citation: "Pett, D. (2022) Transcending the walls of the museum. A digital revolution? in Oxford Handbook of Museums (Stevenson, A. (ed)) Oxford University Press"
 authors:
   - Daniel Pett (Historic England)
@@ -70,7 +75,7 @@ Addressing these issues can be difficult for institutions on a budget, or where 
 
 When planning these interventions, at the back of the mind is that burning question - ‘is a digital solution actually needed to convey meaning or enhance the experience?’ Quite often it may not be - a simple example of analogue Augmented Reality can illustrate this from the Heiden Tor (Heathen’s Gate) at the Petronell-Carnuntum archaeological park where an etched glass panel[[1]](#footnote-0) is used to enrich the view of the ruined Roman construction.
 
-### 2. Digital foundations**
+### 2. Digital foundations
 
 In many institutions, technologists are now a fixture of the available human resource within Museums, but they are often working in small teams or alone, with very few institutions able to afford multi-disciplinary teams to enable digital content to be produced at scale. Institutions are grappling with how to resource digital functions, where to situate them and how they fit with the mission of the organisations (James & Price 2018).
 
@@ -219,13 +224,13 @@ Ubisoft have also provided large philanthropic donations to cultural heritage, n
 
 In 2011, Google created a programme for engagement with cultural heritage (Wikipedia contributors: 2021), initially entitled the ‘Google Cultural Institute’ and now relabelled as Google Arts and Culture (GAC). In some ways, like Europeana, GAC is an aggregator of cultural content on a grand scale, but without the former’s open endpoints for retrieval of information and with a less transparent agenda for cultural service. GAC could be seen as a cultural walled garden - open access focused museums have placed their resources into Google’s system, providing them with a large data bank of information that can be mined, refined and exploited by Google. GAC has been surveyed for its western cultural biases (Kizhner et al 2021) and is frequently criticised on social media by exponents of open access in the cultural sector, for example:
 
-“I HATE how @googlearts has inserted itself as the gatekeeper of art and archaeology. It's a silo that follows no community standards. It claims to be open, but there are no licenses, no APIs.” (Gruber 2018)
+> “I HATE how @googlearts has inserted itself as the gatekeeper of art and archaeology. It's a silo that follows no community standards. It claims to be open, but there are no licenses, no APIs.” (Gruber 2018)
 
 The mechanisms for joining and disseminating information on GAC provide another institutional overhead for many already very stretched organisations, but the end results can enable a small museum with poor digital capabilities to reach a global audience with little expense outlaid on their own digital infrastructure. Google has funded some amazing museological projects, for example the Maya collaboration with the British Museum and Guatemala (Coughenour and Cooper 2017), the Bagan interactives, their collaboration with CyArk and their Creative Lab (based in Sydney, Australia) collaborated with the author on an interactive installation at the British Museum in 2017 (Uglow et al 2017).
 
 As the rise in ill feeling towards technology has shown in the last few years, mistrust and disillusionment may see a shift away from collaboration with the tech sector for those museums that aim to exude neutrality, focus on civil enrichment, climate issues and ethical standpoints.
 
-### 5. Conclusion**
+### 5. Conclusion
 
 Institutional privilege manifests itself in many ways; not **all** memory institutions and museums **can**, **could** or **should** engage in all these digital methods of engagement. If a platform is not performing for your institution, do not be afraid to sunset that service (taking backup copies) and communicate that decision clearly to your audience(s).
 
