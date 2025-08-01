@@ -3,7 +3,9 @@ title: "Linking Portable Antiquities to a wider web"
 section: papers
 date: 2013-10-04
 slug: /papers/linking-portable-antiquities-to-a-wider-web
-keywords: antiquities,archaeology
+keywords: 
+    - antiquities
+    - archaeology
 citation: "Pett, D.E.J.(2014) Linking Portable Antiquities to a Wider Web, ISAW Papers 7.20 (2014)"
 authors:
  - Daniel Pett (The British Museum)

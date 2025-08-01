@@ -3,17 +3,21 @@ title: "Uses of social media within the British Museum and museum sector"
 section: papers
 date: 2012-01-01
 slug: /papers/social-media-museums
-keywords: social, media, museology, egyptology,archaeology
+keywords: 
+    - social media
+    - museology
+    - egyptology
+    - archaeology
 citation: "Pett, D.(2012) Uses of social media within the British Museum and museum sector"
 authors:
-- Daniel Pett (The British Museum)
+    - Daniel Pett (The British Museum)
 featuredImg: ../images/papers/socmedia/4584406702_54022467d0_c.jpg
 background: ../images/papers/socmedia/8178193199_e196a403d3_k.jpg
 tags:
-- digital transformation
-- museums
-- archaeology
-- social-media
+    - digital transformation
+    - museums
+    - archaeology
+    - social-media
 --- 
 
 > Use social media to help deliver specific marketing, learning and participation goals – don't do it for the sake of it. (Imagemakers 2011: 8)

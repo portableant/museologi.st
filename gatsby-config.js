@@ -35,6 +35,79 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: `gatsby-plugin-purgecss`,
+            options: {
+                printRejected: true,
+                develop: false,
+                ignore: [
+                    'prismjs/',
+                    'node_modules/react-back-to-top/dist/BackToTop.css',
+                    'node_modules/leaflet/dist/leaflet.css',
+                    'node_modules/vanilla-cookieconsent/dist/cookieconsent.css'
+                ],
+                purgeCSSOptions: {
+                    safelist: [
+                        'breadcrumb__list',
+                        'blockquote',
+                        'figcaption',
+                        'lead',
+                        /^btn/,
+                         /^col-/,
+                         /^row$/,
+                         /^container(-fluid)?$/,
+                         /^card/,
+                         /^navbar/,
+                         /^badge/,
+                         /^table/,
+                        'table',
+                        'table-striped',
+                        'table-bordered',
+                        'table-hover',
+                        'table-sm',
+                        'table-responsive',
+                        'table-primary',
+                        'table-secondary',
+                        'table-success',
+                        'table-danger',
+                        'table-warning',
+                        'table-info',
+                        'table-light',
+                        'table-dark',
+                         /^pagination/,
+                         /^active$/,
+                         /^disabled$/,
+                         /^text-/,
+                         /^bg-/,
+                         /^border-/,
+                         /^d-/,
+                         /^justify-/,
+                         /^align-/,
+                         /^m[trblxy]?-/,
+                         /^p[trblxy]?-/,
+                         /^g[trblxy]?-/,
+                         /^order-/,
+                         /^flex-/,
+                         /^w-/,
+                         /^h-/,
+                         /^overflow-/,
+                         /^position-/,
+                         /^top-/,
+                         /^bottom-/,
+                         /^start-/,
+                         /^end-/,
+                         /^rounded/,
+                         /^shadow/,
+                         /^visually-hidden$/,
+                         /^sr-only$/,
+                    ],
+                    content: [
+                        './src/**/*.{js,jsx,ts,tsx}', // Default for your components
+                        './src/content/**/*.md'
+                    ],
+                },
+            },
+        },
+        {
             resolve: "gatsby-plugin-robots-txt",
             options: {
                 policy: [{ userAgent: '*', allow: '/' }],
@@ -192,7 +265,7 @@ module.exports = {
                         resolve: `gatsby-remark-classes`,
                         options: {
                             classMap: {
-                                "table": "table"
+                                "table": "table table-bordered border-primary table-striped",
                             },
                             footnotes: true,
                             gfm: true

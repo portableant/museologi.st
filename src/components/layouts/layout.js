@@ -5,7 +5,6 @@ import NavBar from "../structure/nav";
 import Footer from "../structure/footer"
 import BackToTop from 'react-back-to-top';
 import CookieConsent from '../services/cookieconsent';
-import Effects from "../structure/effects";
 
 export default function Layout({children}) {
     const data = useStaticQuery(graphql`
@@ -53,7 +52,6 @@ export default function Layout({children}) {
                     visiblePercent={50}
                 />
                 <CookieConsent/>
-                <Effects/>
             </>
         )
 

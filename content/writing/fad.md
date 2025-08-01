@@ -3,7 +3,12 @@ title: "Fad Touch: Creative Economy Engagement"
 section: papers
 date: 2022-04-07
 slug: /papers/fad-touch
-keywords: Creative industries, 3D printing, museology, egyptology,archaeology
+keywords: 
+  - Creative industries
+  - 3D printing
+  - museology
+  - egyptology
+  - archaeology
 citation: "Pett, D., Cooper, C., Glen, A.L., Pitkin, M. & Wexler, J, (2022) Fad Touch in Visual Heritage: Digital Reproduction and Contextualisation in Heritage Science (Chapman, H., Ch`'ng, E, Gaffney, V. & Wilson A. Eds) Springer Visual Heritage Review DOI: 10.1007/978-3-030-77028-0_21"
 authors:
   - Daniel Pett (The Fitzwilliam Museum, University of Cambridge)

@@ -1,28 +1,37 @@
 .stretched-link__blog_post {
     color: #fff;
 }
+
 .breadcrumb__list {
     font-size: 1.2rem;
 }
+
 body {
     font-family: "public-sans", sans-serif;
     font-size: 1.1rem;
     font-weight: 400;
     background: white;
 }
-.post-body h2, h3, h4 {
+
+.post-body h2,
+.post-body h3,
+.post-body h4 {
     font-weight: 700;
     font-size: 1.3rem;
 }
-.navbar-brand a, .navbar-brand a:visited {
+
+.navbar-brand a,
+.navbar-brand a:visited {
     text-decoration: none;
     color: inherit;
 }
+
 .navbar-brand a:hover {
     color: lightslategray;
 }
 
-.post-body a, .pagination a {
+.post-body a,
+.pagination a {
     display: inline-block;
     position: relative;
     text-decoration: none;
@@ -30,7 +39,8 @@ body {
     z-index: 1;
 }
 
-.post-body a::after, .pagination a::after {
+.post-body a::after,
+.pagination a::after {
     content: '';
     position: absolute;
     left: 0;
@@ -42,7 +52,7 @@ body {
     transition: height .25s cubic-bezier(.6,0,.4,1);
 }
 
-.post-body  a:hover::after {
+.post-body a:hover::after {
     height: .2em;
 }
 
@@ -54,9 +64,9 @@ blockquote {
     padding-right: 1rem;
     font-style: italic;
 }
+
 header {
-    background: "rebeccapurple";
-    marginBottom: "2rem";
+    margin-bottom: 2rem;
 }
 
 figcaption {
@@ -66,31 +76,31 @@ figcaption {
     padding-top: 10px;
     font-size: 1.2rem;
 }
+
 .bg-pastel {
     background: #9cc2cb24;
     padding: 1rem;
 }
+
 .carousel-caption h3 {
     color: white;
     background: black;
-
     padding: 10px;
 }
-.post-body, #project li {
+
+.post-body,
+#project li {
     list-style: square;
 }
+
 nav.pagination {
     display: flex;
     justify-content: space-between;
 }
+
 .fullscreen {
-    height: 100vh; width: 100vw; object-fit: cover; object-position: center; }
-[data-aos] {
-    pointer-events: none;
-}
-.aos-animate {
-    pointer-events: auto;
-}
-.aos-init[data-aos][data-aos].aos-animate {
-    transform: unset;
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    object-position: center;
 }

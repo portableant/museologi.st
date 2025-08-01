@@ -3,7 +3,12 @@ title: "Numismatics, computers and the Internet: Draft for INC A Survey of Numis
 section: papers
 date: 2015-01-01
 slug: /papers/inc-survey
-keywords: Creative industries, 3D printing, museology, egyptology,archaeology
+keywords: 
+  - Creative industries
+  - 3D printing
+  - museology
+  - egyptology
+  - archaeology
 citation: 'Pett, Daniel E. J. "Numismatics, Computers and the Internet." A Survey of Numismatic Research, vol. 2013, 2008, pp. 761-773.'
 authors:
   - Daniel Pett (The British Museum)

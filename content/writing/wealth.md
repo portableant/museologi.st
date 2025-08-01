@@ -3,7 +3,11 @@ title: "Distributing the Wealth: Digital Knowledge Transfer for Numismatics"
 section: papers
 date: 2010-03-20
 slug: /papers/distributing-the-wealth
-keywords: numismatics,archaeology,coins,museology
+keywords: 
+  - numismatics
+  - archaeology
+  - coins
+  - museology
 citation: "DEJ Pett (2010) Distributing the Wealth: Digital knowledge transfer for Numismatics in Cook, B. (ed) The British Museum and the future of Numismatics, 71-80"
 authors:
   - Daniel Pett (The British Museum)
