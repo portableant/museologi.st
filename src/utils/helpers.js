@@ -3,7 +3,7 @@ export function formatReadingTime(minutes) {
     if (cups > 5) {
         return `${new Array(Math.round(cups / Math.E))
             .fill('🥪')
-            .join('')} ${minutes} mins read`;
+            .join('')} ${minutes} mins to read (suggested)`;
     } else {
         return `${new Array(cups || 1).fill('🍵').join('')} ${
             minutes === 1 ? minutes + " min" : minutes + " mins"

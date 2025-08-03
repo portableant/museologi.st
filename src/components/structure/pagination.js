@@ -1,40 +1,38 @@
 import React from 'react'
-import PropType from "prop-types";
+import PropTypes from "prop-types";
 import {Link} from "gatsby";
-import {Container} from "react-bootstrap";
-import Button from "react-bootstrap/Button";
+import {Container, Button} from "react-bootstrap";
 
-export default function Pagination(props) {
-
-    const {pageContext} = props;
-    const {pageNumber, numberOfPages, humanPageNumber, previousPagePath, nextPagePath} = pageContext;
+const Pagination = ({ pageContext }) => {
+    const { pageNumber, numberOfPages, humanPageNumber, previousPagePath, nextPagePath } = pageContext;
+    
     return (
-            <Container>
-                <nav className="pagination py-2" role="navigation" aria-label="Pagination Navigation">
-                    {humanPageNumber > 1 ? (
-                            <Button variant={'dark'}><Link
-                                title="Go to previous page"
-                                to={previousPagePath}
-                                aria-label="Go to previous page">
-                                ← Previous
-                            </Link></Button>) :
-                        <span/>}
-                    <span className={'fw-bolder'}>Page {pageNumber + 1} of {numberOfPages}</span>
-                    {humanPageNumber < numberOfPages ? (
-                            <Button variant={'dark'}><Link
-                                title="Go to next page"
-                                aria-label="Go to next page"
-                                to={nextPagePath}>
-                                Next →
-                            </Link></Button>) :
-                        <span/>}
-                </nav>
-            </Container>
-    )
+        <Container>
+            <nav className="pagination py-2 d-flex justify-content-between align-items-center" role="navigation" aria-label="Pagination Navigation">
+                {humanPageNumber > 1 ? (
+                    <Button variant="dark" as={Link} to={previousPagePath} title="Go to previous page" aria-label="Go to previous page">
+                        ← Previous
+                    </Button>
+                ) : (
+                    <div />
+                )}
+                
+                <span className="fw-bold">Page {pageNumber + 1} of {numberOfPages}</span>
+                
+                {humanPageNumber < numberOfPages ? (
+                    <Button variant="dark" as={Link} to={nextPagePath} title="Go to next page" aria-label="Go to next page">
+                        Next →
+                    </Button>
+                ) : (
+                    <div />
+                )}
+            </nav>
+        </Container>
+    );
+};
 
-}
+Pagination.propTypes = {
+    pageContext: PropTypes.object.isRequired,
+};
 
-
-Pagination.propType = {
-    pageContext: PropType.object.isRequired,
-}
+export default Pagination;

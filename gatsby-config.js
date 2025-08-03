@@ -31,6 +31,48 @@ module.exports = {
             { name: 'Consulting & Strategy', link: '/consultancy/strategy/', id: 2 },
             { name: 'Web Development', link: '/consultancy/web-development/', id: 2 },
             { name: 'Academic Research', link: '/consultancy/academic-research/', id: 2 }
+        ],
+        socialLinks: [
+            {
+                name: "facebook",
+                url: "https://facebook.com/danielpett",
+                label: "My facebook profile"
+            },
+            {
+                name: "instagram",
+                url: "https://instagram.com/danielejpett",
+                label: "My Instagram profile"
+            },
+            {
+                name: "twitter",
+                url: "https://twitter.com/dejpett",
+                label: "My twitter profile"
+            },
+            {
+                name: "github",
+                url: "https://github.com/portableant",
+                label: "My GitHub account profile"
+            },
+            {
+                name: "linkedin",
+                url: "https://www.linkedin.com/in/danielpett/",
+                label: "My Linkedin account profile"
+            },
+            {
+                name: "orcid",
+                url: "https://orcid.org/0000-0002-0246-2335",
+                label: "My ORCID account profile"
+            },
+            {
+                name: "google",
+                url: "https://scholar.google.com/citations?user=39kTD8YAAAAJ&hl=en",
+                label: "My Google Scholar account profile"
+            },
+            {
+                name: "sketchfab",
+                url: "https://sketchfab.com/danielpett",
+                label: "My Sketchfab account profile"
+            }
         ]
     },
     plugins: [
@@ -38,71 +80,88 @@ module.exports = {
             resolve: `gatsby-plugin-purgecss`,
             options: {
                 printRejected: true,
-                develop: false,
+                develop: true,
+                defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
                 ignore: [
                     'prismjs/',
                     'node_modules/react-back-to-top/dist/BackToTop.css',
                     'node_modules/leaflet/dist/leaflet.css',
-                    'node_modules/vanilla-cookieconsent/dist/cookieconsent.css'
+                    'node_modules/vanilla-cookieconsent/dist/cookieconsent.css',
+                    'static/plyr.css',
                 ],
                 purgeCSSOptions: {
                     safelist: [
+                        'gatsby-remark-prismjs-copy-button',
                         'breadcrumb__list',
                         'blockquote',
                         'figcaption',
                         'lead',
-                        /^btn/,
-                         /^col-/,
-                         /^row$/,
-                         /^container(-fluid)?$/,
-                         /^card/,
-                         /^navbar/,
-                         /^badge/,
-                         /^table/,
                         'table',
                         'table-striped',
                         'table-bordered',
                         'table-hover',
-                        'table-sm',
                         'table-responsive',
+                        'table-sm',
+                        'table-dark',
                         'table-primary',
                         'table-secondary',
                         'table-success',
-                        'table-danger',
-                        'table-warning',
-                        'table-info',
-                        'table-light',
-                        'table-dark',
-                         /^pagination/,
-                         /^active$/,
-                         /^disabled$/,
-                         /^text-/,
-                         /^bg-/,
-                         /^border-/,
-                         /^d-/,
-                         /^justify-/,
-                         /^align-/,
-                         /^m[trblxy]?-/,
-                         /^p[trblxy]?-/,
-                         /^g[trblxy]?-/,
-                         /^order-/,
-                         /^flex-/,
-                         /^w-/,
-                         /^h-/,
-                         /^overflow-/,
-                         /^position-/,
-                         /^top-/,
-                         /^bottom-/,
-                         /^start-/,
-                         /^end-/,
-                         /^rounded/,
-                         /^shadow/,
-                         /^visually-hidden$/,
-                         /^sr-only$/,
+                        'table-danger', 
+                        'table-border',
+                        'thead',
+                        'thead-dark',
+                        'thead-light',
+                        'tbody',
+                        'tbody-dark',
+                        'tbody-light',
+                        'tr',
+                        'th',
+                        'td',
+                        /^btn/,
+                        /^col-/,
+                        /^row$/,
+                        /^container(-fluid)?$/,
+                        /^container$/,
+                        /^card/,
+                        /^navbar/,
+                        /^badge/,
+                        /^pagination/,
+                        /^accordion/,
+                        /^active$/,
+                        /^disabled$/,
+                        /^text-/,
+                        /^bg-/,
+                        /^d-/,
+                        /^justify-/,
+                        /^align-/,
+                        /^m[trblxy]?-/,
+                        /^p[trblxy]?-/,
+                        /^g[trblxy]?-/,
+                        /^order-/,
+                        /^flex-/,
+                        /^w-/,
+                        /^h-/,
+                        /^overflow-/,
+                        /^position-/,
+                        /^top-/,
+                        /^bottom-/,
+                        /^start-/,
+                        /^end-/,
+                        /^rounded/,
+                        /^visually-hidden$/,
+                        /^sr-only$/,
+                        /^carousel-/,
+                        /^ratio-*/,
+                        /^table-/, 
+                        /^border-/,
+                    ],
+                    greedy: [
+                        // /^table-/,      // Catches table, table-bordered, table-hover, table-striped, etc.
+                        // /^border-/,     // Catches all border color utilities
                     ],
                     content: [
                         './src/**/*.{js,jsx,ts,tsx}', // Default for your components
-                        './src/content/**/*.md'
+                        './src/content/**/*.md',// Markdown files
                     ],
                 },
             },
@@ -121,21 +180,62 @@ module.exports = {
             }
         },
         {
-            resolve: "gatsby-plugin-react-svg",
-            options: {
-                rule: {
-                    include: /images\/.*\.svg/,
-                    omitKeys: [
-                        'xmlnsDc',
-                        'xmlnsCc',
-                        'xmlnsRdf',
-                        'xmlnsSvg',
-                        'xmlnsSodipodi',
-                        'xmlnsInkscape'
-                    ]
-                }
-            }
+    resolve: "gatsby-plugin-svgr-svgo",
+    options: {
+        rule: {
+            include: /\.svg$/,
+            exclude: /node_modules/
         },
+        inlineRequireUsageMarker: false,
+        removeStyleElement: false,
+        removeScriptElement: false,
+        removeDimensions: true,
+        convertColors: true,
+        svgrOptions: {
+            plugins: [
+                "@svgr/plugin-jsx",
+                "@svgr/plugin-prettier"
+            ],
+            prettier: true,
+            prettierConfig: {
+                tabWidth: 2
+            },
+            svgo: true,
+            svgoConfig: {
+                plugins: [
+                    {
+                        name: "preset-default",
+                        params: {
+                            overrides: {
+                                removeViewBox: false,
+                                convertColors: {
+                                    currentColor: true
+                                },
+                                removeDimensions: false,
+                                removeAttrs: {
+                                    attrs: ["data-*"]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        name: "addAttributesToSVGElement",
+                        params: {
+                            attributes: [
+                                { focusable: "false" }
+                            ]
+                        }
+                    }
+                ]
+            },
+            ref: true,
+            titleProp: true,
+            descProp: true,
+            expandProps: "end",
+            dimensions: false
+        }
+    }
+},
         {
             resolve: `gatsby-plugin-scroll-indicator`,
             options: {
@@ -265,7 +365,7 @@ module.exports = {
                         resolve: `gatsby-remark-classes`,
                         options: {
                             classMap: {
-                                "table": "table table-bordered border-primary table-striped",
+                                "table": "table table-bordered border-primary table-striped table-responsive table-hover",
                             },
                             footnotes: true,
                             gfm: true
@@ -294,10 +394,12 @@ module.exports = {
                             quality: 90,
                         }
                     },
+                    `gatsby-remark-prismjs-copy-button`, // The copy button plugin first
                     {
                         resolve: `gatsby-remark-highlight-code`,
                         options: {
-                            terminal: "carbon"
+                            terminal: "carbon",
+                            editable: true
                         },
                     },
                     {

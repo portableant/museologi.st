@@ -14,10 +14,8 @@ const Video = ({ src }) => {
                 left: 0,
                 bottom: 0,
                 right: 0,
-// /                zIndex: '-1',
                 objectFit: 'cover',
                 objectPosition: 'center',
-                // position: 'fixed'
             }}
             src={withPrefix(src)}
         >
@@ -27,4 +25,4 @@ const Video = ({ src }) => {
     )
 }
 
-export default  Video
+export default Video

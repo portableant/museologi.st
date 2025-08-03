@@ -1,9 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import {Link} from "gatsby";
-const News = ({news}) => (
+
+const News = ({news = []}) => (
     <div className="publications">
-        {news && <>
+        {news && news.length > 0 && <>
             <h4 className={"my-2 p-2"}>News Articles/ Related links</h4>
             <ul className="news">
                 {news.map((item, i) => (
@@ -19,10 +20,6 @@ const News = ({news}) => (
 
 News.propTypes = {
     news: PropTypes.array
-}
-
-News.defaultProps = {
-    news: ``,
 }
 
 export default News

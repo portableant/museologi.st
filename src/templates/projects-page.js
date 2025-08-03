@@ -17,9 +17,58 @@ import Map from "../components/elements/map";
 import Seo from "../components/structure/SEO";
 import {formatReadingTime} from "../utils/helpers";
 
-export default function ProjectsPageTemplate({data: {markdownRemark}}) {
+const ProjectsPageTemplate = React.memo(({data: {markdownRemark}}) => {
     const {frontmatter, html, timeToRead} = markdownRemark;
     const isSSR = typeof window === "undefined";
+
+    // Memoize computed values
+    const formattedReadingTime = React.useMemo(() => formatReadingTime(timeToRead), [timeToRead]);
+    const hasGeoLocation = React.useMemo(() => 
+        frontmatter.geo_lat && frontmatter.geo_lon, 
+        [frontmatter.geo_lat, frontmatter.geo_lon]
+    );
+
+    // Memoize project metadata section
+    const projectMetadata = React.useMemo(() => (
+        <header className="px-4">
+            <h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1>
+            {frontmatter.date && (
+                <div className="text-primary small mb-2">
+                    <time dateTime={frontmatter.date}>{frontmatter.date}</time>
+                </div>
+            )}
+            {frontmatter.role && (
+                <Badge className="bg-dark p-2 my-1 mx-1" as="span">
+                    Role(s): {frontmatter.role}
+                </Badge>
+            )}
+            {frontmatter.institution && (
+                <Badge className="bg-dark p-2 my-1 mx-1" as="span">
+                    {frontmatter.institution}
+                </Badge>
+            )}
+            <div className="text-primary lead small my-1">{formattedReadingTime}</div>
+        </header>
+    ), [frontmatter.title, frontmatter.date, frontmatter.role, frontmatter.institution, formattedReadingTime]);
+
+    // Memoize project data props to prevent child re-renders
+    const fairDataProps = React.useMemo(() => ({
+        zenodo_doi: frontmatter.zenodo_doi,
+        github_repo: frontmatter.github_repo,
+        project_website: frontmatter.project_website,
+        deposited_archive: frontmatter.deposited_archive
+    }), [frontmatter.zenodo_doi, frontmatter.github_repo, frontmatter.project_website, frontmatter.deposited_archive]);
+
+    const peopleProps = React.useMemo(() => ({
+        collaborators: frontmatter.collaborators,
+        partners: frontmatter.partners
+    }), [frontmatter.collaborators, frontmatter.partners]);
+
+    const fundingProps = React.useMemo(() => ({
+        funders: frontmatter.funders,
+        grant_amount: frontmatter.grant_amount,
+        grant_number: frontmatter.grant_number
+    }), [frontmatter.funders, frontmatter.grant_amount, frontmatter.grant_number]);
 
     return (
         <Layout>
@@ -27,43 +76,52 @@ export default function ProjectsPageTemplate({data: {markdownRemark}}) {
 
             <Container>
                 <Row className="post-body">
-                    <div className="px-4">
-                        <h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1>
-                        {frontmatter.date && <h2 className="text-primary small">{frontmatter.date}</h2>}
-                        {frontmatter.role && <Badge className="bg-dark p-2 my-1 mx-1">Role(s): {frontmatter.role}</Badge>}
-                        {frontmatter.institution && <Badge className="bg-dark p-2 my-1 mx-1">{frontmatter.institution}</Badge>}
-                        <h3 className="text-primary lead small my-1">{`${formatReadingTime(timeToRead)}`}</h3>
-                    </div>
-                    <div className="post-body bg-white text-black p-4" dangerouslySetInnerHTML={{__html: html}}/>
+                    {projectMetadata}
+                    <article 
+                        className="bg-white text-black p-4" 
+                        dangerouslySetInnerHTML={{__html: html}}
+                    />
                 </Row>
             </Container>
-            <Vimeo vimeo={frontmatter.vimeo}/>
-            <PlyrAudio audio={frontmatter.audio}/>
-            <Container fluid className="bg-pastel" id={"project"}>
+
+            {frontmatter.vimeo && <Vimeo vimeo={frontmatter.vimeo}/>}
+            {frontmatter.audio && <PlyrAudio audio={frontmatter.audio}/>}
+            
+            <Container fluid className="bg-pastel" id="project">
                 <Container>
-                    <FairData zenodo_doi={frontmatter.zenodo_doi} github_repo={frontmatter.github_repo} project_website={frontmatter.project_website} deposited_archive={frontmatter.deposited_archive}/>
-                    <People collaborators={frontmatter.collaborators} partners={frontmatter.partners}/>
-                    <Documents documents={frontmatter.documents}/>
-                    <Funding funders={frontmatter.funders} grant_amount={frontmatter.grant_amount}
-                             grant_number={frontmatter.grant_number}/>
-                    <Publications publications={frontmatter.publications}/>
-                    <News news={frontmatter.news}/>
+                    <FairData {...fairDataProps}/>
+                    <People {...peopleProps}/>
+                    {frontmatter.documents && <Documents documents={frontmatter.documents}/>}
+                    <Funding {...fundingProps}/>
+                    {frontmatter.publications && <Publications publications={frontmatter.publications}/>}
+                    {frontmatter.news && <News news={frontmatter.news}/>}
                 </Container>
             </Container>
-            {frontmatter.images && <Container fluid className="bg-dark mt-3 p-3 text-white">
-                <SlideShow images={frontmatter.images}></SlideShow>
-            </Container>}
-            <Tags tags={frontmatter.tags} />
-            {!isSSR && frontmatter.geo_lat && (
-                <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
+
+            {frontmatter.images && (
+                <Container fluid className="bg-dark mt-3 p-3 text-white">
+                    <SlideShow images={frontmatter.images}/>
+                </Container>
+            )}
+
+            {frontmatter.tags && <Tags tags={frontmatter.tags}/>}
+            
+            {!isSSR && hasGeoLocation && (
+                <Map 
+                    geo_lat={frontmatter.geo_lat} 
+                    geo_lon={frontmatter.geo_lon}
+                />
             )}
         </Layout>
     );
-}
+});
 
+ProjectsPageTemplate.displayName = 'ProjectsPageTemplate';
+
+export default ProjectsPageTemplate;
 
 export const pageQuery = graphql`
-    query ($id: String!) {
+    query ProjectsPageQuery($id: String!) {
         markdownRemark(id: { eq: $id }) {
             html
             id
@@ -171,9 +229,13 @@ export const pageQuery = graphql`
     }
 `;
 
-export function Head({data: {markdownRemark}}) {
+export const Head = ({data: {markdownRemark}}) => {
     const {frontmatter} = markdownRemark;
     return (
-        <Seo title={frontmatter.title} featured={frontmatter.featuredImg} description={frontmatter.description}/>
-    )
-}
+        <Seo 
+            title={frontmatter.title} 
+            featured={frontmatter.featuredImg} 
+            description={frontmatter.description}
+        />
+    );
+};

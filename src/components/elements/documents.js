@@ -1,9 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import {Link} from "gatsby";
-const Documents = ({documents}) => (
+
+const Documents = ({documents = []}) => (
     <div className="Documents">
-        {documents && <>
+        {documents && documents.length > 0 && <>
             <h4 className={"my-2 p-2"}>Documents and files</h4>
             <ul className="news">
                 {documents.map((item, i) => (
@@ -19,10 +20,6 @@ const Documents = ({documents}) => (
 
 Documents.propTypes = {
     documents: PropTypes.array
-}
-
-Documents.defaultProps = {
-    documents: ``,
 }
 
 export default Documents

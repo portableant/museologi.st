@@ -2,9 +2,9 @@ import React from "react"
 import PropTypes from "prop-types"
 import {Container, Row} from "react-bootstrap";
 
-const Vimeo = ({vimeo}) => (
+const Vimeo = ({vimeo = []}) => (
     <div>
-        {vimeo && <>
+        {vimeo && vimeo.length > 0 && <>
             <Container>
                 <Row>
                     <>
@@ -25,10 +25,6 @@ const Vimeo = ({vimeo}) => (
 
 Vimeo.propTypes = {
     vimeo: PropTypes.array
-}
-
-Vimeo.defaultProps = {
-    vimeo: ``,
 }
 
 export default Vimeo

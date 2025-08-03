@@ -15,7 +15,7 @@ import L from 'leaflet';
 // });
 
 
-const Map = ({geo_lon, geo_lat}) => {
+const Map = ({geo_lon = 11.081284, geo_lat = 52.370216}) => {
     const mapIcon = new L.Icon({
         iconUrl: require('leaflet/dist/images/marker-icon.png').default,
     });
@@ -44,11 +44,6 @@ const Map = ({geo_lon, geo_lat}) => {
 Map.propTypes = {
     geo_lat: PropTypes.number,
     geo_lon: PropTypes.number,
-}
-
-Map.defaultProps = {
-    geo_lat: 52.370216,
-    geo_lon: 11.081284,
 }
 
 export default Map

@@ -30,8 +30,7 @@ body {
     color: lightslategray;
 }
 
-.post-body a,
-.pagination a {
+.post-body a {
     display: inline-block;
     position: relative;
     text-decoration: none;
@@ -39,8 +38,7 @@ body {
     z-index: 1;
 }
 
-.post-body a::after,
-.pagination a::after {
+.post-body a::after{
     content: '';
     position: absolute;
     left: 0;
@@ -103,4 +101,45 @@ nav.pagination {
     width: 100vw;
     object-fit: cover;
     object-position: center;
+}
+#project a {
+    color: black;
+    transition: color 0.2s;
+    text-decoration: none !important;
+}
+
+#project a:hover {
+    color: purple;
+    text-decoration: none !important;
+}
+
+/* Base styles for the copy button */
+.gatsby-remark-prismjs-copy-button {
+  /* Initial background is a light blue */
+  background-color: #add8e6;
+  
+  /* Text color is white */
+  color: #ffffff;
+  
+  /* Add some padding for a better size */
+  padding: 8px 12px;
+  
+  /* Remove default button styles */
+  border: none;
+  cursor: pointer;
+  
+  /* Add some rounded corners */
+  border-radius: 4px;
+  
+  /* Smooth transition for hover effects */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover styles for the copy button */
+.gatsby-remark-prismjs-copy-button:hover {
+  /* On hover, change background to purple */
+  background-color: #800080;
+  
+  /* Keep the text color white */
+  color: #ffffff;
 }

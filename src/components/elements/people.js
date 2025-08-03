@@ -1,37 +1,28 @@
-import React from "react"
-import PropTypes from "prop-types"
-const Partners = ({collaborators, partners}) => (
-    <div>
-        {collaborators && <>
-            <h4 className={"my-2 p-2"}>People I worked with</h4>
-            <ul className="">
-                {collaborators.map((item, i) => (
-                    <li key={i}>
-                        {item}
-                    </li>
-                ))}
-            </ul>
-        </>}
-        {partners && <>
-            <h4 className={"my-2 p-2"}>Institutional Partners</h4>
-            <ul className="">
-                {partners.map((item, i) => (
-                    <li key={i}>
-                        {item}
-                    </li>
-                ))}
-            </ul>
-        </>}
-    </div>
+import React from "react";
+import PropTypes from "prop-types";
 
-)
+const ListSection = ({ title, items }) =>
+    items && items.length > 0 && (
+        <>
+            <h4 className="my-2 p-2">{title}</h4>
+            <ul>
+                {items.map((item, i) => (
+                    <li key={i}>{item}</li>
+                ))}
+            </ul>
+        </>
+    );
+
+const Partners = ({ collaborators = [], partners = [] }) => (
+    <div>
+        <ListSection title="People I worked with" items={collaborators} />
+        <ListSection title="Institutional Partners" items={partners} />
+    </div>
+);
 
 Partners.propTypes = {
-    partners: PropTypes.array
-}
+    collaborators: PropTypes.array,
+    partners: PropTypes.array,
+};
 
-Partners.defaultProps = {
-    partners: ``,
-}
-
-export default Partners
+export default Partners;

@@ -8,45 +8,61 @@ import Tags from "../components/elements/tag";
 import Seo from "../components/structure/SEO";
 import {formatReadingTime} from "../utils/helpers";
 
-export default function BlogPageTemplate({data: {markdownRemark}}) {
-
+const BlogPageTemplate = React.memo(({data: {markdownRemark}}) => {
     const {frontmatter, timeToRead, html} = markdownRemark;
-
     const isSSR = typeof window === "undefined";
+
+    // Memoize computed values
+    const formattedReadingTime = React.useMemo(() => formatReadingTime(timeToRead), [timeToRead]);
+    const hasGeoLocation = React.useMemo(() => 
+        frontmatter.geo_lat && frontmatter.geo_lon, 
+        [frontmatter.geo_lat, frontmatter.geo_lon]
+    );
 
     return (
         <Layout>
             <HeaderImage backgroundImage={frontmatter.background}/>
             <Container>
-                <Row className={"post-body"}>
-                    <div className="px-4">
-                        <header><h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1></header>
-                        <h2 className="text-primary small">{frontmatter.date}</h2>
-                        <h3 className="text-primary lead small">{`${formatReadingTime(timeToRead)}`}</h3>
-                    </div>
-                    <div className="bg-white text-black p-4"
-                         dangerouslySetInnerHTML={{__html: html}}/>
+                <Row className="post-body">
+                    <header className="px-4">
+                        <h1 className="text-primary fw-bold mt-4">{frontmatter.title}</h1>
+                        <div className="text-primary small mb-2">
+                            <time dateTime={frontmatter.date}>{frontmatter.date}</time>
+                        </div>
+                        <div className="text-primary lead small">{formattedReadingTime}</div>
+                    </header>
+                    <article 
+                        className="bg-white text-black p-4"
+                        dangerouslySetInnerHTML={{__html: html}}
+                    />
                 </Row>
             </Container>
-            <Tags tags={frontmatter.tags} />
-            {!isSSR && frontmatter.geo_lat && (
-                <Map geo_lat={frontmatter.geo_lat} geo_lon={frontmatter.geo_lon}/>
+            
+            {frontmatter.tags && <Tags tags={frontmatter.tags} />}
+            
+            {!isSSR && hasGeoLocation && (
+                <Map 
+                    geo_lat={frontmatter.geo_lat} 
+                    geo_lon={frontmatter.geo_lon}
+                />
             )}
         </Layout>
     );
+});
 
-}
+BlogPageTemplate.displayName = 'BlogPageTemplate';
 
+export default BlogPageTemplate;
 
 export const pageQuery = graphql`
-    query ($id: String!) {
+    query BlogPageQuery($id: String!) {
         markdownRemark(id: { eq: $id }) {
             html
             id
             timeToRead
             wordCount {
-              words
-             }
+                words
+            }
             frontmatter {
                 slug
                 date(formatString: "MMMM DD, YYYY")
@@ -56,7 +72,7 @@ export const pageQuery = graphql`
                 tags
                 geo_lat
                 geo_lon
-                featuredImg{
+                featuredImg {
                     childImageSharp {
                         gatsbyImageData(
                             placeholder: BLURRED
@@ -64,11 +80,15 @@ export const pageQuery = graphql`
                             formats: [AUTO, WEBP]
                             width: 600
                             quality: 80
-                            transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+                            transformOptions: { 
+                                grayscale: false, 
+                                fit: COVER, 
+                                cropFocus: CENTER 
+                            }
                         )
                     }
                 }
-                background{
+                background {
                     childImageSharp {
                         gatsbyImageData(
                             placeholder: BLURRED
@@ -76,7 +96,11 @@ export const pageQuery = graphql`
                             formats: [AUTO, WEBP]
                             width: 1200
                             quality: 90
-                            transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+                            transformOptions: { 
+                                grayscale: false, 
+                                fit: COVER, 
+                                cropFocus: CENTER 
+                            }
                         )
                     }
                 }
@@ -85,9 +109,13 @@ export const pageQuery = graphql`
     }
 `;
 
-export function Head({data: {markdownRemark}}) {
+export const Head = ({data: {markdownRemark}}) => {
     const {frontmatter} = markdownRemark;
     return (
-        <Seo title={frontmatter.title} featured={frontmatter.featuredImg} description={frontmatter.description}/>
-    )
-}
+        <Seo 
+            title={frontmatter.title} 
+            featured={frontmatter.featuredImg} 
+            description={frontmatter.description}
+        />
+    );
+};

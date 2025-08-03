@@ -1,4 +1,4 @@
-import React from "react"
+import * as React from "react"
 import PropTypes from "prop-types"
 import Layout from "../components/layouts/layout";
 // Components
@@ -9,92 +9,115 @@ import {Container, Row, Col} from "react-bootstrap";
 import {startCase} from "lodash"
 import Seo from "../components/structure/SEO";
 
-const Tags = ({pageContext, data}) => {
+const Tags = React.memo(({pageContext, data}) => {
     const {tag} = pageContext
     const {edges, totalCount} = data.allMarkdownRemark
-    const tagHeader = `${totalCount} post${
-        totalCount === 1 ? "" : "s"
-    } tagged with "${startCase(tag)}"`
+    
+    // Memoize the tag header to avoid recalculation
+    const tagHeader = React.useMemo(() => 
+        `${totalCount} post${totalCount === 1 ? "" : "s"} tagged with "${startCase(tag)}"`,
+        [totalCount, tag]
+    );
+
+    // Memoize the posts to prevent unnecessary re-renders
+    const posts = React.useMemo(() => 
+        edges.map(({node}) => <PostCard key={node.id} post={node}/>),
+        [edges]
+    );
 
     return (
         <Layout>
             <Container>
                 <Row>
-                <h1 className="ml-4 mt-4">{tagHeader}</h1>
-                <Row>
-                    {edges.map(({node}) => {
-                        return (
-                            <PostCard key={node.id} post={node}/>
-                        )
-                    })}
+                    <Col xs={12}>
+                        <h1 className="ms-4 mt-4">{tagHeader}</h1>
+                    </Col>
                 </Row>
+                <Row>
+                    {posts}
+                </Row>
+                <Row>
                     <Col md={4}>
-                        <Link className="my-3 btn-dark btn text-white" to="/tags">All tags</Link>
+                        <Link className="my-3 btn-dark btn text-white" to="/tags">
+                            All tags
+                        </Link>
                     </Col>
                 </Row>
             </Container>
         </Layout>
     )
+});
 
-}
+// Add display name for debugging
+Tags.displayName = 'Tags';
 
 Tags.propTypes = {
     pageContext: PropTypes.shape({
         tag: PropTypes.string.isRequired,
-    }),
+    }).isRequired,
     data: PropTypes.shape({
         allMarkdownRemark: PropTypes.shape({
             totalCount: PropTypes.number.isRequired,
             edges: PropTypes.arrayOf(
                 PropTypes.shape({
                     node: PropTypes.shape({
+                        id: PropTypes.string.isRequired,
                         frontmatter: PropTypes.shape({
                             title: PropTypes.string.isRequired,
                             slug: PropTypes.string.isRequired,
-
-                        }),
-                    }),
+                            featuredImg: PropTypes.object,
+                        }).isRequired,
+                    }).isRequired,
                 }).isRequired
-            ),
-        }),
-    }),
+            ).isRequired,
+        }).isRequired,
+    }).isRequired,
 }
 
 export default Tags
 
 export const pageQuery = graphql`
-  query($tag: String) {
-    allMarkdownRemark(
-      limit: 2000
-      filter: { frontmatter: { tags: { in: [$tag] } } }
-    ) {
-          totalCount
-    edges {
-      node {
-        frontmatter {
-          title
-          slug
-          featuredImg {
-            childImageSharp {
-              id
-              gatsbyImageData(
-                placeholder: BLURRED
-                height: 600
-                formats: [AUTO, WEBP]
-                width: 600
-                quality: 80
-                transformOptions: {grayscale: false, fit: COVER, cropFocus: CENTER}
-              )
+    query($tag: String) {
+        allMarkdownRemark(
+            limit: 2000
+            sort: {frontmatter: {date: DESC}}
+            filter: { frontmatter: { tags: { in: [$tag] } } }
+        ) {
+            totalCount
+            edges {
+                node {
+                    id
+                    frontmatter {
+                        title
+                        slug
+                        date(formatString: "MMMM DD, YYYY")
+                        featuredImg {
+                            childImageSharp {
+                                id
+                                gatsbyImageData(
+                                    placeholder: DOMINANT_COLOR
+                                    height: 600
+                                    formats: [AUTO, WEBP]
+                                    width: 600
+                                    quality: 80
+                                    transformOptions: {
+                                        grayscale: false
+                                        fit: COVER
+                                        cropFocus: CENTER
+                                    }
+                                )
+                            }
+                        }
+                    }
+                }
             }
-          }
         }
-      }
     }
-  }
-}
 `
-export function Head({pageContext}) {
-    return (
-        <Seo title={"Pages tagged with " + pageContext.tag} />
-    )
-}
+
+export const Head = ({pageContext}) => (
+    <Seo 
+        title={`Pages tagged with "${startCase(pageContext.tag)}"`}
+        description={`Browse all content tagged with ${startCase(pageContext.tag)}`}
+    />
+)
