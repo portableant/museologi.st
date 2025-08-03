@@ -20,8 +20,8 @@ const TalkPage = React.memo(({data, pageContext}) => {
             <Container>
                 <Row>
                     <Col xs={12}>
-                        <h1 className="ms-4 mt-4 text-primary">A list of talks</h1>
-                        <p className="ms-4">
+                        <h1 className="mt-4 text-primary">A list of talks</h1>
+                        <p>
                             This page lists talks and presentations I have given at conferences, workshops, and other events.
                         </p>
                     </Col>

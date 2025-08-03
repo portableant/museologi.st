@@ -54,7 +54,7 @@ const TalksPageTemplate = React.memo(({data: {markdownRemark}}) => {
             <HeaderImage backgroundImage={frontmatter.background}/>
             
             <Container>
-                <Row className="post-body">
+                <Row className="post-body text-break">
                     <Col xs={12}>
                         <div className="px-4">
                             <header>

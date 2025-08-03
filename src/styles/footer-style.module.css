@@ -19,7 +19,8 @@
     color: gray;
 }
 
-.footer a, a:visited {
+.footer a,
+.footer a:visited {
     text-decoration: none;
     color: inherit;
 }

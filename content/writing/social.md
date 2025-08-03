@@ -428,7 +428,81 @@ Questions remain about exactly what audience museums are gathering via social me
 
 The author would like to thank Ian Richardson, Lena Zimmer, Ruth Levis, Katharine Kelland, and Matthew Cock (British Museum), and the peer reviewers Tyler Bell (Factual Inc.), Chiara Bonacchi, and Andy Bevan (University College London) for their comments on this article.
 
-## Footnotes 
+## Bibliography
+
+  - Arrington, M. 2011. "Amazingly, MySpace's Decline Is Accelerating" [Available via](http://techcrunch.com/2011/03/23/amazingly-myspaces-decline-is-accelerating/) (accessed 26 July 2011)
+  - Arthur, C. 2009. "The long tail of blogging is dying" [Available via](http://www.guardian.co.uk/technology/2009/jun/24/charles-arthur-blogging-twitter) (accessed September 6 2011)
+  - Arts Council England, Museums Libraries and Archives Council, and Arts and Business, 2010. Digital Audiences: Engagement with Arts and Culture Online [Available via](http://www.artscouncil.org.uk/media/uploads/doc/Digital_audiences_final.pdf) (accessed 8 June 2011)
+  - Atkinson, R. 2011. "Developing a social media strategy in Museum practice" [Available via](http://www.museumsassociation.org/museum-practice/social-media)
+  - Bell, T.W. 2011. "Smartphones and spheres of influence." [Available via](http://radar.oreilly.com/2011/07/smartphones-spheres-of-influence.html) (accessed July 27 2011)
+  - Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
+  - Bonacchi, C., Furneaux, C & Pett, D. 2012 "Public engagement through online TV channels: A way forward for the audiovisual communication of archaeology" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
+  - Breen, T.C. 2010 "Irish archaeology on the Internet - Fifteen years on" in "Archaeology Ireland" Volume 24 Number 3, pp 35 - 36 Ireland: Wordwell Ltd [suspicious link removed] (accessed September 2 2011)
+  - British Museum 2008 "Strategy to 2012" [Available via](http://www.britishmuseum.org/pdf/Strategy%20to%202012%20web%20version.pdf) (accessed on September 5 2011)
+  - British Museum 2011 "2010 - 2011 Review" [Available via](http://www.britishmuseum.org/pdf/annualreview1011.pdf) (accessed on September 5 2011)
+  - Brown, M. 2011 "British Museum wins Art Fund prize" [Available via](http://www.guardian.co.uk/culture/2011/jun/15/british-museum-wins-arts-fund-prize) (accessed on September 5 2011)
+  - Cassidy J, 2006 "Me media" [Available via](http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy) (accessed on September 6 2011)
+  - Civil Service, 2009a "Principles for participation online" [Available via](http://www.civilservice.gov.uk/about/resources/participation-online.aspx) (accessed on September 1 2011)
+  - Civil Service, 2009b "Sir Gus' vision: The Four P's" [Available via](http://www.civilservice.gov.uk/about/values/vision.aspx) (accessed September 6 2011)
+  - Cock, M., 2011 "On Air, Online and Onsite: The British Museum and BBC's A History of the World" [Available via](http://conference.archimuse.com/mw2011/papers/on_air_online_and_onsite_the_british_museum_an) (Accessed September 26 2011)
+  - Cohen, N. 2010 "Venerable British Museum Enlists in the Wikipedia Revolution" [Available via](http://www.nytimes.com/2010/06/05/arts/design/05wiki.html) Accessed 5 September 2011
+  - DiMicco, JM & Millen DR 2007 "Identity Management: Multiple Presentations of Self in Facebook"
+  - Eden, T. (2011) "Introducing QRpedia" [Available via](http://shkspr.mobi/blog/index.php/2011/04/introducing-qrpedia/) (accessed September 7 2011)
+  - El Dahshan, M 2011 "Facebook has little to fear from Muslim social networking sites" [Available via](http://www.guardian.co.uk/commentisfree/belief/2011/may/31/muslim-social-networking) (accessed September 7 2011)
+  - Eleftheriou-Smith, L. 2011, "Betfair puts QR codes on beach volleyball bum" [Available via](http://www.marketingmagazine.co.uk/news/1084029/Betfair-puts-QR-codes-beach-volleyball-bums/) (accessed September 6 2011)
+  - Ellison, N. B., Steinfield, C., & Lampe, C. 2007 "The benefits of Facebook "friends:" Social capital and college students' use of online social network sites." Journal of Computer-Mediated Communication, 12(4), article 1. [Available via](http://jcmc.indiana.edu/vol12/issue4/ellison.html) (accessed September 2 2011)
+  - Finnis, J., Chan, S. and Clements, R. 2011a. "How to Evaluate Online Success? A New Piece of Action Research." In: Trant, J. & Bearman, D. (eds.) 2011 "Museums and the Web 2011: Proceedings" Toronto: Archives & Museum Informatics [Available via](https://www.google.com/search?q=http://conference.archimuse.com/mw2011/papers/how_to_evaluate_online_success_a_new_piece_of_) (accessed 9 June 2011)
+  - Finnis, J., Chan, S. & Clements, R. 2011b. "Let's get real: How to evaluate online success" Brighton: Culture24
+  - Fiske, A. P. 1991. "Structures of Social Life: The Four Elementary Forms of Human Relations." New York: The Free Press.
+  - Fishkin, R. 2011 "Tracking the KPIs of Social Media" [Available via](http://www.seomoz.org/blog/tracking-the-roi-of-social-media) (accessed September 8 2011)
+  - Gardner, A. 2012 "Strategy Games and Engagement Strategies" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
+  - Garrahan M., 2009. The rise and fall of MySpace 4 December. [Available via](http://www.ft.com/cms/s/2/fd9ffd9c-dee5-11de-adff-00144feab49a.html#axzz1TK1iZYYR) (accessed July 26 2011)
+  - Ghey, E. 2011 "Collections online at the British Museum" in Cook, B. (ed.) 2011 "The British Museum and the future of UK numismatics" pp. 68-70 London: British Museum Press
+  - Gibbins, W. 2011 "Local authorities should realise the potential in social media" [Available via](http://www.guardian.co.uk/guardian-professional/2011/mar/03/engagement-hr) (accessed on September 6 2011)
+  - Goskar, T 2012 "Wessex archaeology and the web" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
+  - Halliday J, 2011 "London riots: how Blackberry Messenger played a key role" [Available via](http://www.guardian.co.uk/media/2011/aug/08/london-riots-facebook-twitter-blackberry) (accessed on September 5 2011)
+  - Higgins C., 2009. "Museums' future lies on the internet, say Serota and MacGregor" [Available via](http://www.guardian.co.uk/artanddesign/2009/jul/08/museums-future-lies-online) (accessed 25 July 2011)
+  - Howard, P.N. 2011 "Digital media and the Arab Spring" [Available via](http://blogs.reuters.com/great-debate/2011/02/16/digital-media-and-the-arab-spring/) (accessed on September 5 2011)
+  - Imagemakers 2011 "Digital Participation and Learning: 22 Case Studies" [Available via](http://www.hlf.org.uk/aboutus/howwework/Documents/Digital_report_Sept2011.pdf) (accessed September 8 2011)
+  - Jeater, M & Lee, V. 2012 "Smartphones and site interpretation: the Museum of London's Streetmuseum™ applications" in Bonacchi C. (ed.), 2012. Archaeologists and the Digital. Towards Strategies of Engagement. London: Archetype Publications
+  - Joyce, R.A & Tringham, R.E. 2007 "Feminist Adventures in Hypertext" in "Journal of Archaeological Method and Theory" Volume 14. Number 3 pp 328 - 358 London: Springer [suspicious link removed] (accessed September 2 2011) DOI 10.1007/s10816-007-9036-2
+  - Kaplan, A.M. & Haenlein, M. (2010). "Users of the world, unite\! The challenges and opportunities of Social Media". Business Horizons 53 (1): 59–68. [Available via](http://www.sciencedirect.com/science/article/pii/S0007681309001232) (accessed on September 5 2011)
+  - Kennedy, M. 2011 "British Museum remains UK's top attraction for fourth year running" [Available via](http://www.guardian.co.uk/culture/2011/jun/28/british-museum-top-attraction) (accessed September 7 2011)
+  - Klebe Treviño, L, Webster J & Stein E.W. 2000 "Making Connections: Complementary Influences on Communication Media Choices Attitudes and Use" in "Organization Science" Volume 11 Number 2. pp. 163 - 182 IFORMS [suspicious link removed] (accessed September 2 2011)
+  - MacGregor, N. and Serota, N., 2009. "The Museum of the 21st Century" [Available via](http://www2.lse.ac.uk/PublicEvents/events/2009/20090311t1917z001.aspx) (accessed 25 July 2011)
+  - Mannion, S. 2011a "AR adventures at the British Museum" [Available via](http://www.slideshare.net/s.mannion/ar-adventures-at-the-british-museum) (accessed September 6 2011)
+  - Mannion, S. 2011b "Research on tablets for learning" [Available via](http://wiki.museummobile.info/archives/91923) (accessed September 7 2011)
+  - MacManus, R. 2011 "Social media case study: Brooklyn Museum" [Available via](http://www.readwriteweb.com/archives/social_media_case_study_brooklyn_museum.php) (accessed September 6 2011)
+  - Morgan, C. 2009 "(Re)Building Çatalhöyük: Changing Virtual Reality in Archaeology" in Archaeology Volume 5, issue 3. [Available via](http://dx.doi.org/10.1007/s11759-009-9113-0) (accessed September 3 2011) DOI: 10.1007/s11759-009-9113-0
+  - Museum of London. 2011. "Museum of London Apps" [Available via](http://www.museumoflondon.org.uk/Explore-online/Apps/) (accessed September 6 2011)
+  - Museums etc 2010 "Twitter for museums" Milton Keynes: Museums Etc.
+  - Nielsen J 2006 "Participation Inequality: Encouraging More Users to Contribute" [Available via](http://www.useit.com/alertbox/participation_inequality.html) (accessed September 6 2011)
+  - Office for National Statistics (ONS) 2011 "Population Estimates for UK, England and Wales, Scotland and Northern Ireland, Mid-2010 Population Estimates" [Available via](http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-231847) (accessed September 6 2011)
+  - Office of Communication (Ofcom), 2011. "Facts & Figures" [Available via](http://media.ofcom.org.uk/facts/) (accessed on 15 April 2011)
+  - Pearse, R. 2010 "Wikipedia and the British Museum" [Available via](https://www.google.com/search?q=http://www.roger-pearse.com/weblog/%3Fp%3D4451) (accessed 5 September 2011)
+  - Pett, D.E.J. 2010 "Meeting public interest in the hoard" in British Archaeology Number 110 pp 51
+  - Pett, D.E.J. 2011a "A review article" in "Public Archaeology" Volume 10, Number 2, pp 119 - 127 DOI 10.1179/175355311X1308661712664
+  - Pett, D.E.J. 2011b "Distributing the wealth" in "The British Museum and the future of numismatics" in Cook, B. (ed.) 2011 "The British Museum and the future of UK numismatics" pp. 71 - 80 London: British Museum Press
+  - Pett 2011c - "\#ACRNCASPAR Workshop on Archaeologists & the Digital: Towards Strategies of Engagement" [Available via](https://museologi.st/acrncaspar-workshop-on-archaeologists-the-digital-towards-strategies-of-engagement/) (accessed September 6 2011)
+  - Prudames, D. 2011 "A History of the World wins Art Fund Prize for the British Museum" [Available via](http://www.bbc.co.uk/blogs/ahistoryoftheworld/2011/06/winning-the-art-fund-prize.shtml) (accessed September 5 2011)
+  - Rainey, J. 2011 "Social media crackdown? It'd be more than unsociable" [Available via](http://www.latimes.com/entertainment/news/la-et-onthemedia-20110817,0,632518.column) (accessed on September 6 2011)
+  - Rangaswami, J.P., 2008 "Why I still use Facebook, and other musings on social networks" [Available via](http://confusedofcalcutta.com/2008/01/18/why-i-still-use-facebook-and-other-musings-on-social-networks/) (accessed September 6 2011)
+  - Richardson, L. 2011. "My research" [Available via](http://digipubarch.org/myresearch/) (accessed 8 June 2011)
+  - Richardson, L. 2012. "Twitter and archaeology" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
+  - Ross,C., Terras, M., Warwick, C., & Welsh, A. (2011) "Enabled backchannel: conference Twitter use by digital humanists", Journal of Documentation, Vol. 67 Iss: 2, pp.214 - 237. DOI: 10.1108/00220411111109449
+  - Rossoff, M., 2011 "Google kills off those little squares you scan with your phone" [Available via](http://www.businessinsider.com/those-little-square-codes-you-scan-with-your-phone-are-dead-2011-3) Accessed September 6 2011
+  - Simon, N. 2008 "How (and why) to develop a social media handbook" [Available via](http://museumtwo.blogspot.com/2008/10/how-and-why-to-develop-social-media.html) (accessed September 7 2011)
+  - Simon, N. 2009 "1stfans: An Audience-Specific Membership Program at the Brooklyn Museum" [Available via](http://museumtwo.blogspot.com/2009/02/1stfans-audience-specific-membership.html) (accessed September 6 2011)
+  - Smithsonian Institution. 2009 "Smithsonian Web and New Media Strategy" [Available via](http://smithsonian-webstrategy.wikispaces.com/Strategy+--+Table+of+Contents) (accessed September 8 2011)
+  - Thornton, A. 2011 "Wikipedia and blogs: new fields for archaeological research?" in Bonacchi C. (ed.), 2011. Archaeologists and the Digital. Towards Strategies of Engagement. London: Archetype Publications
+  - Wallis, C. 2010 "Who uses twitter" in Museums Etc, 2010 "Twitter for museums" pp22-31Milton Keynes: Museums Etc.
+  - Ward, W.J. 2011 "How Quickly Has Social Media Grown And How Large Is The Global Impact? \#infographic" [Available via](http://www.dr4ward.com/dr4ward/2011/09/how-quickly-has-social-media-grown-infographic.html) (accessed September 4 2011)
+  - Warry, E. 2011 "Classroom CSI: developing a video conferencing model for investigating British Archaeology in Schools." Unpublished Master's thesis.
+  - Watters, A. 2011 "How recent changes to Twitter's terms of service might hurt academic research" [Available via](https://readwrite.com/how_recent_changes_to_twitters_terms_of_service_mi/) (accessed 1 June 2011)
+  - Wyatt, L. 2010 "The British Museum and me" [Available via](http://www.wittylama.com/2010/03/the-british-museum-and-me/) (accessed 7 June 2011)
+
+
+  ## Footnotes 
 
 [^1]: See [Four Pillars of Enterprise Application Architecture](http://confusedofcalcutta.com/category/four-pillars-of-enterprise-application-architecture/) (accessed September 6, 2011).
 [^2]: Population figures were obtained from the [ONS Mid-2010 Population Estimates](http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--england-and-wales--scotland-and-northern-ireland/mid-2010-population-estimates/rft---mid-2010-population-estimates.zip) (accessed September 6, 2011).
@@ -480,145 +554,3 @@ The author would like to thank Ian Richardson, Lena Zimmer, Ruth Levis, Katharin
 [^48]: [Brooklyn Museum foursquare](http://www.brooklynmuseum.org/community/foursquare/) (accessed September 20 2011)
 [^49]: [Brooklyn Museum 1st Fans](http://www.brooklynmuseum.org/support/1stfans) (accessed September 20 2011)
 [^50]: [Tweet and Grow](http://www.kew.org/visit-kew-gardens/summer/tweet-and-grow/index.htm) (accessed September 8 2011)
-
-## Bibliography
-
-Arrington, M. 2011. "Amazingly, MySpace's Decline Is Accelerating" [Available via](http://techcrunch.com/2011/03/23/amazingly-myspaces-decline-is-accelerating/) (accessed 26 July 2011)
-
-Arthur, C. 2009. "The long tail of blogging is dying" [Available via](http://www.guardian.co.uk/technology/2009/jun/24/charles-arthur-blogging-twitter) (accessed September 6 2011)
-
-Arts Council England, Museums Libraries and Archives Council, and Arts and Business, 2010. Digital Audiences: Engagement with Arts and Culture Online [Available via](http://www.artscouncil.org.uk/media/uploads/doc/Digital_audiences_final.pdf) (accessed 8 June 2011)
-
-Atkinson, R. 2011. "Developing a social media strategy in Museum practice" [Available via](http://www.museumsassociation.org/museum-practice/social-media)
-
-Bell, T.W. 2011. "Smartphones and spheres of influence." [Available via](http://radar.oreilly.com/2011/07/smartphones-spheres-of-influence.html) (accessed July 27 2011)
-
-Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
-
-Bonacchi, C., Furneaux, C & Pett, D. 2012 "Public engagement through online TV channels: A way forward for the audiovisual communication of archaeology" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
-
-Breen, T.C. 2010 "Irish archaeology on the Internet - Fifteen years on" in "Archaeology Ireland" Volume 24 Number 3, pp 35 - 36 Ireland: Wordwell Ltd [Available via](http://www.jstor.org/stable/20749108) (accessed September 2 2011)
-
-British Museum 2008 "Strategy to 2012" [Available via](http://www.britishmuseum.org/pdf/Strategy%20to%202012%20web%20version.pdf) (accessed on September 5 2011)
-
-British Museum 2011 "2010 - 2011 Review" [Available via](http://www.britishmuseum.org/pdf/annualreview1011.pdf) (accessed on September 5 2011)
-
-Brown, M. 2011 "British Museum wins Art Fund prize" [Available via](http://www.guardian.co.uk/culture/2011/jun/15/british-museum-wins-arts-fund-prize) (accessed on September 5 2011)
-
-Cassidy J, 2006 "Me media" n[Available via](http://www.newyorker.com/archive/2006/05/15/060515fa_fact_cassidy) (accessed on September 6 2011)
-
-Civil Service, 2009a "Principles for participation online" [Available via](http://www.civilservice.gov.uk/about/resources/participation-online.aspx) (accessed on September 1 2011)
-
-Civil Service, 2009b "Sir Gus' vision: The Four P's" [Available via](http://www.civilservice.gov.uk/about/values/vision.aspx) (accessed September 6 2011)
-
-Cock, M., 2011 "On Air, Online and Onsite: The British Museum and BBC's A History of the World" [Available via](http://conference.archimuse.com/mw2011/papers/on_air_online_and_onsite_the_british_museum_an) (Accessed September 26 2011)
-
-Cohen, N. 2010 "Venerable British Museum Enlists in the Wikipedia Revolution" [Available via](http://www.nytimes.com/2010/06/05/arts/design/05wiki.html) Accessed 5 September 2011
-
-DiMicco, JM & Millen DR 2007 "Identity Management: Multiple Presentations of Self in Facebook"
-
-Eden, T. (2011) "Introducing QRpedia" [Available via](http://shkspr.mobi/blog/index.php/2011/04/introducing-qrpedia/) (accessed September 7 2011)
-
-El Dahshan, M 2011 "Facebook has little to fear from Muslim social networking sites" [Available via](http://www.guardian.co.uk/commentisfree/belief/2011/may/31/muslim-social-networking) (accessed September 7 2011)
-
-Eleftheriou-Smith, L. 2011, "Betfair puts QR codes on beach volleyball bum" [Available via](http://www.marketingmagazine.co.uk/news/1084029/Betfair-puts-QR-codes-beach-volleyball-bums/) (accessed September 6 2011)
-
-Ellison, N. B., Steinfield, C., & Lampe, C. 2007 "The benefits of Facebook "friends:" Social capital and college students' use of online social network sites." Journal of Computer-Mediated Communication, 12(4), article 1. [Available via](http://jcmc.indiana.edu/vol12/issue4/ellison.html) (accessed September 2 2011)
-
-Finnis, J., Chan, S. and Clements, R. 2011a. "How to Evaluate Online Success? A New Piece of Action Research." In: Trant, J. & Bearman, D. (eds.) 2011 "Museums and the Web 2011: Proceedings" Toronto: Archives & Museum Informatics [Available via](http://conference.archimuse.com/mw2011/papers/how_to_evaluate_online_success_a_new_piece_of_) (accessed 9 June 2011)
-
-Finnis, J., Chan, S. & Clements, R. 2011b. "Let's get real: How to evaluate online success" Brighton: Culture24
-
-Fiske, A. P. 1991. "Structures of Social Life: The Four Elementary Forms of Human Relations." New York: The Free Press.
-
-Fishkin, R. 2011 "Tracking the KPIs of Social Media" [Available via](http://www.seomoz.org/blog/tracking-the-roi-of-social-media) (accessed September 8 2011)
-
-Gardner, A. 2012 "Strategy Games and Engagement Strategies" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
-
-Garrahan M., 2009. The rise and fall of MySpace 4 December. [Available via](http://www.ft.com/cms/s/2/fd9ffd9c-dee5-11de-adff-00144feab49a.html#axzz1TK1iZYYR) (accessed July 26 2011)
-
-Ghey, E. 2011 "Collections online at the British Museum" in Cook, B. (ed.) 2011 "The British Museum and the future of UK numismatics" pp. 68-70 London: British Museum Press
-
-Gibbins, W. 2011 "Local authorities should realise the potential in social media" [Available via](http://www.guardian.co.uk/guardian-professional/2011/mar/03/engagement-hr) (accessed on September 6 2011)
-
-Goskar, T 2012 "Wessex archaeology and the web" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
-
-Halliday J, 2011 "London riots: how Blackberry Messenger played a key role" [Available via](http://www.guardian.co.uk/media/2011/aug/08/london-riots-facebook-twitter-blackberry) (accessed on September 5 2011)
-
-Higgins C., 2009. "Museums' future lies on the internet, say Serota and MacGregor" [Available via](http://www.guardian.co.uk/artanddesign/2009/jul/08/museums-future-lies-online) (accessed 25 July 2011)
-
-Howard, P.N. 2011 "Digital media and the Arab Spring" [Available via](http://blogs.reuters.com/great-debate/2011/02/16/digital-media-and-the-arab-spring/) (accessed on September 5 2011)
-
-Imagemakers 2011 "Digital Participation and Learning: 22 Case Studies" [Available via](http://www.hlf.org.uk/aboutus/howwework/Documents/Digital_report_Sept2011.pdf) (accessed September 8 2011)
-
-Jeater, M & Lee, V. 2012 "Smartphones and site interpretation: the Museum of London's Streetmuseum™ applications" in Bonacchi C. (ed.), 2012. Archaeologists and the Digital. Towards Strategies of Engagement. London: Archetype Publications
-
-Joyce, R.A & Tringham, R.E. 2007 "Feminist Adventures in Hypertext" in "Journal of Archaeological Method and Theory" Volume 14. Number 3 pp 328 - 358 London: Springer [Available via](http://www.jstor.org/stable/25702347) (accessed September 2 2011) DOI 10.1007/s10816-007-9036-2
-
-Kaplan, A.M. & Haenlein, M. (2010). "Users of the world, unite! The challenges and opportunities of Social Media". Business Horizons 53 (1): 59–68. [Available via](http://www.sciencedirect.com/science/article/pii/S0007681309001232) (accessed on September 5 2011)
-
-Kennedy, M. 2011 "British Museum remains UK's top attraction for fourth year running" [Available via](http://www.guardian.co.uk/culture/2011/jun/28/british-museum-top-attraction) (accessed September 7 2011)
-
-Klebe Treviño, L, Webster J & Stein E.W. 2000 "Making Connections: Complementary Influences on Communication Media Choices Attitudes and Use" in "Organization Science" Volume 11 Number 2. pp. 163 - 182 IFORMS [Available via](http://www.jstor.org/stable/2640282) (accessed September 2 2011)
-
-MacGregor, N. and Serota, N., 2009. "The Museum of the 21st Century" [Available via](http://www2.lse.ac.uk/PublicEvents/events/2009/20090311t1917z001.aspx) (accessed 25 July 2011)
-
-Mannion, S. 2011a "AR adventures at the British Museum" [Available via](http://www.slideshare.net/s.mannion/ar-adventures-at-the-british-museum) (accessed September 6 2011)
-
-Mannion, S. 2011b "Research on tablets for learning" [Available via](http://wiki.museummobile.info/archives/91923) (accessed September 7 2011)
-
-MacManus, R. 2011 "Social media case study: Brooklyn Museum" [Available via](http://www.readwriteweb.com/archives/social_media_case_study_brooklyn_museum.php) (accessed September 6 2011)
-
-Morgan, C. 2009 "(Re)Building Çatalhöyük: Changing Virtual Reality in Archaeology" in Archaeology Volume 5, issue 3. [Available via](http://dx.doi.org/10.1007/s11759-009-9113-0) (accessed September 3 2011) DOI: 10.1007/s11759-009-9113-0
-
-Museum of London. 2011. "Museum of London Apps" [Available via](http://www.museumoflondon.org.uk/Explore-online/Apps/) (accessed September 6 2011)
-
-Museums etc 2010 "Twitter for museums" Milton Keynes: Museums Etc.
-
-Nielsen J 2006 "Participation Inequality: Encouraging More Users to Contribute" [Available via](http://www.useit.com/alertbox/participation_inequality.html) (accessed September 6 2011)
-
-Office for National Statistics (ONS) 2011 "Population Estimates for UK, England and Wales, Scotland and Northern Ireland, Mid-2010 Population Estimates" [Available via](http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-231847) (accessed September 6 2011)
-
-Office of Communication (Ofcom), 2011. "Facts & Figures" [Available via](http://media.ofcom.org.uk/facts/) (accessed on 15 April 2011)
-
-Pearse, R. 2010 "Wikipedia and the British Museum" [Available via](http://www.roger-pear[onse.com/weblog/?p=4451) (accessed 5 September 2011)
-
-Pett, D.E.J. 2010 "Meeting public interest in the hoard" in British Archaeology Number 110 pp 51
-
-Pett, D.E.J. 2011a "A review article" in "Public Archaeology" Volume 10, Number 2, pp 119 - 127 DOI 10.1179/175355311X1308661712664
-
-Pett, D.E.J. 2011b "Distributing the wealth" in "The British Museum and the future of numismatics" in Cook, B. (ed.) 2011 "The British Museum and the future of UK numismatics" pp. 71 - 80 London: British Museum Press
-
-Pett 2011c - "#ACRNCASPAR Workshop on Archaeologists & the Digital: Towards Strategies of Engagement" [Available via](https://museologi.st/acrncaspar-workshop-on-archaeologists-the-digital-towards-strategies-of-engagement/) (accessed September 6 2011)
-
-Prudames, D. 2011 "A History of the World wins Art Fund Prize for the British Museum" [Available via](http://www.bbc.co.uk/blogs/ahistoryoftheworld/2011/06/winning-the-art-fund-prize.shtml) (accessed September 5 2011)
-
-Rainey, J. 2011 "Social media crackdown? It'd be more than unsociable" [Available via](http://www.latimes.com/entertainment/news/la-et-onthemedia-20110817,0,632518.column) (accessed on September 6 2011)
-
-Rangaswami, J.P., 2008 "Why I still use Facebook, and other musings on social networks" [Available via](http://confusedofcalcutta.com/2008/01/18/why-i-still-use-facebook-and-other-musings-on-social-networks/) (accessed September 6 2011)
-
-Richardson, L. 2011. "My research" [Available via](http://digipubarch.org/myresearch/) (accessed 8 June 2011)
-
-Richardson, L. 2012. "Twitter and archaeology" in Bonacchi C. (ed.), 2012. "Archaeologists and the Digital. Towards Strategies of Engagement." London: Archetype Publications
-
-Ross,C., Terras, M., Warwick, C., & Welsh, A. (2011) "Enabled backchannel: conference Twitter use by digital humanists", Journal of Documentation, Vol. 67 Iss: 2, pp.214 - 237. DOI: 10.1108/00220411111109449
-
-Rossoff, M., 2011 "Google kills off those little squares you scan with your phone" [Available via](http://www.businessinsider.com/those-little-square-codes-you-scan-with-your-phone-are-dead-2011-3) Accessed September 6 2011
-
-Simon, N. 2008 "How (and why) to develop a social media handbook" [Available via](http://museumtwo.blogspot.com/2008/10/how-and-why-to-develop-social-media.html) (accessed September 7 2011)
-
-Simon, N. 2009 "1stfans: An Audience-Specific Membership Program at the Brooklyn Museum" [Available via](http://museumtwo.blogspot.com/2009/02/1stfans-audience-specific-membership.html) (accessed September 6 2011)
-
-Smithsonian Institution. 2009 "Smithsonian Web and New Media Strategy" [Available via](http://smithsonian-webstrategy.wikispaces.com/Strategy+--+Table+of+Contents) (accessed September 8 2011)
-
-Thornton, A. 2011 "Wikipedia and blogs: new fields for archaeological research?" in Bonacchi C. (ed.), 2011. Archaeologists and the Digital. Towards Strategies of Engagement. London: Archetype Publications
-
-Wallis, C. 2010 "Who uses twitter" in Museums Etc, 2010 "Twitter for museums" pp22-31Milton Keynes: Museums Etc.
-
-Ward, W.J. 2011 "How Quickly Has Social Media Grown And How Large Is The Global Impact? #infographic" [Available via](http://www.dr4ward.com/dr4ward/2011/09/how-quickly-has-social-media-grown-infographic.html) (accessed September 4 2011)
-
-Warry, E. 2011 "Classroom CSI: developing a video conferencing model for investigating British Archaeology in Schools." Unpublished Master's thesis.
-
-Watters, A. 2011 "How recent changes to Twitter's terms of service might hurt academic research" [Available via](https://readwrite.com/how_recent_changes_to_twitters_terms_of_service_mi/) (accessed 1 June 2011)
-
-Wyatt, L. 2010 "The British Museum and me" [Available via](http://www.wittylama.com/2010/03/the-british-museum-and-me/) (accessed 7 June 2011)

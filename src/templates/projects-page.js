@@ -31,7 +31,7 @@ const ProjectsPageTemplate = React.memo(({data: {markdownRemark}}) => {
     // Memoize project metadata section
     const projectMetadata = React.useMemo(() => (
         <header className="px-4">
-            <h1 className="text-black fw-bold mt-4">{frontmatter.title}</h1>
+            <h1 className="text-primary fw-bold mt-4">{frontmatter.title}</h1>
             {frontmatter.date && (
                 <div className="text-primary small mb-2">
                     <time dateTime={frontmatter.date}>{frontmatter.date}</time>
@@ -75,7 +75,7 @@ const ProjectsPageTemplate = React.memo(({data: {markdownRemark}}) => {
             <HeaderImage backgroundImage={frontmatter.background}/>
 
             <Container>
-                <Row className="post-body">
+                <Row className="post-body text-break">
                     {projectMetadata}
                     <article 
                         className="bg-white text-black p-4" 

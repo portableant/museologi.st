@@ -139,7 +139,14 @@ nav.pagination {
 .gatsby-remark-prismjs-copy-button:hover {
   /* On hover, change background to purple */
   background-color: #800080;
-  
   /* Keep the text color white */
   color: #ffffff;
+}
+.btn-dark a,
+.btn-dark a:visited,
+.btn-dark a:hover,
+.btn-dark a:active,
+.btn-dark a:focus {
+    color: #fff !important;
+    text-decoration: none;
 }

@@ -7,7 +7,7 @@ const PostCardFront = ({ post }) => {
     const { featuredImg, title, slug, date } = post.frontmatter;
     const image = getImage(featuredImg);
 
-    const trimmedTitle = title.length > 80 ? title.slice(0, 60) + "..." : title;
+    const trimmedTitle = title.length > 80 ? title.slice(0, 40) + "..." : title;
 
     return (
         <Col md={4} className="mb-3">
@@ -22,7 +22,7 @@ const PostCardFront = ({ post }) => {
                 <CardImgOverlay>
                     <CardBody className="d-flex align-content-end flex-column justify-content-end">
                         <Link to={slug} className="link-light text-decoration-none">
-                            <CardTitle className="stretched-link text-white fw-bold display-6 mb-3 mt-0">
+                            <CardTitle className="extended-link text-white fw-bold display-6 mb-3 mt-0">
                                 {trimmedTitle}
                             </CardTitle>
                         </Link>

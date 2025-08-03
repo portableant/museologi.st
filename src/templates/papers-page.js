@@ -17,7 +17,7 @@ const PapersPageTemplate = ({ data: { markdownRemark } }) => {
             <HeaderImage backgroundImage={frontmatter.background} />
             
             <Container>
-                <Row className="post-body">
+                <Row className="post-body text-break">
                     <div className="px-4">
                         <header>
                             <h1 className="text-primary fw-bold mt-4">{frontmatter.title}</h1>
@@ -33,8 +33,8 @@ const PapersPageTemplate = ({ data: { markdownRemark } }) => {
                             <p className="text-dark small mb-2">Cite as: {frontmatter.citation}</p>
                         )}
                         
-                        <h2 className="text-primary small">{frontmatter.date}</h2>
-                        <h3 className="text-primary lead small">{formatReadingTime(timeToRead)}</h3>
+                        <h2 className="text-primary fw-lighter small">{frontmatter.date}</h2>
+                        <h3 className="text-primary lead fw-lighter small">{formatReadingTime(timeToRead)}</h3>
                     </div>
                     
                     <div 

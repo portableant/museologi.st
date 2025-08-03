@@ -30,7 +30,7 @@ const Tags = React.memo(({pageContext, data}) => {
             <Container>
                 <Row>
                     <Col xs={12}>
-                        <h1 className="ms-4 mt-4">{tagHeader}</h1>
+                        <h1 className="fw-bold text-primary mt-4">{tagHeader}</h1>
                     </Col>
                 </Row>
                 <Row>

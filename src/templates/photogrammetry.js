@@ -21,7 +21,7 @@ const PhotogrammetryPage = React.memo(({data, pageContext}) => {
                 <Row>
                     <Col xs={12}>
                         <h1 className="fw-bold text-primary mt-4">3D Scans and research work</h1>
-                        <p className="ms-4">
+                        <p>
                             This page gives an introduction and overview of all the different 3D models I have
                             created in museums.
                         </p>

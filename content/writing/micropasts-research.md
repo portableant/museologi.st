@@ -101,33 +101,19 @@ The MicroPasts project has been kindly granted initial funding by the UK Arts an
 [^10]: This specific topic is directly relevant to the remit of the UCL Centre for Audio-Visual Study and Practice in Archaeology and the Archaeology and Communication Research Network
 
 ## References
-Beale, N 2012 How community archaeology can make use of open data to achieve further its objectives. World Archaeology 44.4: 612–633. DOI: [10.1080/00438243.2012.743252](http://d.doi.org/10.1080/00438243.2012.743252)
-
-Bevan, A 2012 Value, authority and the open society. Some implications for digital and
+- Beale, N 2012 How community archaeology can make use of open data to achieve further its objectives. World Archaeology 44.4: 612–633. DOI: [10.1080/00438243.2012.743252](http://d.doi.org/10.1080/00438243.2012.743252)
+- Bevan, A 2012 Value, authority and the open society. Some implications for digital and
 online archaeology, in C. Bonacchi (ed.) Archaeology and Digital Communication: Towards Strategies of Public Engagement: 1–14. London: Archetype
-
-Bevan, A, Li, XJ, Martinón-Torres, M, Green, S, Xia, Y, Zhao, K, Zhao, Z, Ma, S, Cao, W and Rehren, T 2014. Computer vision, archaeological classification and China’s terracotta warriors. *Journal of Archaeological Science*. DOI: [http://d.doi.org/10.1016/j.jas.2014.05.014](http://d.doi.org/10.1016/j.jas.2014.05.014)
-
-Bonacchi, C (ed.) 2012. Archaeology and Digital Communication. Towards Strategies of Public Engagement. London: Archetype Publications
-
-Burtenshaw, P and Bonacchi, C (forthcoming). Conference review: The 17th ICOMOS General Assembly Scientific Symposium ‘Heritage, Driver of Development’. *Public Archaeology*.
-
-Dunn, S and Hedges, M 2012. Crowd-sourcing Scoping Study. Engaging the Crowd with Humanities Research, Report for the UK Arts and Humanities Research Council Connected Communities Scheme. URL: [http://crowds.cerch.kcl.ac.uk/wp-content/uploads/2012/12/Crowdsourcing-connected-communities.pdf](http://crowds.cerch.kcl.ac.uk/wp-content/uploads/2012/12/Crowdsourcing-connected-communities.pdf)
-
-Gould, P and Burthenshaw, P (forthcoming). Archaeology and Economic Development, Special Issues of *Public Archaeology* 13.1–4
-
-Green, S, Bevan, A and Shapland, M 2014. A comparative assessment of structure from motion methods for archaeological research. *Journal of Archaeological Science* 46: 173–181. DOI: [http://dx.doi.org/10.1016/j.jas.2014.02.030](http://dx.doi.org/10.1016/j.jas.2014.02.030)
-
-Howe, J 2006. The Rise of Crowdsourcing. *Wired* 14.06 (June). URL: [http://archive.wired.com/wired/archive/14.06/crowds.html](http://archive.wired.com/wired/archive/14.06/crowds.html)
-
-James, M R and Robson, S 2012. Straightforward reconstruction of 3D surfaces and topography with a camera: Accuracy and geoscience application. *Journal of Geophysical Research* 117: F03017. DOI: [http://dx.doi.org/10.1029/2011JF002289](http://dx.doi.org/10.1029/2011JF002289)
-
-Kansa, E, Kansa, S and Watrall, E (eds) 2012. Archaeology 2.0: New Approaches to Communication and Collaboration, Los Angeles: Cotsen Institute of Archaeology. URL: [http://www.escholarship.org/uc/item/1r6137tb](http://www.escholarship.org/uc/item/1r6137tb)
-
-Lake, M 2012. Open archaeology. *World Archaeology* 44.4: 471–8. DOI: [http://dx.doi.org/10.1080/00438243.2012.748521](http://dx.doi.org/10.1080/00438243.2012.748521)
-
-Richardson, L 2013. A Digital Public Archaeology?. *Papers from the Institute of Archaeology*, 23(1): 1–12. DOI: [http://dx.doi.org/10.5334/pia.431](http://dx.doi.org/10.5334/pia.431)
-
-Rogers, R 2013. Digital Methods, Cambridge, Massachusetts: MIT Press
-
-Simon, N 2010. The Participatory Museum (Museum 2.0). URL: [http://www.participatorymuseum.org/](http://www.participatorymuseum.org/)
+- Bevan, A, Li, XJ, Martinón-Torres, M, Green, S, Xia, Y, Zhao, K, Zhao, Z, Ma, S, Cao, W and Rehren, T 2014. Computer vision, archaeological classification and China’s terracotta warriors. *Journal of Archaeological Science*. DOI: [http://d.doi.org/10.1016/j.jas.2014.05.014](http://d.doi.org/10.1016/j.jas.2014.05.014)
+- Bonacchi, C (ed.) 2012. Archaeology and Digital Communication. Towards Strategies of Public Engagement. London: Archetype Publications
+- Burtenshaw, P and Bonacchi, C (forthcoming). Conference review: The 17th ICOMOS General Assembly Scientific Symposium ‘Heritage, Driver of Development’. *Public Archaeology*.
+- Dunn, S and Hedges, M 2012. Crowd-sourcing Scoping Study. Engaging the Crowd with Humanities Research, Report for the UK Arts and Humanities Research Council Connected Communities Scheme. URL: [http://crowds.cerch.kcl.ac.uk/wp-content/uploads/2012/12/Crowdsourcing-connected-communities.pdf](http://crowds.cerch.kcl.ac.uk/wp-content/uploads/2012/12/Crowdsourcing-connected-communities.pdf)
+- Gould, P and Burthenshaw, P (forthcoming). Archaeology and Economic Development, Special Issues of *Public Archaeology* 13.1–4
+- Green, S, Bevan, A and Shapland, M 2014. A comparative assessment of structure from motion methods for archaeological research. *Journal of Archaeological Science* 46: 173–181. DOI: [http://dx.doi.org/10.1016/j.jas.2014.02.030](http://dx.doi.org/10.1016/j.jas.2014.02.030)
+- Howe, J 2006. The Rise of Crowdsourcing. *Wired* 14.06 (June). URL: [http://archive.wired.com/wired/archive/14.06/crowds.html](http://archive.wired.com/wired/archive/14.06/crowds.html)
+- James, M R and Robson, S 2012. Straightforward reconstruction of 3D surfaces and topography with a camera: Accuracy and geoscience application. *Journal of Geophysical Research* 117: F03017. DOI: [http://dx.doi.org/10.1029/2011JF002289](http://dx.doi.org/10.1029/2011JF002289)
+- Kansa, E, Kansa, S and Watrall, E (eds) 2012. Archaeology 2.0: New Approaches to Communication and Collaboration, Los Angeles: Cotsen Institute of Archaeology. URL: [http://www.escholarship.org/uc/item/1r6137tb](http://www.escholarship.org/uc/item/1r6137tb)
+- Lake, M 2012. Open archaeology. *World Archaeology* 44.4: 471–8. DOI: [http://dx.doi.org/10.1080/00438243.2012.748521](http://dx.doi.org/10.1080/00438243.2012.748521)
+- Richardson, L 2013. A Digital Public Archaeology?. *Papers from the Institute of Archaeology*, 23(1): 1–12. DOI: [http://dx.doi.org/10.5334/pia.431](http://dx.doi.org/10.5334/pia.431)
+- Rogers, R 2013. Digital Methods, Cambridge, Massachusetts: MIT Press
+- Simon, N 2010. The Participatory Museum (Museum 2.0). URL: [http://www.participatorymuseum.org/](http://www.participatorymuseum.org/)

@@ -45,7 +45,7 @@ module.exports = {
             },
             {
                 name: "twitter",
-                url: "https://twitter.com/dejpett",
+                url: "https://x.com/dejpett",
                 label: "My twitter profile"
             },
             {
@@ -80,7 +80,7 @@ module.exports = {
             resolve: `gatsby-plugin-purgecss`,
             options: {
                 printRejected: true,
-                develop: true,
+                develop: false,
                 defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
                 ignore: [
                     'prismjs/',
@@ -117,6 +117,22 @@ module.exports = {
                         'tr',
                         'th',
                         'td',
+                        'carousel',
+                        'carousel-inner',
+                        'carousel-item',
+                        'carousel-item-next',
+                        'carousel-item-prev',
+                        'carousel-item.active',
+                        'carousel-fade',
+                        'active',
+                        'slide',
+                        'carousel-control-prev',
+                        'carousel-control-next',
+                        'carousel-indicators',
+                        'carousel-caption',
+                        'data-bs-slide',
+                        'data-bs-target',
+                        'data-bs-slide-to',
                         /^btn/,
                         /^col-/,
                         /^row$/,
@@ -141,6 +157,7 @@ module.exports = {
                         /^flex-/,
                         /^w-/,
                         /^h-/,
+                        /^iframe-/, 
                         /^overflow-/,
                         /^position-/,
                         /^top-/,
@@ -155,13 +172,15 @@ module.exports = {
                         /^table-/, 
                         /^border-/,
                     ],
-                    greedy: [
-                        // /^table-/,      // Catches table, table-bordered, table-hover, table-striped, etc.
-                        // /^border-/,     // Catches all border color utilities
-                    ],
+                    greedy: [],
                     content: [
                         './src/**/*.{js,jsx,ts,tsx}', // Default for your components
                         './src/content/**/*.md',// Markdown files
+                    ],
+                    deep: [
+                        /active/, // Matches active classes for indicators and items
+                        /^btn-/,
+                        /carousel/, // Catch all for any carousel-related classes
                     ],
                 },
             },
@@ -180,62 +199,62 @@ module.exports = {
             }
         },
         {
-    resolve: "gatsby-plugin-svgr-svgo",
-    options: {
-        rule: {
-            include: /\.svg$/,
-            exclude: /node_modules/
-        },
-        inlineRequireUsageMarker: false,
-        removeStyleElement: false,
-        removeScriptElement: false,
-        removeDimensions: true,
-        convertColors: true,
-        svgrOptions: {
-            plugins: [
-                "@svgr/plugin-jsx",
-                "@svgr/plugin-prettier"
-            ],
-            prettier: true,
-            prettierConfig: {
-                tabWidth: 2
-            },
-            svgo: true,
-            svgoConfig: {
-                plugins: [
-                    {
-                        name: "preset-default",
-                        params: {
-                            overrides: {
-                                removeViewBox: false,
-                                convertColors: {
-                                    currentColor: true
-                                },
-                                removeDimensions: false,
-                                removeAttrs: {
-                                    attrs: ["data-*"]
+            resolve: "gatsby-plugin-svgr-svgo",
+            options: {
+                rule: {
+                    include: /\.svg$/,
+                    exclude: /node_modules/
+                },
+                inlineRequireUsageMarker: false,
+                removeStyleElement: false,
+                removeScriptElement: false,
+                removeDimensions: true,
+                convertColors: true,
+                svgrOptions: {
+                    plugins: [
+                        "@svgr/plugin-jsx",
+                        "@svgr/plugin-prettier"
+                    ],
+                    prettier: true,
+                    prettierConfig: {
+                        tabWidth: 2
+                    },
+                    svgo: true,
+                    svgoConfig: {
+                        plugins: [
+                            {
+                                name: "preset-default",
+                                params: {
+                                    overrides: {
+                                        removeViewBox: false,
+                                        convertColors: {
+                                            currentColor: true
+                                        },
+                                        removeDimensions: false,
+                                        removeAttrs: {
+                                            attrs: ["data-*"]
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                name: "addAttributesToSVGElement",
+                                params: {
+                                    attributes: [
+                                        { focusable: "false" }
+                                    ]
                                 }
                             }
-                        }
+                        ]
                     },
-                    {
-                        name: "addAttributesToSVGElement",
-                        params: {
-                            attributes: [
-                                { focusable: "false" }
-                            ]
-                        }
-                    }
-                ]
-            },
-            ref: true,
-            titleProp: true,
-            descProp: true,
-            expandProps: "end",
-            dimensions: false
-        }
-    }
-},
+                    ref: true,
+                    titleProp: true,
+                    descProp: true,
+                    expandProps: "end",
+                    dimensions: false
+                }
+            }
+        },
         {
             resolve: `gatsby-plugin-scroll-indicator`,
             options: {
