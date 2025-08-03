@@ -179,18 +179,6 @@ A tailored interpretation of the ‘traditional’ donation-based model of crowd
 
 The MicroPasts project was funded for an initial period of 18 months (1 October 2013–31 March 2015) by the UK Arts and Humanities Research Council, through the themed call on Digital Transformations in Community Research Co-Production in the Arts and Humanities. We thank the project coordinators and community groups who have chosen the MicroPasts crowd-funding platform for their fund-raising campaigns, and all the donors who have supported these projects. Our thanks are also to Irio Musskopf, for helping to adapt the Neighbor.ly crowd-funding framework to suit the needs of MicroPasts, and to Jordan Hassell and Oliver Hutchinson for promoting some of the ‘seed’ projects. Finally, we are indebted to Lisa Westcott Wilkins and Meghan Ferriter, for useful discussion on the topic of crowd-funding cultural heritage, to the two anonymous reviewers, and the editors of this journal.
 
-## Footnotes 
-
-[^1]:See also, [for example](http://ec.europa.eu/culture/news/2014/20140428-call-crowdfunding_en.htm).
-[^2]:Publications about crowd-funding in the heritage and archaeology domain are virtually non-existent, to our knowledge. The topic is, however, addressed in the unpublished MA dissertation Koivisto (2014).
-[^3]:We introduced a maximum funding goal of £5,000 to contain risks of failures, since a recent report found the average amount raised by donation-based crowd-funding to be £6,102 and £3,766 for reward-based crowd-funding (Baeck et al. 2014, 11).
-[^4]:Recent research has in fact evidenced how almost a third of donors in donation-based crowd-funding have also offered to volunteer on the project they supported (Baeck et al. 2014).
-[^5]:This is the period from the public launch of the MicroPasts crowd-funding website to the time of writing.
-[^6]:Q.1 Of the projects listed below, what one have you JUST NOW supported with a donation? Answer options: (a) London’s Lost Waterway; (b) Living and dying at Great Missenden Abbey; (c) The origins and Administrations of Anglo-Saxon Wessex; (d) The Archaeologists who Built London. Q2. Could you please say what motivated you to support THAT PARTICULAR project with a donation? Open answer.
-[^7]:Q3. Do you personally know the people who have proposed the project you have supported through the MicroPasts platform (e.g. are you their friend/relative/colleague)? Answer options: (a) Yes; (b) No.
-[^8]:Q4. Where do you live? Answer options: (a) UK; (b) USA; (c) Other [specify]; Please indicate the CITY/PLACE where you live. Open answer.
-[^9]:These subscribers included registered members as well as the anonymous ones who had provided their email addresses via a survey form that popped-up after they had completed one task on crowdsourced.micropasts.org (Bevan et al. 2014; Bonacchi et al. 2015).
-
 ## References
 
 - Agrawal, Ajay, Christian Catalini, and Avi Goldfarb. 2011. The Geography of Crowdfunding. Vol. 16820. Washington, DC: National Bureau of Economic Research. [Accessed 27 April 2015.](http://www.nber.org/papers/w16820)
@@ -242,3 +230,15 @@ Correspondence to: Chiara Bonacchi, UCL Institute of Archaeology, 31-34 Gordon S
 **Andrew Bevan** is Professor of Spatial and Comparative Archaeology at the UCL Institute of Archaeology and co-founder of MicroPasts. His research interests include computational modelling and spatial analysis, landscape archaeology and material culture theory.
 
 **Adi Keinan-Schoonbaert** is a digital curator at the British Library, Honorary Research Associate at the UCL Institute of Archaeology, and co-founder of MicroPasts. Her main interests are archaeological and heritage documentation, 3D modelling, the management of national databases and Geographic Information Systems.
+
+## Footnotes 
+
+[^1]:See also, [for example](http://ec.europa.eu/culture/news/2014/20140428-call-crowdfunding_en.htm).
+[^2]:Publications about crowd-funding in the heritage and archaeology domain are virtually non-existent, to our knowledge. The topic is, however, addressed in the unpublished MA dissertation Koivisto (2014).
+[^3]:We introduced a maximum funding goal of £5,000 to contain risks of failures, since a recent report found the average amount raised by donation-based crowd-funding to be £6,102 and £3,766 for reward-based crowd-funding (Baeck et al. 2014, 11).
+[^4]:Recent research has in fact evidenced how almost a third of donors in donation-based crowd-funding have also offered to volunteer on the project they supported (Baeck et al. 2014).
+[^5]:This is the period from the public launch of the MicroPasts crowd-funding website to the time of writing.
+[^6]:Q.1 Of the projects listed below, what one have you JUST NOW supported with a donation? Answer options: (a) London’s Lost Waterway; (b) Living and dying at Great Missenden Abbey; (c) The origins and Administrations of Anglo-Saxon Wessex; (d) The Archaeologists who Built London. Q2. Could you please say what motivated you to support THAT PARTICULAR project with a donation? Open answer.
+[^7]:Q3. Do you personally know the people who have proposed the project you have supported through the MicroPasts platform (e.g. are you their friend/relative/colleague)? Answer options: (a) Yes; (b) No.
+[^8]:Q4. Where do you live? Answer options: (a) UK; (b) USA; (c) Other [specify]; Please indicate the CITY/PLACE where you live. Open answer.
+[^9]:These subscribers included registered members as well as the anonymous ones who had provided their email addresses via a survey form that popped-up after they had completed one task on crowdsourced.micropasts.org (Bevan et al. 2014; Bonacchi et al. 2015).
