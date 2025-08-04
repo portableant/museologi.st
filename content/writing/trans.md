@@ -53,7 +53,11 @@ However, it is what museums do with these data that tells the narrative of the i
 
 #### 1.1 The information superhighway?
 
-Regularly in print, I have returned to a paper written by Tim Schadla-Hall in 1996 where he asked a timeless question: *“how ready is our collections information for the information superhighway? I suspect the answer is that a lot of it is not ready for the mud track or even the occasionally trodden grassy path!”* Whether this statement still stands true, is something that many will return to regularly. To be fit for purpose and to provide your digital fundations, collections information needs cleaning, standardisation, disambiguating, updating and tending to maintain its usefulness to audiences, funders, participants and the machine led computer world that is burgeoning in Artificial Intelligence (Museums Association 2020).
+Regularly in print, I have returned to a paper written by Tim Schadla-Hall in 1996 where he asked a timeless question: 
+
+> “how ready is our collections information for the information superhighway? I suspect the answer is that a lot of it is not ready for the mud track or even the occasionally trodden grassy path!” 
+
+Whether this statement still stands true, is something that many will return to regularly. To be fit for purpose and to provide your digital fundations, collections information needs cleaning, standardisation, disambiguating, updating and tending to maintain its usefulness to audiences, funders, participants and the machine led computer world that is burgeoning in Artificial Intelligence (Museums Association 2020).
 
 Feedback mechanisms with researchers, the public and machines aid this process and we now have powerful tools from citizen science to assist with this process. A quarter of a century after he committed these words to the written page, all is not bleak. In 2018, the Department of Digital, Culture, Media and Sport in the *‘Culture is Digital’* report (DCMS 2018) published a figure that 61% of the UK’s cultural institutions had digitised and documented up to 50% of their collections - but to what degree of granular precision? Did all records meet minimum documentation standards (Spectrum 5 in the UK); how many games of smoke and mirrors have been deployed to weave this figure?
 
@@ -243,81 +247,88 @@ Attack all your digital projects with this simple question - ‘Why are we doing
 ## References
 
 * Ackoff, R. L. (1989) ‘From data to wisdom.’ Journal of Applied Systems Analysis, 16, 3–9.
-* Arts Council England (2018) ‘National Portfolio: FAQs’ [Available digitally](https://www.artscouncil.org.uk/national-portfolio-2018-22-faqs)
-* Besser H. (2019) ‘The Future of Museums. How will they evolve due to digital changes and in relation to time-based media’ [Available digitally](https://doi.org/10.25969/mediarep/13187)
+* Arts Council England (2018) ‘National Portfolio: FAQs’ [Link at time of writing](https://www.artscouncil.org.uk/national-portfolio-2018-22-faqs)
+* Besser H. (2019) ‘The Future of Museums. How will they evolve due to digital changes and in relation to time-based media’ [Link at time of writing](https://doi.org/10.25969/mediarep/13187)
 * Blank, S. (2006) ‘The Four Steps to the Epiphany: Successful Strategies for Products that Win’ (2nd Edition) K&S Ranch Publishing Inc.
 * Bonacchi, C, Bevan, A., Keinan, A., Pett, D.E.J. & Wexler, J. (2019) ’Participation in heritage crowdsourcing’ in Museum Management and Curatorship Volume 34 [DOI:10.1080/09647775.2018.1559080](https://doi.org/10.1080/09647775.2018.1559080)
-* Bowen, J. P. (2010) A brief history of early museums online. The Rutherford Journal, 3. [Available digitally](http://www.rutherfordjournal.org/article030103.html) (retrieved 1 February 2021)
+* Bowen, J. P. (2010) A brief history of early museums online. The Rutherford Journal, 3. [Link at time of writing](http://www.rutherfordjournal.org/article030103.html) (retrieved 1 February 2021)
 * Causer, T. & Terras, M. (2014) ‘‘Many hands make light work. Many hands together make merry work’: Transcribe Bentham and crowdsourcing manuscript collections’ in RIdge, M. (ed) ‘Crowdsourcing our Cultural Heritage’ Farnham: Ashgate
-* Collections Trust (2020) ‘Spectrum 5.0’ [Available digitally](https://collectionstrust.org.uk/spectrum/)
-* Collections Trust (nd) ‘Choose collections software’ [Available digitally](https://collectionstrust.org.uk/software/)
-* Collective Access (nd) CollectiveAccess is software for describing all manner of things. [Available digitally](https://www.collectiveaccess.org/)
-* Cooper, D. & Noble, K. (2020) ‘Schoolchildren, science and smartphones shine new light on a Florentine masterpiece‘ Apollo Magazine [Available digitally](https://www.apollo-magazine.com/jacopo-del-sellaio-fitzwilliam-museum-cambridge/)
-* Coughenour, C. & Cooper J. (2017) ‘The British Museum and Google Arts & Culture: Decoding the secrets of the ancient Maya’ [Available digitally](https://blog.google/outreach-initiatives/arts-culture/british-museum-and-google-arts-culture-decoding-secrets-ancient-maya/)
-* DCMS (2018) ‘Culture is Digital’ [Available digitally](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687519/TT_v4.pdf)
-* Demetriou, D. (2018) ‘The death of the art gallery? Japan's new digital museum may offer a glimpse of the future’ The Telegraph [Available digitally](https://www.telegraph.co.uk/travel/destinations/asia/japan/articles/tokyo-digital-art-museum-review/)
-* Dornan, R. (2017) ‘Should museums have a personality?’ [Available digitally](https://medium.com/@RussellDornan/museumpersonality-87ab2112ee9e)
-* Ferriter, M., Zwaard, K., Kamlley, E., Storey, R., Adams, C., Algee, L., Van Hyning, V.m Bresner, J., Potter, A., Jakeway, E. & Brunton, D. (2019) ‘“With One Heart”: Agile approaches for developing Concordia and crowdsourcing at the Library of Congress’ in Code4Lib Journal Issue 46, 2019-11-05 [Available digitally](https://journal.code4lib.org/articles/14901>
-* Ferriter, M. (2016) ‘Inviting Engagement, Supporting Success: How to Manage a Transcription Center. Collections. 2016;12(2):97-116. [DOI: 10.1177/155019061601200204](https://doi.org/10.1177/155019061601200204) [Available digitally](https://journals.sagepub.com/doi/abs/10.1177/155019061601200204)
+* Collections Trust (2020) ‘Spectrum 5.0’ [Link at time of writing](https://collectionstrust.org.uk/spectrum/)
+* Collections Trust (nd) ‘Choose collections software’ [Link at time of writing](https://collectionstrust.org.uk/software/)
+* Collective Access (nd) CollectiveAccess is software for describing all manner of things. [Link at time of writing](https://www.collectiveaccess.org/)
+* Cooper, D. & Noble, K. (2020) ‘Schoolchildren, science and smartphones shine new light on a Florentine masterpiece‘ Apollo Magazine [Link at time of writing](https://www.apollo-magazine.com/jacopo-del-sellaio-fitzwilliam-museum-cambridge/)
+* Coughenour, C. & Cooper J. (2017) ‘The British Museum and Google Arts & Culture: Decoding the secrets of the ancient Maya’ [Link at time of writing](https://blog.google/outreach-initiatives/arts-culture/british-museum-and-google-arts-culture-decoding-secrets-ancient-maya/)
+* DCMS (2018) ‘Culture is Digital’ [Link at time of writing](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687519/TT_v4.pdf)
+* Demetriou, D. (2018) ‘The death of the art gallery? Japan's new digital museum may offer a glimpse of the future’ The Telegraph [Link at time of writing](https://www.telegraph.co.uk/travel/destinations/asia/japan/articles/tokyo-digital-art-museum-review/)
+* Dornan, R. (2017) ‘Should museums have a personality?’ [Link at time of writing](https://medium.com/@RussellDornan/museumpersonality-87ab2112ee9e)
+* Ferriter, M., Zwaard, K., Kamlley, E., Storey, R., Adams, C., Algee, L., Van Hyning, V.m Bresner, J., Potter, A., Jakeway, E. & Brunton, D. (2019) ‘“With One Heart”: Agile approaches for developing Concordia and crowdsourcing at the Library of Congress’ in Code4Lib Journal Issue 46, 2019-11-05 [Link at time of writing](https://journal.code4lib.org/articles/14901)
+* Ferriter, M. (2016) ‘Inviting Engagement, Supporting Success: How to Manage a Transcription Center. Collections. 2016;12(2):97-116. [DOI: 10.1177/155019061601200204](https://doi.org/10.1177/155019061601200204) [Link at time of writing](https://journals.sagepub.com/doi/abs/10.1177/155019061601200204)
 * Finnis, J. Chan, S. & Clements, R. (2011) ‘Report from the Culture24 Action Research Project: ‘How to Evaluate Online Success?’ Let’s Get Real
-* Finnis, J. et al. (2011), How to Evaluate Online Success? A New Piece of Action Research. In J. Trant and D. Bearman (eds). Museums and the Web 2011: Proceedings. Toronto: Archives & Museum Informatics. Published March 31, 2011. [Available digitally](http://conference.archimuse.com/mw2011/papers/how_to_evaluate_online_success)
-* Forester, T (1853) “The chronicle of Henry of Huntingdon; comprising The history of England, from the invasion of Julius Cæsar to the accession of Henry II. Also, The acts of Stephen, King of England and Duke of Normandy.” London: Henry G. Bohn [Available digitally](ttps://catalog.hathitrust.org/Record/000310624)
-* Forrester Research. (2017). “The Digital Maturity Model 5.0, Forrester Research, Inc.” Published March 14, 2017. [Available digitally](https://www.forrester.com/report/The+Digital+Maturity+Model+50/-/E-RES136841)
-* Frost, S. (2020) ‘Museums, Change, Lives: episode 3 Emotional labour’ [Available digitally](https://open.spotify.com/episode/3kZRWBlTaqYKw4lLEfwT0q)
+* Finnis, J. et al. (2011), How to Evaluate Online Success? A New Piece of Action Research. In J. Trant and D. Bearman (eds). Museums and the Web 2011: Proceedings. Toronto: Archives & Museum Informatics. Published March 31, 2011. [Link at time of writing](http://conference.archimuse.com/mw2011/papers/how_to_evaluate_online_success)
+* Forester, T (1853) “The chronicle of Henry of Huntingdon; comprising The history of England, from the invasion of Julius Cæsar to the accession of Henry II. Also, The acts of Stephen, King of England and Duke of Normandy.” London: Henry G. Bohn [Link at time of writing](ttps://catalog.hathitrust.org/Record/000310624)
+* Forrester Research. (2017). “The Digital Maturity Model 5.0, Forrester Research, Inc.” Published March 14, 2017. [Link at time of writing](https://www.forrester.com/report/The+Digital+Maturity+Model+50/-/E-RES136841)
+* Frost, S. (2020) ‘Museums, Change, Lives: episode 3 Emotional labour’ [Link at time of writing](https://open.spotify.com/episode/3kZRWBlTaqYKw4lLEfwT0q)
 * Gaia, G., Boiano, S., Bowen, J.P. and Borda, A. (2020) ‘Museum Websites of the First Wave: The rise of the virtual museum’ Proceedings of EVA London 2020 (EVA 2020)
-* Gat, O. (2019) ‘Beyond TikTok: Gen Z at the museum’ [Available digitally](https://www.artbasel.com/news/new-ways-of-seeing-generation-z)
-* Gurumurphy, R. & Schatsky, D. (2019) ‘Pivoting to digital maturity: Seven capabilities central to digital transformation’ [Available digitally](https://www2.deloitte.com/us/en/insights/focus/digital-maturity/digital-maturity-pivot-model.html)
-* Gruber, E. (2018) ‘Tweet thread relating to Google Arts’ [Available digitally](https://twitter.com/ewg118/status/998899294357872640)
+* Gat, O. (2019) ‘Beyond TikTok: Gen Z at the museum’ [Link at time of writing](https://www.artbasel.com/news/new-ways-of-seeing-generation-z)
+* Gurumurphy, R. & Schatsky, D. (2019) ‘Pivoting to digital maturity: Seven capabilities central to digital transformation’ [Link at time of writing](https://www2.deloitte.com/us/en/insights/focus/digital-maturity/digital-maturity-pivot-model.html)
+* Gruber, E. (2018) ‘Tweet thread relating to Google Arts’ [Link at time of writing](https://twitter.com/ewg118/status/998899294357872640)
 * Hicks, D. (2020) “The Brutish Museums: The Benin Bronzes, Colonial Violence and Cultural Restitution” Pluto Press
-* Ho, E (2020) “Let's get digital” Australian National University ANUReporter Volume 51, Number 1. [Available digitally](https://reporter.anu.edu.au/lets-get-digital)
-* Hubbard, M. (2020) ‘Drupal’s Admin UI and How it Compares to WordPress’ [Available digitally](https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress)
-* James, D. & Price, K (2018) "Structuring for digital success: A global survey of how museums and other cultural organizations resource, fund, and structure their digital teams and activity." MW18: MW 2018. Published January 31, 2018. Consulted October 23, 2020. [Available digitally](https://mw18.mwconf.org/paper/structuring-for-digital-success-a-global-survey-of-how-museums-and-other-cultural-organisations-resource-fund-and-structure-their-digital-teams-and-activity/)
-* Keene, S. (1996) “Becoming digital”, Museum Management and Curatorship, 15:3, 299–313. DOI: https:/doi.org/[10.1080/09647779709515490](https://doi.org/10.1080/09647779709515490)
+* Ho, E (2020) “Let's get digital” Australian National University ANUReporter Volume 51, Number 1. [Link at time of writing](https://reporter.anu.edu.au/lets-get-digital)
+* Hubbard, M. (2020) ‘Drupal’s Admin UI and How it Compares to WordPress’ [Link at time of writing](https://blog.acromedia.com/drupals-admin-ui-and-how-it-compares-to-wordpress)
+* James, D. & Price, K (2018) "Structuring for digital success: A global survey of how museums and other cultural organizations resource, fund, and structure their digital teams and activity." MW18: MW 2018. Published January 31, 2018. Consulted October 23, 2020. [Link at time of writing](https://mw18.mwconf.org/paper/structuring-for-digital-success-a-global-survey-of-how-museums-and-other-cultural-organisations-resource-fund-and-structure-their-digital-teams-and-activity/)
+* Keene, S. (1996) “Becoming digital”, Museum Management and Curatorship, 15:3, 299–313. [DOI: 10.1080/09647779709515490](https://doi.org/10.1080/09647779709515490)
 * Keene, S. (1998) ‘Digital Collections: Museums and the Information Age’ (Conservation & Museology) London: Butterworth-Heinemann
 * Keller, K.L. (2009) ‘Building strong brands in a modern marketing communications environment’ in Journal of Marketing Communications Vol. 15, Nos. 2 – 3, April– July 2009, 139–155
-* Kenderdine, S. (2013) ‘How will museums of the future look?’ TEDx Gateway Talk, YouTube [Available digitally](https://www.youtube.com/watch?v=VXhtwFCA_Kc)
-* Kidd, J. (2018) ‘Public Heritage and the Promise of the Digital’ in Labrador, A.M. & Silberman, N.A. (eds) The Oxford Handbook of Public Heritage Theory and Practice DOI: [https://doi.org/10.1093/oxfordhb/9780190676315.013.9](https://doi.org/10.1093/llc/fqaa055)
-* Kinsta (2021) ‘WordPress market share’ [Available digitally](https://kinsta.com/wordpress-market-share/)
-* Kizhner, I., Terras, M., Rumyantsev, M., Khokhlova, V., Demeshkova, E., Rudov, I., & Afanasieva, J. (2021) “Digital cultural colonialism: measuring bias in aggregated digitized content held in Google Arts and Culture” in Digital Scholarship in the Humanities, [Available digitally](https://doi.org/10.1093/llc/fqaa055).
-* Koszary, A. (2018) “Tweet relating to MERL’s Twitter output” [Available digitally](https://twitter.com/AdamKoszary/status/993892606613520384)
+* Kenderdine, S. (2013) ‘How will museums of the future look?’ TEDx Gateway Talk, YouTube [Link at time of writing](https://www.youtube.com/watch?v=VXhtwFCA_Kc)
+* Kidd, J. (2018) ‘Public Heritage and the Promise of the Digital’ in Labrador, A.M. & Silberman, N.A. (eds) The Oxford Handbook of Public Heritage Theory and Practice [DOI: oxfordhb/9780190676315.013.9](https://doi.org/10.1093/llc/fqaa055)
+* Kinsta (2021) ‘WordPress market share’ [Link at time of writing](https://kinsta.com/wordpress-market-share/)
+* Kizhner, I., Terras, M., Rumyantsev, M., Khokhlova, V., Demeshkova, E., Rudov, I., & Afanasieva, J. (2021) “Digital cultural colonialism: measuring bias in aggregated digitized content held in Google Arts and Culture” in Digital Scholarship in the Humanities, [DOI: 10.1093/llc/fqaa055](https://doi.org/10.1093/llc/fqaa055).
+* Koszary, A. (2018) “Tweet relating to MERL’s Twitter output” [Link at time of writing](https://twitter.com/AdamKoszary/status/993892606613520384)
 * Malde, S. & Finnis, J (2015) Report from the third Culture 24 Action Research Project: Is your content fit for purpose? Let’s Get Real
-* Malde, S., Kennedy, A., & Parry, R. (2019) ‘Understanding the digital skills & literacies of UK museum people – Phase Two Report.’ University of Leicester. Report. [Available digitally](https://hdl.handle.net/2381/43014)
-* Marshall, A. (2020) ‘Museum World’s King of Memes Brings Humor to Lockdown’ New York Times 30th March 2020 [Available digitally](https://www.nytimes.com/2020/03/30/arts/design/museums-coronavirus-adam-koszary.html)
-* Marshall, A. (2020) ‘As Museums Get on TikTok, the Uffizi Is an Unlikely Class Clown’ New York Times 24th June 2020 [Available digitally](https://www.nytimes.com/2020/06/24/arts/design/uffizi-museums-tiktok.html)
-* Matney, L. (2021) Google shutting down 3d poly platform: TechCrunch [Available digitally](https://techcrunch.com/2020/12/02/google-shutting-down-poly-3d-content-platform/)
-* Metropolitan Museum (2021) “The Metropolitan Museum of Art and Verizon Launch Interactive Virtual Art Experience” [Available digitally](https://www.metmuseum.org/press/news/2021/the-met-unframed)
-* Mihelj S, Leguina A, Downey J. ‘Culture is digital: Cultural participation, diversity and the digital divide.’ *New Media & Society*. 2019;21(7):1465-1485. doi:[10.1177/1461444818822816](https://doi.org/10.1177/1461444818822816)
-* Musée de l'Armée (2019) ‘L'expérience Assassin's Creed aux Invalides’ [Available digitally](https://www.musee-armee.fr/au-programme/evenements/detail/lexperience-assassins-creed-aux-invalides-1.html)
-* Museums Association (2020) “Empowering collections” [Available digitally](https://ma-production.ams3.digitaloceanspaces.com/app/uploads/2020/06/18145331/MS1681-Empowering-collections__v8.pdf)
-* Nile Scribes (2018) ‘Meeting the “Queens of Egypt” in Montréal’ [Available digitally](https://nilescribes.org/2018/09/08/queens-egypt-montreal/)
-* Nurmikko-Fuller, T. (2020) ‘Using British Library Cultural Heritage Data for a Digital Humanities Research Course at the Australian National University’ [Available digitally](https://blogs.bl.uk/digital-scholarship/2020/11/using-british-library-cultural-heritage-data-for-a-digital-humanities-research-course-at-the-austral.html])
-* Nurmikko-Fuller, T, & Grant, K. (2019) ‘How the CDHR Digitizes Australia's National Collections’ [Available digitally](https://sketchfab.com/blogs/community/how-the-cdhr-digitizes-australias-national-collections/)
-* Office for National Statistics (2019) Exploring the UK’s digital divide [Available digitally](https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/articles/exploringtheuksdigitaldivide/2019-03-04)
+* Malde, S., Kennedy, A., & Parry, R. (2019) ‘Understanding the digital skills & literacies of UK museum people – Phase Two Report.’ University of Leicester. Report. [Link at time of writing](https://hdl.handle.net/2381/43014)
+* Marshall, A. (2020) ‘Museum World’s King of Memes Brings Humor to Lockdown’ New York Times 30th March 2020 [Link at time of writing](https://www.nytimes.com/2020/03/30/arts/design/museums-coronavirus-adam-koszary.html)
+* Marshall, A. (2020) ‘As Museums Get on TikTok, the Uffizi Is an Unlikely Class Clown’ New York Times 24th June 2020 [Link at time of writing](https://www.nytimes.com/2020/06/24/arts/design/uffizi-museums-tiktok.html)
+* Matney, L. (2021) Google shutting down 3d poly platform: TechCrunch [Link at time of writing](https://techcrunch.com/2020/12/02/google-shutting-down-poly-3d-content-platform/)
+* Metropolitan Museum (2021) “The Metropolitan Museum of Art and Verizon Launch Interactive Virtual Art Experience” [Link at time of writing](https://www.metmuseum.org/press/news/2021/the-met-unframed)
+* Mihelj S, Leguina A, Downey J. ‘Culture is digital: Cultural participation, diversity and the digital divide.’ *New Media & Society*. 2019;21(7):1465-1485. [DOI: 10.1177/1461444818822816](https://doi.org/10.1177/1461444818822816)
+* Musée de l'Armée (2019) ‘L'expérience Assassin's Creed aux Invalides’ [Link at time of writing](https://www.musee-armee.fr/au-programme/evenements/detail/lexperience-assassins-creed-aux-invalides-1.html)
+* Museums Association (2020) “Empowering collections” [Link at time of writing](https://ma-production.ams3.digitaloceanspaces.com/app/uploads/2020/06/18145331/MS1681-Empowering-collections__v8.pdf)
+* Nile Scribes (2018) ‘Meeting the “Queens of Egypt” in Montréal’ [Link at time of writing](https://nilescribes.org/2018/09/08/queens-egypt-montreal/)
+* Nurmikko-Fuller, T. (2020) ‘Using British Library Cultural Heritage Data for a Digital Humanities Research Course at the Australian National University’ [Link at time of writing](https://blogs.bl.uk/digital-scholarship/2020/11/using-british-library-cultural-heritage-data-for-a-digital-humanities-research-course-at-the-austral.html])
+* Nurmikko-Fuller, T, & Grant, K. (2019) ‘How the CDHR Digitizes Australia's National Collections’ [Link at time of writing](https://sketchfab.com/blogs/community/how-the-cdhr-digitizes-australias-national-collections/)
+* Office for National Statistics (2019) Exploring the UK’s digital divide [Link at time of writing](https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/articles/exploringtheuksdigitaldivide/2019-03-04)
 * Pescarmona, G, (2020) ‘Augmented Reality and Renaissance Painting: An AR Experience for the Fitzwilliam Museum in Cambridge’, in Israel, J.H., Kassung, C., and Sieck, J. (eds.) ‘Culture and Computer Science: Extended Reality’, vwh-Verlag, Glückstadt
-* Pett, D. (2012) ‘Use of Social Media within the British Museum and Museum Sector’ in Bonacchi, C (ed) Archaeologists and Digital Communication: Towards Strategies of Public Engagement London: Archetype press. DOI: <https://doi.org/10.13140/RG.2.2.35064.96003> [Available digitally](https://www.researchgate.net/publication/325285000_Uses_of_social_media_within_the_British_Museum_and_museum_sector)
-* Pett, D. (2018) ‘Tweet relating to Museum of English Rural Life’s social media’ [Available digitally](https://twitter.com/DEJPett/status/1067380258217836545)
-* Pitkin, M., Pett, D. & Strudwick, H. (2019a) ‘The Fitzwilliam Museum Egyptian Coffins Website source code (Version 1.0)’ Zenodo. [Available digitally](http://doi.org/10.5281/zenodo.2598492)
-* Pitkin, M., Pett, D. & Strudwick, H. (2019b) ‘The Fitzwilliam Museum Egyptian Coffins Website’ [Available digitally](https://egyptiancoffins.org)
-* Politopoulos, A., Mol, A., Boom, K., & Ariese, C. (2019). “History Is Our Playground”: Action and Authenticity in Assassin's Creed: Odyssey. Advances in Archaeological Practice, 7(3), 317-323. DOI: <https://doi.org/10.1017/aap.2019.30>
-* Reagan, G. (2009) ‘Rodin-ternet! Brooklyn Museum’s Digital Docent Peddles Art to Peoria’ Observer. [Available digitally](https://observer.com/2009/01/rodinternet-brooklyn-museums-digital-docent-peddles-art-to-peoria/2/)
-* Reparaz, M. (2018) ‘Assassin's Creed Origins - Discovery Tour Q&A with Historian Maxime Durand’ [Available digitally](https://news.ubisoft.com/en-us/article/46PlC3yAeikjDI652TayLm/assassins-creed-origins-discovery-tour-qa-with-historian-maxime-durand)
-* Ridge, M., Rees, G. & Jevon, G. (2020) ‘Highlights from crowdsourcing projects at the British Library’ [Available digitally](https://blogs.bl.uk/digital-scholarship/2020/12/highlights-from-crowdsourcing-projects-at-the-british-library.html)
+* Pett, D. (2012) ‘Use of Social Media within the British Museum and Museum Sector’ in Bonacchi, C (ed) Archaeologists and Digital Communication: Towards Strategies of Public Engagement London: Archetype press. [DOI: 10.13140/RG.2.2.35064.9600](https://doi.org/10.13140/RG.2.2.35064.9600) [Link at time of writing](https://www.researchgate.net/publication/325285000_Uses_of_social_media_within_the_British_Museum_and_museum_sector)
+* Pett, D. (2018) ‘Tweet relating to Museum of English Rural Life’s social media’ [Link at time of writing](https://twitter.com/DEJPett/status/1067380258217836545)
+* Pitkin, M., Pett, D. & Strudwick, H. (2019a) ‘The Fitzwilliam Museum Egyptian Coffins Website source code (Version 1.0)’ Zenodo. [DOI: zenodo.2598492](http://doi.org/10.5281/zenodo.2598492)
+* Pitkin, M., Pett, D. & Strudwick, H. (2019b) ‘The Fitzwilliam Museum Egyptian Coffins Website’ [Link at time of writing](https://egyptiancoffins.org)
+* Politopoulos, A., Mol, A., Boom, K., & Ariese, C. (2019). “History Is Our Playground”: Action and Authenticity in Assassin's Creed: Odyssey. Advances in Archaeological Practice, 7(3), 317-323. [DOI: 10.1017/aap.2019.30](<https://doi.org/10.1017/aap.2019.30)
+* Reagan, G. (2009) ‘Rodin-ternet! Brooklyn Museum’s Digital Docent Peddles Art to Peoria’ Observer. [Link at time of writing](https://observer.com/2009/01/rodinternet-brooklyn-museums-digital-docent-peddles-art-to-peoria/2/)
+* Reparaz, M. (2018) ‘Assassin's Creed Origins - Discovery Tour Q&A with Historian Maxime Durand’ [Link at time of writing](https://news.ubisoft.com/en-us/article/46PlC3yAeikjDI652TayLm/assassins-creed-origins-discovery-tour-qa-with-historian-maxime-durand)
+* Ridge, M., Rees, G. & Jevon, G. (2020) ‘Highlights from crowdsourcing projects at the British Library’ [Link at time of writing](https://blogs.bl.uk/digital-scholarship/2020/12/highlights-from-crowdsourcing-projects-at-the-british-library.html)
 * Rowley, J. (2007) “The wisdom hierarchy: representations of the DIKW hierarchy.” Journal of Information Science 33: 163 - 180.
-* Royal Shakespeare Company (2021) “Dream - explore the future of theatre in a virtual forest.” [Available digitally](https://www.rsc.org.uk/news/dream-explore-the-future-of-theatre-in-the-virtual-forest)
+* Royal Shakespeare Company (2021) “Dream - explore the future of theatre in a virtual forest.” [Link at time of writing](https://www.rsc.org.uk/news/dream-explore-the-future-of-theatre-in-the-virtual-forest)
 * Sanderhoff, M. (2015). This belongs to you. In REPROGRAM: Technology, Innovation and Culture in a New Era of Museums (Vol. 2, pp. 86-112).
-* Santos, P, Ritz,M., Fuhrmann, C. & Fellner, D. (2017) "3D mass digitization: a milestone for archeological documentation." Virtual Archaeology Review [Online], 8.16 (2017): 1-11. <https://doi.org/10.4995/var.2017.6321>
-* Searle, A. (2019) ‘Olafur Eliasson review – art's weatherman fogs up Tate Modern’ [Available digitally](https://www.theguardian.com/artanddesign/2019/jul/09/olafur-eliasson-review-tate-modern-london)
+* Santos, P, Ritz,M., Fuhrmann, C. & Fellner, D. (2017) "3D mass digitization: a milestone for archeological documentation." Virtual Archaeology Review, 8.16 (2017): 1-11. [DOI: 10.4995/var.2017.6321](https://doi.org/10.4995/var.2017.6321)
+* Searle, A. (2019) ‘Olafur Eliasson review – art's weatherman fogs up Tate Modern’ [Link at time of writing](https://www.theguardian.com/artanddesign/2019/jul/09/olafur-eliasson-review-tate-modern-london)
 * Schadla-Hall, T. (1996) ‘What are we groping for?’ MDA Information 2.4
-* Simon, N (2010) The Participatory Museum Sumption, K. (2020) A new museology for generation Z: The impact and revolution of Japanese digital art [Available digitally](https://www.sea.museum/2020/05/29/a-new-museology-for-generation-z-the-impact-and-revolution-of-japanese-digital-art)
-* Steins, C. (2019) ‘Most Popular Content Management Systems Used by the Largest Museums in the US’ [Available digitally](https://www.urbaninsight.com/article/most-popular-content-management-systems-used-largest-museums-us)
-* Tanner, S. (2012) Measuring the Impact of Digital Resources: The Balanced Value Impact Model. King’s College London, October 2012. [Available digitally](http://www.kdcs.kcl.ac.uk/innovation/impact.html)
-* Uglow, T., Richards, J., Osborn, J. and Sillitoe, K. (2017) ‘XyFi: Using digital to bring a world to life.’ [Available digitally](https://experiments.withgoogle.com/xy-fi)
-* Vincent, B. (2019) ‘Ubisoft Donates to Notre Dame Cathedral Restoration Efforts’ [Available digitally](https://variety.com/2019/gaming/news/ubisoft-notre-dame-cathedral-1203191516/)
-* Wallace, A. & Deazley, R. (2016) ‘Display at your risk’ [Available digitally](https://displayatyourownrisk.org/)
-* Weinsmith, K. & Andersen, S. (2020) ‘The Digital Future of Museums: Conversations and Provocations’ <https://doi.org/10.4324/9780429491573>
-* Wikipedia contributors. "Google Arts & Culture." *Wikipedia, The Free Encyclopedia*. Wikipedia, The Free Encyclopedia, 3 Mar. 2021. Web. 18 Mar. 2021. [Available digitally](https://en.wikipedia.org/wiki/Google_Arts_%26_Culture)
-* Xiao, A. (2012) ‘A Sad Goodbye to Brooklyn Museum’s 1stfans Membership’ [Available digitally](https://hyperallergic.com/51534/a-sad-goodbye-to-brooklyn-museums-1stfans-membership/)
+* Simon, N (2010) The Participatory Museum Sumption, K. (2020) A new museology for generation Z: The impact and revolution of Japanese digital art [Link at time of writing](https://www.sea.museum/2020/05/29/a-new-museology-for-generation-z-the-impact-and-revolution-of-japanese-digital-art)
+* Steins, C. (2019) ‘Most Popular Content Management Systems Used by the Largest Museums in the US’ [Link at time of writing](https://www.urbaninsight.com/article/most-popular-content-management-systems-used-largest-museums-us)
+* Tanner, S. (2012) Measuring the Impact of Digital Resources: The Balanced Value Impact Model. King’s College London, October 2012. [Link at time of writing](http://www.kdcs.kcl.ac.uk/innovation/impact.html)
+* Uglow, T., Richards, J., Osborn, J. and Sillitoe, K. (2017) ‘XyFi: Using digital to bring a world to life.’ [Link at time of writing](https://experiments.withgoogle.com/xy-fi)
+* Vincent, B. (2019) ‘Ubisoft Donates to Notre Dame Cathedral Restoration Efforts’ [Link at time of writing](https://variety.com/2019/gaming/news/ubisoft-notre-dame-cathedral-1203191516/)
+* Wallace, A. & Deazley, R. (2016) ‘Display at your risk’ [Link at time of writing](https://displayatyourownrisk.org/)
+* Weinsmith, K. & Andersen, S. (2020) ‘The Digital Future of Museums: Conversations and Provocations’ [DOI: 10.4324/9780429491573](https://doi.org/10.4324/9780429491573)
+* Wikipedia contributors. "Google Arts & Culture." *Wikipedia, The Free Encyclopedia*. Wikipedia, The Free Encyclopedia, 3 Mar. 2021. Web. 18 Mar. 2021. [Link at time of writing](https://en.wikipedia.org/wiki/Google_Arts_%26_Culture)
+* Xiao, A. (2012) ‘A Sad Goodbye to Brooklyn Museum’s 1stfans Membership’ [Link at time of writing](https://hyperallergic.com/51534/a-sad-goodbye-to-brooklyn-museums-1stfans-membership/)
 
+
+## Audited dates
+
+* Date completed January 2021
+* Date submitted: March 7 2021
+
+## Footnotes
 
 [^1]:[An image of the Heidentor, Carnuntum](https://commons.wikimedia.org/wiki/File%3AHeidentor_Carnuntum_4487.jpg)
 [^2]:[A digital marketplace entry for the BM](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities/1907) 
@@ -334,8 +345,3 @@ Attack all your digital projects with this simple question - ‘Why are we doing
 [^13]:[MicroPasts Crowdsourcing Platform](https://crowdsourced.micropasts.org)
 [^14]:[LibCrowds British Library Crowdsourcing](https://libcrowds.com)
 [^15]:[Ubisoft Escape Games: The Dagger of Time](https://www.ubisoftescapegames.com/the-dagger-of-time/)
-
-## Audited dates
-
-* Date completed January 2021
-* Date submitted: March 7 2021
