@@ -16,3 +16,12 @@ import {defineCustomElements as deckDeckGoHighlightElement} from '@deckdeckgo/hi
 require("prismjs/themes/prism-tomorrow.css");
 
 deckDeckGoHighlightElement();
+exports.shouldUpdateScroll = ({ routerProps: { location } }) => {
+  // Check if there is a hash in the URL. If there is, it's likely an anchor link,
+  // so we'll let the browser handle the scroll.
+  if (location.hash) {
+    return false;
+  }
+  // Otherwise, always scroll to the top of the page.
+  return true;
+};
