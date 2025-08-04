@@ -419,19 +419,20 @@ Through an analysis of the web statistics, it can also be seen that the Scheme�
 
 Website statistical analysis is sometimes seen as an obscure and futile task; there are problems inherent in the collection of ‘accurate’ data. Kyrnin (2009) stated that ‘lots of tools use IP address to assign visitor status, but when a customer is using an ISP such as AOL they are on a dynamic IP. This means that if they come to your site today on IP ‘A’, tomorrow they might come on IP ‘B’. This would be tracked as 2 visitors each with 1 visit, even though it was really 1 visitor with 2 visits’ (Kyrmin 2009). Therefore, however web statistics are collected there is always the caveat that they are never 100% accurate and should be just seen as an extrapolated measure. Figure 20 demonstrates that the Scheme’s core audience in comparison to other British Museum websites is very UK focused. Originally, the Scheme’s web statistics submitted annually to the DCMS suggested that PAS had a very high proportion of American visitors, but this figure was skewed by a large proportion of users having America Online (AOL) as their Internet Service Provider. The original log file analyser placed these IP addresses into the USA block. This has now been rectified by the implementation of the new data analysis package described above. In part, these figures are backed up by the range of queries and research requests that PAS receives from around the globe. It is a relatively easy measure to produce and has been touted frequently as one of the measures of success that the Scheme enjoys. However, what will stand the testament of time is the impact that the Scheme’s data has on the academic output and lay research that is conducted throughout the world.
 
-| Website                                | Resource Name                | UK Visitors (%) | USA Visitors (%) | China Visitors (%) |
-|-----------------------------------------|------------------------------|-----------------|------------------|--------------------|
-| www.thebritishmuseum.ac.uk              | The British Museum           | 47.71           | 15.33            | 2.41               |
-| www.ancientcivilizations.co.uk          | Ancient Civilizations        | 10.82           | 51.49            | <0.25              |
-| www.ancientegypt.co.uk                  | Ancient Egypt                | 23.37           | 46.43            | <0.51              |
-| www.pastexplorers.org.uk                | Past Explorers               | 78.45           | 8.11             | 0.00               |
-| www.finds.org.uk                        | Portable Antiquities Scheme  | 72.64           | 12.70            | 0.00               |
-| www.mughalindia.co.uk                   | Mughal India                 | 19.90           | 51.50            | 0.00               |
-| www.earlyimperialchina.co.uk            | Early Imperial China         | 8.97            | 69.84            | 0.78               |
-| www.ancientgreece.co.uk                 | Ancient Greece               | 29.28           | 55.06            | <0.10              |
-| www.britishmuseum.co.uk                 | The British Museum Shop      | 51.19           | 17.03            | <1.00              |
-| www.mesopotamia.co.uk                   | Mesopotamia                  | 5.33            | 54.32            | 0.00               |
-| **Means**                               |                              | **34.78**       | **34.18**        | **<0.01**          |
+| Resource Name | UK Visitors (%) | USA Visitors (%) | China Visitors (%) |
+|---|---|---|---|
+| [The British Museum](https://www.google.com/search?q=https://www.thebritishmuseum.ac.uk) | 47.71 | 15.33 | 2.41 |
+| [Ancient Civilizations](https://www.google.com/search?q=https://www.ancientcivilizations.co.uk) | 10.82 | 51.49 | \<0.25 |
+| [Ancient Egypt](https://www.google.com/search?q=https://www.ancientegypt.co.uk) | 23.37 | 46.43 | \<0.51 |
+| [Past Explorers](https://www.google.com/search?q=https://www.pastexplorers.org.uk) | 78.45 | 8.11 | 0.00 |
+| [Portable Antiquities Scheme](https://www.finds.org.uk) | 72.64 | 12.70 | 0.00 |
+| [Mughal India](https://www.google.com/search?q=https://www.mughalindia.co.uk) | 19.90 | 51.50 | 0.00 |
+| [Early Imperial China](https://www.google.com/search?q=https://www.earlyimperialchina.co.uk) | 8.97 | 69.84 | 0.78 |
+| [Ancient Greece](https://www.google.com/search?q=https://www.ancientgreece.co.uk) | 29.28 | 55.06 | \<0.10 |
+| [The British Museum Shop](https://www.google.com/search?q=https://www.britishmuseum.co.uk) | 51.19 | 17.03 | \<1.00 |
+| [Mesopotamia](https://www.google.com/search?q=https://www.mesopotamia.co.uk) | 5.33 | 54.32 | 0.00 |
+| **Means** | **34.78** | **34.18** | **\<0.01** |
+
 Figure 20: Visitors by geographic region to various British Museum hosted websites.
 
 ## What next for the Scheme’s web presence?

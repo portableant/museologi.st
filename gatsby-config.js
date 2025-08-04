@@ -80,7 +80,7 @@ module.exports = {
             resolve: `gatsby-plugin-purgecss`,
             options: {
                 printRejected: true,
-                develop: false,
+                develop: true,
                 defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
                 ignore: [
                     'prismjs/',
@@ -133,7 +133,7 @@ module.exports = {
                         'data-bs-slide',
                         'data-bs-target',
                         'data-bs-slide-to',
-                        /^btn/,
+                        /^alert-/,
                         /^col-/,
                         /^row$/,
                         /^container(-fluid)?$/,
