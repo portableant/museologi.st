@@ -114,6 +114,7 @@ To enable these research projects to be as comprehensive as possible, the databa
 | 2007 | 12      | 5             |
 | 2008 | 5       | 3             |
 | 2009 | 6       | 1             |
+
 **Table 3 Proportion of single finds of gold coins reported to the PAS, the EMC or as Treasure, compared with those identified from other sources** 
 
 ![Plate 3: DENO-651C91 A struck gold aureus of Carausius (286–93)](../images/papers/wealth/denoCoin.png)
@@ -209,7 +210,7 @@ This powerful software has been created to allow ‘scholars, museums, libraries
 | Post Medieval coins  | 1      | -    | -     |
 | Byzantine coins      | 1      | -    | -     |
 
-### Table 4 Position of the coin guides on Google.co.uk as at 25/2/2011
+**Table 4 Position of the coin guides on Google.co.uk as at 25/2/2011**
 
 | Search Phrase                | Page Views | Time Spent                |
 |------------------------------|------------|---------------------------|
@@ -222,7 +223,7 @@ This powerful software has been created to allow ‘scholars, museums, libraries
 | Site: finds.org.uk           | 192        | 1 hour 15 mins            |
 | Early medieval coin guide    | —          | —                         |
 
-### Table 5 Long length visits for numismatic material on finds.org.uk
+**Table 5 Long length visits for numismatic material on the [PAS website](https://finds.org.uk)**
 
 ## Measuring impact
 

@@ -133,6 +133,13 @@ module.exports = {
                         'data-bs-slide',
                         'data-bs-target',
                         'data-bs-slide-to',
+                        // Keep base alert classes
+                        'alert',
+                        'alert-dismissible',
+                        'alert-heading',
+                        'alert-link',
+                        'fade',
+                        'show',
                         /^alert-/,
                         /^col-/,
                         /^row$/,
@@ -179,8 +186,13 @@ module.exports = {
                     ],
                     deep: [
                         /active/, // Matches active classes for indicators and items
+                        /^alert-/, 
                         /^btn-/,
                         /carousel/, // Catch all for any carousel-related classes
+                    ],
+                    // Safelist CSS variables used by alerts
+                    variables: [
+                    /^--bs-alert-/,
                     ],
                 },
             },
