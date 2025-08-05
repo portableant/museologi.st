@@ -39,7 +39,7 @@ const ExifTags = ({imageData}) => {
       setLoading(true)
       
       const imageUrl = imageData.publicURL
-      console.log('Original Image URL:', imageUrl)
+      // console.log('Original Image URL:', imageUrl)
       
       const img = new Image()
       img.crossOrigin = "anonymous"
@@ -47,7 +47,7 @@ const ExifTags = ({imageData}) => {
       img.onload = () => {
         EXIF.getData(img, function() {
           const allMetaData = EXIF.getAllTags(this)
-          console.log('All EXIF Data:', allMetaData)
+          // console.log('All EXIF Data:', allMetaData)
           
           // Filter to only useful tags
           const filteredData = {}
@@ -57,7 +57,7 @@ const ExifTags = ({imageData}) => {
             }
           })
           
-          console.log('Filtered EXIF Data:', filteredData)
+          // console.log('Filtered EXIF Data:', filteredData)
           setExifData(filteredData)
           setLoading(false)
         })

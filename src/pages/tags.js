@@ -10,7 +10,7 @@ import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs
 const TagsPage = ({ data, pageContext }) => {
   const { group } = data.allMarkdownRemark
   const breadcrumbs =  pageContext.breadcrumb?.crumbs || []
-  console.log(breadcrumbs)
+
   return (
     <Layout>
       <HeaderWithBreadcrumbs breadcrumbs={breadcrumbs || []} title={'Tags'} />

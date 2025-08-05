@@ -17,7 +17,7 @@ const PhotogrammetryPage = React.memo(({ data, pageContext }) => {
         [data.allMarkdownRemark.edges]
     );
     const { breadcrumb } = pageContext;
-    console.log(pageContext);
+
     return (
         <Layout>
             <HeaderWithBreadcrumbs
