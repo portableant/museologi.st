@@ -80,7 +80,7 @@ module.exports = {
             resolve: `gatsby-plugin-purgecss`,
             options: {
                 printRejected: true,
-                develop: true,
+                develop: false,
                 defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
                 ignore: [
                     'prismjs/',
@@ -187,6 +187,7 @@ module.exports = {
                     deep: [
                         /active/, // Matches active classes for indicators and items
                         /^alert-/, 
+                        /^breadcrumb-/, // Matches breadcrumb classes
                         /^btn-/,
                         /carousel/, // Catch all for any carousel-related classes
                     ],
@@ -347,6 +348,12 @@ module.exports = {
             },
             createLinkInHead: true,
         },
+        {
+      resolve: 'gatsby-plugin-breadcrumb',
+      options: {
+        useAutoGen: true,
+      },
+    },
         "gatsby-transformer-sharp",
         "gatsby-plugin-sharp",
         "gatsby-plugin-mdx",

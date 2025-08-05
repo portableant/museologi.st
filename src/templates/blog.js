@@ -5,6 +5,7 @@ import { graphql } from "gatsby";
 import { Container, Row } from 'react-bootstrap';
 import Pagination from '../components/structure/pagination';
 import Seo from "../components/structure/SEO";
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
 
 const BlogPage = ({ data, pageContext }) => {
     const posts = data.allMarkdownRemark.edges
@@ -15,21 +16,27 @@ const BlogPage = ({ data, pageContext }) => {
                 post={edge.node}
             />
         ));
-
+    const { breadcrumb } = pageContext;
+    
     return (
-        <Layout>
-            <Container>
-                <Row>
-                    <h1 className="fw-bold mt-4 text-primary">Sporadic blog posts</h1>
-                    <Row>
+        <>
+            <Layout>
+                <HeaderWithBreadcrumbs
+                            breadcrumbs={breadcrumb?.crumbs || []}
+                            title="Sporadic blog posts"
+                            date={null}
+                        />
+                
+                <Container>
+                    <Row className="mt-4">
                         {posts}
                     </Row>
-                </Row>
-            </Container>
-            <Container fluid className="mx-auto text-center bg-pastel">
+                </Container>
+
                 <Pagination pageContext={pageContext} />
-            </Container>
-        </Layout>
+            
+            </Layout>
+        </>
     );
 };
 
@@ -80,6 +87,6 @@ export const pageQuery = graphql`
 export const Head = ({ pageContext }) => (
     <Seo 
         title={`Blog and news page ${pageContext.humanPageNumber}`} 
-        description="A sporadically populated blog; news, stories, tips" 
+        description={`A sporadically populated blog; news, stories, tips`} 
     />
 );

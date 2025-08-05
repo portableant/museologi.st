@@ -2,9 +2,6 @@
     color: #fff;
 }
 
-.breadcrumb__list {
-    font-size: 1.2rem;
-}
 
 body {
     font-family: "public-sans", sans-serif;
@@ -149,4 +146,48 @@ nav.pagination {
 .btn-dark a:focus {
     color: #fff !important;
     text-decoration: none;
+}
+.breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #f8f9fa;
+    border-radius: 0.375rem;
+}
+
+.breadcrumb-item {
+    color: #212529; /* Bootstrap dark text */
+    font-size: 1rem;
+    font-weight: 500;
+    text-decoration: none;
+    position: relative;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    content: "/";
+    padding: 0 0.5rem;
+    color: #6c757d;
+}
+
+.breadcrumb-item a {
+    color: #212529;
+    text-decoration: underline;
+    text-decoration-color: #800080; /* Purple underline */
+    text-underline-offset: 2px;
+    transition: color 0.2s;
+}
+
+.breadcrumb-item a:hover {
+    color: #800080;
+    text-decoration-color: #800080;
+}
+
+.breadcrumb-item.active {
+    color: #800080;
+    text-decoration: underline;
+    text-decoration-color: #800080;
+    pointer-events: none;
+    cursor: default;
 }

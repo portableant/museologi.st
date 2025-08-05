@@ -1,47 +1,47 @@
-import * as React from "react"
-import Layout from "../components/layouts/layout"
+import * as React from "react";
+import Layout from "../components/layouts/layout";
 import PostCard from "../components/structure/post-card";
-import {graphql} from "gatsby"
-import {Container, Row, Col} from 'react-bootstrap';
-import Seo from "../components/structure/SEO"
+import { graphql } from "gatsby";
+import { Container, Row } from 'react-bootstrap';
+import Seo from "../components/structure/SEO";
 import Pagination from '../components/structure/pagination';
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
 
-const PhotogrammetryPage = React.memo(({data, pageContext}) => {
+const PhotogrammetryPage = React.memo(({ data, pageContext }) => {
     // Memoize the posts array to prevent unnecessary re-renders
-    const Posts = React.useMemo(() => 
-        data.allMarkdownRemark.edges
-            .filter(edge => !!edge.node.frontmatter.date)
-            .map(edge => <PostCard key={edge.node.id} post={edge.node}/>),
+    const Posts = React.useMemo(
+        () =>
+            data.allMarkdownRemark.edges
+                .filter(edge => !!edge.node.frontmatter.date)
+                .map(edge => <PostCard key={edge.node.id} post={edge.node} />),
         [data.allMarkdownRemark.edges]
     );
-
+    const { breadcrumb } = pageContext;
+    console.log(pageContext);
     return (
         <Layout>
-            <Container>
-                <Row>
-                    <Col xs={12}>
-                        <h1 className="fw-bold text-primary mt-4">3D Scans and research work</h1>
-                        <p>
-                            This page gives an introduction and overview of all the different 3D models I have
-                            created in museums.
-                        </p>
-                    </Col>
-                </Row>
+            <HeaderWithBreadcrumbs
+                    breadcrumbs={breadcrumb?.crumbs || []}
+                    title="3D Scans and Research Work"
+                    date={null}
+                />
+                <Container>
+                <p>
+                    This page gives an introduction and overview of all the different 3D models I have
+                    created in museums.
+                </p>
                 <Row>
                     {Posts}
                 </Row>
             </Container>
-            <Container fluid className="mx-auto text-center bg-pastel">
-                <Pagination pageContext={pageContext} />
-            </Container>
+            <Pagination pageContext={pageContext} />
         </Layout>
     );
 });
 
-// Add display name for debugging
 PhotogrammetryPage.displayName = 'PhotogrammetryPage';
 
-export default PhotogrammetryPage
+export default PhotogrammetryPage;
 
 export const pageQuery = graphql`
     query($skip: Int!, $limit: Int!) {
@@ -79,11 +79,11 @@ export const pageQuery = graphql`
             }
         }
     }
-`
+`;
 
-export const Head = ({pageContext}) => (
-    <Seo 
-        title={`My photogrammetry and 3D scanning work, page ${pageContext.humanPageNumber}`} 
+export const Head = ({ pageContext }) => (
+    <Seo
+        title={`My photogrammetry and 3D scanning work, page ${pageContext.humanPageNumber}`}
         description="An overview of my photogrammetry work around the world"
     />
-)
+);

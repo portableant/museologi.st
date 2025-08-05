@@ -5,15 +5,17 @@ import { kebabCase, startCase } from "lodash"
 import Layout from "../components/layouts/layout"
 import Seo from "../components/structure/SEO"
 import { Container, Row } from "react-bootstrap"
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs"
 
-const TagsPage = ({ data }) => {
+const TagsPage = ({ data, pageContext }) => {
   const { group } = data.allMarkdownRemark
-
+  const breadcrumbs =  pageContext.breadcrumb?.crumbs || []
+  console.log(breadcrumbs)
   return (
     <Layout>
+      <HeaderWithBreadcrumbs breadcrumbs={breadcrumbs || []} title={'Tags'} />
       <Container>
         <Row className="post-body">
-          <h1 className="ml-4 mt-4">Tags</h1>
           <ul className="list-group-flush row">
             {group.map(tag => (
               <li 

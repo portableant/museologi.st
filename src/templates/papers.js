@@ -5,28 +5,40 @@ import {graphql} from "gatsby"
 import {Container, Row} from 'react-bootstrap';
 import Pagination from '../components/structure/pagination';
 import Seo from "../components/structure/SEO";
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
 
 const PapersPage = ({data, pageContext}) => {
-    // Remove unnecessary filter - this should be handled in the GraphQL query
+
     const Posts = React.useMemo(() => 
         data.allMarkdownRemark.edges.map(edge => 
             <PostCard key={edge.node.id} post={edge.node}/>
         ), [data.allMarkdownRemark.edges]
     );
+    const { breadcrumb } = pageContext;
 
     return (
         <Layout>
+            <HeaderWithBreadcrumbs 
+                    breadcrumbs={breadcrumb?.crumbs || []}
+                    title="A list of papers - often collaborative"
+                    />
+            <Container >
+                <Row>
+                    <p>I have tried to reproduce much of mine, and my collaborative work
+                        as HTML pages, so that they are more accessible to a wider audience.
+                        This is a list of papers I have written, or contributed to, in some way.
+                        Some of are not yet available as HTML pages, but will be in the future.
+                    </p>
+                </Row>
+            </Container>
             <Container>
                 <Row>
-                    <div className="col-12">
-                        <h1 className="fw-bold text-primary mt-4">A list of papers - often collaborative</h1>
-                    </div>
                     {Posts}
                 </Row>
             </Container>
-            <Container fluid className="mx-auto text-center bg-pastel">
-                <Pagination pageContext={pageContext} />
-            </Container>
+            
+            <Pagination pageContext={pageContext} />
+            
         </Layout>
     );
 }

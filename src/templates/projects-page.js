@@ -1,7 +1,7 @@
 import {graphql} from "gatsby";
 import * as React from "react";
 import Layout from "../components/layouts/layout";
-import {Container, Row, Badge} from "react-bootstrap";
+import {Container, Row} from "react-bootstrap";
 import FairData from "../components/elements/fair-data";
 import Publications from "../components/elements/publications";
 import People from "../components/elements/people";
@@ -16,8 +16,9 @@ import Tags from '../components/elements/tag';
 import Map from "../components/elements/map";
 import Seo from "../components/structure/SEO";
 import {formatReadingTime} from "../utils/helpers";
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
 
-const ProjectsPageTemplate = React.memo(({data: {markdownRemark}}) => {
+const ProjectsPageTemplate = React.memo(({data: {markdownRemark}, pageContext}) => {
     const {frontmatter, html, timeToRead} = markdownRemark;
     const isSSR = typeof window === "undefined";
 
@@ -28,28 +29,20 @@ const ProjectsPageTemplate = React.memo(({data: {markdownRemark}}) => {
         [frontmatter.geo_lat, frontmatter.geo_lon]
     );
 
-    // Memoize project metadata section
-    const projectMetadata = React.useMemo(() => (
-        <header className="px-4">
-            <h1 className="text-primary fw-bold mt-4">{frontmatter.title}</h1>
-            {frontmatter.date && (
-                <div className="text-primary small mb-2">
-                    <time dateTime={frontmatter.date}>{frontmatter.date}</time>
-                </div>
-            )}
-            {frontmatter.role && (
-                <Badge className="bg-dark p-2 my-1 mx-1" as="span">
-                    Role(s): {frontmatter.role}
-                </Badge>
-            )}
-            {frontmatter.institution && (
-                <Badge className="bg-dark p-2 my-1 mx-1" as="span">
-                    {frontmatter.institution}
-                </Badge>
-            )}
-            <div className="text-primary lead small my-1">{formattedReadingTime}</div>
-        </header>
-    ), [frontmatter.title, frontmatter.date, frontmatter.role, frontmatter.institution, formattedReadingTime]);
+    // FIX: Move the breadcrumbs initialization inside this useMemo hook
+    const projectMetadata = React.useMemo(() => {
+        const breadcrumbs = pageContext.breadcrumb?.crumbs || [];
+        return (
+            <HeaderWithBreadcrumbs
+                breadcrumbs={breadcrumbs}
+                title={frontmatter.title}
+                date={frontmatter.date}
+                readingTime={formattedReadingTime}
+                role={frontmatter.role}
+                institution={frontmatter.institution}
+            />
+        );
+    }, [frontmatter.title, frontmatter.date, frontmatter.role, frontmatter.institution, formattedReadingTime, pageContext]); // FIX: `pageContext` is now the dependency
 
     // Memoize project data props to prevent child re-renders
     const fairDataProps = React.useMemo(() => ({

@@ -7,6 +7,7 @@ const Pagination = ({ pageContext }) => {
     const { pageNumber, numberOfPages, humanPageNumber, previousPagePath, nextPagePath } = pageContext;
     
     return (
+        <Container fluid className="mx-auto text-center bg-pastel">
         <Container>
             <nav className="pagination py-2 d-flex justify-content-between align-items-center" role="navigation" aria-label="Pagination Navigation">
                 {humanPageNumber > 1 ? (
@@ -28,6 +29,7 @@ const Pagination = ({ pageContext }) => {
                 )}
             </nav>
         </Container>
+    </Container>
     );
 };
 

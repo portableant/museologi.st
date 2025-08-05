@@ -5,6 +5,7 @@ import {graphql} from "gatsby"
 import {Row, Container} from "react-bootstrap";
 import Seo from "../components/structure/SEO";
 import Pagination from "../components/structure/pagination";
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
 
 const ProjectsPage = React.memo(({data, pageContext}) => {
     // Memoize the posts array to prevent unnecessary re-renders
@@ -14,13 +15,17 @@ const ProjectsPage = React.memo(({data, pageContext}) => {
             .map(edge => <PostCard key={edge.node.id} post={edge.node}/>),
         [data.allMarkdownRemark.edges]
     );
-
+    const { breadcrumb } = pageContext
     return (
         <Layout>
+            <HeaderWithBreadcrumbs
+                breadcrumbs={breadcrumb?.crumbs || []}
+                title="Research, Development and Work projects"
+                date={null}
+            />
             <Container>
                 <Row>
                     <div className="col-12">
-                        <h1 className="fw-bold text-primary mt-4">Research, Development and Work projects</h1>
                         <p>
                             This page lists a selection of projects that I have worked on, as a leader, participant or advisor.
                             Some of these projects are interlinked to each other.
@@ -29,9 +34,7 @@ const ProjectsPage = React.memo(({data, pageContext}) => {
                     {Posts}
                 </Row>
             </Container>
-            <Container fluid className="mx-auto text-center bg-pastel">
-                <Pagination pageContext={pageContext} />
-            </Container>
+            <Pagination pageContext={pageContext} />
         </Layout>
     );
 });

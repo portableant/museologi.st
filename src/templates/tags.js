@@ -8,11 +8,13 @@ import {Container, Row, Col} from "react-bootstrap";
 // Utilities
 import {startCase} from "lodash"
 import Seo from "../components/structure/SEO";
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
 
 const Tags = React.memo(({pageContext, data}) => {
     const {tag} = pageContext
     const {edges, totalCount} = data.allMarkdownRemark
-    
+    const breadcrumb = pageContext?.breadcrumb
+    // Ensure tag is always a string
     // Memoize the tag header to avoid recalculation
     const tagHeader = React.useMemo(() => 
         `${totalCount} post${totalCount === 1 ? "" : "s"} tagged with "${startCase(tag)}"`,
@@ -27,12 +29,12 @@ const Tags = React.memo(({pageContext, data}) => {
 
     return (
         <Layout>
+            <HeaderWithBreadcrumbs
+                    breadcrumbs={breadcrumb?.crumbs || []}
+                    title={tagHeader}
+                    date={null}
+                />
             <Container>
-                <Row>
-                    <Col xs={12}>
-                        <h1 className="fw-bold text-primary mt-4">{tagHeader}</h1>
-                    </Col>
-                </Row>
                 <Row>
                     {posts}
                 </Row>
