@@ -57,7 +57,9 @@ const TalksPageTemplate = React.memo(({data: {markdownRemark}, pageContext}) => 
                     dangerouslySetInnerHTML={{ __html: html }}
                 />
             </Container>
-            <IIIFSection manifests={frontmatter.manifests} />
+            {!isSSR && frontmatter.manifests && frontmatter.manifests.length > 0 && (
+                <IIIFSection manifests={frontmatter.manifests} />
+            )}
             <Tags tags={frontmatter.tags} />
             {!isSSR && frontmatter.geo_lat && (
                 <Map

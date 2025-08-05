@@ -13,7 +13,6 @@ const PhotogrammetryPageTemplate = React.memo(({ data: { markdownRemark }, pageC
     const { frontmatter, html } = markdownRemark;
     const isSSR = typeof window === "undefined";
     const breadcrumb = pageContext?.breadcrumb;
-    console.log(pageContext);
 
     // Memoize the FairData props to prevent unnecessary re-renders
     const fairDataProps = React.useMemo(() => ({

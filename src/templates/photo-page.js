@@ -1,7 +1,7 @@
 import {graphql} from "gatsby";
 import * as React from "react";
 import Layout from "../components/layouts/layout";
-import {Container, Row, Col} from "react-bootstrap";
+import {Container, Row} from "react-bootstrap";
 import {GatsbyImage, getImage} from "gatsby-plugin-image";
 import Tags from '../components/elements/tag';
 import Map from "../components/elements/map";
@@ -29,13 +29,9 @@ export default function PhotographsPageTemplate({data: {markdownRemark}, pageCon
                     </div>
                 </Row>
             </Container>
-            <Container>
-                <Row className="justify-content-center">
-                    <Col md={10} className="mb-4">
-                        <ExifTags imageData={frontmatter.featuredImg} />
-                    </Col>
-                </Row>
-            </Container>
+            
+            <ExifTags imageData={frontmatter.featuredImg} />
+         
 
             <Tags tags={frontmatter.tags} />
             {!isSSR && frontmatter.geo_lat && (
