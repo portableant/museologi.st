@@ -4,11 +4,19 @@ import { Link } from "gatsby";
 import Breadcrumb from "react-bootstrap/Breadcrumb";
 
 // Helper function to capitalize the first letter of a string
-const capitalizeFirstLetter = (string) => {
-  if (!string) return "";
-  return string.charAt(0).toUpperCase() + string.slice(1);
-};
+// const capitalizeFirstLetter = (string) => {
+//   if (!string) return "";
+//   return string.charAt(0).toUpperCase() + string.slice(1);
+// };
 
+const toTitleCase = (string) => {
+  if (!string) return "";
+  return string
+    .toLowerCase()
+    .split(" ")
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
+};
 const Breadcrumbs = ({ breadcrumbs }) => {
   if (!Array.isArray(breadcrumbs) || breadcrumbs.length <= 1) {
     return null;
@@ -18,7 +26,7 @@ const Breadcrumbs = ({ breadcrumbs }) => {
     <nav aria-label="breadcrumb">
       <Breadcrumb>
         {breadcrumbs.map((crumb, index) => {
-          const label = capitalizeFirstLetter(crumb.crumbLabel.replace(/-/g, " "));
+          const label = toTitleCase(crumb.crumbLabel.replace(/-/g, " "));
           if (index < breadcrumbs.length - 1) {
             return (
               <Breadcrumb.Item linkAs={Link} linkProps={{ to: crumb.pathname }} key={index}>

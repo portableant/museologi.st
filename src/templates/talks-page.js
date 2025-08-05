@@ -8,7 +8,7 @@ import * as React from "react";
 import Layout from "../components/layouts/layout";
 
 // Bootstrap layout components
-import {Container, Row, Col} from "react-bootstrap";
+import {Container} from "react-bootstrap";
 
 // Header image component
 import HeaderImage from "../components/elements/headerImage";

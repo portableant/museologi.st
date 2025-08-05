@@ -29,7 +29,6 @@ const ProjectsPageTemplate = React.memo(({data: {markdownRemark}, pageContext}) 
         [frontmatter.geo_lat, frontmatter.geo_lon]
     );
 
-    // FIX: Move the breadcrumbs initialization inside this useMemo hook
     const projectMetadata = React.useMemo(() => {
         const breadcrumbs = pageContext.breadcrumb?.crumbs || [];
         return (
@@ -66,10 +65,9 @@ const ProjectsPageTemplate = React.memo(({data: {markdownRemark}, pageContext}) 
     return (
         <Layout>
             <HeaderImage backgroundImage={frontmatter.background}/>
-
+            {projectMetadata}
             <Container>
                 <Row className="post-body text-break">
-                    {projectMetadata}
                     <article 
                         className="bg-white text-black p-4" 
                         dangerouslySetInnerHTML={{__html: html}}

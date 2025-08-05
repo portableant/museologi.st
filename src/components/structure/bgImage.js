@@ -22,16 +22,16 @@ export default function Hero() {
                 childImageSharp {
                     gatsbyImageData(
                         layout: FULL_WIDTH
-                        quality: 85
+                        quality: 90
                         backgroundColor: "black"
-                        jpgOptions: { quality: 85 }
+                        jpgOptions: { quality: 90 }
                         transformOptions: {
                             fit: COVER
                             cropFocus: CENTER
                             duotone: {
                                 highlight: "#8f84a6"
                                 shadow: "#000000"
-                                opacity: 80
+                                opacity: 90
                             }
                         }
                         breakpoints: [576, 768, 992, 1200, 1400]
