@@ -55,7 +55,7 @@ export default function HeroTop() {
                         layout: FULL_WIDTH
                         quality: 90
                         backgroundColor: "black"
-                        jpgOptions: { quality: 80 }
+                        jpgOptions: { quality: 95 }
                         transformOptions: {
                             fit: COVER
                             cropFocus: CENTER
