@@ -1,6 +1,6 @@
 ---
 title: "Collective Re-Excavation and Lost Media from the Last Century of British Prehistoric Studies"
-date: 2024-06-10
+date: 2015-06-01
 slug: /papers/collective-re-excavation
 section: papers
 geo_lat: 51.5194
