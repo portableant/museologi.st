@@ -318,16 +318,6 @@ module.exports = {
                     },
                     `gatsby-remark-emoji`,
                     {
-                        resolve: `gatsby-remark-classes`,
-                        options: {
-                            classMap: {
-                                "table": "table table-bordered border-primary table-striped table-hover",
-                            },
-                            footnotes: true,
-                            gfm: true
-                        }
-                    },
-                    {
                         resolve: `gatsby-remark-images`,
                         options: {
                             maxWidth: 2000,
