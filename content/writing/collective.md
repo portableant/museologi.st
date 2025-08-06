@@ -25,9 +25,7 @@ tags:
 summary: "This article explores the history, materiality, and digitization of the National Bronze Age Index, examining how collective re-excavation and new media technologies are transforming access and engagement with British prehistoric studies."
 ---
 
-> The archive is traumatic, testimony not to a successful encounter with the
-past but to a […] “missed encounter with the real”—that is, an allegory of
-the impossible bridging of a gap. (Ernst 2013, 114)
+> The archive is traumatic, testimony not to a successful encounter with thepast but to a […] “missed encounter with the real” — that is, an allegory of the impossible bridging of a gap. (Ernst 2013, 114)
 
 As we approach the “media” used to record and store archaeological data over the last century or so, Huhtamo’s (2010) definition of media archaeology as a “historically-attuned enterprise” that involves “excavating forgotten media-cultural phenomena” certainly seems apt to describe the types of processes involved. How do we begin to contemplate the thousands of forgotten archaeological archives hidden away in repositories (for example, see Figure 1) all over the world? These lost worlds where many scholars have toiled away for years, trying to record every detail and bit of information (Figure 2) available about rare and precious archaeological objects in an attempt to bring order and understanding to an almost incomprehensible past seems now like a most Sisyphean task.
 
