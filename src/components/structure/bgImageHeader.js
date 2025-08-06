@@ -53,16 +53,16 @@ export default function HeroTop() {
                 childImageSharp {
                     gatsbyImageData(
                         layout: FULL_WIDTH
-                        quality: 80
+                        quality: 90
                         backgroundColor: "black"
-                        jpgOptions: { quality: 80 }
+                        jpgOptions: { quality: 95 }
                         transformOptions: {
                             fit: COVER
                             cropFocus: CENTER
                             duotone: {
                                 highlight: "#77a6a0"
                                 shadow: "#000000"
-                                opacity: 80
+                                opacity: 90
                             }
                         }
                     )

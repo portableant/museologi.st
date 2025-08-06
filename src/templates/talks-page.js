@@ -8,7 +8,7 @@ import * as React from "react";
 import Layout from "../components/layouts/layout";
 
 // Bootstrap layout components
-import {Container, Row, Col} from "react-bootstrap";
+import {Container} from "react-bootstrap";
 
 // Header image component
 import HeaderImage from "../components/elements/headerImage";
@@ -57,7 +57,9 @@ const TalksPageTemplate = React.memo(({data: {markdownRemark}, pageContext}) => 
                     dangerouslySetInnerHTML={{ __html: html }}
                 />
             </Container>
-            <IIIFSection manifests={frontmatter.manifests} />
+            {!isSSR && frontmatter.manifests && frontmatter.manifests.length > 0 && (
+                <IIIFSection manifests={frontmatter.manifests} />
+            )}
             <Tags tags={frontmatter.tags} />
             {!isSSR && frontmatter.geo_lat && (
                 <Map

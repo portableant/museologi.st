@@ -24,7 +24,7 @@ const PapersPage = ({data, pageContext}) => {
                     />
             <Container >
                 <Row>
-                    <p>I have tried to reproduce much of mine, and my collaborative work
+                    <p>I have tried to reproduce much of my collaborative work
                         as HTML pages, so that they are more accessible to a wider audience.
                         This is a list of papers I have written, or contributed to, in some way.
                         Some of are not yet available as HTML pages, but will be in the future.
