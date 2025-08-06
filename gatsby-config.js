@@ -276,6 +276,7 @@ module.exports = {
                 "icon": "src/images/icon.png"
             }
         },
+        `gatsby-plugin-catch-links`,
         "gatsby-plugin-mdx",
         "gatsby-plugin-sharp",
         "gatsby-transformer-sharp",
@@ -311,12 +312,16 @@ module.exports = {
                             },
                         },
                     },
+                    {
+                        resolve: require.resolve(`./plugins/gatsby-remark-wrap-tables`),
+                        options: {}, // No specific options for this plugin
+                    },
                     `gatsby-remark-emoji`,
                     {
                         resolve: `gatsby-remark-classes`,
                         options: {
                             classMap: {
-                                "table": "table table-bordered border-primary table-striped table-responsive table-hover",
+                                "table": "table table-bordered border-primary table-striped table-hover",
                             },
                             footnotes: true,
                             gfm: true

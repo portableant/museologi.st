@@ -51,7 +51,7 @@ const TalksPageTemplate = React.memo(({data: {markdownRemark}, pageContext}) => 
                 date={frontmatter.date}
                 readingTime={readingTimeText}
             />
-            <Container className="post-body text-break">
+            <Container className="post-body">
                 <div
                     className="bg-white text-black p-4"
                     dangerouslySetInnerHTML={{ __html: html }}

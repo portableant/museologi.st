@@ -25,7 +25,7 @@ const PapersPageTemplate = ({ data: { markdownRemark }, pageContext }) => {
                         readingTime={formatReadingTime(timeToRead)}
                         date={frontmatter.date} />
             <Container>
-                <Row className="post-body text-break">
+                <Row className="post-body">
                     <div 
                         className="bg-white text-black p-4"
                         dangerouslySetInnerHTML={{ __html: html }}
