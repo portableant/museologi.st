@@ -45,9 +45,9 @@ export const fragments = graphql`
   fragment FeaturedImageData on ImageSharp {
     gatsbyImageData(
       placeholder: DOMINANT_COLOR
-      height: 600
+      height: 400
       formats: [AUTO, WEBP]
-      width: 600
+      width: 400
       quality: 80
       transformOptions: { 
         grayscale: false, 
@@ -102,9 +102,9 @@ export const imageSharpFluidFragment = graphql`
         childImageSharp {
             gatsbyImageData(
                 placeholder: DOMINANT_COLOR
-                height: 600
+                height: 400
                 formats: [AUTO, WEBP]
-                width: 600
+                width: 400
                 quality: 80
                 transformOptions: { 
                     grayscale: false, 
@@ -122,9 +122,9 @@ export const imageSharpHighResFragment = graphql`
         childImageSharp {
             gatsbyImageData(
                 placeholder: DOMINANT_COLOR
-                height: 600
+                height: 400
                 formats: [AUTO, WEBP]
-                width: 600
+                width: 400
                 quality: 100
                 transformOptions: { 
                     grayscale: false, 

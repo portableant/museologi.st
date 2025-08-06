@@ -1,12 +1,16 @@
 export function formatReadingTime(minutes) {
-    let cups = Math.round(minutes / 5);
-    if (cups > 5) {
-        return `${new Array(Math.round(cups / Math.E))
-            .fill('🥪')
-            .join('')} ${minutes} mins to read (suggested)`;
-    } else {
-        return `${new Array(cups || 1).fill('🍵').join('')} ${
-            minutes === 1 ? minutes + " min" : minutes + " mins"
-        } to read (suggested)`;
-    }
+  const cups = Math.round(minutes / 5);
+  let emoji;
+
+  if (cups > 5) {
+    emoji = '🍺🍟';
+  } else if (cups > 2) {
+    emoji = '🥪☕';
+  } else {
+    emoji = '☕';
+  }
+
+  const minuteString = minutes === 1 ? 'min' : 'mins';
+
+  return `${emoji} ${minutes} ${minuteString} to read (suggested)`;
 }
