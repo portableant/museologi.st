@@ -102,8 +102,8 @@ While the switch in media from a physical, paper format to a digital database fo
   - Bennett, T. 2013. “The ‘Shuffle of Things’ and the Distribution of Agency.” In **Reassembling the Collection: Ethnographic Museums and Indigenous Agency**, edited by R. Harrison, S. Byrne, and A. Clarke, 39–60. Santa Fe, NM: School for Advanced Research Press.
   - Bevan, A., D. Pett, C. Bonacchi, A. Keinan-Schoonbaert, D. Lombraña González, R. Sparks, J. Wexler and N. Wilkin. 2014. “Citizen Archaeologists. Online Collaborative Research about the Human Past.” **Human Computation** 1(2): 183–197.
   - Bonacchi, C., ed., 2012. **Archaeology and Digital Communication: Towards Strategies of Public Engagement**. London: Archetype Publications.
-  - \_\_\_\_., A. Bevan, D. Pett and A. Keinan-Schoonbaert. 2014. “Crowd- and Community-fuelled Archaeology. Early Results from the MicroPasts Project.” **Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology, CAA 2014**, edited by L. Costa, F. Djindjian, F. Giligny and P. Moscati, 1–10. Amsterdam: Amsterdam University Press.
-  - \_\_\_\_., A. Bevan, D. Pett, A. Keinan-Schoonbaert, R. Sparks, J. Wexler and N. Wilkin. 2014. “Crowd-sourced Archaeological Research: The MicroPasts Project.” **Archaeology International** 17: 61–68.
+  - Bonacchi, C., A. Bevan, D. Pett and A. Keinan-Schoonbaert. 2014. “Crowd- and Community-fuelled Archaeology. Early Results from the MicroPasts Project.” **Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology, CAA 2014**, edited by L. Costa, F. Djindjian, F. Giligny and P. Moscati, 1–10. Amsterdam: Amsterdam University Press.
+  - Bonacchi, C., A. Bevan, D. Pett, A. Keinan-Schoonbaert, R. Sparks, J. Wexler and N. Wilkin. 2014. “Crowd-sourced Archaeological Research: The MicroPasts Project.” **Archaeology International** 17: 61–68.
   - Bradley, R. 2013. “Time Traveller: Montelius and the British Bronze Age after 100 Years.” In **Counterpoint: Essays in Archaeology and Heritage Studies in Honour of Professor Kristian Kristiansen**, edited by S. Bergerbrant and S. Sabatini, British Archaeological Reports, International Series 2508: 649–653. Oxford: Archaeopress
   - curiouscraig42 [C. Horton] (2014) Comment on forum thread “Just a Silly Thought.” 4 June. Available online: [http://community.micropasts.org/t/just-a-silly-thought/140/6](https://www.google.com/search?q=http://community.micropasts.org/t/just-a-silly-thought/140/6)
   - Doherty, J. 2014. “Crowdsourcing the Bronze Age.” **Pybossa** 5 June. Available online: [http://pybossa.com/blog/2014/06/05/crowdsourcing-the-bronze-age/](https://www.google.com/search?q=http://pybossa.com/blog/2014/06/05/crowdsourcing-the-bronze-age/)
@@ -130,5 +130,4 @@ While the switch in media from a physical, paper format to a digital database fo
 ## Footnotes  
 
 [^1]: British Museum Bronze Age Index archive history file.  
-[^2]: For the MicroPasts Project and the crowd-sourcing programme see http://micropasts.org and
-http://crowdsourced.micropasts.org
+[^2]: For the MicroPasts Project and the crowd-sourcing programme see http://micropasts.org and http://crowdsourced.micropasts.org

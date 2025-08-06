@@ -5,7 +5,7 @@ date: 2023-08-29
 last_modified_at: 2023-12-18T23:13:04
 description: 3D scans from the Pergamon Museum in Berlin.
 featuredImg: ../images/2023/08/pergamon.jpg
-background: ../images/2023/08/pergamon.jpg
+background: ../images/2023/08/pergamon_high.png
 slug: /photogrammetry/pergamon-museum/
 geo_lat: 52.521111
 geo_lon: 13.396111
