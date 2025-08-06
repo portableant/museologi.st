@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-remark-wrap-tables",
+  "version": "1.0.0",
+  "description": "A Gatsby Remark plugin to wrap tables in a responsive div.",
+  "main": "index.js",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-remark-plugin",
+    "markdown",
+    "table",
+    "responsive"
+  ],
+  "author": "Daniel Pett",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^4.1.2",
+    "mdast-util-to-hast": "^13.1.0",
+    "hast-util-to-html": "^9.0.0"
+  },
+  "peerDependencies": {
+    "gatsby": ">=4.0.0"
+  }
+}
