@@ -72,7 +72,7 @@ Within that hoard, each mint - here meaning the ancient city responsible for the
 
 ![Figure 2. Distribution of a coin hoard’s contents.](../images/papers/semantics-numismatics/figure_002.jpg)
 
-![Figure 3. Distribution of coins minted in Side.](../images/papers/semantics-numismatics/figure_003.jpg)
+![Figure 3. Distribution of coins minted in Side.](../images/papers/semantics-numismatics/coinSide.png)
 
 Such mapping relies on knowing the latitude and longitude for each hoard as well as for each mint; information that Nomisma.org supplies for such resource types. Descriptions of the hoards in IGCH were among the first resources added to Nomisma.org and it is likely that the markup for this class of resource will be further developed in response to the work of the Coin Hoards of the Roman Republic project described below.
 
