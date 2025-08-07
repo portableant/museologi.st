@@ -85,7 +85,9 @@ nm:athens <http://www.w3.org/2003/01/geo/wgs84_pos#lat_long> “37.974722 23.722
 While a full introduction to RDF is beyond the scope of this paper, some focus on the choice of RDFa is relevant. Nomisma.org adopted XHTML+RDFa as its base representation because it allows a single representation to be both human and machine readable. RDFa is a W3C endorsed standard with excellent tooling support. Accordingly, it is possible to confirm that the information Nomisma.org intends to record for each resource it defines is actually parsable by third parties. The same applies to the choice of XHTML. In the context of Nomisma.org, XHTML also stands as a W3C-supported standard with excellent support. Of course, the primary tool for accessing XHTML is the browser, which is essentially ubiquitous in today’s computing environment. Accordingly, it is likely that the combination of XHTML and RDFa will mean that Nomisma.org’s definitions of numismatic concepts are readily usable both now and far into the future.
 
 ```xml
- <?xml version="1.0" encoding="utf-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ ```xml
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
          xmlns:wordnet="http://ontologi.es/WordNet/class/"
          xmlns:nm="http://nomisma.org/id/"
@@ -104,91 +106,90 @@ While a full introduction to RDF is beyond the scope of this paper, some focus o
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
    <foaf:Person rdf:about="http://nomisma.org/id/nero">
-        <skos:definition xml:lang="en">Nero was Roman Emperor from 54 to 68, and the last in the Julio-Claudian dynasty. Nero was adopted by his great-uncle Claudius to become his heir and successor, and like him, became emperor with the consent of the praetorian guard.</skos:definition>
-        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:prefLabel xml:lang="en">Nero</skos:prefLabel>
-        <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Nero"/>
-        <skos:exactMatch rdf:resource="http://viaf.org/viaf/84036175"/>
-        <skos:prefLabel xml:lang="de">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="fr">Néron</skos:prefLabel>
-        <skos:prefLabel xml:lang="ro">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="ru">Нерон</skos:prefLabel>
-        <skos:prefLabel xml:lang="nl">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="it">Nerone</skos:prefLabel>
-        <skos:prefLabel xml:lang="el">Νέρων</skos:prefLabel>
-        <skos:prefLabel xml:lang="uk">Нерон</skos:prefLabel>
-        <skos:prefLabel xml:lang="ca">Neró</skos:prefLabel>
-        <skos:prefLabel xml:lang="cs">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="zh">尼禄</skos:prefLabel>
-        <skos:prefLabel xml:lang="vi">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="ja">ネロ</skos:prefLabel>
-        <skos:prefLabel xml:lang="sv">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="es">Nerón</skos:prefLabel>
-        <skos:prefLabel xml:lang="hu">Nero római császár</skos:prefLabel>
-        <skos:prefLabel xml:lang="pt">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="fi">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="no">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="ko">네로</skos:prefLabel>
-        <skos:prefLabel xml:lang="pl">Neron</skos:prefLabel>
-        <dcterms:isPartOf rdf:resource="http://nomisma.org/id/roman_numismatics"/>
-        <dcterms:isPartOf rdf:resource="http://nomisma.org/id/greek_numismatics"/>
-        <dcterms:isPartOf rdf:resource="http://nomisma.org/id/roman_provincial_numismatics"/>
-        <skos:prefLabel xml:lang="bg">Нерон</skos:prefLabel>
-      
-        <skos:prefLabel xml:lang="da">Nero</skos:prefLabel>
-        <skos:prefLabel xml:lang="tr">Nero</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://nomisma.org/id/"/>
-        <skos:changeNote rdf:resource="http://nomisma.org/id/nero#provenance"/>
-        <skos:exactMatch rdf:resource="https://ikmk.smb.museum/ndp/person/1217"/>
-        <bio:birth rdf:resource="http://nomisma.org/id/nero#birth"/>
-        <bio:death rdf:resource="http://nomisma.org/id/nero#death"/>
-        <org:memberOf rdf:resource="http://nomisma.org/id/julio-claudian_dynasty"/>
-        <org:hasMembership rdf:resource="http://nomisma.org/id/nero#membership_e6acaf0a1cab55cfcd08b3a9b977ff29"/>
-    </foaf:Person>
-   
+      <skos:definition xml:lang="en">Nero was Roman Emperor from 54 to 68, and the last in the Julio-Claudian dynasty. Nero was adopted by his great-uncle Claudius to become his heir and successor, and like him, became emperor with the consent of the praetorian guard.</skos:definition>
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:prefLabel xml:lang="en">Nero</skos:prefLabel>
+      <skos:exactMatch rdf:resource="http://dbpedia.org/resource/Nero"/>
+      <skos:exactMatch rdf:resource="http://viaf.org/viaf/84036175"/>
+      <skos:prefLabel xml:lang="de">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Néron</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="ru">Нерон</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Nerone</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Νέρων</skos:prefLabel>
+      <skos:prefLabel xml:lang="uk">Нерон</skos:prefLabel>
+      <skos:prefLabel xml:lang="ca">Neró</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="zh">尼禄</skos:prefLabel>
+      <skos:prefLabel xml:lang="vi">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="ja">ネロ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Nerón</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nero római császár</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="no">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="ko">네로</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Neron</skos:prefLabel>
+      <dcterms:isPartOf rdf:resource="http://nomisma.org/id/roman_numismatics"/>
+      <dcterms:isPartOf rdf:resource="http://nomisma.org/id/greek_numismatics"/>
+      <dcterms:isPartOf rdf:resource="http://nomisma.org/id/roman_provincial_numismatics"/>
+      <skos:prefLabel xml:lang="bg">Нерон</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Nero</skos:prefLabel>
+      <skos:prefLabel xml:lang="tr">Nero</skos:prefLabel>
+      <skos:inScheme rdf:resource="http://nomisma.org/id/"/>
+      <skos:changeNote rdf:resource="http://nomisma.org/id/nero#provenance"/>
+      <skos:exactMatch rdf:resource="https://ikmk.smb.museum/ndp/person/1217"/>
+      <bio:birth rdf:resource="http://nomisma.org/id/nero#birth"/>
+      <bio:death rdf:resource="http://nomisma.org/id/nero#death"/>
+      <org:memberOf rdf:resource="http://nomisma.org/id/julio-claudian_dynasty"/>
+      <org:hasMembership rdf:resource="http://nomisma.org/id/nero#membership_e6acaf0a1cab55cfcd08b3a9b977ff29"/>
+   </foaf:Person>
    <dcterms:ProvenanceStatement rdf:about="http://nomisma.org/id/nero#provenance">
-        <foaf:topic rdf:resource="http://nomisma.org/id/nero"/>
-        <prov:wasGeneratedBy>
-            <prov:Activity>
-                <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
-                <prov:atTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-28T21:43:36+00:00</prov:atTime>
-                <prov:wasAssociatedWith rdf:resource="http://nomisma.org/editor/ameadows"/>
-                <prov:wasAssociatedWith rdf:resource="http://nomisma.org/editor/sfsheath"/>
-                <dcterms:description xml:lang="en">This is among the original Nomisma XHTML+RDFa fragments, most likely created between 2010-2012 by Sebastian Heath and/or Andy Meadows.</dcterms:description>
-                <dcterms:type>manual</dcterms:type>
-            </prov:Activity>
-        </prov:wasGeneratedBy>
-        <prov:activity>
-            <prov:Activity>
-                <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
-                <prov:atTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-28T19:10:55+00:00</prov:atTime>
-                <dcterms:type>manual</dcterms:type>
-            </prov:Activity>
-        </prov:activity>
-        <prov:activity>
-            <prov:Activity>
-                <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
-					           <prov:atTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-19T18:12:48.4Z</prov:atTime>
-					           <prov:wasAssociatedWith rdf:resource="http://nomisma.org/editor/egruber"/>
-					           <prov:used rdf:resource="https://docs.google.com/spreadsheets/d/1FR4b2FwhLr70McADQw76B3vCj7lMOoQISBJsgpDTTRU/pubhtml"/>
-					           <dcterms:type>spreadsheet</dcterms:type>
-				        </prov:Activity>
-        </prov:activity>
-    </dcterms:ProvenanceStatement>
-    <bio:Birth rdf:about="http://nomisma.org/id/nero#birth">
-        <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0037-12-15</dcterms:date>
-    </bio:Birth>
-    <bio:Death rdf:about="http://nomisma.org/id/nero#death">
-        <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0068-06-09</dcterms:date>
-    </bio:Death>
-    <org:Membership rdf:about="http://nomisma.org/id/nero#membership_e6acaf0a1cab55cfcd08b3a9b977ff29">
-        <foaf:topic rdf:resource="http://nomisma.org/id/nero"/>
-        <org:role rdf:resource="http://nomisma.org/id/roman_emperor"/>
-        <org:organization rdf:resource="http://nomisma.org/id/roman_empire"/>
-        <nmo:hasStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0054</nmo:hasStartDate>
-        <nmo:hasEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0068</nmo:hasEndDate>
-    </org:Membership>
+      <foaf:topic rdf:resource="http://nomisma.org/id/nero"/>
+      <prov:wasGeneratedBy>
+         <prov:Activity>
+            <rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+            <prov:atTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-28T21:43:36+00:00</prov:atTime>
+            <prov:wasAssociatedWith rdf:resource="http://nomisma.org/editor/ameadows"/>
+            <prov:wasAssociatedWith rdf:resource="http://nomisma.org/editor/sfsheath"/>
+            <dcterms:description xml:lang="en">This is among the original Nomisma XHTML+RDFa fragments, most likely created between 2010-2012 by Sebastian Heath and/or Andy Meadows.</dcterms:description>
+            <dcterms:type>manual</dcterms:type>
+         </prov:Activity>
+      </prov:wasGeneratedBy>
+      <prov:activity>
+         <prov:Activity>
+            <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+            <prov:atTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-28T19:10:55+00:00</prov:atTime>
+            <dcterms:type>manual</dcterms:type>
+         </prov:Activity>
+      </prov:activity>
+      <prov:activity>
+         <prov:Activity>
+            <rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+            <prov:atTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-19T18:12:48.4Z</prov:atTime>
+            <prov:wasAssociatedWith rdf:resource="http://nomisma.org/editor/egruber"/>
+            <prov:used rdf:resource="https://docs.google.com/spreadsheets/d/1FR4b2FwhLr70McADQw76B3vCj7lMOoQISBJsgpDTTRU/pubhtml"/>
+            <dcterms:type>spreadsheet</dcterms:type>
+         </prov:Activity>
+      </prov:activity>
+   </dcterms:ProvenanceStatement>
+   <bio:Birth rdf:about="http://nomisma.org/id/nero#birth">
+      <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0037-12-15</dcterms:date>
+   </bio:Birth>
+   <bio:Death rdf:about="http://nomisma.org/id/nero#death">
+      <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">0068-06-09</dcterms:date>
+   </bio:Death>
+   <org:Membership rdf:about="http://nomisma.org/id/nero#membership_e6acaf0a1cab55cfcd08b3a9b977ff29">
+      <foaf:topic rdf:resource="http://nomisma.org/id/nero"/>
+      <org:role rdf:resource="http://nomisma.org/id/roman_emperor"/>
+      <org:organization rdf:resource="http://nomisma.org/id/roman_empire"/>
+      <nmo:hasStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0054</nmo:hasStartDate>
+      <nmo:hasEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0068</nmo:hasEndDate>
+   </org:Membership>
 </rdf:RDF>
+```
 ```
 **Figure 4. Nomisma RDF.** 
 
@@ -215,9 +216,9 @@ In a next step the lessons learned are to be applied to a meta-portal for the Eu
 
 Within the InterFACE project the relational databases being accessed had been designed with extremely different modelling principles – in one case all information was stored in one large table – while other databases had a high degree of normalization. These modelling principles also have an impact on the data quality of the individual databases. One large table which does not have the benefit of referential integrity can result in various entries for the same thing, e.g. by a typing or import error. The result might be conflicting entries for material such as: 
 
-a. “silver”. 
-b. “ar” – Latin argentum, abbreviated, or  
-c. “silver” 
+* “silver”. 
+*  “ar” – Latin argentum, abbreviated, or
+*  “silver” 
 
 the result of a typing error. Introducing nomisma-IDs (the ID for silver is: ```http://nomisma.org/id/ar```) to the source databases automatically would solve this problem by providing external referential integrity.
 
@@ -251,7 +252,7 @@ The American Numismatic Society is currently developing a prototype for deliveri
 
 The quantitative analysis feature of the project is fairly rudimentary at this stage of the prototype, but will grow in sophistication over time. Interpreting a combination of numeric counts per coin type and the number of distinct typological attributes (e.g., issuers, mints, or denominations) contained within the coin type metadata record, Numishare feeds an array of values into the Highcharts Javascript library to output bar graphs of selected queries. This straightforward method of visualization is very valuable to researchers. Such charts, which once required significant expenditure of time in the pre-digital age, can be now be generated nearly-instantaneously.
 
-![Figure 6. Distribution of issuers in a hoard.](../images/papers/semantics-numismatics/issuers.jpg)
+![Figure 6. Distribution of issuers in a hoard.](../images/papers/semantics-numismatics/issuers.png)
 
 Like Mantis, the Roman Republican Coin Hoard online catalogue can be queried by nomisma URI, enabling cross-collection searching. Among the most important aspects of the project is the mechanism for referencing URIs and dynamic processing of data hosted and maintained by nomisma.org. The editors of the coin hoard metadata are not burdened with the long-term maintenance of the typological data in Roman Republican Coinage; hoard XML records contain scarcely more than findspot information and a list and count of coin types associated with the hoard, and therefore duplication of data and digital curation labor is minimized. This project is a successful proof-of-concept for other, larger coin hoard recording efforts.
 
