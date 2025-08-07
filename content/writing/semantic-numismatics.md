@@ -70,7 +70,7 @@ The terms introduced above are useful for describing coins, that is individual n
 
 Within that hoard, each mint - here meaning the ancient city responsible for the coin’s production - is marked by a URI pointing to the description of that city. While further information is indicated, establishing the relationship between a hoard and the mints represented in it is sufficient both to make a map of the hoard, and also, for each mint, to make a map of those hoards containing its coins (Figures 2 & 3). 
 
-![Figure 2. Distribution of a coin hoard’s contents.](../images/papers/semantics-numismatics/figure_002.jpg)
+![Figure 2. Distribution of a coin hoard’s contents.](../images/papers/semantics-numismatics/figure-02.png)
 
 ![Figure 3. Distribution of coins minted in Side.](../images/papers/semantics-numismatics/coinSide.png)
 
