@@ -16,8 +16,8 @@ authors:
  - Daniel Pett (Portable Antiquities Scheme, British Museum)
  - Karsten Tolle (University of Frankfurt)
  - David Wigg-Wolf (Römisch-Germanische Kommission)
-featuredImg: ../images/papers/semantics-numismatics/DSC_0112.jpg
-background: ../images/papers/semantics-numismatics/CSC_0156.jpg
+featuredImg: ../images/papers/semantics-numismatics/DSC_0112.JPG
+background: ../images/papers/semantics-numismatics/CSC_0156.JPG
 geo_lat: 50.9097
 geo_lon: -1.4044
 tags:
