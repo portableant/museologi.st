@@ -78,7 +78,9 @@ Such mapping relies on knowing the latitude and longitude for each hoard as well
 
 It is important that the format used to describe each resource is XHTML+RDFa 1.1. “RDFa” - or RDF in attributes - is a format for embedding RDF in xml based documents such as XHTML. (McCarren 2012) “RDF” in turn is the “Resource Description Format”, which has as its underlying data model tri-partite statements known as “triples”. A triple is formed by a subject, predicate and object. An example is:
  
-```nm:athens <http://www.w3.org/2003/01/geo/wgs84_pos#lat_long> “37.974722 23.7225”```
+```bash
+nm:athens <http://www.w3.org/2003/01/geo/wgs84_pos#lat_long> “37.974722 23.7225”
+```
 
 While a full introduction to RDF is beyond the scope of this paper, some focus on the choice of RDFa is relevant. Nomisma.org adopted XHTML+RDFa as its base representation because it allows a single representation to be both human and machine readable. RDFa is a W3C endorsed standard with excellent tooling support. Accordingly, it is possible to confirm that the information Nomisma.org intends to record for each resource it defines is actually parsable by third parties. The same applies to the choice of XHTML. In the context of Nomisma.org, XHTML also stands as a W3C-supported standard with excellent support. Of course, the primary tool for accessing XHTML is the browser, which is essentially ubiquitous in today’s computing environment. Accordingly, it is likely that the combination of XHTML and RDFa will mean that Nomisma.org’s definitions of numismatic concepts are readily usable both now and far into the future.
 
@@ -202,7 +204,7 @@ Nomisma.org is now two years old, but it has been gaining traction within the nu
 
 In a joint project, Databases and Information Systems (DBIS) and the Römisch-Germanische Kommission (RGK) are investigating the logical integration of different European coin find databases using ontologies. The two main benefits of ontologies in our view are: 
 
-a. problems are lifted to a content level and are not additionally hindered by technical issues, and 
+a. problems are lifted to a content level and are not additionally hindered by technical issues, and   
 b. ontologies provide the possibility of viewing data from a new perspective – the links between the artefacts can be visualized and are not hidden in flat tables.
 
 In an earlier pilot project, InterFACE (Internet Portal: Finds of Ancient Coins in Europe), involving DBIS and the Mainz Academy, a meta-portal was set up containing an integration layer based on a global ontology to access three online databases in Frankfurt (NUMIDAT-WEB), Utrecht (NUMIS) and Vienna (dFMRÖ)[^1]. Queries were defined via a Web front-end. These queries were based on a global ontology and then translated to corresponding SQL statements for the different databases.
@@ -213,8 +215,8 @@ In a next step the lessons learned are to be applied to a meta-portal for the Eu
 
 Within the InterFACE project the relational databases being accessed had been designed with extremely different modelling principles – in one case all information was stored in one large table – while other databases had a high degree of normalization. These modelling principles also have an impact on the data quality of the individual databases. One large table which does not have the benefit of referential integrity can result in various entries for the same thing, e.g. by a typing or import error. The result might be conflicting entries for material such as: 
 
-a. “silver”
-b. “ar” – Latin argentum, abbreviated, or 
+a. “silver”. 
+b. “ar” – Latin argentum, abbreviated, or  
 c. “silver” 
 
 the result of a typing error. Introducing nomisma-IDs (the ID for silver is: ```http://nomisma.org/id/ar```) to the source databases automatically would solve this problem by providing external referential integrity.
@@ -229,7 +231,7 @@ However, for the time being the focus will be on setting up a meta-portal for EC
 
 ### 3.2 Nomisma.org and the American Numismatic Society: Two Test Cases
 
-Nomisma.org is the cornerstone for all current and future projects at the American Numismatic Society. The role of nomisma in the ANS project, Online Coinage of the Roman Empire (OCRE), was presented at CAA 2012 with the paper “Linking Roman Coins: Current Work at the American Numismatic Society.” OCRE was neither the first, nor will it be the last ANS project to assimilate nomisma concepts into its core architecture. This section of the paper will illustrate two test cases of the incorporation of nomisma URIs to facilitate interlinking. One project is Mantis, the ANS's [newest public collection interface](http://numismatics.org/search/; the other is a catalogue of Roman Republican Coin Hoards. Both of these projects are built on top of the Numishare framework, an open-source numismatic collection management system, which is discussed in greater detail in the aforementioned paper.
+Nomisma.org is the cornerstone for all current and future projects at the American Numismatic Society. The role of nomisma in the ANS project, Online Coinage of the Roman Empire (OCRE), was presented at CAA 2012 with the paper “Linking Roman Coins: Current Work at the American Numismatic Society.” OCRE was neither the first, nor will it be the last ANS project to assimilate nomisma concepts into its core architecture. This section of the paper will illustrate two test cases of the incorporation of nomisma URIs to facilitate interlinking. One project is Mantis, the ANS's [newest public collection interface](http://numismatics.org/search/); the other is a catalogue of Roman Republican Coin Hoards. Both of these projects are built on top of the Numishare framework, an open-source numismatic collection management system, which is discussed in greater detail in the aforementioned paper.
 
 #### Mantis
 
@@ -243,13 +245,13 @@ To facilitate the linkages between the ANS collection and nomisma.org upon publi
 
 As discussed earlier in this paper, nomisma.org provides stable URIs for coin types from two Roman numismatic catalogues: Roman Republican Coinage (RRC) and and Roman Imperial Coinage (RIC). If we consider this coin type metadata delivered through nomisma to be canonical representations of the information conveyed electronically about the printed reference catalogue, then we may develop tools which leverage this metadata to create an interface that allows users to interact with it.
 
-The American Numismatic Society is currently developing a prototype for delivering coin hoard data online, focusing primarily on those of the Roman Republican era, although these methodologies can be applied to hoards of other periods. Dr. Kris Lockyear, Lecturer at the Institute of Archaeology, UCL, London, provided a Microsoft Access database of Republican hoards, which was migrated into an XML-based schema designed to accommodate the many permutations for a hoard record. Variations in descriptive practice range from the numeric totals of very generalised typologies (e. g., authority or denomination) to totals by coin type, or even references to stable URIs of physical specimens available on the Internet (which may include coins in the ANS's own collection). In this particular project, a coin hoard record includes a list or nomisma URIs for Crawford's RRC identifiers—like http://nomisma.org/id/rrc-100.1a—and totals associated with a particular findspot (a modern location identified by a Geonames URI). Numishare, the publication framework for serialising these XML records into HTML (as well as KML for mapping), extracts the metadata for each coin type from the RDF to create a comprehensive display of the record as well as for quantitative analysis (Figure 5).
+The American Numismatic Society is currently developing a prototype for delivering coin hoard data online, focusing primarily on those of the Roman Republican era, although these methodologies can be applied to hoards of other periods. Dr. Kris Lockyear, Lecturer at the Institute of Archaeology, UCL, London, provided a Microsoft Access database of Republican hoards, which was migrated into an XML-based schema designed to accommodate the many permutations for a hoard record. Variations in descriptive practice range from the numeric totals of very generalised typologies (e. g., authority or denomination) to totals by coin type, or even references to stable URIs of physical specimens available on the Internet (which may include coins in the ANS's own collection). In this particular project, a coin hoard record includes a list or nomisma URIs for Crawford's RRC identifiers—like ```http://nomisma.org/id/rrc-100.1a``` and totals associated with a particular findspot (a modern location identified by a Geonames URI). Numishare, the publication framework for serialising these XML records into HTML (as well as KML for mapping), extracts the metadata for each coin type from the RDF to create a comprehensive display of the record as well as for quantitative analysis (Figure 5).
 
 ![Figure 5. Snapshot from coin hoard prototype record.](../images/papers/semantics-numismatics/figure_005.jpg)
 
 The quantitative analysis feature of the project is fairly rudimentary at this stage of the prototype, but will grow in sophistication over time. Interpreting a combination of numeric counts per coin type and the number of distinct typological attributes (e.g., issuers, mints, or denominations) contained within the coin type metadata record, Numishare feeds an array of values into the Highcharts Javascript library to output bar graphs of selected queries. This straightforward method of visualization is very valuable to researchers. Such charts, which once required significant expenditure of time in the pre-digital age, can be now be generated nearly-instantaneously.
 
-![Figure 6. Distribution of issuers in a hoard.](../images/papers/semantics-numismatics/figure_006.jpg)
+![Figure 6. Distribution of issuers in a hoard.](../images/papers/semantics-numismatics/issuers.jpg)
 
 Like Mantis, the Roman Republican Coin Hoard online catalogue can be queried by nomisma URI, enabling cross-collection searching. Among the most important aspects of the project is the mechanism for referencing URIs and dynamic processing of data hosted and maintained by nomisma.org. The editors of the coin hoard metadata are not burdened with the long-term maintenance of the typological data in Roman Republican Coinage; hoard XML records contain scarcely more than findspot information and a list and count of coin types associated with the hoard, and therefore duplication of data and digital curation labor is minimized. This project is a successful proof-of-concept for other, larger coin hoard recording efforts.
 
