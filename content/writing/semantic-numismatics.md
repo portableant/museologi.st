@@ -16,8 +16,8 @@ authors:
  - Daniel Pett (Portable Antiquities Scheme, British Museum)
  - Karsten Tolle (University of Frankfurt)
  - David Wigg-Wolf (Römisch-Germanische Kommission)
-featuredImg: ../images/papers/caa2012/nomisma-featured.jpg
-background: ../images/papers/caa2012/nomisma-background.jpg
+featuredImg: ../images/papers/semantic-numsimatics/DSC_112.JPG
+background: ../images/papers/semantic-numismatics/CSC_0156.JPG
 lat: 50.9097
 lon: -1.4044
 tags:
