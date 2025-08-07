@@ -190,7 +190,6 @@ While a full introduction to RDF is beyond the scope of this paper, some focus o
    </org:Membership>
 </rdf:RDF>
 ```
-```
 **Figure 4. Nomisma RDF.** 
 
 As noted in the first paragraph of this section, Nomisma.org is in the early stages of establishing stable URIs for numismatic resources. Nonetheless, both within the context of Nomisma.org itself and by third-party initiative, patterns of usage for Nomisma.org URIs are emerging. Within Nomisma.org, the description of coins types, such as those based on the reference works Roman Republican Coinage (Crawford 1974) and Roman Imperial Coinage best demonstrate how URIs can be used in constructing descriptions of well-known coins. 
