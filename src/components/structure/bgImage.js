@@ -35,7 +35,7 @@ export default function Hero() {
                             }
                         }
                         breakpoints: [576, 768, 992, 1200, 1400]
-                        placeholder: BLURRED
+                        placeholder: DOMINANT_COLOR
                     )
                 }
             }

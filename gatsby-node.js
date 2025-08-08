@@ -175,7 +175,7 @@ exports.createPages = ({actions, graphql}) => {
           }
         }
       }
-        papersPosts: allMarkdownRemark(
+      papersPosts: allMarkdownRemark(
       filter: {frontmatter: {section: {eq: "papers"}}}
       sort: {frontmatter: {date: DESC}}
       limit: 1000
@@ -290,6 +290,16 @@ exports.createPages = ({actions, graphql}) => {
         });
 
         const {paginate} = require('gatsby-awesome-pagination')
+
+        const photographsPagedTemplate = require.resolve(`./src/templates/photographs.js`)
+        paginate({
+            createPage: createPage,
+            component: photographsPagedTemplate,
+            items: result.data.photographyPosts.edges,
+            itemsPerPage: 12,
+            itemsPerFirstPage: 12,
+            pathPrefix: '/photographs'
+        })
 
         const blogPostPagedTemplate = require.resolve(`./src/templates/blog.js`)
         paginate({

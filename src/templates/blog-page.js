@@ -66,48 +66,7 @@ export const pageQuery = graphql`
             wordCount {
                 words
             }
-            frontmatter {
-                slug
-                date(formatString: "MMMM DD, YYYY")
-                title
-                description
-                section
-                tags
-                geo_lat
-                geo_lon
-                featuredImg {
-                    childImageSharp {
-                        gatsbyImageData(
-                            placeholder: BLURRED
-                            height: 600
-                            formats: [AUTO, WEBP]
-                            width: 600
-                            quality: 80
-                            transformOptions: {
-                                grayscale: false,
-                                fit: COVER,
-                                cropFocus: CENTER
-                            }
-                        )
-                    }
-                }
-                background {
-                    childImageSharp {
-                        gatsbyImageData(
-                            placeholder: BLURRED
-                            height: 600
-                            formats: [AUTO, WEBP]
-                            width: 1200
-                            quality: 90
-                            transformOptions: {
-                                grayscale: false,
-                                fit: COVER,
-                                cropFocus: CENTER
-                            }
-                        )
-                    }
-                }
-            }
+            ...BlogFrontmatterFragment
         }
     }
 `;

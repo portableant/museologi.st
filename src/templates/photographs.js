@@ -7,7 +7,7 @@ import Seo from "../components/structure/SEO";
 import Pagination from "../components/structure/pagination";
 import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
 
-const ProjectsPage = React.memo(({ data, pageContext }) => {
+const PhotographsPage = React.memo(({ data, pageContext }) => {
   // Memoize the posts array to prevent unnecessary re-renders
   const Posts = React.useMemo(
     () =>
@@ -21,15 +21,15 @@ const ProjectsPage = React.memo(({ data, pageContext }) => {
     <Layout>
       <HeaderWithBreadcrumbs
         breadcrumbs={breadcrumb?.crumbs || []}
-        title="Research, Development and Work projects"
+        title="Random Photographs"
         date={null}
       />
       <Container>
         <Row>
           <div className="col-12">
             <p>
-              This page lists a selection of projects that I have worked on, as a leader, participant or advisor.
-              Some of these projects are interlinked to each other.
+              This page lists a selection of projects that I have worked on, as a leader, 
+              participant or advisor. Some of these projects are interlinked to each other.
             </p>
           </div>
           {Posts}
@@ -41,15 +41,15 @@ const ProjectsPage = React.memo(({ data, pageContext }) => {
 });
 
 // Add display name for debugging
-ProjectsPage.displayName = 'ProjectsPage';
+PhotographsPage.displayName = 'PhotographsPage';
 
-export default ProjectsPage;
+export default PhotographsPage;
 
 export const pageQuery = graphql`
   query($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      filter: { frontmatter: { section: { eq: "projects" } } }
-      sort: { frontmatter: { title: ASC } }
+      filter: { frontmatter: { section: { eq: "image" } } }
+      sort: { frontmatter: { date: DESC } }
       limit: $limit
       skip: $skip
     ) {
@@ -69,7 +69,7 @@ export const pageQuery = graphql`
 
 export const Head = ({ pageContext }) => (
   <Seo
-    title={`Projects I have worked on, page ${pageContext.humanPageNumber}`}
-    description="An overview of projects I have worked on in museums and heritage"
+    title="Random Photographs"
+    description="A collection of photographs I like"
   />
 );

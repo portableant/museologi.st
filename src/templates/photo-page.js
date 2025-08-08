@@ -42,37 +42,13 @@ export default function PhotographsPageTemplate({data: {markdownRemark}, pageCon
     );
 }
 
-
+// GraphQL fragments and queries - imported automatically by Gatsby from src/fragments/commonFragments.js
 export const pageQuery = graphql`
-    query ($id: String!) {
-        markdownRemark(id: { eq: $id }) {
-            html
-            frontmatter {
-                slug
-                featuredImgAlt
-                featuredImg{
-                    publicURL
-                    childImageSharp {
-                        gatsbyImageData(
-                            placeholder: BLURRED
-                            height: 1000
-                            formats: [AUTO, WEBP]
-                            width: 1000
-                            quality: 80
-                            transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
-                        )
-                    }
-                }
-                date(formatString: "MMMM DD, YYYY")
-                title
-                description
-                section
-                tags
-                geo_lat
-                geo_lon
-            }
-        }
+    query PhotoById($id: String!) {
+    markdownRemark(id: { eq: $id }) {
+      ...PhotoDetails
     }
+  }
 `;
 
 export function Head({data: {markdownRemark}}) {

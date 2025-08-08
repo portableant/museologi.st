@@ -48,13 +48,25 @@ export const fragments = graphql`
       height: 400
       formats: [AUTO, WEBP]
       width: 400
-      quality: 80
+      quality: 90
       transformOptions: { 
         grayscale: false, 
         fit: COVER, 
         cropFocus: CENTER 
       }
     )
+  }
+
+  fragment PaperListItem on MarkdownRemark {
+    id
+    frontmatter {
+      date(formatString: "MMMM DD, YYYY")
+      slug
+      title
+      featuredImg {
+        ...ImageSharpFluid
+      }
+    }
   }
 
   fragment MarkdownContent on MarkdownRemark {
@@ -95,43 +107,171 @@ export const fragments = graphql`
       }
     }
   }
+
+  fragment FeaturedImageDataPhotos on File {
+    publicURL
+    childImageSharp {
+      gatsbyImageData(
+        placeholder: DOMINANT_COLOR
+        height: 1000
+        formats: [AUTO, WEBP]
+        width: 1000
+        quality: 80
+        transformOptions: { grayscale: false, fit: COVER, cropFocus: CENTER }
+      )
+    }
+  }
+
+  fragment PhotoFrontmatter on MarkdownRemark {
+    frontmatter {
+      slug
+      featuredImgAlt
+      featuredImg {
+        ...FeaturedImageDataPhotos
+      }
+      date(formatString: "MMMM DD, YYYY")
+      title
+      description
+      section
+      tags
+      geo_lat
+      geo_lon
+    }
+  }
+
+  fragment PhotoDetails on MarkdownRemark {
+    html
+    ...PhotoFrontmatter
+  }
 `;
 
 export const imageSharpFluidFragment = graphql`
-    fragment ImageSharpFluid on File {
-        childImageSharp {
-            gatsbyImageData(
-                placeholder: DOMINANT_COLOR
-                height: 400
-                formats: [AUTO, WEBP]
-                width: 400
-                quality: 80
-                transformOptions: { 
-                    grayscale: false, 
-                    fit: COVER, 
-                    cropFocus: CENTER 
-                }
-            )
+  fragment ImageSharpFluid on File {
+    childImageSharp {
+      gatsbyImageData(
+        placeholder: DOMINANT_COLOR
+        height: 400
+        formats: [AUTO, WEBP]
+        width: 400
+        quality: 90
+        transformOptions: { 
+          grayscale: false, 
+          fit: COVER, 
+          cropFocus: CENTER 
         }
+      )
     }
+  }
 `;
 
-
 export const imageSharpHighResFragment = graphql`
-    fragment ImageSharpHighRes on File {
-        childImageSharp {
-            gatsbyImageData(
-                placeholder: DOMINANT_COLOR
-                height: 400
-                formats: [AUTO, WEBP]
-                width: 400
-                quality: 100
-                transformOptions: { 
-                    grayscale: false, 
-                    fit: COVER, 
-                    cropFocus: CENTER 
-                }
-            )
+  fragment ImageSharpHighRes on File {
+    childImageSharp {
+      gatsbyImageData(
+        placeholder: DOMINANT_COLOR
+        height: 400
+        formats: [AUTO, WEBP]
+        width: 400
+        quality: 100
+        transformOptions: { 
+          grayscale: false, 
+          fit: COVER, 
+          cropFocus: CENTER 
         }
+      )
     }
+  }
+`;
+
+export const frontmatterFields = graphql`
+  fragment FrontmatterFields on MarkdownRemark {
+    id
+    frontmatter {
+      date(formatString: "MMMM DD, YYYY")
+      slug
+      title
+    }
+  }
+`;
+
+export const featuredImage = graphql`
+  fragment FeaturedImage on File {
+    childImageSharp {
+      gatsbyImageData(
+        placeholder: DOMINANT_COLOR
+        height: 600
+        formats: [AUTO, WEBP]
+        width: 600
+        quality: 80
+        transformOptions: { 
+          grayscale: false, 
+          fit: COVER, 
+          cropFocus: CENTER 
+        }
+      )
+    }
+  }
+`;
+
+export const TalksFrontmatterFragment = graphql`
+  fragment TalksFrontmatterFragment on MarkdownRemark {
+    frontmatter {
+      slug
+      date(formatString: "MMMM DD, YYYY")
+      title
+      description
+      section
+      tags
+      geo_lat
+      geo_lon
+      manifests
+      featuredImg {
+        id
+        absolutePath
+        publicURL
+        childImageSharp {
+          ...FeaturedImageData
+        }
+      }
+      background {
+        id
+        absolutePath
+        publicURL
+        childImageSharp {
+          ...ImageSharpData
+        }
+      }
+    }
+  }
+`;
+
+export const BlogFrontmatterFragment = graphql`
+  fragment BlogFrontmatterFragment on MarkdownRemark {
+    frontmatter {
+      slug
+      date(formatString: "MMMM DD, YYYY")
+      title
+      description
+      section
+      tags
+      geo_lat
+      geo_lon
+      featuredImg {
+        id
+        absolutePath
+        publicURL
+        childImageSharp {
+          ...FeaturedImageData
+        }
+      }
+      background {
+        id
+        absolutePath
+        publicURL
+        childImageSharp {
+          ...ImageSharpData
+        }
+      }
+    }
+  }
 `;

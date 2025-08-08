@@ -1,42 +1,33 @@
-import * as React from "react"
+import React from "react"
 import PropTypes from "prop-types"
-import Layout from "../components/layouts/layout";
-// Components
+import Layout from "../components/layouts/layout"
 import {Link, graphql} from "gatsby"
-import PostCard from "../components/structure/post-card";
-import {Container, Row, Col} from "react-bootstrap";
-// Utilities
+import PostCard from "../components/structure/post-card"
+import {Container, Row, Col} from "react-bootstrap"
 import {startCase} from "lodash"
-import Seo from "../components/structure/SEO";
-import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs";
+import Seo from "../components/structure/SEO"
+import HeaderWithBreadcrumbs from "../components/structure/headerWithBreadcrumbs"
 
-const Tags = React.memo(({pageContext, data}) => {
+const Tags = ({pageContext, data}) => {
     const {tag} = pageContext
     const {edges, totalCount} = data.allMarkdownRemark
     const breadcrumb = pageContext?.breadcrumb
-    // Ensure tag is always a string
-    // Memoize the tag header to avoid recalculation
-    const tagHeader = React.useMemo(() => 
-        `${totalCount} post${totalCount === 1 ? "" : "s"} tagged with "${startCase(tag)}"`,
-        [totalCount, tag]
-    );
-
-    // Memoize the posts to prevent unnecessary re-renders
-    const posts = React.useMemo(() => 
-        edges.map(({node}) => <PostCard key={node.id} post={node}/>),
-        [edges]
-    );
+    
+    // Create the tag header string
+    const tagHeader = `${totalCount} post${totalCount === 1 ? "" : "s"} tagged with "${startCase(tag)}"`
 
     return (
         <Layout>
             <HeaderWithBreadcrumbs
-                    breadcrumbs={breadcrumb?.crumbs || []}
-                    title={tagHeader}
-                    date={null}
-                />
+                breadcrumbs={breadcrumb?.crumbs || []}
+                title={tagHeader}
+                date={null}
+            />
             <Container>
                 <Row>
-                    {posts}
+                    {edges.map(({node}) => (
+                        <PostCard key={node.id} post={node} />
+                    ))}
                 </Row>
                 <Row>
                     <Col md={4}>
@@ -48,14 +39,12 @@ const Tags = React.memo(({pageContext, data}) => {
             </Container>
         </Layout>
     )
-});
-
-// Add display name for debugging
-Tags.displayName = 'Tags';
+}
 
 Tags.propTypes = {
     pageContext: PropTypes.shape({
         tag: PropTypes.string.isRequired,
+        breadcrumb: PropTypes.object,
     }).isRequired,
     data: PropTypes.shape({
         allMarkdownRemark: PropTypes.shape({
@@ -67,10 +56,11 @@ Tags.propTypes = {
                         frontmatter: PropTypes.shape({
                             title: PropTypes.string.isRequired,
                             slug: PropTypes.string.isRequired,
+                            date: PropTypes.string,
                             featuredImg: PropTypes.object,
                         }).isRequired,
                     }).isRequired,
-                }).isRequired
+                })
             ).isRequired,
         }).isRequired,
     }).isRequired,
@@ -94,28 +84,14 @@ export const pageQuery = graphql`
                         slug
                         date(formatString: "MMMM DD, YYYY")
                         featuredImg {
-                            childImageSharp {
-                                id
-                                gatsbyImageData(
-                                    placeholder: DOMINANT_COLOR
-                                    height: 600
-                                    formats: [AUTO, WEBP]
-                                    width: 600
-                                    quality: 80
-                                    transformOptions: {
-                                        grayscale: false
-                                        fit: COVER
-                                        cropFocus: CENTER
-                                    }
-                                )
-                            }
+                            ...FeaturedImage
                         }
                     }
                 }
             }
         }
     }
-`
+`;
 
 export const Head = ({pageContext}) => (
     <Seo 

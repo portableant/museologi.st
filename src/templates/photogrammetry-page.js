@@ -66,7 +66,7 @@ const PhotogrammetryPageTemplate = React.memo(({ data: { markdownRemark }, pageC
 PhotogrammetryPageTemplate.displayName = 'PhotogrammetryPageTemplate';
 
 export default PhotogrammetryPageTemplate;
-
+// GraphQL fragments and queries - imported automatically by Gatsby from src/fragments/commonFragments.js
 export const pageQuery = graphql`
     query ($id: String!) {
         markdownRemark(id: { eq: $id }) {

@@ -53,7 +53,24 @@ export const pageQuery = graphql`
                 height: 600
                 formats: [AUTO, WEBP]
                 width: 600
-                quality: 80
+                quality: 90
+                transformOptions: { 
+                    grayscale: false, 
+                    fit: COVER, 
+                    cropFocus: CENTER 
+                }
+            )
+        }
+    }
+
+    fragment PaperImageHeaderData on File {
+        childImageSharp {
+            gatsbyImageData(
+                placeholder: DOMINANT_COLOR
+                height: 600
+                formats: [AUTO, WEBP]
+                width: 1200
+                quality: 90
                 transformOptions: { 
                     grayscale: false, 
                     fit: COVER, 
@@ -79,7 +96,7 @@ export const pageQuery = graphql`
                     ...PaperImageData
                 }
                 background {
-                    ...PaperImageData
+                    ...PaperImageHeaderData
                 }
                 geo_lat
                 geo_lon

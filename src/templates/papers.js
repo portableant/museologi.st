@@ -45,20 +45,6 @@ const PapersPage = ({data, pageContext}) => {
 
 export default PapersPage
 
-// Fragment for papers list items
-export const paperListItemFragment = graphql`
-    fragment PaperListItem on MarkdownRemark {
-        id
-        frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            slug
-            title
-            featuredImg {
-                ...ImageSharpFluid
-            }
-        }
-    }
-`;
 
 export const pageQuery = graphql`
     query($skip: Int!, $limit: Int!) {

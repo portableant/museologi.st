@@ -48,43 +48,26 @@ TalkPage.displayName = 'TalkPage';
 export default TalkPage
 
 export const pageQuery = graphql`
-    query($skip: Int!, $limit: Int!) {
-        allMarkdownRemark(
-            filter: {frontmatter: {section: {eq: "talks"}}}
-            sort: {frontmatter: {date: DESC}}
-            limit: $limit
-            skip: $skip
-        ) {
-            edges {
-                node {
-                    id
-                    frontmatter {
-                        date(formatString: "MMMM DD, YYYY")
-                        slug
-                        title
-                        featuredImg {
-                            childImageSharp {
-                                id
-                                gatsbyImageData(
-                                    placeholder: DOMINANT_COLOR
-                                    height: 600
-                                    formats: [AUTO, WEBP]
-                                    width: 600
-                                    quality: 80
-                                    transformOptions: {
-                                        grayscale: false
-                                        fit: COVER
-                                        cropFocus: CENTER
-                                    }
-                                )
-                            }
-                        }
-                    }
-                }
+  query($skip: Int!, $limit: Int!) {
+    allMarkdownRemark(
+      filter: { frontmatter: { section: { eq: "talks" } } }
+      sort: { frontmatter: { date: DESC } }
+      limit: $limit
+      skip: $skip
+    ) {
+      edges {
+        node {
+          ...FrontmatterFields
+          frontmatter {
+            featuredImg {
+              ...FeaturedImage
             }
+          }
         }
+      }
     }
-`
+  }
+`;
 
 export const Head = ({pageContext}) => (
     <Seo 

@@ -43,45 +43,25 @@ const BlogPage = ({ data, pageContext }) => {
 export default BlogPage;
 
 export const pageQuery = graphql`
-    query BlogPageQuery($skip: Int!, $limit: Int!) {
-        allMarkdownRemark(
-            filter: { frontmatter: { section: { eq: "blog" } } }
-            sort: { frontmatter: { date: DESC } }
-            limit: $limit
-            skip: $skip
-        ) {
-            edges {
-                node {
-                    id
-                    frontmatter {
-                        github_repo {
-                            name
-                            url
-                        }
-                        date(formatString: "MMMM DD, YYYY")
-                        slug
-                        title
-                        featuredImg {
-                            childImageSharp {
-                                gatsbyImageData(
-                                    placeholder: BLURRED
-                                    height: 600
-                                    formats: [AUTO, WEBP]
-                                    width: 600
-                                    quality: 80
-                                    transformOptions: { 
-                                        grayscale: false, 
-                                        fit: COVER, 
-                                        cropFocus: CENTER 
-                                    }
-                                )
-                            }
-                        }
-                    }
-                }
+  query($skip: Int!, $limit: Int!) {
+    allMarkdownRemark(
+      filter: { frontmatter: { section: { eq: "blog" } } }
+      sort: { frontmatter: { date: DESC } }
+      limit: $limit
+      skip: $skip
+    ) {
+      edges {
+        node {
+          ...FrontmatterFields
+          frontmatter {
+            featuredImg {
+              ...FeaturedImage
             }
+          }
         }
+      }
     }
+  }
 `;
 
 export const Head = ({ pageContext }) => (
