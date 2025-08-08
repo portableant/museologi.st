@@ -12,34 +12,9 @@ const query = graphql`
     ) {
       edges {
         node {
+          ...ProjectCardFrontmatterFragment
           id
           excerpt
-          frontmatter {
-            slug
-            title
-            date(formatString: "MMMM DD, YYYY")
-            featuredImg {
-              childImageSharp {
-                gatsbyImageData(
-                  placeholder: BLURRED
-                  height: 600
-                  width: 600
-                  quality: 80
-                  formats: [AUTO, WEBP]
-                  transformOptions: {
-                    fit: COVER
-                    cropFocus: CENTER
-                    duotone: {
-                      highlight: "#77a6a0"
-                      shadow: "#000000"
-                      opacity: 60
-                    }
-                  }
-                  webpOptions: { quality: 80 }
-                )
-              }
-            }
-          }
         }
       }
     }

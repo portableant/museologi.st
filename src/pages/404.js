@@ -11,7 +11,7 @@ const NotFoundPage = () => {
         <StaticImage
           src="../../content/images/404/ghibli-404-archaeologist.jpg"
           alt="404 Background"
-          placeholder="blurred"
+          placeholder="DOMINANT_COLOR"
           width={1920}
           height={1080}
           style={{

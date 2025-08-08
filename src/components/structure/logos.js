@@ -6,7 +6,7 @@ import { Container, Col, Row } from "react-bootstrap";
 const Logos = ({ logos }) => (
   <Container fluid className="bg-white my-3 py-3">
     <Col md={10} className="mx-auto pt-2 my-4">
-      <h3 className="display-5 text-center fw-bold text-dark">
+      <h3 className="display-5 text-center fw-bold text-secondary">
         Work, affiliations and collaborations
       </h3>
       <Row className="justify-content-center mb-2">

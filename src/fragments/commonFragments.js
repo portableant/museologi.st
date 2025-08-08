@@ -275,3 +275,43 @@ export const BlogFrontmatterFragment = graphql`
     }
   }
 `;
+
+// Fragment for featured image in project cards
+export const ProjectCardFeaturedImgFragment = graphql`
+  fragment ProjectCardFeaturedImgFragment on ImageSharp {
+    id
+    gatsbyImageData(
+      placeholder: DOMINANT_COLOR
+      height: 600
+      formats: [AUTO, WEBP]
+      width: 600
+      quality: 90
+      transformOptions: {
+        fit: COVER
+        cropFocus: CENTER
+        duotone: {
+          highlight: "#77a6a0"
+          shadow: "#000000"
+          opacity: 60
+        }
+      }
+      webpOptions: { quality: 90 }
+    )
+  }
+`;
+
+// Fragment for frontmatter fields in project cards
+export const ProjectCardFrontmatterFragment = graphql`
+  fragment ProjectCardFrontmatterFragment on MarkdownRemark {
+    frontmatter {
+    slug
+    title
+    date(formatString: "MMMM DD, YYYY")
+    featuredImg {
+      childImageSharp {
+        ...ProjectCardFeaturedImgFragment
+      }
+    }
+}
+  }
+`;

@@ -30,7 +30,7 @@ const IndexPage = () => (
         <HeroTop />
         {sections.map(({ title, Component }, idx) => (
             <Container fluid className="bg-pastel py-3" key={title}>
-                <h2 className="display-6 text-center fw-bold text-dark">{title}</h2>
+                <h2 className="display-6 text-center fw-bold text-secondary">{title}</h2>
                 <Component />
             </Container>
         ))}
