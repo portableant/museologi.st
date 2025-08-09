@@ -1,6 +1,7 @@
 const siteUrl = process.env.URL || `https://museologi.st`
 const path = require('path')
-const purgeCssSafelist = require('./purgecss-safelist'); // <-- Import the file here
+const purgeCssSafelist = require('./purgecss-safelist'); 
+const cookieConsentConfig = require('./gatsby-cookie-consent-config');
 
 module.exports = {
     siteMetadata: {
@@ -77,6 +78,10 @@ module.exports = {
         ]
     },
     plugins: [
+        {
+      resolve: `gatsby-plugin-google-gtag-cookieconsent`,
+      options: cookieConsentConfig
+    },
         {
             resolve: `gatsby-plugin-purgecss`,
             options: {
@@ -190,17 +195,7 @@ module.exports = {
                 zIndex: `9999`,
             },
         },
-        {
-            resolve: `gatsby-plugin-google-gtag`,
-            options: {
-                trackingIds: [
-                    "G-M5H80B9MSP",
-                ],
-                pluginConfig: {
-                    head: true
-                },
-            },
-        },
+        
         "gatsby-plugin-image",
         {
             resolve: "gatsby-plugin-sitemap",
