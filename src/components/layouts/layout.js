@@ -4,7 +4,6 @@ import {useStaticQuery, graphql} from "gatsby"
 import NavBar from "../structure/nav";
 import Footer from "../structure/footer"
 import BackToTop from 'react-back-to-top';
-import CookieConsent from '../services/cookieconsent';
 
 export default function Layout({children}) {
     const data = useStaticQuery(graphql`
@@ -51,7 +50,6 @@ export default function Layout({children}) {
                     percent={false}
                     visiblePercent={50}
                 />
-                <CookieConsent/>
             </>
         )
 
