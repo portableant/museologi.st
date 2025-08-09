@@ -14,7 +14,6 @@ const query = graphql`
         node {
           ...ProjectCardFrontmatterFragment
           id
-          excerpt
         }
       }
     }
