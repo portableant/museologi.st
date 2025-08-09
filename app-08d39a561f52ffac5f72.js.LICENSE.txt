@@ -4,6 +4,13 @@
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 
+/*!
+* CookieConsent 3.1.0
+* https://github.com/orestbida/cookieconsent
+* Author Orest Bida
+* Released under the MIT License
+*/
+
 /**
  * @license React
  * react-server-dom-webpack.production.min.js
