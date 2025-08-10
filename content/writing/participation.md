@@ -18,6 +18,7 @@ tags:
 slug: "/papers/participation-in-heritage-crowdsourcing"
 background: "../images/papers/participation/14300797771_71de911487_k.jpg"
 featuredImg: "../images/papers/participation/16817133756_1950c00181_c.jpg"
+citation: "Bonacchi, C., Bevan, A., Keinan-Schoonbaert, A., Pett, D., and Wexler, J. (2019). Participation in heritage crowdsourcing. *Digital Scholarship in the Humanities*, 34(1), 1–16. https://doi.org/10.1093/llc/fqy034"
 authors:
     - Chiara Bonacchi University of Stirling, Stirling, UK
     - Andrew Bevan  UCL Institute of Archaeology, London, UK
@@ -25,6 +26,11 @@ authors:
     - Daniel Pett University of Cambridge, Cambridge, UK
     - Jennifer Wexler British Museum, London, UK
 ---
+
+<div class="alert alert-warning">
+    <strong>Note:</strong> This paper was published in <a href="https://academic.oup.com/dsh/article/34/1/1/5052672">Digital Scholarship in the Humanities</a> in 2019. The final version of the paper is available at <a href="https://doi.org/10.1093/llc/fqy034">https://doi.org/10.1093/llc/fqy034</a>. This version is the pre-print and may differ from the final published version (which it does, as the images are in the right order and some typos are fixed).
+</div>
+
 ## Abstract
 
 This paper draws upon the experience of several years of running a multi-application crowdsourcing platform, as well as a longitudinal evaluation of participant profiles, motivations and behaviour, to argue that heritage crowdsourcing cannot straightforwardly be considered a democratising form of cultural participation. While we agree that crowdsourcing helps expand public engagement with state-funded activities at Galleries, Libraries, Archives, and Museums, we also note that, the involved public cohort is not radically different in socio-demographic make-up to the one that physically visits such institutions, being for example financially better-off with high levels of formal education. In shedding light on issues of participation and cultural citizenship, through a both theoretically and empirically rich discussion, this paper casts light on the current impact of heritage crowdsourcing, in terms of both its strengths and weaknesses. The study will also be useful for cultural heritage policy and practice, museum management and curatorship to potentially guide the choices and strategies of funders and organisations alike.
