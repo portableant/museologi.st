@@ -393,38 +393,38 @@ The authors have no competing interests to declare.
 
 ## References
 
-- Axiell. (2024). Axiell Collections. Axiell. https://www.axiell.com/solutions/product/axiell-collections/
+- Axiell. (2024). Axiell Collections. [Axiell.](https://www.axiell.com/solutions/product/axiell-collections/)
 - Candela, G. (2023). Towards a semantic approach in GLAM Labs: The case of the Data Foundry at the National Library of Scotland. Journal of Information Science. https://doi.org/10.1177/01655515231174386
-- Collections Trust. (2016). Spectrum v.4.0 (archived). Collections Trust. Retrieved 4 November 2024. Retrieved from https://collectionstrust.org.uk/resource/the-spectrum-standard-v4-0/
-- Collections Trust. (n.d.). Spectrum. Collections Trust. Retrieved 7 October 2024. Retrieved from https://collectionstrust.org.uk/spectrum/
-- Dunn, S., Earl, G., Foka, A., and Wootton, W. (2019). Spatial Narratives in Museums and Online: TheBirth of the Digital Object Itinerary. In T. Giannini & J. P. Bowen (Eds.), Museums and Digital Culture: New Perspectives and Research (pp. 253–271). Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-97457-6_12
-- Finstad, K. (2010). The usability metric for user experience. Interacting with Computers, 22(5), 323–327. https://doi.org/10.1016/j.intcom.2010.04.004
-- Gadd, S., & Simon, R. (2023). Peripleo: A platform for visualising and exploring linked places data. Journal of Open Humanities Data, 9(1), 1–8. https://doi.org/10.5334/johd.266
-- Gadd, S., Simon, R., & Rees, G. (2024). Peripleo [Computer software]. The British Library. Retrieved 28 October 2024. Retrieved from https://github.com/britishlibrary/peripleo (Original work published 2022)
-- Getty Research Institute. (2023). Art and Architecture Thesaurus. Getty Vocabularies: LOD. Retrieved 28 October 2024. Retrieved from https://vocab.getty.edu/aat/
-- Grossner, K., Zijdeman, R., Shaw, R. and Elwert, F. (2024). The Linked Places format (LPF). GitHub. Retrieved 28 October 2024. Retrieved from https://github.com/LinkedPasts/linked-places-format
-- Jameson, L., & Simon, R. (2024). Recogito-Studio [PLpgSQL]. Recogito. Retrieved 30 October 2024. Retrieved from https://github.com/recogito/recogito-studio (Original work published 2024)
-- Kahn, R., Isaksen, L., Barker, E., Simon, R., de Soto Cañamares, P., & Vitale, V. (2016). Pelagios—Connecting Histories of Place. Part I: From Association to Community. International Journal of Humanities and Arts Computing, 10(1–2), 1–16. https://doi.org/10.3366/ijhac.2016.0140
-- Linked Art Editorial Board. (n.d.-a). Linked Art. Retrieved 28 October 2024. Retrieved from https://linked.art/ Linked Art Editorial Board. (n.d.-b). Types and Classifications. Linked Art. Retrieved 28 October 2024. Retrieved from https://linked.art/model/base/#types-and-classifications
-- Luthra, M., Todorov, K., Jeurgens, C., & Colavizza, G. (2023). Unsilencing colonial archives via automated entity recognition. Journal of Documentation, 80(5), 1080–1105. https://doi.org/10.1108/ JD-02-2022-0038
-- Middle et al.  Journal of Open Humanities Data  DOI: 10.5334/johd.273-Musen, M. A. (2015). The Protégé project: A look back and a look forward. AI Matters, 1(4), 4–12.13 https://doi.org/10.1145/2757001.2757003
-- Nielsen, J. and Landauer, T. K. (1993). A mathematical model of the finding of usability problems. In CHI ’93: Proceedings of the INTERACT ’93 and CHI ’93 Conference on Human Factors in Computing Systems (pp. 206–213). ACM. https://doi.org/10.1145/169059.169166
-- Padilla, T., Allen, L., Frost, H., Potvin, S., Russey Roke, E., & Varner, S. (2019). Final Report – Always Already Computational: Collections as Data. Collections as Data. https://doi.org/10.5281/zenodo.7883759
-- Padilla, T., Scates Kettler, H., & Shorish, Y. (2023a). Collections as Data: Part to Whole Final Report. Collections as Data. https://doi.org/10.5281/zenodo.10161976
-- Padilla, T., Scates Kettler, H., Varner, S., & Shorish, Y. (2023b). Vancouver Statement on Collections as Data. Collections as Data. https://doi.org/10.5281/zenodo.8341519
-- Performant Software. (n.d.). Recogito Studio. Retrieved 30 October 2024. Retrieved from https://recogitostudio.org/
-- Rees, G., Gadd, S., Horgan, J., Hunt, A., Isaksen, L., Morris, V., Musson, A., Simon, R., Strachan, P., & Vitale, V. (2022). Locating a National Collection (LaNC). Towards a National Collection. https://doi.org/10.5281/zenodo.7071654
-- Simon, R. (2024). Recogito GeoTagger Plugin [TypeScript]. Recogito. Retrieved 30 October 2024. Retrieved from https://github.com/recogito/geotagger (Original work published 2024)
-- Simon, R., Barker, E., Isaksen, L., & de Soto Cañamares, P. (2015). Linking Early Geospatial Documents, One Place at a Time: Annotation of Geographic Documents with Recogito. E-Perimetron, 10(2), 49–59. Retrieved 30 October 2024. Retrieved from https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf
-- Simon, R., Barker, E., Isaksen, L., & de Soto Cañamares, P. (2017). Linked Data Annotation Without the Pointy Brackets: Introducing Recogito 2. Journal of Map & Geography Libraries, 13(1), 111–132. https://doi.org/10.1080/15420353.2017.1307303
-- Simon, R., Isaksen, L., Barker, E., & de Soto Cañamares, P. (2016). Peripleo: A Tool for Exploring Heterogeneous Data through the Dimensions of Space and Time. The Code4Lib Journal, 31. Retrieved  30 October 2024. Retrieved from http://journal.code4lib.org/articles/11144
-- Simon, R., Vitale, V., Kahn, R., Barker, E., & Isaksen, L. (2019). Revisiting Linking Early Geospatial Documents with Recogito. E-Perimetron, 14(3), 150–163. Retrieved 30 October 2024. Retrieved from https://www.e-perimetron.org/Vol_14_3/Simon_et_al.pdf
-- Tasovac, T., Chambers, S., & Tóth-Czifra, E. (2020). Cultural Heritage Data from a Humanities Research Perspective: A DARIAH Position Paper. Retrieved 11 December 2024. Retrieved from https://hal.science/hal-02961317 
-- Universität Bonn. (2024). Introduction of Recogito Studio. Hochschulrechenzentrum. Retrieved 30 October 2024. Retrieved from https://www.hrz.uni-bonn.de/en/news/introduction-recogito-studio 2024. Retrieved from https://www.hrz.uni-bonn.de/en/news/introduction-recogito-studio
+- Collections Trust. (2016). Spectrum v.4.0 (archived). Collections Trust. Retrieved 4 November 2024. [Retrieved from](https://collectionstrust.org.uk/resource/the-spectrum-standard-v4-0/)
+- Collections Trust. (n.d.). Spectrum. Collections Trust. Retrieved 7 October 2024. [Retrieved from](https://collectionstrust.org.uk/spectrum/)
+- Dunn, S., Earl, G., Foka, A., and Wootton, W. (2019). Spatial Narratives in Museums and Online: TheBirth of the Digital Object Itinerary. In T. Giannini & J. P. Bowen (Eds.), Museums and Digital Culture: New Perspectives and Research (pp. 253–271). Cham: Springer International Publishing. [DOI: 10.1007/978-3-319-97457-6_12](https://doi.org/10.1007/978-3-319-97457-6_12)
+- Finstad, K. (2010). The usability metric for user experience. Interacting with Computers, 22(5), 323–327. [DOI: 10.1016/j.intcom.2010.04.004](https://doi.org/10.1016/j.intcom.2010.04.004)
+- Gadd, S., & Simon, R. (2023). Peripleo: A platform for visualising and exploring linked places data. Journal of Open Humanities Data, 9(1), 1–8. [DOI: 10.5334/johd.266](https://doi.org/10.5334/johd.266)
+- Gadd, S., Simon, R., & Rees, G. (2024). Peripleo [Computer software]. The British Library. Retrieved 28 October 2024. [Retrieved from](https://github.com/britishlibrary/peripleo) (Original work published 2022)
+- Getty Research Institute. (2023). Art and Architecture Thesaurus. Getty Vocabularies: LOD. Retrieved 28 October 2024. [Retrieved from](https://vocab.getty.edu/aat/)
+- Grossner, K., Zijdeman, R., Shaw, R. and Elwert, F. (2024). The Linked Places format (LPF). GitHub. Retrieved 28 October 2024. [Retrieved from](https://github.com/LinkedPasts/linked-places-format)
+- Jameson, L., & Simon, R. (2024). Recogito-Studio [PLpgSQL]. Recogito. Retrieved 30 October 2024. [Retrieved from](https://github.com/recogito/recogito-studio) (Original work published 2024)
+- Kahn, R., Isaksen, L., Barker, E., Simon, R., de Soto Cañamares, P., & Vitale, V. (2016). Pelagios—Connecting Histories of Place. Part I: From Association to Community. International Journal of Humanities and Arts Computing, 10(1–2), 1–16. [DOI: 10.3366/ijhac.2016.0140](https://doi.org/10.3366/ijhac.2016.0140)
+- Linked Art Editorial Board. (n.d.-a). Linked Art. Retrieved 28 October 2024. [Retrieved from](https://linked.art/) Linked Art Editorial Board. (n.d.-b). Types and Classifications. Linked Art. Retrieved 28 October 2024. [Retrieved from](https://linked.art/model/base/)#types-and-classifications
+- Luthra, M., Todorov, K., Jeurgens, C., & Colavizza, G. (2023). Unsilencing colonial archives via automated entity recognition. Journal of Documentation, 80(5), 1080–1105. [DOI: 10.1108/JD-02-2022-0038](https://doi.org/10.1108/JD-02-2022-0038)
+- Middle et al.  Journal of Open Humanities Data  DOI: 10.5334/johd.273-Musen, M. A. (2015). The Protégé project: A look back and a look forward. AI Matters, 1(4), 4–12.13 [DOI: 10.1145/2757001.2757003](https://doi.org/10.1145/2757001.2757003)
+- Nielsen, J. and Landauer, T. K. (1993). A mathematical model of the finding of usability problems. In CHI ’93: Proceedings of the INTERACT ’93 and CHI ’93 Conference on Human Factors in Computing Systems (pp. 206–213). ACM. [DOI: 10.1145/169059.169166](https://doi.org/10.1145/169059.169166)
+- Padilla, T., Allen, L., Frost, H., Potvin, S., Russey Roke, E., & Varner, S. (2019). Final Report – Always Already Computational: Collections as Data. Collections as Data. [DOI: 10.5281/zenodo.7883759](https://doi.org/10.5281/zenodo.7883759)
+- Padilla, T., Scates Kettler, H., & Shorish, Y. (2023a). Collections as Data: Part to Whole Final Report. Collections as Data. [DOI: 10.5281/zenodo.10161976](https://doi.org/10.5281/zenodo.10161976)
+- Padilla, T., Scates Kettler, H., Varner, S., & Shorish, Y. (2023b). Vancouver Statement on Collections as Data. Collections as Data. [DOI: zenodo.8341519](https://doi.org/10.5281/zenodo.8341519)
+- Performant Software. (n.d.). Recogito Studio. Retrieved 30 October 2024. [Retrieved from](https://recogitostudio.org/)
+- Rees, G., Gadd, S., Horgan, J., Hunt, A., Isaksen, L., Morris, V., Musson, A., Simon, R., Strachan, P., & Vitale, V. (2022). Locating a National Collection (LaNC). Towards a National Collection. [DOI: 10.5281/zenodo.7071654](https://doi.org/10.5281/zenodo.7071654)
+- Simon, R. (2024). Recogito GeoTagger Plugin [TypeScript]. Recogito. Retrieved 30 October 2024. [Retrieved from](https://github.com/recogito/geotagger) (Original work published 2024)
+- Simon, R., Barker, E., Isaksen, L., & de Soto Cañamares, P. (2015). Linking Early Geospatial Documents, One Place at a Time: Annotation of Geographic Documents with Recogito. E-Perimetron, 10(2), 49–59. Retrieved 30 October 2024. [Retrieved from](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
+- Simon, R., Barker, E., Isaksen, L., & de Soto Cañamares, P. (2017). Linked Data Annotation Without the Pointy Brackets: Introducing Recogito 2. Journal of Map & Geography Libraries, 13(1), 111–132. [DOI: 10.1080/15420353.2017.1307303](https://doi.org/10.1080/15420353.2017.1307303)
+- Simon, R., Isaksen, L., Barker, E., & de Soto Cañamares, P. (2016). Peripleo: A Tool for Exploring Heterogeneous Data through the Dimensions of Space and Time. The Code4Lib Journal, 31. Retrieved  30 October 2024. [Retrieved from](http://journal.code4lib.org/articles/11144)
+- Simon, R., Vitale, V., Kahn, R., Barker, E., & Isaksen, L. (2019). Revisiting Linking Early Geospatial Documents with Recogito. E-Perimetron, 14(3), 150–163. Retrieved 30 October 2024. [Retrieved from](https://www.e-perimetron.org/Vol_14_3/Simon_et_al.pdf)
+- Tasovac, T., Chambers, S., & Tóth-Czifra, E. (2020). Cultural Heritage Data from a Humanities Research Perspective: A DARIAH Position Paper. Retrieved 11 December 2024. [Retrieved from](https://hal.science/hal-02961317)
+- Universität Bonn. (2024). Introduction of Recogito Studio. Hochschulrechenzentrum. Retrieved 30 October 2024. [Retrieved from](https://www.hrz.uni-bonn.de/en/news/introduction-recogito-studio) 2024. [Retrieved from](https://www.hrz.uni-bonn.de/en/news/introduction-recogito-studio)
 - Vitale, V., de Soto, P., Simon, R., Barker, E., Isaksen, L., & Kahn, R. (2021). Pelagios—Connecting
-- Histories of Place. Part I: Methods and Tools. International Journal of Humanities and Arts Computing,15(1–2), 5–32. https://doi.org/10.3366/ijhac.2021.0260
+- Histories of Place. Part I: Methods and Tools. International Journal of Humanities and Arts Computing,15(1–2), 5–32. [DOI: 10.3366/ijhac.2021.0260](https://doi.org/10.3366/ijhac.2021.0260)  
 - W3C OWL Working Group. (2012). OWL 2 Web Ontology Language Document Overview (Second Edition).
-- W3C. Retrieved 28 October 2024. Retrieved from https://www.w3.org/TR/owl2-overview/
-- Wikimedia. (2023). Wikidata. Retrieved 28 October 2024. Retrieved from https://www.wikidata.org/wiki/Wikidata:Main_Page
-- Zhao, F. (2023). A systematic review of Wikidata in Digital Humanities projects. Digital Scholarship in the Humanities, 38(2), 852–874. https://doi.org/10.1093/llc/fqac083
-- Zhu, L., Xu, A., Deng, S., Heng, G., & Li, X. (2023). Entity Management Using Wikidata for Cultural Heritage Information. Cataloging & Classification Quarterly, 61(1), 20–46. https://doi.org/10.1080/01639374.2023.2188338
+- W3C. Retrieved 28 October 2024. [Retrieved from](https://www.w3.org/TR/owl2-overview/)
+- Wikimedia. (2023). Wikidata. Retrieved 28 October 2024. [Retrieved from](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+- Zhao, F. (2023). A systematic review of Wikidata in Digital Humanities projects. Digital Scholarship in the Humanities, 38(2), 852–874. [DOI: 10.1093/llc/fqac083](https://doi.org/10.1093/llc/fqac083)
+- Zhu, L., Xu, A., Deng, S., Heng, G., & Li, X. (2023). Entity Management Using Wikidata for Cultural Heritage Information. Cataloging & Classification Quarterly, 61(1), 20–46. [DOI:01639374.2023.2188338](https://doi.org/10.1080/)
