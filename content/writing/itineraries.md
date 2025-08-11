@@ -29,6 +29,10 @@ tags:
   - linked data
 --- 
 
+<div class="alert alert-info" role="alert">
+  <strong>Note:</strong> This is a preprint version of the article. It contains embedded HTML elements (such as interactive iframes and YouTube videos) that could not be included in the published online journal.
+</div>
+
 ## Abstract
 
 This  paper  explores  the  application  of  Recogito  Studio  for  annotating  unstructured museum data to create semantic links and visualisations. The study focuses on a sample dataset from National Museums Scotland, which includes metadata about navigational instruments from the 19th and early 20th centuries.
