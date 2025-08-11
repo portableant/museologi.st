@@ -239,7 +239,8 @@ feedback for analysis.
 
 In  the  second  stage,  a  post-test  survey  was  conducted  where  participants  completed  the Usability  Metric  for  User  Experience  (UMUX)  (Finstad,  2010)  and  answered  additional questions about their role, likes and dislikes about the platform, and potential use cases for Recogito  Studio.  The  UMUX,  designed  to  measure  perceived  usability  with  four  items,  was slightly adapted for Recogito Studio’s specific functions. Participants rated each statement on a seven-point scale, and scores were adjusted to generate an overall usability score from 0 (poor) to 100 (excellent).
 
-The resulting GitHub Pages site can be found on [Sarah Middle's profile](https://sarahmiddle.github.io/Peripleo_PelagiosOSC).
+<iframe src="https://sarahmiddle.github.io/Peripleo_PelagiosOSC" title="Object Itineraries Peripleo" width="100%" height="800px" allowfullscreen="true"></iframe>
+
 
 ## 4. Results and Discussion
 
