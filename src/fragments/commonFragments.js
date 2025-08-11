@@ -1,32 +1,32 @@
 /**
  * GraphQL fragments for Gatsby image and markdown data.
  *
- * @module fragments
+ * @module commonFragments
  *
  * @description
- * This module defines reusable GraphQL fragments for querying image data and markdown content
- * in a Gatsby project. These fragments can be imported and used in page and component queries
- * to ensure consistent data structures and reduce code duplication.
+ * This module exports reusable GraphQL fragments for querying image and markdown data in a Gatsby project.
  *
- * @fragment ImageSharpData
- * Retrieves optimized image data from ImageSharp nodes with specific transformation options.
- *
- * @fragment FeaturedImageData
- * Retrieves featured image data from ImageSharp nodes, optimized for display as featured images.
- *
- * @fragment MarkdownContent
- * Retrieves HTML content, metadata, and associated images from MarkdownRemark nodes.
- *
- * @fragment ImageSharpFluid
- * Retrieves fluid image data from File nodes via childImageSharp, suitable for responsive images.
- *
- * @fragment ImageSharpHighRes
- * Retrieves high-resolution image data from File nodes via childImageSharp, optimized for quality.
+ * Fragments:
+ * - ImageSharpData: General image data from ImageSharp nodes.
+ * - FeaturedImageData: Featured image data from ImageSharp nodes for highlighted images.
+ * - PaperListItem: Metadata for paper list items from MarkdownRemark nodes, including featured image.
+ * - MarkdownContent: Full markdown content and metadata, including background and featured images.
+ * - FeaturedImageDataPhotos: High-res photo data from File nodes for photo galleries.
+ * - PhotoFrontmatter: Photo metadata and featured image from MarkdownRemark nodes.
+ * - PhotoDetails: Photo HTML content and metadata.
+ * - ImageSharpFluid: Responsive fluid image data from File nodes.
+ * - ImageSharpHighRes: High-quality image data from File nodes.
+ * - FrontmatterFields: Basic frontmatter fields from MarkdownRemark nodes.
+ * - FeaturedImage: Featured image data from File nodes.
+ * - TalksFrontmatterFragment: Metadata and images for talks from MarkdownRemark nodes.
+ * - BlogFrontmatterFragment: Metadata and images for blog posts from MarkdownRemark nodes.
+ * - ProjectCardFeaturedImgFragment: Duotone-styled featured image for project cards.
+ * - ProjectCardFrontmatterFragment: Project card metadata and featured image.
  */
-// Import the graphql tag from Gatsby for defining fragments
+ // Import the graphql tag from Gatsby for defining fragments
 import { graphql } from "gatsby";
 
-export const fragments = graphql`
+export const imageSharpDataFragment = graphql`
   fragment ImageSharpData on ImageSharp {
     gatsbyImageData(
       placeholder: DOMINANT_COLOR
@@ -41,7 +41,9 @@ export const fragments = graphql`
       }
     )
   }
+`;
 
+export const featuredImageDataFragment = graphql`
   fragment FeaturedImageData on ImageSharp {
     gatsbyImageData(
       placeholder: DOMINANT_COLOR
@@ -56,7 +58,9 @@ export const fragments = graphql`
       }
     )
   }
+`;
 
+export const paperListItemFragment = graphql`
   fragment PaperListItem on MarkdownRemark {
     id
     frontmatter {
@@ -68,7 +72,9 @@ export const fragments = graphql`
       }
     }
   }
+`;
 
+export const markdownContentFragment = graphql`
   fragment MarkdownContent on MarkdownRemark {
     html
     id
@@ -107,7 +113,9 @@ export const fragments = graphql`
       }
     }
   }
+`;
 
+export const featuredImageDataPhotosFragment = graphql`
   fragment FeaturedImageDataPhotos on File {
     publicURL
     childImageSharp {
@@ -121,7 +129,9 @@ export const fragments = graphql`
       )
     }
   }
+`;
 
+export const photoFrontmatterFragment = graphql`
   fragment PhotoFrontmatter on MarkdownRemark {
     frontmatter {
       slug
@@ -138,7 +148,9 @@ export const fragments = graphql`
       geo_lon
     }
   }
+`;
 
+export const photoDetailsFragment = graphql`
   fragment PhotoDetails on MarkdownRemark {
     html
     ...PhotoFrontmatter
