@@ -17,7 +17,7 @@ images:
     caption: Shawn Graham teaching at MSUDAI
 role: Faculty
 institution: Michigan State University
-project_website: http://digitalarchaeology.msu.edu/
+project_website: http://msudai.museologi.st/
 geo_lat: 42.7325
 geo_lon: -84.5555
 collaborators:
