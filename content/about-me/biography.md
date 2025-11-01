@@ -14,7 +14,7 @@ tags:
 ---
 
 Daniel has worked in a variety of sectors during his career; telecoms, banking, 
-IT and Museums and Galleries. Currently he is Director of Digital Strategy and Operations
+IT and Museums and Galleries. He was until recently, Director of Digital Strategy and Operations
 for Westminster School, joining them in September 2024 following nearly two years as the Head of Major Projects, Digital Strategy for Historic England
 working on a £7.8 million digital transformation programme. 
 
