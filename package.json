@@ -40,7 +40,7 @@
     "bootstrap": "^5.3.7",
     "decode-uri-component": "^0.4.1",
     "exif-js": "^2.3.0",
-    "gatsby": "^5.14.6",
+    "gatsby": "^5.16.1",
     "gatsby-awesome-pagination": "^0.3.8",
     "gatsby-plugin-breadcrumb": "^12.3.2",
     "gatsby-plugin-canonical-urls": "^5.14.0",
