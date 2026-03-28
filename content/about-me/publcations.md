@@ -18,6 +18,8 @@ tags:
 I have published on a range of topics, including linked open data, museums. archaeology, heritage and computer science. 
 All my publications are available on request if they are not open access or in the public domain, please just ask.
 
+* Middle, S., Aristeidou, M., Barker, E., Pett, D., & Alcock, S. (2025). Discovering object stories: Linking unstructured museum data through semantic annotation. Journal of Open Humanities Data, 11(5), 1–13. https://doi.org/10.5334/johd.273
+* Bevan, A., Northover, P., Bray, P., Bonacchi, C., Colledge, S., Crellin, R., Gwilt, A., Hamilton, H., Hart, P., Kaleta, R., Keinan-Schoonbaert, A., Knight, M., Laws, K., Lodwick, M., Martinón-Torres, M., Needham, S., O’Connor, B., Perucchetti, L., Pett, D., Wexler, J., & Wilkin, N. (2024). A Catalogue of British Bronze Age Axes, Including Basic Typology, Compositional Analyses and Associated Radiocarbon Dates. Journal of Open Archaeology Data, 12, 1–6. https://doi.org/10.5334/joad.119
 * Pett, D., Cooper, C., Glen, A.L., Pitkin, M. & Wexler, J, (2022) "Fad Touch" in Visual Heritage: Digital Reproduction and Contextualisation in Heritage Science (Chapman, H., Ch"ng, E, Gaffney, V. & Wilson A. Eds) Springer Visual Heritage Review DOI: <a href="https://doi.org/10.1007/978-3-030-77028-0_21">10.1007/978-3-030-77028-0_21</a>
 * Pett, D. (2022) "Transcending the walls of the museum. A digital revolution?" in Oxford Handbook of Museums (Stevenson, A. (ed)) Oxford University Press
 * Pett, D. (in prep) "Digital Humanities and The British Museum: A Short Lived Experiment" in TBC
