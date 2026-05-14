@@ -6,8 +6,8 @@ featuredImg: ../images/backgrounds/IMG_20260123_142734153-2.jpg
 background: ../images/backgrounds/IMG_20260123_142734153-2.jpg
 date: 2026-01-28
 last_modified_at: 2026-05-13T23:21:06
-geo_lat: 40.779437
-geo_lon: -73.963244
+geo_lat: 39.965519
+geo_lon: -75.181053
 slug: /photogrammetry/philadelphia-museum/
 tags:
   - museums
