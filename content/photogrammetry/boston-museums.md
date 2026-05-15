@@ -6,8 +6,8 @@ featuredImg: ../images/backgrounds/IMG_20260121_135020668-2.jpg
 background: ../images/backgrounds/IMG_20260121_135020668-2.jpg
 date: 2026-01-29
 last_modified_at: 2026-05-13T23:21:06
-geo_lat: 39.965519
-geo_lon: -75.181053
+geo_lat: 42.339359
+geo_lon: -71.094292
 slug: /photogrammetry/boston-museums/
 tags:
   - museums
