@@ -10,7 +10,7 @@ I use:
 
 * LeafletJS for maps
 * Sketchfab embeds for 3d models
-* Bootstrap 5.3 for styling
+* Bootstrap 5 for styling
 * Graphql for querying the markdown files
 
 Text and image content is stored within the `content` folder, with each section having its own folder. 
