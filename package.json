@@ -98,7 +98,7 @@
     "gh-pages": "^6.3.0",
     "immutable": ">=3.8.3",
     "katex": "^0.16.47",
-    "nanoid": ">=5.1.11",
+    "nanoid": ">=6.0.1",
     "@parcel/reporter-dev-server": ">=2.16.4",
     "serialize-javascript": ">=7.0.5"
   },
